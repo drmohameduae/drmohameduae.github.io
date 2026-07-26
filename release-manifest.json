@@ -1,0 +1,352 @@
+{
+  "version": "1.0.0",
+  "builtAt": "2026-07-26T13:30:05.849Z",
+  "origin": "https://drmohamed.net",
+  "pages": [
+    {
+      "id": "page-reading-room-001",
+      "route": "/en/reading-room",
+      "template": "reading",
+      "file": "/en/reading-room/index.html",
+      "bytes": 7514,
+      "sha256": "ff1596cc00cc690fb4d2bb1aca92785f77d910d6a67cc19574c517dc7225725c"
+    },
+    {
+      "id": "page-reflections-001",
+      "route": "/en/reflections",
+      "template": "reflection",
+      "file": "/en/reflections/index.html",
+      "bytes": 8662,
+      "sha256": "759a1d46522b2cb3aeba3210a0e44770fd392501701e1d57d9c9cc55cf80ae86"
+    },
+    {
+      "id": "page-poetry-001",
+      "route": "/en/poetry",
+      "template": "poem",
+      "file": "/en/poetry/index.html",
+      "bytes": 7445,
+      "sha256": "dc41f2de91ec4142b3a0a83774071f7f3229913ac5c33b705a01fe958fa3c772"
+    },
+    {
+      "id": "page-home-001",
+      "route": "/en/",
+      "template": "home",
+      "file": "/en/index.html",
+      "bytes": 8467,
+      "sha256": "ed59f01a836abbba5153d9820ef08ca806e82bf84864ab105ca016ea79332762"
+    },
+    {
+      "id": "page-discover-001",
+      "route": "/en/discover",
+      "template": "destination",
+      "file": "/en/discover/index.html",
+      "bytes": 9687,
+      "sha256": "e1bb809a7a38296111d1c8ca5d31baf0ec1a565ffe9d1c4444dbbb0db4030de8"
+    },
+    {
+      "id": "page-journey-001",
+      "route": "/en/journey",
+      "template": "journey",
+      "file": "/en/journey/index.html",
+      "bytes": 8093,
+      "sha256": "781abb80fbf2f0b0910fcd481ea9aa2f27e6dba71692ea8f7c6461a1f6d807e5"
+    },
+    {
+      "id": "page-stewardship-001",
+      "route": "/en/stewardship",
+      "template": "article",
+      "file": "/en/stewardship/index.html",
+      "bytes": 7490,
+      "sha256": "a91a8700ed10dd8d50c4fd31735e4bf7384c1665e49545f1c3eb8e094014ee04"
+    },
+    {
+      "id": "page-speaking-001",
+      "route": "/en/speaking",
+      "template": "destination",
+      "file": "/en/speaking/index.html",
+      "bytes": 7122,
+      "sha256": "3225e749601281a5c2f349b1f6d934497a93db9612f065c947221cbe63f81b6c"
+    },
+    {
+      "id": "page-publications-001",
+      "route": "/en/publications",
+      "template": "destination",
+      "file": "/en/publications/index.html",
+      "bytes": 7030,
+      "sha256": "4f3f18e54dc62522c537f7f88b042d0a3abd8584843fdd109f5375b53d9eda02"
+    },
+    {
+      "id": "page-initiatives-001",
+      "route": "/en/initiatives",
+      "template": "initiative",
+      "file": "/en/initiatives/index.html",
+      "bytes": 7409,
+      "sha256": "728c96e047a4a2e2fe4bcf32d70c035f4108c9c8f7e307341c333ae64116d0d7"
+    },
+    {
+      "id": "page-shura-001",
+      "route": "/en/shura",
+      "template": "article",
+      "file": "/en/shura/index.html",
+      "bytes": 6954,
+      "sha256": "fed59da14129cb19a1541bbd9dcc472f63c3f7f93a05306edcf12f22bf08fea1"
+    },
+    {
+      "id": "page-media-001",
+      "route": "/en/media",
+      "template": "gallery",
+      "file": "/en/media/index.html",
+      "bytes": 7697,
+      "sha256": "6427ed91b138132537262b0ab73248f55d0e6af6346a380dbfe635b41471af87"
+    },
+    {
+      "id": "page-collaboration-001",
+      "route": "/en/collaboration",
+      "template": "collaboration",
+      "file": "/en/collaboration/index.html",
+      "bytes": 6830,
+      "sha256": "c25c24225fac4434ade4fcc90ccc3a02b105859f20e943e681f7d1f7387f8102"
+    },
+    {
+      "id": "page-ideas-001",
+      "route": "/en/ideas",
+      "template": "destination",
+      "file": "/en/ideas/index.html",
+      "bytes": 7827,
+      "sha256": "1596620b835d1b86606a2909eb9fd0362f77042561137210d688e0bf6e00cbfa"
+    },
+    {
+      "id": "page-emirati-identity-001",
+      "route": "/en/emirati-identity",
+      "template": "identity",
+      "file": "/en/emirati-identity/index.html",
+      "bytes": 7756,
+      "sha256": "4558e8e2823540dc27c135e69411b4cd4ae1718e589508dfce057631990a1b21"
+    },
+    {
+      "id": "page-privacy-001",
+      "route": "/en/privacy",
+      "template": "legal",
+      "file": "/en/privacy/index.html",
+      "bytes": 14128,
+      "sha256": "f103a8703c55ef4bc0d670cd786c3a24d32d78baa32590a61e0f80a7876b414c"
+    },
+    {
+      "id": "page-terms-001",
+      "route": "/en/terms",
+      "template": "legal",
+      "file": "/en/terms/index.html",
+      "bytes": 11436,
+      "sha256": "b3e761484d40c20adc21a99cbf3213018007819ae741ebb510879dde4fc4eb20"
+    },
+    {
+      "id": "page-accessibility-001",
+      "route": "/en/accessibility",
+      "template": "legal",
+      "file": "/en/accessibility/index.html",
+      "bytes": 10041,
+      "sha256": "d2af4872c748115ca7de1f528303a2414f83f3b549d0b85bb27a6baec32649d5"
+    },
+    {
+      "id": "page-ai-notice-001",
+      "route": "/en/ai-notice",
+      "template": "legal",
+      "file": "/en/ai-notice/index.html",
+      "bytes": 10591,
+      "sha256": "88a2bb128f47178a95d96b4632e436da91358a975d54d0031290e6348e006d45"
+    },
+    {
+      "id": "page-media-rights-001",
+      "route": "/en/media-rights",
+      "template": "legal",
+      "file": "/en/media-rights/index.html",
+      "bytes": 10950,
+      "sha256": "4a58d01e6e4d99f19d62955a482bf01e54709c0cb7d97f35d98ad144fb46714b"
+    },
+    {
+      "id": "page-yaqoot-001",
+      "route": "/en/yaqoot",
+      "template": "yaqoot",
+      "file": "/en/yaqoot/index.html",
+      "bytes": 8422,
+      "sha256": "091802e336b8c592cbabb162e6b34764b11fd854903cf92fa88c9330b7b227fe"
+    },
+    {
+      "id": "page-contact-001",
+      "route": "/en/contact",
+      "template": "contact",
+      "file": "/en/contact/index.html",
+      "bytes": 9021,
+      "sha256": "80bd1d8ae22a1441e1aeeeb47fba952fae2167616362867cc58dd6c98a0c9fb1"
+    },
+    {
+      "id": "page-sitemap-001",
+      "route": "/en/sitemap",
+      "template": "sitemap",
+      "file": "/en/sitemap/index.html",
+      "bytes": 7539,
+      "sha256": "b314545992378653ef9ccbcf2eb74175087ffd276e1e57637d2b535f491647f9"
+    },
+    {
+      "id": "state-404",
+      "route": "/en/404",
+      "file": "/en/404/index.html",
+      "bytes": 5513,
+      "sha256": "c3e576ae8b8ad30ce632efaf102b89b59efd1e1f62e96ee15d91d5f1d65cb034"
+    },
+    {
+      "id": "state-withdrawn",
+      "route": "/en/withdrawn",
+      "file": "/en/withdrawn/index.html",
+      "bytes": 5589,
+      "sha256": "ecea401ccab2a781ea5351ed9bb172130805918db4739772ab785e1a1b5787b0"
+    },
+    {
+      "id": "state-locale-ar",
+      "route": "/ar/",
+      "file": "/ar/index.html",
+      "bytes": 5861,
+      "sha256": "1eb0570585fc1eda154d8f7e1bd375bb3aaf79edb8fb5501bb4386d9469b4a46"
+    },
+    {
+      "id": "state-locale-zh",
+      "route": "/zh/",
+      "file": "/zh/index.html",
+      "bytes": 5845,
+      "sha256": "4353b66c2211930392094c6cc23019a9cfc4b025458ac88e8b599ca71a66cfd8"
+    },
+    {
+      "id": "state-locale-fr",
+      "route": "/fr/",
+      "file": "/fr/index.html",
+      "bytes": 5851,
+      "sha256": "b2edc65870e2a9bea97bbe669c0d71d412ef15d7ad2dada1df8ce12cb65119b5"
+    },
+    {
+      "id": "state-locale-ru",
+      "route": "/ru/",
+      "file": "/ru/index.html",
+      "bytes": 5861,
+      "sha256": "ab6f7a60148edc7e25afd57b8a0771868cdcef21dbfe0586b9f087e385fbd0ad"
+    },
+    {
+      "id": "state-locale-es",
+      "route": "/es/",
+      "file": "/es/index.html",
+      "bytes": 5849,
+      "sha256": "e2c95113741e7ea7b0e25161b34e9a927170ab47367adb6e558386d79084cf13"
+    }
+  ],
+  "assets": [
+    {
+      "role": "stylesheet",
+      "file": "/assets/site.css",
+      "bytes": 23159,
+      "sha256": "5b45b34491f2e1c45c2b71c5be37883a062f477a552638de4b2d0edee315ad2b"
+    },
+    {
+      "role": "print-stylesheet",
+      "file": "/assets/print.css",
+      "bytes": 1083,
+      "sha256": "b4c9895f601bd4ddc78f788a7514a86cff2b53b919481bbb58cc17680b7b127f"
+    },
+    {
+      "role": "script",
+      "file": "/assets/site.js",
+      "bytes": 6704,
+      "sha256": "9a72dbea946794a288703e2c33b1ab43c6f58758a0960adf46b607950337ef2f"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/favicon.svg",
+      "bytes": 319,
+      "sha256": "a0bd70d92597b0675923605023a367c66c410ce01a2b145f4eafb0228326c2a0"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/fonts/cormorant-garamond-600.woff2",
+      "bytes": 23384,
+      "sha256": "53205cf81200f21bd07a711c1ff238c216fd43244b48ae1c4fd35a2bb65bd8c4"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/fonts/inter-400.woff2",
+      "bytes": 48432,
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/fonts/inter-600.woff2",
+      "bytes": 48432,
+      "sha256": "c940764593d0fe5d596be327ca7558855e018039fb78509aa21921fd3644c3e4"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/fonts/noto-naskh-arabic-400-arabic.woff2",
+      "bytes": 93960,
+      "sha256": "bb07eddbc50a85b3357b1eb06189d2e3012d40e488b2d891d678a93ed520b5e1"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/fonts/noto-naskh-arabic-400.woff2",
+      "bytes": 19732,
+      "sha256": "55cc6294c78bf25f17951de6fe3df67ad60d3ddbafd2836071dc7f10da7cd208"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/fonts/noto-naskh-arabic-600-arabic.woff2",
+      "bytes": 93960,
+      "sha256": "bb07eddbc50a85b3357b1eb06189d2e3012d40e488b2d891d678a93ed520b5e1"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/fonts/noto-naskh-arabic-600.woff2",
+      "bytes": 19732,
+      "sha256": "55cc6294c78bf25f17951de6fe3df67ad60d3ddbafd2836071dc7f10da7cd208"
+    }
+  ],
+  "budgets": {
+    "initialJavaScript": {
+      "compressedBytes": 2283,
+      "budget": 174080,
+      "withinBudget": true
+    },
+    "initialCss": {
+      "compressedBytes": 5700,
+      "budget": 71680,
+      "withinBudget": true
+    }
+  },
+  "locales": [
+    {
+      "code": "ar",
+      "published": false,
+      "state": "unavailable-language notice"
+    },
+    {
+      "code": "zh",
+      "published": false,
+      "state": "unavailable-language notice"
+    },
+    {
+      "code": "fr",
+      "published": false,
+      "state": "unavailable-language notice"
+    },
+    {
+      "code": "ru",
+      "published": false,
+      "state": "unavailable-language notice"
+    },
+    {
+      "code": "es",
+      "published": false,
+      "state": "unavailable-language notice"
+    },
+    {
+      "code": "en",
+      "published": true,
+      "state": "approved"
+    }
+  ]
+}

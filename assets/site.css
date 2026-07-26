@@ -1,0 +1,542 @@
+/* ==========================================================================
+   DRMOHAMED.NET — Founder's Edition Version 1.0
+   Design tokens (FE-03 §3–§5, §10; FE-09 §5.8)
+   Components consume these tokens; no local approximations.
+   ========================================================================== */
+
+:root {
+  /* Colour system — four canonical colours plus signature gold (FE-03 §3.3) */
+  --colour-sand: #F7F5F0;        /* Desert Sand — primary background */
+  --colour-slate: #0A192F;       /* Deep Slate Ink — text and display headings */
+  --colour-olive: #2D4030;       /* Olive Oasis — links, active nav, stewardship */
+  --colour-terracotta: #8C5A3C;  /* Terracotta Ochre — detail accent */
+  --colour-gold: #B8956A;        /* Monogram Gold — signature use only */
+
+  /* Derived tints/shades (recorded deviations: tonal steps of canonical hues) */
+  --colour-sand-raised: #FDFCF9; /* raised surface on sand */
+  --colour-sand-sunken: #EFEBE2; /* sunken surface on sand */
+  --colour-slate-soft: #33415C;  /* secondary text, AA on sand (7.0:1) */
+  --colour-olive-hover: #243527;
+  --colour-line: #D9D2C4;        /* hairline derived from sand family */
+  --colour-error: #8C3C3C;       /* error text, terracotta family, AA on sand */
+  --colour-focus: #2D4030;       /* visible focus = olive */
+
+  /* Typography (FE-03 §4.3) */
+  --font-display: "Cormorant Garamond", "Georgia", "Times New Roman", serif;
+  --font-interface: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-arabic: "Noto Naskh Arabic", "Amiri", "Traditional Arabic", serif;
+
+  /* Type scale (1.25 ratio; body minimum 16px per FE-03 §4.2) */
+  --text-xs: 0.8rem;      /* 12.8px — captions, credits (min legible, non-body) */
+  --text-sm: 0.875rem;    /* 14px — labels */
+  --text-base: 1rem;      /* 16px — body minimum */
+  --text-md: 1.125rem;    /* 18px — lead */
+  --text-lg: 1.25rem;     /* 20px */
+  --text-xl: 1.563rem;    /* 25px */
+  --text-2xl: 1.953rem;   /* 31px */
+  --text-3xl: 2.441rem;   /* 39px */
+  --text-hero: 3.052rem;  /* 49px — hero display */
+
+  /* Leading */
+  --leading-tight: 1.25;
+  --leading-body: 1.65;
+  --leading-arabic: 1.9;  /* protects diacritics and rhythm (FE-03 §4.2) */
+
+  /* Measure — long-form lines target 60–75 characters (FE-03 §4.2) */
+  --measure: 68ch;
+  --measure-narrow: 52ch;
+
+  /* Spacing — 8px base unit (FE-03 §5.2) */
+  --space-1: 0.5rem;   /* 8 */
+  --space-2: 1rem;     /* 16 */
+  --space-3: 1.5rem;   /* 24 */
+  --space-4: 2rem;     /* 32 */
+  --space-5: 3rem;     /* 48 */
+  --space-6: 4rem;     /* 64 */
+  --space-7: 6rem;     /* 96 — conceptual change boundaries */
+
+  /* Layout */
+  --grid-max: 75rem;        /* 1200px content grid ceiling */
+  --radius: 0.375rem;       /* 6px — quiet radius */
+  --border: 1px solid var(--colour-line);
+  --shadow-raise: 0 1px 2px rgb(10 25 47 / 0.06), 0 4px 16px rgb(10 25 47 / 0.05);
+
+  /* Motion — restrained duration range (FE-03 §10.2) */
+  --motion-fast: 120ms;
+  --motion-base: 200ms;
+  --motion-ease: cubic-bezier(0.2, 0, 0, 1);
+
+  /* Z scale */
+  --z-nav: 40;
+  --z-panel: 60;
+}
+
+/* Self-hosted typefaces (FE-03 §4.3, §4.4): local privacy-preserving
+   delivery, font-display swap to avoid invisible text, measured fallbacks. */
+
+
+
+
+
+
+
+/* ==========================================================================
+   DRMOHAMED.NET — Founder's Edition Version 1.0
+   Global rules and core components (FE-03; FE-09 §5)
+   Logical properties throughout for right-to-left readiness (FE-03 §12).
+   ========================================================================== */
+
+/* ---------- Reset and base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+body {
+  margin: 0;
+  background: var(--colour-sand);
+  color: var(--colour-slate);
+  font-family: var(--font-interface);
+  font-size: var(--text-base);
+  line-height: var(--leading-body);
+  text-rendering: optimizeLegibility;
+}
+[lang="ar"] body, html[dir="rtl"] body {
+  font-family: var(--font-arabic);
+  line-height: var(--leading-arabic);
+}
+img, svg, video { max-inline-size: 100%; block-size: auto; }
+button, input, select, textarea { font: inherit; color: inherit; }
+
+/* ---------- Typography ---------- */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  line-height: var(--leading-tight);
+  color: var(--colour-slate);
+  margin-block: 0 var(--space-2);
+}
+html[dir="rtl"] h1, html[dir="rtl"] h2, html[dir="rtl"] h3, html[dir="rtl"] h4 {
+  font-family: var(--font-arabic);
+}
+h1 { font-size: var(--text-3xl); letter-spacing: -0.01em; }
+h2 { font-size: var(--text-2xl); }
+h3 { font-size: var(--text-xl); font-family: var(--font-interface); font-weight: 650; }
+h4 { font-size: var(--text-lg); font-family: var(--font-interface); font-weight: 600; }
+p { margin-block: 0 var(--space-2); max-inline-size: var(--measure); }
+a { color: var(--colour-olive); text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
+a:hover { color: var(--colour-olive-hover); }
+strong { font-weight: 650; }
+small, .caption { font-size: var(--text-xs); }
+::selection { background: var(--colour-olive); color: var(--colour-sand); }
+
+/* Visible focus — distinguishable without colour alone (FE-03 §3.9, §9.2) */
+:focus-visible {
+  outline: 2px solid var(--colour-focus);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* ---------- Skip link and landmarks ---------- */
+.skip-link {
+  position: absolute;
+  inset-block-start: -4rem;
+  inset-inline-start: var(--space-2);
+  background: var(--colour-slate);
+  color: var(--colour-sand);
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius);
+  z-index: var(--z-panel);
+  transition: inset-block-start var(--motion-base) var(--motion-ease);
+}
+.skip-link:focus { inset-block-start: var(--space-2); color: var(--colour-sand); }
+
+.container { max-inline-size: var(--grid-max); margin-inline: auto; padding-inline: var(--space-3); }
+
+/* ---------- Masthead ---------- */
+.masthead {
+  border-block-end: var(--border);
+  background: var(--colour-sand);
+  position: sticky;
+  inset-block-start: 0;
+  z-index: var(--z-nav);
+}
+.masthead__inner {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: var(--space-2); padding-block: var(--space-1);
+}
+.masthead .container { max-inline-size: 82rem; padding-inline: var(--space-2); }
+.wordmark {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--colour-slate);
+  text-decoration: none;
+  display: inline-flex; align-items: center; gap: var(--space-1);
+  min-block-size: 44px; /* touch target (FE-03 §8.2) */
+}
+.wordmark:hover { color: var(--colour-slate); }
+.wordmark .monogram {
+  inline-size: 2rem; block-size: 2rem; flex: none;
+  /* Monogram is still by default (FE-03 §10.3, FE-09 §5.2) */
+}
+
+/* ---------- Primary navigation (FE-03 §2) ---------- */
+.nav-toggle {
+  display: none;
+  min-inline-size: 44px; min-block-size: 44px;
+  background: none; border: var(--border); border-radius: var(--radius);
+  cursor: pointer;
+}
+.nav-toggle .nav-toggle__icon { display: block; inline-size: 20px; margin-inline: auto; }
+.nav-toggle .nav-toggle__icon span {
+  display: block; block-size: 2px; background: var(--colour-slate); margin-block: 4px;
+}
+.primary-nav ul {
+  display: flex; flex-wrap: nowrap; gap: 0;
+  list-style: none; margin: 0; padding: 0;
+}
+.primary-nav a {
+  display: inline-flex; align-items: center;
+  min-block-size: 44px;
+  padding-inline: 0.45rem;
+  color: var(--colour-slate);
+  text-decoration: none;
+  font-size: 0.8125rem;
+  white-space: nowrap;
+  border-block-end: 2px solid transparent;
+}
+.primary-nav a:hover { color: var(--colour-olive); border-block-end-color: var(--colour-line); }
+.primary-nav a[aria-current="page"] {
+  color: var(--colour-olive);
+  border-block-end-color: var(--colour-olive);
+  font-weight: 600;
+}
+.masthead__controls { display: flex; align-items: center; gap: var(--space-1); }
+
+/* ---------- Language selector (FE-03 §12; own names, never flags) ---------- */
+.language-selector { position: relative; }
+.language-selector select {
+  appearance: none;
+  background: var(--colour-sand-raised);
+  border: var(--border); border-radius: var(--radius);
+  padding: var(--space-1) var(--space-3) var(--space-1) var(--space-2);
+  padding-inline: var(--space-2) var(--space-3);
+  font-size: var(--text-sm);
+  min-block-size: 44px;
+  cursor: pointer;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%230A192F' fill='none' stroke-width='1.5'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+}
+html[dir="rtl"] .language-selector select { background-position: left 0.75rem center; }
+
+/* ---------- Hero (FE-03 §6; template: home) ---------- */
+.hero { padding-block: var(--space-7) var(--space-6); }
+.hero__eyebrow {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  color: var(--colour-terracotta);
+  font-style: italic;
+  margin-block-end: var(--space-3);
+  max-inline-size: var(--measure-narrow);
+}
+.hero__title {
+  font-size: var(--text-hero);
+  max-inline-size: 16ch;
+  margin-block-end: var(--space-3);
+}
+.hero__lede {
+  font-size: var(--text-md);
+  color: var(--colour-slate-soft);
+  max-inline-size: var(--measure-narrow);
+}
+.hero__rule {
+  border: 0; border-block-start: 1px solid var(--colour-gold);
+  inline-size: 4rem; margin-block: var(--space-4) 0; margin-inline: 0;
+  /* Gold: signature emphasis only (FE-03 §3.2) */
+}
+
+/* ---------- Actions ---------- */
+.actions { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-block-start: var(--space-3); }
+.button {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-block-size: 44px;
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius);
+  font-weight: 600; font-size: var(--text-sm);
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: background-color var(--motion-fast) var(--motion-ease);
+}
+.button--primary { background: var(--colour-olive); color: var(--colour-sand); }
+.button--primary:hover { background: var(--colour-olive-hover); color: var(--colour-sand); }
+.button--secondary { border-color: var(--colour-olive); color: var(--colour-olive); background: transparent; }
+.button--secondary:hover { background: var(--colour-sand-sunken); color: var(--colour-olive-hover); }
+
+/* ---------- Sections ---------- */
+.section { padding-block: var(--space-5); }
+.section + .section { border-block-start: var(--border); }
+.section--plain + .section--plain { border-block-start: 0; }
+.section-heading { margin-block-end: var(--space-4); }
+.section-heading .kicker {
+  display: block;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--colour-terracotta);
+  margin-block-end: var(--space-1);
+}
+.section-heading p { color: var(--colour-slate-soft); font-size: var(--text-md); }
+
+/* ---------- Cards (article, reflection, reading note) ---------- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+  gap: var(--space-3);
+  list-style: none; margin: 0; padding: 0;
+}
+.card {
+  background: var(--colour-sand-raised);
+  border: var(--border); border-radius: var(--radius);
+  padding: var(--space-3);
+  display: flex; flex-direction: column; gap: var(--space-1);
+}
+.card h3 { margin-block-end: 0; }
+.card p { color: var(--colour-slate-soft); margin-block-end: 0; }
+.card .card__meta { font-size: var(--text-xs); color: var(--colour-terracotta); letter-spacing: 0.06em; }
+.card a.stretched { text-decoration: none; color: inherit; }
+.card a.stretched:hover h3 { color: var(--colour-olive); }
+
+/* ---------- Quote ---------- */
+.quote {
+  margin-block: var(--space-4);
+  padding-inline-start: var(--space-3);
+  border-inline-start: 3px solid var(--colour-gold);
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  line-height: 1.4;
+  max-inline-size: var(--measure-narrow);
+}
+.quote footer { font-family: var(--font-interface); font-size: var(--text-sm); color: var(--colour-slate-soft); margin-block-start: var(--space-1); }
+
+/* ---------- Timeline (journey template) ---------- */
+.timeline { list-style: none; margin: 0; padding: 0; position: relative; }
+.timeline::before {
+  content: "";
+  position: absolute; inset-block: 0;
+  inset-inline-start: 0.5rem;
+  border-inline-start: 2px solid var(--colour-line);
+}
+.timeline__entry { position: relative; padding-inline-start: var(--space-4); padding-block-end: var(--space-4); }
+.timeline__entry::before {
+  content: "";
+  position: absolute; inset-block-start: 0.4em; inset-inline-start: 0;
+  inline-size: 0.75rem; block-size: 0.75rem; border-radius: 50%;
+  background: var(--colour-sand); border: 2px solid var(--colour-olive);
+}
+.timeline__entry h3 { margin-block-end: var(--space-1); }
+
+/* ---------- Media figure, caption, credit (FE-03 §6, FE-07 §9) ---------- */
+figure { margin: 0 0 var(--space-3); }
+figcaption { font-size: var(--text-xs); color: var(--colour-slate-soft); margin-block-start: var(--space-1); }
+figcaption .credit { color: var(--colour-terracotta); }
+
+/* ---------- Callout ---------- */
+.callout {
+  background: var(--colour-sand-sunken);
+  border-inline-start: 3px solid var(--colour-terracotta);
+  border-radius: var(--radius);
+  padding: var(--space-2) var(--space-3);
+  margin-block: var(--space-3);
+  max-inline-size: var(--measure);
+}
+.callout--olive { border-inline-start-color: var(--colour-olive); }
+
+/* ---------- Accordion / disclosure (optional enhancement, FE-03 §6.2) ---------- */
+.accordion { border-block-start: var(--border); max-inline-size: var(--measure); }
+.accordion details { border-block-end: var(--border); }
+.accordion summary {
+  cursor: pointer; font-weight: 600;
+  padding-block: var(--space-2);
+  min-block-size: 44px;
+  display: flex; align-items: center;
+}
+.accordion summary:hover { color: var(--colour-olive); }
+.accordion details > div { padding-block-end: var(--space-2); }
+
+/* ---------- Forms (FE-09 §8; FE-06 §4) ---------- */
+.form { max-inline-size: var(--measure-narrow); }
+.form fieldset { border: 0; margin: 0; padding: 0; }
+.form legend { font-weight: 650; margin-block-end: var(--space-2); padding: 0; }
+.form-field { margin-block-end: var(--space-3); }
+.form-field label { display: block; font-weight: 600; margin-block-end: var(--space-1); }
+.form-field .hint { font-size: var(--text-xs); color: var(--colour-slate-soft); margin-block-start: var(--space-1); }
+.form-field input[type="text"], .form-field input[type="email"],
+.form-field select, .form-field textarea {
+  inline-size: 100%;
+  min-block-size: 44px;
+  padding: var(--space-1) var(--space-2);
+  background: var(--colour-sand-raised);
+  border: var(--border); border-radius: var(--radius);
+}
+.form-field textarea { min-block-size: 10rem; resize: vertical; }
+.form-field [aria-invalid="true"] { border-color: var(--colour-error); border-width: 2px; }
+.form-field .error {
+  display: none;
+  color: var(--colour-error); font-size: var(--text-sm); font-weight: 600;
+  margin-block-start: var(--space-1);
+}
+.form-field .error::before { content: "⚠ "; }
+.form-field [aria-invalid="true"] ~ .error { display: block; }
+.consent { display: flex; gap: var(--space-1); align-items: flex-start; }
+.consent input { inline-size: 1.25rem; block-size: 1.25rem; margin-block-start: 0.2em; flex: none; }
+.form-status { margin-block-start: var(--space-2); font-weight: 600; }
+.form-status[hidden] { display: none; }
+.form-status--ok { color: var(--colour-olive); }
+.form-status--error { color: var(--colour-error); }
+.privacy-summary { font-size: var(--text-xs); color: var(--colour-slate-soft); max-inline-size: var(--measure-narrow); }
+
+/* ---------- Yaqoot ---------- */
+.yaqoot-launcher {
+  display: inline-flex; align-items: center; gap: var(--space-1);
+  min-block-size: 44px;
+  padding: var(--space-1) var(--space-2);
+  border: var(--border); border-radius: 999px;
+  background: var(--colour-sand-raised);
+  color: var(--colour-slate);
+  text-decoration: none; font-size: var(--text-sm); font-weight: 600;
+}
+.yaqoot-launcher:hover { border-color: var(--colour-olive); color: var(--colour-olive); }
+.yaqoot-panel {
+  background: var(--colour-sand-raised);
+  border: var(--border); border-radius: var(--radius);
+  padding: var(--space-3);
+  max-inline-size: var(--measure);
+}
+.ai-disclosure {
+  font-size: var(--text-sm);
+  background: var(--colour-sand-sunken);
+  border-radius: var(--radius);
+  padding: var(--space-2);
+  margin-block-end: var(--space-2);
+}
+.yaqoot-thread { margin-block: var(--space-2); }
+.yaqoot-message { padding-block: var(--space-2); border-block-end: var(--border); }
+.yaqoot-message__role { font-size: var(--text-xs); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--colour-terracotta); }
+.yaqoot-form { display: flex; gap: var(--space-1); margin-block-start: var(--space-2); }
+.yaqoot-form input { flex: 1; min-block-size: 44px; padding: var(--space-1) var(--space-2); background: var(--colour-sand-raised); border: var(--border); border-radius: var(--radius); }
+
+/* ---------- Footer (FE-01 §13.5) ---------- */
+.site-footer {
+  border-block-start: var(--border);
+  margin-block-start: var(--space-6);
+  padding-block: var(--space-5) var(--space-3);
+  background: var(--colour-sand-sunken);
+}
+.site-footer nav ul { display: flex; flex-wrap: wrap; gap: var(--space-1) var(--space-3); list-style: none; margin: 0 0 var(--space-3); padding: 0; }
+.site-footer a { color: var(--colour-slate); font-size: var(--text-sm); }
+.site-footer a:hover { color: var(--colour-olive); }
+.site-footer .closing-line {
+  font-family: var(--font-display); font-style: italic;
+  font-size: var(--text-lg); color: var(--colour-slate-soft);
+  max-inline-size: var(--measure-narrow);
+  margin-block: var(--space-3) var(--space-2);
+}
+.site-footer .copyright { font-size: var(--text-xs); color: var(--colour-slate-soft); }
+
+/* ---------- Breadcrumbs ---------- */
+.breadcrumbs { font-size: var(--text-sm); padding-block: var(--space-2) 0; }
+.breadcrumbs ol { list-style: none; display: flex; flex-wrap: wrap; gap: var(--space-1); margin: 0; padding: 0; }
+.breadcrumbs li + li::before { content: "/"; margin-inline-end: var(--space-1); color: var(--colour-terracotta); }
+
+/* ---------- Prose ---------- */
+.prose { max-inline-size: var(--measure); }
+.prose > * { max-inline-size: var(--measure); }
+.prose h2 { margin-block-start: var(--space-4); }
+.prose h3 { margin-block-start: var(--space-3); }
+.prose ul { padding-inline-start: var(--space-3); margin-block: 0 var(--space-2); }
+.prose li { margin-block-end: var(--space-1); }
+.lede { font-size: var(--text-md); color: var(--colour-slate-soft); }
+
+/* ---------- Principle list (home) ---------- */
+.principles {
+  columns: 2; column-gap: var(--space-4);
+  list-style: none; margin: 0; padding: 0;
+  max-inline-size: var(--measure);
+}
+.principles li {
+  break-inside: avoid;
+  padding-block: var(--space-1);
+  border-block-end: 1px solid var(--colour-line);
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+}
+@media (max-width: 40rem) { .principles { columns: 1; } }
+
+/* ---------- Empty state (galleries, collections — FE-03 §7.2) ---------- */
+.empty-state {
+  border: 1px dashed var(--colour-line);
+  border-radius: var(--radius);
+  padding: var(--space-4);
+  color: var(--colour-slate-soft);
+  max-inline-size: var(--measure-narrow);
+  text-align: center;
+}
+
+/* ---------- Notice (unavailable language / service) ---------- */
+.notice {
+  background: var(--colour-sand-raised);
+  border: var(--border); border-inline-start: 3px solid var(--colour-terracotta);
+  border-radius: var(--radius);
+  padding: var(--space-3);
+  max-inline-size: var(--measure-narrow);
+  margin-block: var(--space-3);
+}
+
+/* ---------- Directory (Discover) ---------- */
+.directory { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.directory li { border-block-end: var(--border); }
+.directory a {
+  display: flex; justify-content: space-between; align-items: baseline; gap: var(--space-2);
+  padding-block: var(--space-2);
+  text-decoration: none; color: var(--colour-slate);
+  min-block-size: 44px;
+}
+.directory a:hover { color: var(--colour-olive); }
+.directory a span:last-child { color: var(--colour-terracotta); font-size: var(--text-sm); }
+.directory a::after { content: "→"; color: var(--colour-olive); }
+html[dir="rtl"] .directory a::after { content: "←"; }
+.directory a span:last-child::after { content: ""; }
+
+/* ---------- Pagination ---------- */
+.pagination { display: flex; gap: var(--space-2); margin-block-start: var(--space-3); }
+
+/* ---------- Responsive navigation (FE-03 §8) ---------- */
+@media (max-width: 56rem) {
+  .yaqoot-launcher { display: none; } /* Ask Yaqoot remains in the mobile menu */
+  .nav-toggle { display: block; }
+  .primary-nav { position: absolute; inset-block-start: 100%; inset-inline: 0; background: var(--colour-sand); border-block-end: var(--border); box-shadow: var(--shadow-raise); }
+  .primary-nav[hidden] { display: none; }
+  .primary-nav ul { flex-direction: column; padding: var(--space-2) var(--space-3); gap: 0; }
+  .primary-nav a { display: flex; }
+  .hero { padding-block: var(--space-5) var(--space-4); }
+  .hero__title { font-size: var(--text-2xl); }
+}
+
+/* ---------- Utility ---------- */
+.visually-hidden {
+  position: absolute !important;
+  inline-size: 1px; block-size: 1px;
+  margin: -1px; padding: 0; border: 0;
+  clip: rect(0 0 0 0); clip-path: inset(50%);
+  overflow: hidden; white-space: nowrap;
+}
+.stack > * + * { margin-block-start: var(--space-2); }

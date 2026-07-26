@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Print treatment (FE-03 §7.2): preserves heading, body, caption and source
+   hierarchy for articles, reflections and poems.
+   ========================================================================== */
+@media print {
+  :root { --colour-sand: #ffffff; }
+  body { background: #ffffff; color: #000000; font-size: 12pt; }
+  .masthead, .site-footer nav, .breadcrumbs, .skip-link,
+  .actions, .yaqoot-panel form, .language-selector, .nav-toggle { display: none !important; }
+  a { color: #000000; text-decoration: underline; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 0.8em; }
+  .hero { padding-block: 0 1rem; }
+  .section { padding-block: 0.5rem; border: 0; }
+  .card, .callout, .notice, .yaqoot-panel { border: 1px solid #999999; box-shadow: none; }
+  h1, h2, h3 { page-break-after: avoid; }
+  figure, blockquote, .quote { page-break-inside: avoid; }
+  .site-footer { background: none; border-block-start: 1px solid #999999; }
+  .site-footer .copyright { display: block; }
+}

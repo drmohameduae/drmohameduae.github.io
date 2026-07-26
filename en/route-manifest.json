@@ -1,0 +1,242 @@
+[
+  {
+    "id": "page-reading-room-001",
+    "route": "/en/reading-room",
+    "template": "reading",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-reflections-001",
+    "route": "/en/reflections",
+    "template": "reflection",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-poetry-001",
+    "route": "/en/poetry",
+    "template": "poem",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-home-001",
+    "route": "/en/",
+    "template": "home",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-discover-001",
+    "route": "/en/discover",
+    "template": "destination",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-journey-001",
+    "route": "/en/journey",
+    "template": "journey",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-stewardship-001",
+    "route": "/en/stewardship",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-speaking-001",
+    "route": "/en/speaking",
+    "template": "destination",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-publications-001",
+    "route": "/en/publications",
+    "template": "destination",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-initiatives-001",
+    "route": "/en/initiatives",
+    "template": "initiative",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-shura-001",
+    "route": "/en/shura",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-media-001",
+    "route": "/en/media",
+    "template": "gallery",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-collaboration-001",
+    "route": "/en/collaboration",
+    "template": "collaboration",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-ideas-001",
+    "route": "/en/ideas",
+    "template": "destination",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-emirati-identity-001",
+    "route": "/en/emirati-identity",
+    "template": "identity",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-privacy-001",
+    "route": "/en/privacy",
+    "template": "legal",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-terms-001",
+    "route": "/en/terms",
+    "template": "legal",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-accessibility-001",
+    "route": "/en/accessibility",
+    "template": "legal",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-ai-notice-001",
+    "route": "/en/ai-notice",
+    "template": "legal",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-media-rights-001",
+    "route": "/en/media-rights",
+    "template": "legal",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-yaqoot-001",
+    "route": "/en/yaqoot",
+    "template": "yaqoot",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-contact-001",
+    "route": "/en/contact",
+    "template": "contact",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-sitemap-001",
+    "route": "/en/sitemap",
+    "template": "sitemap",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-404",
+    "route": "/en/404",
+    "template": "state",
+    "locale": "en",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-withdrawn",
+    "route": "/en/withdrawn",
+    "template": "state",
+    "locale": "en",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-locale-ar",
+    "route": "/ar/",
+    "template": "state",
+    "locale": "ar",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-locale-zh",
+    "route": "/zh/",
+    "template": "state",
+    "locale": "zh",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-locale-fr",
+    "route": "/fr/",
+    "template": "state",
+    "locale": "fr",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-locale-ru",
+    "route": "/ru/",
+    "template": "state",
+    "locale": "ru",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-locale-es",
+    "route": "/es/",
+    "template": "state",
+    "locale": "es",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  }
+]

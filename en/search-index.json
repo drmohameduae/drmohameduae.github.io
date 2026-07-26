@@ -1,0 +1,163 @@
+[
+  {
+    "id": "page-reading-room-001",
+    "title": "Reading Room",
+    "summary": "Some books offer answers. The most useful often improve the quality of the question.",
+    "route": "/en/reading-room",
+    "type": "page"
+  },
+  {
+    "id": "page-reflections-001",
+    "title": "Reflections",
+    "summary": "Short reflections on quiet purpose, time, humility, character and the unseen work of service.",
+    "route": "/en/reflections",
+    "type": "page"
+  },
+  {
+    "id": "page-poetry-001",
+    "title": "Poetry",
+    "summary": "Poetry is the language of presence.",
+    "route": "/en/poetry",
+    "type": "page"
+  },
+  {
+    "id": "page-home-001",
+    "title": "Home",
+    "summary": "An independent platform for thoughtful leadership, environmental stewardship, Emirati values and lifelong learning.",
+    "route": "/en/",
+    "type": "page"
+  },
+  {
+    "id": "page-discover-001",
+    "title": "Discover",
+    "summary": "A journey shaped by curiosity, public service and the responsibility to leave institutions stronger than they were found.",
+    "route": "/en/discover",
+    "type": "page"
+  },
+  {
+    "id": "page-journey-001",
+    "title": "The Journey",
+    "summary": "A sequence of learning and contribution across environmental governance, public policy and institutional development.",
+    "route": "/en/journey",
+    "type": "page"
+  },
+  {
+    "id": "page-stewardship-001",
+    "title": "Stewardship",
+    "summary": "Leadership is not possession. It is temporary custody of responsibilities that must be passed forward in better condition.",
+    "route": "/en/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-speaking-001",
+    "title": "Speaking",
+    "summary": "Conversations matter when they move beyond performance and help people see a problem more clearly.",
+    "route": "/en/speaking",
+    "type": "page"
+  },
+  {
+    "id": "page-publications-001",
+    "title": "Publications",
+    "summary": "Policy papers, essays, keynote transcripts and research collaborations.",
+    "route": "/en/publications",
+    "type": "page"
+  },
+  {
+    "id": "page-initiatives-001",
+    "title": "Initiatives",
+    "summary": "Purposeful work linked to environment, governance, technology and leadership development.",
+    "route": "/en/initiatives",
+    "type": "page"
+  },
+  {
+    "id": "page-shura-001",
+    "title": "Shura Global Consultancy",
+    "summary": "An independent strategic advisory firm founded to connect government policy, environmental stewardship, institutional development and emerging technology.",
+    "route": "/en/shura",
+    "type": "page"
+  },
+  {
+    "id": "page-media-001",
+    "title": "Media",
+    "summary": "Every photograph tells a story.",
+    "route": "/en/media",
+    "type": "page"
+  },
+  {
+    "id": "page-collaboration-001",
+    "title": "Collaboration",
+    "summary": "Purpose-driven collaboration is welcomed across government policy, environmental transformation, AI ethics, youth mentorship and joint research.",
+    "route": "/en/collaboration",
+    "type": "page"
+  },
+  {
+    "id": "page-ideas-001",
+    "title": "Ideas and Policy Perspectives",
+    "summary": "Policy succeeds when it connects evidence, institutions and human behaviour.",
+    "route": "/en/ideas",
+    "type": "page"
+  },
+  {
+    "id": "page-emirati-identity-001",
+    "title": "Emirati Identity",
+    "summary": "Emirati identity is not a label to wear. It is a standard to embody.",
+    "route": "/en/emirati-identity",
+    "type": "page"
+  },
+  {
+    "id": "page-privacy-001",
+    "title": "Privacy",
+    "summary": "How DRMOHAMED.NET handles personal information: what is processed, why, how long it is kept and the rights every visitor holds.",
+    "route": "/en/privacy",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-terms-001",
+    "title": "Terms of Use",
+    "summary": "The plain-language conditions for using DRMOHAMED.NET: what the website is for, what you may do with its material and what is not permitted.",
+    "route": "/en/terms",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-accessibility-001",
+    "title": "Accessibility",
+    "summary": "An honest accessibility statement: the WCAG 2.2 Level AA target, what this website supports, known limitations and how to reach us.",
+    "route": "/en/accessibility",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-ai-notice-001",
+    "title": "Responsible AI",
+    "summary": "What Yaqoot is, what it can and cannot do, how conversations are handled and how to report a wrong answer.",
+    "route": "/en/ai-notice",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-media-rights-001",
+    "title": "Media Rights",
+    "summary": "How copyright, licensing, consent and dignity govern the text, poetry, photographs and monogram published on DRMOHAMED.NET.",
+    "route": "/en/media-rights",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-yaqoot-001",
+    "title": "Ask Yaqoot",
+    "summary": "Yaqoot is the platform's AI guide: a contextual concierge and digital librarian for the approved public content of DRMOHAMED.NET.",
+    "route": "/en/yaqoot",
+    "type": "page"
+  },
+  {
+    "id": "page-contact-001",
+    "title": "Contact",
+    "summary": "Invitations for collaboration, speaking, research and strategic dialogue are welcomed.",
+    "route": "/en/contact",
+    "type": "page"
+  },
+  {
+    "id": "page-sitemap-001",
+    "title": "Sitemap",
+    "summary": "The complete directory of published destinations.",
+    "route": "/en/sitemap",
+    "type": "page"
+  }
+]
