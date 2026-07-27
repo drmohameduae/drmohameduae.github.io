@@ -49,7 +49,10 @@
     select.addEventListener("change", function () {
       var locale = select.value;
       try { window.localStorage.setItem("drmohamed.locale", locale); } catch (e) {}
-      window.location.href = locale === "en" ? "/en/" : "/" + locale + "/";
+      /* Keep the visitor on the equivalent page in the chosen edition. */
+      var path = window.location.pathname.replace(/^\/[a-z]{2}(?=\/|$)/, "/" + locale);
+      if (!/^\/[a-z]{2}(\/|$)/.test(path)) path = "/" + locale + "/";
+      window.location.href = path + window.location.search + window.location.hash;
     });
   }
 
@@ -61,6 +64,13 @@
   if (form) {
     var status = form.querySelector("[data-form-status]");
     var successText = (form.querySelector("[data-success-message]") || {}).textContent || "";
+    var msg = {
+      review: form.getAttribute("data-msg-review") || "Please review the highlighted fields.",
+      sending: form.getAttribute("data-msg-sending") || "Sending…",
+      unavailable: form.getAttribute("data-msg-unavailable") || "The submission service is not yet configured. Your message has not been sent; please try again later.",
+      failed: form.getAttribute("data-msg-failed") || "Your message could not be sent. Please review and try again.",
+      down: form.getAttribute("data-msg-down") || "The submission service is currently unavailable. Your message has not been sent; please try again later."
+    };
 
     function showStatus(message, ok) {
       status.hidden = false;
@@ -85,12 +95,12 @@
       if (!allValid) {
         var firstInvalid = form.querySelector('[aria-invalid="true"]');
         if (firstInvalid) firstInvalid.focus();
-        showStatus("Please review the highlighted fields.", false);
+        showStatus(msg.review, false);
         return;
       }
       var submit = form.querySelector('button[type="submit"]');
       submit.disabled = true;
-      showStatus("Sending…", true);
+      showStatus(msg.sending, true);
       var payload = {
         purpose: "enquiry",
         name: form.elements.name.value.trim(),
@@ -98,7 +108,7 @@
         organisation: form.elements.organisation.value.trim(),
         subject: form.elements.subject.value.trim(),
         message: form.elements.message.value,
-        locale: "en",
+        locale: form.getAttribute("data-locale") || "en",
         consent: form.elements.consent.checked === true
       };
       fetch(form.action, {
@@ -112,13 +122,13 @@
             form.reset();
             showStatus(successText + (result.body.reference ? " Reference: " + result.body.reference : ""), true);
           } else if (result.body && result.body.status === "unavailable") {
-            showStatus(result.body.message || "The submission service is not yet configured. Your message has not been sent; please try again later.", false);
+            showStatus(result.body.message || msg.unavailable, false);
           } else {
-            showStatus((result.body && result.body.message) || "Your message could not be sent. Please review and try again.", false);
+            showStatus((result.body && result.body.message) || msg.failed, false);
           }
         })
         .catch(function () {
-          showStatus("The submission service is currently unavailable. Your message has not been sent; please try again later.", false);
+          showStatus(msg.down, false);
         })
         .finally(function () { submit.disabled = false; });
     });
@@ -138,7 +148,7 @@
         var button = form2.querySelector("button");
         input.disabled = false;
         button.disabled = false;
-        input.placeholder = "Ask about the ideas on this platform";
+        input.placeholder = panel.getAttribute("data-placeholder-enabled") || "Ask about the ideas on this platform";
         var unavailable = panel.querySelector("[data-yaqoot-unavailable]");
         if (unavailable) unavailable.remove();
       })

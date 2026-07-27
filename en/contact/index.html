@@ -7,6 +7,7 @@
   <meta name="description" content="Invitations for collaboration, speaking, research and strategic dialogue are welcomed." />
   <link rel="canonical" href="https://drmohamed.net/en/contact" />
   <link rel="alternate" hreflang="en" href="https://drmohamed.net/en/contact" />
+  <link rel="alternate" hreflang="ar" href="https://drmohamed.net/ar/contact" />
   <link rel="alternate" hreflang="x-default" href="https://drmohamed.net/en/contact" />
   <meta name="robots" content="index,follow" />
   <meta property="og:type" content="website" />
@@ -83,7 +84,11 @@
 </section>
 
 <section class="section container">
-  <form class="form" method="post" action="/api/contact" data-contact-form novalidate>
+  <form class="form" method="post" action="/api/contact" data-contact-form novalidate
+        data-locale="en"
+        data-msg-review="Please review the highlighted fields." data-msg-sending="Sending…"
+        data-msg-unavailable="The submission service is not yet configured. Your message has not been sent; please try again later." data-msg-failed="Your message could not be sent. Please review and try again."
+        data-msg-down="The submission service is currently unavailable. Your message has not been sent; please try again later.">
     <div class="form-field">
       <label for="cf-name">Name</label>
       <input type="text" id="cf-name" name="name" autocomplete="name" required maxlength="120" aria-describedby="cf-name-error" />

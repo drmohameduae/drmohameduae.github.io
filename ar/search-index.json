@@ -1,0 +1,163 @@
+[
+  {
+    "id": "page-reading-room-001",
+    "title": "غرفة القراءة",
+    "summary": "بعض الكتب يقدم إجابات، وأنفعها في الغالب ما يرفع جودة السؤال.",
+    "route": "/ar/reading-room",
+    "type": "page"
+  },
+  {
+    "id": "page-reflections-001",
+    "title": "تأملات",
+    "summary": "تأملات قصيرة في الغاية الهادئة، والزمن، والتواضع، والشخصية، وعمل الخدمة الذي لا يُرى.",
+    "route": "/ar/reflections",
+    "type": "page"
+  },
+  {
+    "id": "page-poetry-001",
+    "title": "الشعر",
+    "summary": "الشعر لغة الحضور.",
+    "route": "/ar/poetry",
+    "type": "page"
+  },
+  {
+    "id": "page-home-001",
+    "title": "الرئيسية",
+    "summary": "منصة مستقلة للقيادة الواعية، والاستخلاف البيئي، والقيم الإماراتية، والتعلم مدى الحياة.",
+    "route": "/ar/",
+    "type": "page"
+  },
+  {
+    "id": "page-discover-001",
+    "title": "اكتشف",
+    "summary": "مسيرة شكّلها الفضول والخدمة العامة ومسؤولية ترك المؤسسات أقوى مما وُجدت عليه.",
+    "route": "/ar/discover",
+    "type": "page"
+  },
+  {
+    "id": "page-journey-001",
+    "title": "المسيرة",
+    "summary": "سلسلة من التعلم والعطاء عبر الحوكمة البيئية والسياسات العامة والتطوير المؤسسي.",
+    "route": "/ar/journey",
+    "type": "page"
+  },
+  {
+    "id": "page-stewardship-001",
+    "title": "الاستخلاف",
+    "summary": "القيادة ليست تملّكاً، بل أمانة مؤقتة لمسؤوليات يجب تسليمها إلى من يلي في حال أفضل.",
+    "route": "/ar/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-speaking-001",
+    "title": "الخطابة",
+    "summary": "تكتسب الحوارات قيمتها حين تتجاوز الاستعراض وتعين الناس على رؤية المسألة بوضوح أكبر.",
+    "route": "/ar/speaking",
+    "type": "page"
+  },
+  {
+    "id": "page-publications-001",
+    "title": "المنشورات",
+    "summary": "أوراق سياسات، ومقالات، ونصوص كلمات رئيسية، وتعاون بحثي.",
+    "route": "/ar/publications",
+    "type": "page"
+  },
+  {
+    "id": "page-initiatives-001",
+    "title": "مبادرات",
+    "summary": "عمل هادف مرتبط بالبيئة والحوكمة والتقنية وتنمية القيادة.",
+    "route": "/ar/initiatives",
+    "type": "page"
+  },
+  {
+    "id": "page-shura-001",
+    "title": "شورى العالمية للاستشارات",
+    "summary": "شركة استشارات استراتيجية مستقلة أُسست لتربط السياسات الحكومية بالاستخلاف البيئي والتطوير المؤسسي والتقنيات الناشئة.",
+    "route": "/ar/shura",
+    "type": "page"
+  },
+  {
+    "id": "page-media-001",
+    "title": "الوسائط",
+    "summary": "لكل صورة حكاية.",
+    "route": "/ar/media",
+    "type": "page"
+  },
+  {
+    "id": "page-collaboration-001",
+    "title": "التعاون",
+    "summary": "نرحب بالتعاون الهادف في السياسات الحكومية، والتحول البيئي، وأخلاقيات الذكاء الاصطناعي، وإرشاد الشباب، والبحث المشترك.",
+    "route": "/ar/collaboration",
+    "type": "page"
+  },
+  {
+    "id": "page-ideas-001",
+    "title": "الأفكار ووجهات النظر السياساتية",
+    "summary": "تنجح السياسات حين تربط الدليل بالمؤسسات والسلوك الإنساني.",
+    "route": "/ar/ideas",
+    "type": "page"
+  },
+  {
+    "id": "page-emirati-identity-001",
+    "title": "الهوية الإماراتية",
+    "summary": "الهوية الإماراتية ليست لقباً يُرتدى، بل معياراً يُتجسّد.",
+    "route": "/ar/emirati-identity",
+    "type": "page"
+  },
+  {
+    "id": "page-privacy-001",
+    "title": "الخصوصية",
+    "summary": "كيفية تعامل DRMOHAMED.NET مع المعلومات الشخصية: ما الذي يُعالَج، ولماذا، وكم مدة الاحتفاظ به، والحقوق التي يتمتع بها كل زائر.",
+    "route": "/ar/privacy",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-terms-001",
+    "title": "شروط الاستخدام",
+    "summary": "شروط استخدام DRMOHAMED.NET بلغة واضحة: الغرض من الموقع، وما يجوز لك فعله بمواده، وما لا يجوز.",
+    "route": "/ar/terms",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-accessibility-001",
+    "title": "سهولة الوصول",
+    "summary": "بيان صادق لسهولة الوصول: المستوى المستهدف AA من إرشادات WCAG 2.2، وما يدعمه هذا الموقع، والقيود المعروفة، وكيفية التواصل معنا.",
+    "route": "/ar/accessibility",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-ai-notice-001",
+    "title": "الذكاء الاصطناعي المسؤول",
+    "summary": "ما هو ياقوت، وما يستطيع وما لا يستطيع فعله، وكيفية التعامل مع المحادثات، وكيفية الإبلاغ عن إجابة خاطئة.",
+    "route": "/ar/ai-notice",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-media-rights-001",
+    "title": "حقوق الوسائط",
+    "summary": "كيف تحكم حقوق المؤلف والترخيص والموافقة والكرامة ما يُنشر على DRMOHAMED.NET من نصوص وشعر وصور وشعار مونوغرام.",
+    "route": "/ar/media-rights",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-yaqoot-001",
+    "title": "اسأل ياقوت",
+    "summary": "ياقوت هو المرشد الذكي للمنصة: مساعد سياقي وأمين مكتبة رقمي للمحتوى العام المعتمد من DRMOHAMED.NET.",
+    "route": "/ar/yaqoot",
+    "type": "page"
+  },
+  {
+    "id": "page-contact-001",
+    "title": "تواصل",
+    "summary": "نرحب بدعوات التعاون والخطابة والبحث والحوار الاستراتيجي.",
+    "route": "/ar/contact",
+    "type": "page"
+  },
+  {
+    "id": "page-sitemap-001",
+    "title": "خريطة الموقع",
+    "summary": "الدليل الكامل للوجهات المنشورة.",
+    "route": "/ar/sitemap",
+    "type": "page"
+  }
+]

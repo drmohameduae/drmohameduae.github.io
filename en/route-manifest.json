@@ -200,8 +200,200 @@
     "redirectHistory": []
   },
   {
-    "id": "state-locale-ar",
+    "id": "page-reading-room-001@ar",
+    "route": "/ar/reading-room",
+    "template": "reading",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-reflections-001@ar",
+    "route": "/ar/reflections",
+    "template": "reflection",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-poetry-001@ar",
+    "route": "/ar/poetry",
+    "template": "poem",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-home-001@ar",
     "route": "/ar/",
+    "template": "home",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-discover-001@ar",
+    "route": "/ar/discover",
+    "template": "destination",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-journey-001@ar",
+    "route": "/ar/journey",
+    "template": "journey",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-stewardship-001@ar",
+    "route": "/ar/stewardship",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-speaking-001@ar",
+    "route": "/ar/speaking",
+    "template": "destination",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-publications-001@ar",
+    "route": "/ar/publications",
+    "template": "destination",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-initiatives-001@ar",
+    "route": "/ar/initiatives",
+    "template": "initiative",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-shura-001@ar",
+    "route": "/ar/shura",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-media-001@ar",
+    "route": "/ar/media",
+    "template": "gallery",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-collaboration-001@ar",
+    "route": "/ar/collaboration",
+    "template": "collaboration",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-ideas-001@ar",
+    "route": "/ar/ideas",
+    "template": "destination",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-emirati-identity-001@ar",
+    "route": "/ar/emirati-identity",
+    "template": "identity",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-privacy-001@ar",
+    "route": "/ar/privacy",
+    "template": "legal",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-terms-001@ar",
+    "route": "/ar/terms",
+    "template": "legal",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-accessibility-001@ar",
+    "route": "/ar/accessibility",
+    "template": "legal",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-ai-notice-001@ar",
+    "route": "/ar/ai-notice",
+    "template": "legal",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-media-rights-001@ar",
+    "route": "/ar/media-rights",
+    "template": "legal",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-yaqoot-001@ar",
+    "route": "/ar/yaqoot",
+    "template": "yaqoot",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-contact-001@ar",
+    "route": "/ar/contact",
+    "template": "contact",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-sitemap-001@ar",
+    "route": "/ar/sitemap",
+    "template": "sitemap",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-404@ar",
+    "route": "/ar/404",
+    "template": "state",
+    "locale": "ar",
+    "indexStatus": "noindex",
+    "redirectHistory": []
+  },
+  {
+    "id": "state-withdrawn@ar",
+    "route": "/ar/withdrawn",
     "template": "state",
     "locale": "ar",
     "indexStatus": "noindex",

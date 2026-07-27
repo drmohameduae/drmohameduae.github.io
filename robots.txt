@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /en/
+Allow: /ar/
 Disallow: /api/
 Disallow: /en/404
 Disallow: /en/withdrawn
+Disallow: /ar/404
+Disallow: /ar/withdrawn
 Sitemap: https://drmohamed.net/sitemap.xml
