@@ -1,0 +1,163 @@
+[
+  {
+    "id": "page-reading-room-001",
+    "title": "Sala de lectura",
+    "summary": "Algunos libros ofrecen respuestas. Los más útiles suelen mejorar la calidad de la pregunta.",
+    "route": "/es/reading-room",
+    "type": "page"
+  },
+  {
+    "id": "page-reflections-001",
+    "title": "Reflexiones",
+    "summary": "Breves reflexiones sobre el propósito sereno, el tiempo, la humildad, el carácter y el trabajo invisible del servicio.",
+    "route": "/es/reflections",
+    "type": "page"
+  },
+  {
+    "id": "page-poetry-001",
+    "title": "Poesía",
+    "summary": "La poesía es el lenguaje de la presencia.",
+    "route": "/es/poetry",
+    "type": "page"
+  },
+  {
+    "id": "page-home-001",
+    "title": "Inicio",
+    "summary": "Una plataforma independiente para un liderazgo reflexivo, la mayordomía ambiental, los valores emiratíes y el aprendizaje permanente.",
+    "route": "/es/",
+    "type": "page"
+  },
+  {
+    "id": "page-discover-001",
+    "title": "Descubrir",
+    "summary": "Una trayectoria forjada por la curiosidad, el servicio público y la responsabilidad de dejar las instituciones más fuertes de lo que se encontraron.",
+    "route": "/es/discover",
+    "type": "page"
+  },
+  {
+    "id": "page-journey-001",
+    "title": "La Trayectoria",
+    "summary": "Una secuencia de aprendizaje y contribución a través de la gobernanza ambiental, las políticas públicas y el desarrollo institucional.",
+    "route": "/es/journey",
+    "type": "page"
+  },
+  {
+    "id": "page-stewardship-001",
+    "title": "Mayordomía",
+    "summary": "El liderazgo no es posesión. Es la custodia temporal de responsabilidades que deben transmitirse en mejores condiciones.",
+    "route": "/es/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-speaking-001",
+    "title": "Conferencias",
+    "summary": "Las conversaciones importan cuando van más allá de la actuación y ayudan a las personas a ver un problema con mayor claridad.",
+    "route": "/es/speaking",
+    "type": "page"
+  },
+  {
+    "id": "page-publications-001",
+    "title": "Publicaciones",
+    "summary": "Documentos de política, ensayos, transcripciones de discursos y colaboraciones de investigación.",
+    "route": "/es/publications",
+    "type": "page"
+  },
+  {
+    "id": "page-initiatives-001",
+    "title": "Iniciativas",
+    "summary": "Trabajo con propósito vinculado al medio ambiente, la gobernanza, la tecnología y el desarrollo del liderazgo.",
+    "route": "/es/initiatives",
+    "type": "page"
+  },
+  {
+    "id": "page-shura-001",
+    "title": "Shura Global Consultancy",
+    "summary": "Una firma independiente de asesoría estratégica fundada para conectar la política gubernamental, la mayordomía ambiental, el desarrollo institucional y la tecnología emergente.",
+    "route": "/es/shura",
+    "type": "page"
+  },
+  {
+    "id": "page-media-001",
+    "title": "Medios",
+    "summary": "Cada fotografía cuenta una historia.",
+    "route": "/es/media",
+    "type": "page"
+  },
+  {
+    "id": "page-collaboration-001",
+    "title": "Colaboración",
+    "summary": "Se agradece la colaboración con propósito en política gubernamental, transformación ambiental, ética de la IA, mentoría de jóvenes e investigación conjunta.",
+    "route": "/es/collaboration",
+    "type": "page"
+  },
+  {
+    "id": "page-ideas-001",
+    "title": "Ideas y perspectivas de política",
+    "summary": "La política tiene éxito cuando conecta la evidencia, las instituciones y el comportamiento humano.",
+    "route": "/es/ideas",
+    "type": "page"
+  },
+  {
+    "id": "page-emirati-identity-001",
+    "title": "Identidad emiratí",
+    "summary": "La identidad emiratí no es una etiqueta que lucir. Es un estándar que encarnar.",
+    "route": "/es/emirati-identity",
+    "type": "page"
+  },
+  {
+    "id": "page-privacy-001",
+    "title": "Privacidad",
+    "summary": "Cómo trata DRMOHAMED.NET la información personal: qué se procesa, por qué, cuánto tiempo se conserva y los derechos de cada visitante.",
+    "route": "/es/privacy",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-terms-001",
+    "title": "Condiciones de uso",
+    "summary": "Las condiciones de uso de DRMOHAMED.NET en lenguaje sencillo: para qué sirve el sitio, qué puede hacer con su material y qué no está permitido.",
+    "route": "/es/terms",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-accessibility-001",
+    "title": "Accesibilidad",
+    "summary": "Una declaración de accesibilidad honesta: el objetivo WCAG 2.2 nivel AA, lo que este sitio admite, las limitaciones conocidas y cómo contactarnos.",
+    "route": "/es/accessibility",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-ai-notice-001",
+    "title": "IA responsable",
+    "summary": "Qué es Yaqoot, qué puede y qué no puede hacer, cómo se tratan las conversaciones y cómo notificar una respuesta errónea.",
+    "route": "/es/ai-notice",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-media-rights-001",
+    "title": "Derechos de los medios",
+    "summary": "Cómo los derechos de autor, las licencias, el consentimiento y la dignidad rigen los textos, la poesía, las fotografías y el monograma publicados en DRMOHAMED.NET.",
+    "route": "/es/media-rights",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-yaqoot-001",
+    "title": "Preguntar a Yaqoot",
+    "summary": "Yaqoot es el guía de IA de la plataforma: un conserje contextual y bibliotecario digital del contenido público aprobado de DRMOHAMED.NET.",
+    "route": "/es/yaqoot",
+    "type": "page"
+  },
+  {
+    "id": "page-contact-001",
+    "title": "Contacto",
+    "summary": "Se agradecen las invitaciones para colaborar, dar conferencias, investigar y dialogar estratégicamente.",
+    "route": "/es/contact",
+    "type": "page"
+  },
+  {
+    "id": "page-sitemap-001",
+    "title": "Mapa del sitio",
+    "summary": "El directorio completo de destinos publicados.",
+    "route": "/es/sitemap",
+    "type": "page"
+  }
+]

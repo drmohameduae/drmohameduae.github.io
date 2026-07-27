@@ -1,3 +1,3 @@
-# drmohameduae.github.io
+# DRMOHAMED.NET
 
-DRMOHAMED.NET — Founder's Edition v1.0. Pre-rendered static site served by GitHub Pages.
+Founder's Edition v1.0 — six-language static edition (en, ar, zh, fr, ru, es).

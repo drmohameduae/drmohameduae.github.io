@@ -1,0 +1,163 @@
+[
+  {
+    "id": "page-reading-room-001",
+    "title": "阅览室",
+    "summary": "有些书给出答案,最有用的书往往提升问题的质量。",
+    "route": "/zh/reading-room",
+    "type": "page"
+  },
+  {
+    "id": "page-reflections-001",
+    "title": "随思录",
+    "summary": "关于沉静的使命、时间、谦逊、品格以及服务中那些不为人知的付出的短篇随思。",
+    "route": "/zh/reflections",
+    "type": "page"
+  },
+  {
+    "id": "page-poetry-001",
+    "title": "诗歌",
+    "summary": "诗歌是存在之语言。",
+    "route": "/zh/poetry",
+    "type": "page"
+  },
+  {
+    "id": "page-home-001",
+    "title": "首页",
+    "summary": "一个致力于深思熟虑的领导力、环境守护、阿联酋价值观与终身学习的独立平台。",
+    "route": "/zh/",
+    "type": "page"
+  },
+  {
+    "id": "page-discover-001",
+    "title": "探索",
+    "summary": "一段由好奇心、公共服务精神,以及「让机构比接手时更强大」的责任感所塑造的历程。",
+    "route": "/zh/discover",
+    "type": "page"
+  },
+  {
+    "id": "page-journey-001",
+    "title": "人生历程",
+    "summary": "在环境治理、公共政策与机构建设领域中,一段不断学习与奉献的历程。",
+    "route": "/zh/journey",
+    "type": "page"
+  },
+  {
+    "id": "page-stewardship-001",
+    "title": "守护之道",
+    "summary": "领导力不是占有,而是对责任的临时守护——这些责任必须以更好的状态传承下去。",
+    "route": "/zh/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-speaking-001",
+    "title": "演讲",
+    "summary": "当对话超越表面功夫、帮助人们更清晰地看待问题时,它才真正有意义。",
+    "route": "/zh/speaking",
+    "type": "page"
+  },
+  {
+    "id": "page-publications-001",
+    "title": "出版物",
+    "summary": "政策论文、随笔、主旨演讲实录与合作研究成果。",
+    "route": "/zh/publications",
+    "type": "page"
+  },
+  {
+    "id": "page-initiatives-001",
+    "title": "倡议项目",
+    "summary": "与环境、治理、科技和领导力发展相关的、富有使命感的实践工作。",
+    "route": "/zh/initiatives",
+    "type": "page"
+  },
+  {
+    "id": "page-shura-001",
+    "title": "Shura Global Consultancy",
+    "summary": "一家独立的战略咨询机构,旨在贯通政府政策、环境守护、机构建设与新兴科技。",
+    "route": "/zh/shura",
+    "type": "page"
+  },
+  {
+    "id": "page-media-001",
+    "title": "媒体",
+    "summary": "每一张照片都在讲述一个故事。",
+    "route": "/zh/media",
+    "type": "page"
+  },
+  {
+    "id": "page-collaboration-001",
+    "title": "合作",
+    "summary": "本平台欢迎在政府政策、环境转型、人工智能伦理、青年培养与联合研究等领域开展使命驱动的合作。",
+    "route": "/zh/collaboration",
+    "type": "page"
+  },
+  {
+    "id": "page-ideas-001",
+    "title": "思想与政策视角",
+    "summary": "当政策贯通证据、机构与人类行为时,它才会成功。",
+    "route": "/zh/ideas",
+    "type": "page"
+  },
+  {
+    "id": "page-emirati-identity-001",
+    "title": "阿联酋身份认同",
+    "summary": "阿联酋身份不是一枚佩戴的标签,而是一种身体力行的准则。",
+    "route": "/zh/emirati-identity",
+    "type": "page"
+  },
+  {
+    "id": "page-privacy-001",
+    "title": "隐私",
+    "summary": "DRMOHAMED.NET 如何处理个人信息:处理什么、为何处理、保存多久,以及每位来访者享有的权利。",
+    "route": "/zh/privacy",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-terms-001",
+    "title": "使用条款",
+    "summary": "使用 DRMOHAMED.NET 的平实语言条款:本网站的用途、您可以如何使用其内容,以及哪些行为不被允许。",
+    "route": "/zh/terms",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-accessibility-001",
+    "title": "无障碍",
+    "summary": "一份坦诚的无障碍声明:WCAG 2.2 AA 级目标、本网站支持的功能、已知的局限,以及联系我们的方式。",
+    "route": "/zh/accessibility",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-ai-notice-001",
+    "title": "负责任的人工智能",
+    "summary": "Yaqoot 是什么、它能做什么和不能做什么、对话如何处理,以及如何举报错误回答。",
+    "route": "/zh/ai-notice",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-media-rights-001",
+    "title": "媒体权利",
+    "summary": "著作权、许可、同意与尊严如何规范 DRMOHAMED.NET 上发布的文字、诗歌、照片与花押字。",
+    "route": "/zh/media-rights",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-yaqoot-001",
+    "title": "咨询 Yaqoot",
+    "summary": "Yaqoot 是本平台的人工智能向导:一个为 DRMOHAMED.NET 获批公开内容服务的语境礼宾与数字图书管理员。",
+    "route": "/zh/yaqoot",
+    "type": "page"
+  },
+  {
+    "id": "page-contact-001",
+    "title": "联系",
+    "summary": "欢迎合作、演讲、研究与战略对话的邀请。",
+    "route": "/zh/contact",
+    "type": "page"
+  },
+  {
+    "id": "page-sitemap-001",
+    "title": "网站地图",
+    "summary": "所有已发布页面的完整目录。",
+    "route": "/zh/sitemap",
+    "type": "page"
+  }
+]

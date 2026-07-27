@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-27T03:04:47.172Z",
+  "builtAt": "2026-07-27T11:56:23.752Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -8,424 +8,1188 @@
       "route": "/en/reading-room",
       "template": "reading",
       "file": "/en/reading-room/index.html",
-      "bytes": 7371,
-      "sha256": "f952c134e9e66f151d1dc4602300087a3ac44d3c449602e0558caeafe2a1e319"
+      "bytes": 7715,
+      "sha256": "053ccf62700adf0b9d6dab56f6b6b6fdeba14b36abfbbc663b5586e06ba09bd4"
     },
     {
       "id": "page-reflections-001",
       "route": "/en/reflections",
       "template": "reflection",
       "file": "/en/reflections/index.html",
-      "bytes": 8518,
-      "sha256": "2cde991ba086952428dc9e8e684420096dea0ec4e7edc4373f57bf9959e52ca1"
+      "bytes": 8858,
+      "sha256": "5332ee55121e0a07970611959d1397e17ad1bdfc4e82ce28d12d90c8b88bd09b"
     },
     {
       "id": "page-poetry-001",
       "route": "/en/poetry",
       "template": "poem",
       "file": "/en/poetry/index.html",
-      "bytes": 7296,
-      "sha256": "60c0b43ee2ff4a5b02cd1f8ba3406fdd32f48ec2d7fda7d10fa2536dbcbe796c"
+      "bytes": 7616,
+      "sha256": "fdc555c5d077a530f854e6851dd906d8236667fe3d0d175164f1a50400976311"
     },
     {
       "id": "page-home-001",
       "route": "/en/",
       "template": "home",
       "file": "/en/index.html",
-      "bytes": 8312,
-      "sha256": "f2fea909df9c5ade3305a2b23029d2a4daceda725d38eb81e47b1187a1e0823c"
+      "bytes": 8608,
+      "sha256": "b2c7c703d01aebb04f72ef656c8caf14e7ab2edc5bf5056c44586cb6572b6768"
     },
     {
       "id": "page-discover-001",
       "route": "/en/discover",
       "template": "destination",
       "file": "/en/discover/index.html",
-      "bytes": 9848,
-      "sha256": "f746a89f98a58220b7f593d53bc2325a50859c0a3a0173559203eb94606f6f0b"
+      "bytes": 10176,
+      "sha256": "877733cdffeaf74d189d21098b61b0054d5a204902146839d03f41119b9c7595"
     },
     {
       "id": "page-journey-001",
       "route": "/en/journey",
       "template": "journey",
       "file": "/en/journey/index.html",
-      "bytes": 7945,
-      "sha256": "9f1eb78ea7954eb042ab9ecdf648c5f0910c80e33943564ea4827260a6dc5e43"
+      "bytes": 8269,
+      "sha256": "fd4c0102cb2149ae50e08666a7c1cd3bda97cf2a11d91b4e7d0ab39ae78d8f20"
     },
     {
       "id": "page-stewardship-001",
       "route": "/en/stewardship",
       "template": "article",
       "file": "/en/stewardship/index.html",
-      "bytes": 7346,
-      "sha256": "4274102b4860c268f355d9fa0002f8819558eaef088d7362647b84f437d12357"
+      "bytes": 7686,
+      "sha256": "ac4368e8abf378f212aec878a137710893f99a509c0a18f68fa40a85bbca9cde"
     },
     {
       "id": "page-speaking-001",
       "route": "/en/speaking",
       "template": "destination",
       "file": "/en/speaking/index.html",
-      "bytes": 6975,
-      "sha256": "bfe30cf0645037b0cd459be4aa605d6943a86e7b6b84bafb7a2fc901052d13f6"
+      "bytes": 7303,
+      "sha256": "711efe7f99834027a7bf7cad517240d72dcd71d1c150f104ec1600622a8a9e05"
     },
     {
       "id": "page-publications-001",
       "route": "/en/publications",
       "template": "destination",
       "file": "/en/publications/index.html",
-      "bytes": 6887,
-      "sha256": "f861aecbf782500d343ba78860a69a66c77da4207ae5264559cadb34964e8f3d"
+      "bytes": 7231,
+      "sha256": "b2f00f3bbfbed28dad3c1348521a684b33bc885571ca94ee7c8bb2443135efac"
     },
     {
       "id": "page-initiatives-001",
       "route": "/en/initiatives",
       "template": "initiative",
       "file": "/en/initiatives/index.html",
-      "bytes": 7265,
-      "sha256": "5dfa4156971f2dd3e869ace582c58c14c883e3afe94091049f1e4701ed8acce2"
+      "bytes": 7605,
+      "sha256": "6ee93c0faa8bf5da3b86862b6e0b2dba32acc7ca7b53c9141e7353cfaa7331e2"
     },
     {
       "id": "page-shura-001",
       "route": "/en/shura",
       "template": "article",
       "file": "/en/shura/index.html",
-      "bytes": 7154,
-      "sha256": "21ed42833d589553e639b37155eac7e45d9f204f12f502798f54fc1287245818"
+      "bytes": 7470,
+      "sha256": "3760bd1eafff9e690e7c4f51b261027f81cadd257272685649d00e4abcfbee22"
     },
     {
       "id": "page-media-001",
       "route": "/en/media",
       "template": "gallery",
       "file": "/en/media/index.html",
-      "bytes": 7547,
-      "sha256": "08ea1fb41d5062fc2ef3b3dd5a7debdde9c36db2c84164497fd3cc03087f9d1d"
+      "bytes": 7863,
+      "sha256": "6cbf2ee63452399b8d6d9fcda2437c47873e43f6fb424f2b2fbf334178d41394"
     },
     {
       "id": "page-collaboration-001",
       "route": "/en/collaboration",
       "template": "collaboration",
       "file": "/en/collaboration/index.html",
-      "bytes": 6688,
-      "sha256": "d9cdfc56c474fd4d71b6da14b739801004bead99c3ffd991ac346ca10d14af77"
+      "bytes": 7036,
+      "sha256": "4d94c6ddcbd1cb44e9bb9b5ddccf1944e4542e890fce9a67ca8f246902747840"
     },
     {
       "id": "page-ideas-001",
       "route": "/en/ideas",
       "template": "destination",
       "file": "/en/ideas/index.html",
-      "bytes": 7677,
-      "sha256": "d4a93da85be4b79e5dfc49f04c530d967db4a15b24912c1d64b2cbecc54810bf"
+      "bytes": 7993,
+      "sha256": "303c07e6bc1ee21971f13c287b7d687f0678c3a896dfd0d7056d58463e72341c"
     },
     {
       "id": "page-emirati-identity-001",
       "route": "/en/emirati-identity",
       "template": "identity",
       "file": "/en/emirati-identity/index.html",
-      "bytes": 8475,
-      "sha256": "33c555aa6d03964e8c5ad79c3512760afb50d3c71766fd30a764ee1dc1d38f71"
+      "bytes": 8835,
+      "sha256": "1790c312c33231d90994d5d6d526d1a55f685214e765d1eac88900a3e799a5af"
     },
     {
       "id": "page-privacy-001",
       "route": "/en/privacy",
       "template": "legal",
       "file": "/en/privacy/index.html",
-      "bytes": 13980,
-      "sha256": "c1cfe6170e6a8049f7c811199dbd2eaea867b8bf20b0369e766db6ff72430ff5"
+      "bytes": 14304,
+      "sha256": "e1360ef3cf94507b34eea7c697d563883971e4c52b9cb224b4d35489b4f7fe01"
     },
     {
       "id": "page-terms-001",
       "route": "/en/terms",
       "template": "legal",
       "file": "/en/terms/index.html",
-      "bytes": 11286,
-      "sha256": "f0f43b1d42705b0e842d7b4e65fb824fae43cc2b569dbd19bb5229edf6868e67"
+      "bytes": 11602,
+      "sha256": "3eb972fd3a7a243dcdd16bf9688d83afd77dc6722ae765229e405f343f50f1aa"
     },
     {
       "id": "page-accessibility-001",
       "route": "/en/accessibility",
       "template": "legal",
       "file": "/en/accessibility/index.html",
-      "bytes": 9899,
-      "sha256": "4ee2a09cd3b0b5cb22c5f49e51ed6f9ecc020e87c65ada83971b4046ef6dca43"
+      "bytes": 10247,
+      "sha256": "7aa68f2ac01c332dcbb9877730e1772decbd51c5dc5b75249bf5b215f6428d46"
     },
     {
       "id": "page-ai-notice-001",
       "route": "/en/ai-notice",
       "template": "legal",
       "file": "/en/ai-notice/index.html",
-      "bytes": 10445,
-      "sha256": "897de869e0e156d23a43c289307210807dc4f82a4b55a0bf2db4f8513a401775"
+      "bytes": 10777,
+      "sha256": "09c2266fc897cb9459ef5fbc5955bade207b07cb92136edf4333a8d52e33b27d"
     },
     {
       "id": "page-media-rights-001",
       "route": "/en/media-rights",
       "template": "legal",
       "file": "/en/media-rights/index.html",
-      "bytes": 10807,
-      "sha256": "2dd0d499507466914e27238a6ac6b2e5325bea74479e2c1807c17aecc01f308b"
+      "bytes": 11151,
+      "sha256": "abc421e6c9d0bee4f100cb37b0d11857f517cbbb446810d3fc2baf78fbfe71b5"
     },
     {
       "id": "page-yaqoot-001",
       "route": "/en/yaqoot",
       "template": "yaqoot",
       "file": "/en/yaqoot/index.html",
-      "bytes": 8337,
-      "sha256": "4b94739091edd13931970d7b1cbf7d15d83cc1d6254643fc178e09d6ef086c28"
+      "bytes": 8657,
+      "sha256": "1082fc977f360657144be9476dedb86aca07e6525fb20cda587238d00bcf3c64"
     },
     {
       "id": "page-contact-001",
       "route": "/en/contact",
       "template": "contact",
       "file": "/en/contact/index.html",
-      "bytes": 9333,
-      "sha256": "67c38421727f6331c2486ce2100b26eb94854ce354198bbd9ce76b859f3ea8b7"
+      "bytes": 9657,
+      "sha256": "62a46b23882f78b450dc4dc6aec7e68076953539554f2b23ed5be1176fabd656"
     },
     {
       "id": "page-sitemap-001",
       "route": "/en/sitemap",
       "template": "sitemap",
       "file": "/en/sitemap/index.html",
-      "bytes": 7391,
-      "sha256": "ffbf0f73c9688a8d583269962b14b444db971fb267130a110998f9af9f087488"
+      "bytes": 7715,
+      "sha256": "a0a182e22599757cd8adab083e68f70b78d0dc42c77849c9683ffb3fad92a9a7"
     },
     {
       "id": "state-404",
       "route": "/en/404",
       "file": "/en/404/index.html",
-      "bytes": 5361,
-      "sha256": "434444e845fa4b5f887427464e5cfba03d19861b2253440453adb3050dcd6a80"
+      "bytes": 5669,
+      "sha256": "6d9c4c56bb7bd54d70d4aab62dfc42e732b0a9b95297d66bb9a2dba1c26b114d"
     },
     {
       "id": "state-withdrawn",
       "route": "/en/withdrawn",
       "file": "/en/withdrawn/index.html",
-      "bytes": 5443,
-      "sha256": "2e8abc096b2a99187e50d6caa35f04051ab3dc50bc687e87e12bd2ba90a7bcd5"
+      "bytes": 5775,
+      "sha256": "469fce5ca3674c768883fd81cc759481ab02f7314b8a9ef9a8a9327026e0cc58"
     },
     {
       "id": "page-reading-room-001@ar",
       "route": "/ar/reading-room",
       "template": "reading",
       "file": "/ar/reading-room/index.html",
-      "bytes": 8191,
-      "sha256": "ac2f8df736bc0cf26d89e185121b61dd0bb5471459b35a4fc04e0f1bed1a43df"
+      "bytes": 8535,
+      "sha256": "0ab654ddb0a48499c59b72bdf0198fddaffeee29def0858a86b87ee720b8997a"
     },
     {
       "id": "page-reflections-001@ar",
       "route": "/ar/reflections",
       "template": "reflection",
       "file": "/ar/reflections/index.html",
-      "bytes": 9727,
-      "sha256": "ebe35307eac1aa35e6c77170552a7db639ef00f6494515ec01c160e47386712d"
+      "bytes": 10067,
+      "sha256": "10a2be90f36d72140576ee7ee043317e61e7c149010930f0fdc8af10e20b5405"
     },
     {
       "id": "page-poetry-001@ar",
       "route": "/ar/poetry",
       "template": "poem",
       "file": "/ar/poetry/index.html",
-      "bytes": 8103,
-      "sha256": "cf3b70c115d05779e0bf1aaab5d692ae66e9a172b524c5064a5e7ffebaa3f00b"
+      "bytes": 8423,
+      "sha256": "1aecb6bbc3e998051329b83f418b7c2ef1645222bb64aee94651cce6a1ad1223"
     },
     {
       "id": "page-home-001@ar",
       "route": "/ar/",
       "template": "home",
       "file": "/ar/index.html",
-      "bytes": 9564,
-      "sha256": "97d4c0b889d5f298c0697fc423c998ee7608fffc3231dc5df93c8f437e790c3a"
+      "bytes": 9860,
+      "sha256": "d5e74801a43961c9ac81809a0fd485ebeff9cebda3d3fe4b043e4bff6bdec7db"
     },
     {
       "id": "page-discover-001@ar",
       "route": "/ar/discover",
       "template": "destination",
       "file": "/ar/discover/index.html",
-      "bytes": 10919,
-      "sha256": "eef2eba3fc0b0cbd2ab27042a0a33ba0b3dd89135f83852b3b7cb9aede45f8af"
+      "bytes": 11247,
+      "sha256": "25089c912d0035bd99c24d09c1fdbd009b42fc943a37fbf8e30100ca2e78174a"
     },
     {
       "id": "page-journey-001@ar",
       "route": "/ar/journey",
       "template": "journey",
       "file": "/ar/journey/index.html",
-      "bytes": 9059,
-      "sha256": "595e7805cb63a64327ad7b6353ae73f5ef0cdcd69f4765d1cba31d23e307b568"
+      "bytes": 9383,
+      "sha256": "b26974e1c4685e7c89bbadce1a9b7ba9f664a24bc5eb136d89083c4cc55889bf"
     },
     {
       "id": "page-stewardship-001@ar",
       "route": "/ar/stewardship",
       "template": "article",
       "file": "/ar/stewardship/index.html",
-      "bytes": 8191,
-      "sha256": "723f796ae739444b5d72f42b16f731886dd32e688ffe7e86962dc18a7070d0cf"
+      "bytes": 8531,
+      "sha256": "39de96eb864d09591a8c121c7f8d7dc0a03f68c13911ed3198f017007d2fae2f"
     },
     {
       "id": "page-speaking-001@ar",
       "route": "/ar/speaking",
       "template": "destination",
       "file": "/ar/speaking/index.html",
-      "bytes": 7906,
-      "sha256": "ffa5f5ce9c5ae7de33ab613095abfe84d91f16d0955f4531e7006ccb303f64b5"
+      "bytes": 8234,
+      "sha256": "fe15bf6f56d0ae6301c160ff7fb00986e775bd058da7ba4313cc5055dd53a7db"
     },
     {
       "id": "page-publications-001@ar",
       "route": "/ar/publications",
       "template": "destination",
       "file": "/ar/publications/index.html",
-      "bytes": 7585,
-      "sha256": "027821949bfebb4ce93e0910a94f6c8fc5ce48ab89179cb07599195e05c538eb"
+      "bytes": 7929,
+      "sha256": "b13da39b23449786d80301f4ef558e3412359dab354b2559a32eb41e74d80499"
     },
     {
       "id": "page-initiatives-001@ar",
       "route": "/ar/initiatives",
       "template": "initiative",
       "file": "/ar/initiatives/index.html",
-      "bytes": 8005,
-      "sha256": "82d9e7aefc51bfc8dbc1f8cafb844446303e9fc02a3789f6de32657874ac5a59"
+      "bytes": 8345,
+      "sha256": "b4680c4d00260c1433c8bba1cf787df8aaaa7b53767f9ddf9aa69b9c12211879"
     },
     {
       "id": "page-shura-001@ar",
       "route": "/ar/shura",
       "template": "article",
       "file": "/ar/shura/index.html",
-      "bytes": 8135,
-      "sha256": "df9e8d86a40775a775f30179e9ccbefd0db8671e31d1c28c6d33325cb2c28adb"
+      "bytes": 8451,
+      "sha256": "df919c7c00036bc00a7fd2f8c1551097de5e1c0d51c7275b0f771165e435cc9b"
     },
     {
       "id": "page-media-001@ar",
       "route": "/ar/media",
       "template": "gallery",
       "file": "/ar/media/index.html",
-      "bytes": 8483,
-      "sha256": "9ee8547eef30695ff3aefd2d1bf67fa51ca5aa61b725a7c0cedf3286e7ce5fdd"
+      "bytes": 8799,
+      "sha256": "1eb2151da1cb95bb3b32eff06a82e20c688d14813f925747deb0c1ecd4ef4fc9"
     },
     {
       "id": "page-collaboration-001@ar",
       "route": "/ar/collaboration",
       "template": "collaboration",
       "file": "/ar/collaboration/index.html",
-      "bytes": 7548,
-      "sha256": "5706c2b9b410d23d7226a52c92cfec64f0254ed355a4316b74c2feca2a1e23c2"
+      "bytes": 7896,
+      "sha256": "d69e6c7d9e8c9f9ce291b938c981a734c654b6348db5d425a4846b032df9c803"
     },
     {
       "id": "page-ideas-001@ar",
       "route": "/ar/ideas",
       "template": "destination",
       "file": "/ar/ideas/index.html",
-      "bytes": 8965,
-      "sha256": "3e32a81d53e2a37e1659a901db3dcef7a25485458b00169beb304ec3c219d8cf"
+      "bytes": 9281,
+      "sha256": "78b8d54b6196606fcd87786e467d5bbe86795442891330f164cad32740cb56ad"
     },
     {
       "id": "page-emirati-identity-001@ar",
       "route": "/ar/emirati-identity",
       "template": "identity",
       "file": "/ar/emirati-identity/index.html",
-      "bytes": 9676,
-      "sha256": "ad4ad6be38190ccbbb546a4855d2709eb59d3dd4fabf6462f77d8201f43410ed"
+      "bytes": 10036,
+      "sha256": "af9ca07f299aaf54dd43762e19a64cb684d9fb9dd5a323f308574c72f7faa301"
     },
     {
       "id": "page-privacy-001@ar",
       "route": "/ar/privacy",
       "template": "legal",
       "file": "/ar/privacy/index.html",
-      "bytes": 17325,
-      "sha256": "a5e2b5399f9f849371204e8cdcd72adb95027dd308c35b6eaed3e601ffc6c6b6"
+      "bytes": 17649,
+      "sha256": "fa29b44e3101cc80726e6af111725e199ff8d405d27c824be5ebe5a8f1c5e72f"
     },
     {
       "id": "page-terms-001@ar",
       "route": "/ar/terms",
       "template": "legal",
       "file": "/ar/terms/index.html",
-      "bytes": 13516,
-      "sha256": "6fcd406a9d779ebea5b5f39c7b9a4409f3b159c8857afe5647e78130e61ea1ad"
+      "bytes": 13832,
+      "sha256": "df53301c371d919ccb4df9a62d321d2e1f68eedb7a6fcd0aa26c627371178dd7"
     },
     {
       "id": "page-accessibility-001@ar",
       "route": "/ar/accessibility",
       "template": "legal",
       "file": "/ar/accessibility/index.html",
-      "bytes": 11956,
-      "sha256": "7090c1d74290f58d90adf5c206563a9724abffe62a2e59ed81dc040437589f5a"
+      "bytes": 12304,
+      "sha256": "a09761590ce72fa4acc222ba8ac062ffa1c501462a315e116e41704b41e66ded"
     },
     {
       "id": "page-ai-notice-001@ar",
       "route": "/ar/ai-notice",
       "template": "legal",
       "file": "/ar/ai-notice/index.html",
-      "bytes": 12885,
-      "sha256": "ad31dcb41378b38142a7423ce31c26129721e7b4a2b5f7126f7c84f23c890dc5"
+      "bytes": 13217,
+      "sha256": "72ee2f5963e316d1c677476aaa7a867190c382ed83300ce825791a25f591d0ed"
     },
     {
       "id": "page-media-rights-001@ar",
       "route": "/ar/media-rights",
       "template": "legal",
       "file": "/ar/media-rights/index.html",
-      "bytes": 13063,
-      "sha256": "28f167e3bff6dc92ffe4d258755f62f988b32ce0550b55cf7209b7a9ff9ecfbe"
+      "bytes": 13407,
+      "sha256": "dde4e99de49ac669a45829c29fcc8bdba0c3587df4792ede846734d33fe8a5a7"
     },
     {
       "id": "page-yaqoot-001@ar",
       "route": "/ar/yaqoot",
       "template": "yaqoot",
       "file": "/ar/yaqoot/index.html",
-      "bytes": 9523,
-      "sha256": "a2afd5652f79e83ed139aa33d9c8dc83a744da6c0e8bd866cc6bd111f9acc587"
+      "bytes": 9843,
+      "sha256": "61586d25c97da4ea016ac2be408612111f5d04fa5690ba7ab96f4a8610b03d53"
     },
     {
       "id": "page-contact-001@ar",
       "route": "/ar/contact",
       "template": "contact",
       "file": "/ar/contact/index.html",
-      "bytes": 10267,
-      "sha256": "e0459fe675628ee775510005dcc8a4ed2470a9a53f871e583a07600601ce2b24"
+      "bytes": 10591,
+      "sha256": "847b088f76461a12204a8fe84031fdecb8f63c3b1b1b465b9518a439f9c647a0"
     },
     {
       "id": "page-sitemap-001@ar",
       "route": "/ar/sitemap",
       "template": "sitemap",
       "file": "/ar/sitemap/index.html",
-      "bytes": 8109,
-      "sha256": "c255b813eb4885b6d242e044cafe6cca3d5d12accfad294c99ed950a23c0ed68"
+      "bytes": 8433,
+      "sha256": "3a45b9dba91dbca30c1924073efbc828c1f9196e8c01a3355273c0a291441e95"
     },
     {
       "id": "state-404@ar",
       "route": "/ar/404",
       "file": "/ar/404/index.html",
-      "bytes": 6029,
-      "sha256": "ea59721ab25f6456eb3b515a9add6e0f9c9d5e8d857c7fb9c2d24dc0666162b9"
+      "bytes": 6337,
+      "sha256": "4092314e22e9bcaa2cb54088fcc93580a5e2a91c47d4ef3753aded545f419eeb"
     },
     {
       "id": "state-withdrawn@ar",
       "route": "/ar/withdrawn",
       "file": "/ar/withdrawn/index.html",
-      "bytes": 5860,
-      "sha256": "531ea2fd57a182c5bfeed8c7c245825e9399a9def24cb20d1ded3818421fa321"
+      "bytes": 6192,
+      "sha256": "8635c0d86ff1aaa767d7deb280d2bfe5a5ead7e85ef56998df2c11027955a286"
     },
     {
-      "id": "state-locale-zh",
+      "id": "page-reading-room-001@zh",
+      "route": "/zh/reading-room",
+      "template": "reading",
+      "file": "/zh/reading-room/index.html",
+      "bytes": 7495,
+      "sha256": "6ff81ceaf6018624b906601a41cb3ed228f10a1e5dc7ed89d7fc2779d0b38f5b"
+    },
+    {
+      "id": "page-reflections-001@zh",
+      "route": "/zh/reflections",
+      "template": "reflection",
+      "file": "/zh/reflections/index.html",
+      "bytes": 8710,
+      "sha256": "d38a2d29e6f6e8c7e6fcb0142b0ba726725148b551d02292db0c7d2ef71d9edc"
+    },
+    {
+      "id": "page-poetry-001@zh",
+      "route": "/zh/poetry",
+      "template": "poem",
+      "file": "/zh/poetry/index.html",
+      "bytes": 7314,
+      "sha256": "13de4fb7ff10c400b1a7d13fd2b2854122b6bd17104e379ee9944362743142f7"
+    },
+    {
+      "id": "page-home-001@zh",
       "route": "/zh/",
+      "template": "home",
       "file": "/zh/index.html",
-      "bytes": 5689,
-      "sha256": "6cb9a8687065d8038448bda0ed0ec76f947643a89770b5f84146e63cea1e2acd"
+      "bytes": 8345,
+      "sha256": "0d922f89e791b53796286f62552b39a00288a0ac12e782c879202a01956cdd57"
     },
     {
-      "id": "state-locale-fr",
+      "id": "page-discover-001@zh",
+      "route": "/zh/discover",
+      "template": "destination",
+      "file": "/zh/discover/index.html",
+      "bytes": 9792,
+      "sha256": "62db708a3f054fc9e40dad6461d482b0f78d72e9fab6198660f9e5e25f1672c7"
+    },
+    {
+      "id": "page-journey-001@zh",
+      "route": "/zh/journey",
+      "template": "journey",
+      "file": "/zh/journey/index.html",
+      "bytes": 8034,
+      "sha256": "a43b149523d97234f136ba95865640d52de43644b8a5d574403c83ac1e51a016"
+    },
+    {
+      "id": "page-stewardship-001@zh",
+      "route": "/zh/stewardship",
+      "template": "article",
+      "file": "/zh/stewardship/index.html",
+      "bytes": 7499,
+      "sha256": "7f3414dd9645ddf695d4873fe11f5f495890a69b7ebfb01b1a2eb8880829398c"
+    },
+    {
+      "id": "page-speaking-001@zh",
+      "route": "/zh/speaking",
+      "template": "destination",
+      "file": "/zh/speaking/index.html",
+      "bytes": 7127,
+      "sha256": "8f856848118e1e4fc727c087b6d19ab12f13daf8aaf9b93c3a3eb7375bf0c50f"
+    },
+    {
+      "id": "page-publications-001@zh",
+      "route": "/zh/publications",
+      "template": "destination",
+      "file": "/zh/publications/index.html",
+      "bytes": 7054,
+      "sha256": "944e7bcfeb3baf0a689abb039d01e8f2350a05bfaabde01a992af73b0d2737c8"
+    },
+    {
+      "id": "page-initiatives-001@zh",
+      "route": "/zh/initiatives",
+      "template": "initiative",
+      "file": "/zh/initiatives/index.html",
+      "bytes": 7484,
+      "sha256": "48df3e58b0d1225c200b9b2e947fd51b79c60a38d7e8e18300d10a3df193cf95"
+    },
+    {
+      "id": "page-shura-001@zh",
+      "route": "/zh/shura",
+      "template": "article",
+      "file": "/zh/shura/index.html",
+      "bytes": 7142,
+      "sha256": "6c384df3c12aad978e1f413dc3ff6c9d8e47fbb04a99ace35cb5664c7b565adf"
+    },
+    {
+      "id": "page-media-001@zh",
+      "route": "/zh/media",
+      "template": "gallery",
+      "file": "/zh/media/index.html",
+      "bytes": 7689,
+      "sha256": "cea16343f2be416186a46d4c30347d7cfc88de6361be67fb4195bef311d2a1fd"
+    },
+    {
+      "id": "page-collaboration-001@zh",
+      "route": "/zh/collaboration",
+      "template": "collaboration",
+      "file": "/zh/collaboration/index.html",
+      "bytes": 6889,
+      "sha256": "e54029535bbc24d21184b93abe42802db0f9cc96827cf395da055fef5d836967"
+    },
+    {
+      "id": "page-ideas-001@zh",
+      "route": "/zh/ideas",
+      "template": "destination",
+      "file": "/zh/ideas/index.html",
+      "bytes": 7681,
+      "sha256": "6f00eca1225d26a63f7e1dc2fad097f5b41667829c1108967ae3379e587ea6f4"
+    },
+    {
+      "id": "page-emirati-identity-001@zh",
+      "route": "/zh/emirati-identity",
+      "template": "identity",
+      "file": "/zh/emirati-identity/index.html",
+      "bytes": 8908,
+      "sha256": "0fe1ebc1110016db05d99ceb80edf888c49e8ec0c5a3f641541842e82fe65163"
+    },
+    {
+      "id": "page-privacy-001@zh",
+      "route": "/zh/privacy",
+      "template": "legal",
+      "file": "/zh/privacy/index.html",
+      "bytes": 13055,
+      "sha256": "6cc29d611a0d9daae145b06ca78e8bef4ce0d3450e8ec4cccd43278698601ab7"
+    },
+    {
+      "id": "page-terms-001@zh",
+      "route": "/zh/terms",
+      "template": "legal",
+      "file": "/zh/terms/index.html",
+      "bytes": 11127,
+      "sha256": "4c550be4d95aee162331db568098bcb61399e8c3863e7fb59396b5c374900da6"
+    },
+    {
+      "id": "page-accessibility-001@zh",
+      "route": "/zh/accessibility",
+      "template": "legal",
+      "file": "/zh/accessibility/index.html",
+      "bytes": 9849,
+      "sha256": "ffd97cc2df5848c53c2369ba72fb3cb5320dbadfb1a5eb824336cf0e42fdb527"
+    },
+    {
+      "id": "page-ai-notice-001@zh",
+      "route": "/zh/ai-notice",
+      "template": "legal",
+      "file": "/zh/ai-notice/index.html",
+      "bytes": 10428,
+      "sha256": "5fe5963670ebc181ea46cec275f8bc6b23e79d9f8a7aef6d29505f0cfbed414d"
+    },
+    {
+      "id": "page-media-rights-001@zh",
+      "route": "/zh/media-rights",
+      "template": "legal",
+      "file": "/zh/media-rights/index.html",
+      "bytes": 10658,
+      "sha256": "5ce6045f7ded0635da8590ab16e6f61a6a06b970b55de5de4b017d48766ca132"
+    },
+    {
+      "id": "page-yaqoot-001@zh",
+      "route": "/zh/yaqoot",
+      "template": "yaqoot",
+      "file": "/zh/yaqoot/index.html",
+      "bytes": 8527,
+      "sha256": "bda8e49a181c8297b7bb667adf53b94d56524d94d973a77a326e627503c9f2e1"
+    },
+    {
+      "id": "page-contact-001@zh",
+      "route": "/zh/contact",
+      "template": "contact",
+      "file": "/zh/contact/index.html",
+      "bytes": 9276,
+      "sha256": "1403fa8654fae1313ea2ba24f884991f7ac9712df4d1373b18acf4eb6d9e676c"
+    },
+    {
+      "id": "page-sitemap-001@zh",
+      "route": "/zh/sitemap",
+      "template": "sitemap",
+      "file": "/zh/sitemap/index.html",
+      "bytes": 7603,
+      "sha256": "de46b4cf6c6da74f03c97d54377ea71522ce73c8cf234f041ced0c352495b249"
+    },
+    {
+      "id": "state-404@zh",
+      "route": "/zh/404",
+      "file": "/zh/404/index.html",
+      "bytes": 5596,
+      "sha256": "f18a25201c19cfc05cbc329d3afcad90e8c901625ae7800e0e16c88223ebfc69"
+    },
+    {
+      "id": "state-withdrawn@zh",
+      "route": "/zh/withdrawn",
+      "file": "/zh/withdrawn/index.html",
+      "bytes": 5590,
+      "sha256": "5f6c24f7119540b3e32cbac86334591e3ae47e6f2b810b41f8d6a12ed982de25"
+    },
+    {
+      "id": "page-reading-room-001@fr",
+      "route": "/fr/reading-room",
+      "template": "reading",
+      "file": "/fr/reading-room/index.html",
+      "bytes": 8067,
+      "sha256": "6a8a5b554f2b169990453acd592b797586fe71fdc6060cc199e982c6d0854ad0"
+    },
+    {
+      "id": "page-reflections-001@fr",
+      "route": "/fr/reflections",
+      "template": "reflection",
+      "file": "/fr/reflections/index.html",
+      "bytes": 9466,
+      "sha256": "76daf3a11560536e04502f67e95489e8da36238334de6dac2bc0b10aafb21d54"
+    },
+    {
+      "id": "page-poetry-001@fr",
+      "route": "/fr/poetry",
+      "template": "poem",
+      "file": "/fr/poetry/index.html",
+      "bytes": 8079,
+      "sha256": "b10c4e578c05c5fe6a1e2337b2808c1f49a844c05e4c1ffce576291f15feecdd"
+    },
+    {
+      "id": "page-home-001@fr",
       "route": "/fr/",
+      "template": "home",
       "file": "/fr/index.html",
-      "bytes": 5695,
-      "sha256": "ec9305baaa253afd3e47532ea2e01d8e6b7f49224f4525a44050f56a5324cb7f"
+      "bytes": 9445,
+      "sha256": "9ee791eddb7bd1471ab28ff072a9840be15e618b198eb695a05e8beb2348c87a"
     },
     {
-      "id": "state-locale-ru",
+      "id": "page-discover-001@fr",
+      "route": "/fr/discover",
+      "template": "destination",
+      "file": "/fr/discover/index.html",
+      "bytes": 10828,
+      "sha256": "fbf960054de36dd9335debddd099bccac9691d852a021e401c081bb229149e42"
+    },
+    {
+      "id": "page-journey-001@fr",
+      "route": "/fr/journey",
+      "template": "journey",
+      "file": "/fr/journey/index.html",
+      "bytes": 8892,
+      "sha256": "c6b0243622e40dc178801fe4e6a2ef22e7326dd07ee0297821241a0e26045179"
+    },
+    {
+      "id": "page-stewardship-001@fr",
+      "route": "/fr/stewardship",
+      "template": "article",
+      "file": "/fr/stewardship/index.html",
+      "bytes": 8053,
+      "sha256": "684e473b3858bbf0b7adc00f5ce52a6ad005175e66794f1ec9e68715ab971960"
+    },
+    {
+      "id": "page-speaking-001@fr",
+      "route": "/fr/speaking",
+      "template": "destination",
+      "file": "/fr/speaking/index.html",
+      "bytes": 7731,
+      "sha256": "509fe7cccdb92c944fdd9211a25e869d71944d16e236cc53d30536470120c306"
+    },
+    {
+      "id": "page-publications-001@fr",
+      "route": "/fr/publications",
+      "template": "destination",
+      "file": "/fr/publications/index.html",
+      "bytes": 7610,
+      "sha256": "6e401468ac59d2cc8802ce63f5d94a8ee0d3d9fe9a2c8ef4d24b803cf97720bd"
+    },
+    {
+      "id": "page-initiatives-001@fr",
+      "route": "/fr/initiatives",
+      "template": "initiative",
+      "file": "/fr/initiatives/index.html",
+      "bytes": 8016,
+      "sha256": "33d46f027e406a1959b677849d24c1546477d4bb7a4aa494512b7a5ce16ea4ed"
+    },
+    {
+      "id": "page-shura-001@fr",
+      "route": "/fr/shura",
+      "template": "article",
+      "file": "/fr/shura/index.html",
+      "bytes": 7794,
+      "sha256": "537ee19e8963ac239cfb48df528dec7ca81675abad7240f27c3432177c360ffc"
+    },
+    {
+      "id": "page-media-001@fr",
+      "route": "/fr/media",
+      "template": "gallery",
+      "file": "/fr/media/index.html",
+      "bytes": 8412,
+      "sha256": "91a79f112d521eefc9c3f376833e6e0130ff91e952c31813cce2313d8307dbe8"
+    },
+    {
+      "id": "page-collaboration-001@fr",
+      "route": "/fr/collaboration",
+      "template": "collaboration",
+      "file": "/fr/collaboration/index.html",
+      "bytes": 7471,
+      "sha256": "785e2dbc58e157548ca3a27b8816f8ef3a620a2c6639838b37356557738c207e"
+    },
+    {
+      "id": "page-ideas-001@fr",
+      "route": "/fr/ideas",
+      "template": "destination",
+      "file": "/fr/ideas/index.html",
+      "bytes": 8544,
+      "sha256": "cf7a089e9913c95840838651536ef618377a812a32d2ddcae10c59c5851986fe"
+    },
+    {
+      "id": "page-emirati-identity-001@fr",
+      "route": "/fr/emirati-identity",
+      "template": "identity",
+      "file": "/fr/emirati-identity/index.html",
+      "bytes": 9388,
+      "sha256": "0cb95c04cc7b2df282916114576fbf1d21971a2e158344d1b7a0737d6b92eb63"
+    },
+    {
+      "id": "page-privacy-001@fr",
+      "route": "/fr/privacy",
+      "template": "legal",
+      "file": "/fr/privacy/index.html",
+      "bytes": 16134,
+      "sha256": "4e53455804fd3da375881fbc9e05e324a2715c70f50985f9610d101c876b96ab"
+    },
+    {
+      "id": "page-terms-001@fr",
+      "route": "/fr/terms",
+      "template": "legal",
+      "file": "/fr/terms/index.html",
+      "bytes": 12725,
+      "sha256": "2abe45c675d7ed80c7672c5796ae7675907dce5a59fae43ac0e28029c510bcc4"
+    },
+    {
+      "id": "page-accessibility-001@fr",
+      "route": "/fr/accessibility",
+      "template": "legal",
+      "file": "/fr/accessibility/index.html",
+      "bytes": 11199,
+      "sha256": "55ff5b2815f6e3c127073bab6149dd28a46d986c8643e8f414cd7d8cd5472725"
+    },
+    {
+      "id": "page-ai-notice-001@fr",
+      "route": "/fr/ai-notice",
+      "template": "legal",
+      "file": "/fr/ai-notice/index.html",
+      "bytes": 11889,
+      "sha256": "465ca87859714bb3bfe8047555b609d5669df6e7ac28965829ca3721e5a4df86"
+    },
+    {
+      "id": "page-media-rights-001@fr",
+      "route": "/fr/media-rights",
+      "template": "legal",
+      "file": "/fr/media-rights/index.html",
+      "bytes": 12385,
+      "sha256": "7c40fd1d648fc21748ce19c0094aa831f8cd688983da3da8631793085305f6fc"
+    },
+    {
+      "id": "page-yaqoot-001@fr",
+      "route": "/fr/yaqoot",
+      "template": "yaqoot",
+      "file": "/fr/yaqoot/index.html",
+      "bytes": 9260,
+      "sha256": "01341a11b8dc064f2ddfd6feba89dc96de0247176af873c7019010b351f00d66"
+    },
+    {
+      "id": "page-contact-001@fr",
+      "route": "/fr/contact",
+      "template": "contact",
+      "file": "/fr/contact/index.html",
+      "bytes": 10131,
+      "sha256": "18aebb1d2ef5d3d53f045f82c6375bd5ed1a7db9f4360a8806f961690017ffdd"
+    },
+    {
+      "id": "page-sitemap-001@fr",
+      "route": "/fr/sitemap",
+      "template": "sitemap",
+      "file": "/fr/sitemap/index.html",
+      "bytes": 7950,
+      "sha256": "54af30c06e0a6df1771eb8b3f6d80a8222ae0d70f5963b775615ef9176ec462a"
+    },
+    {
+      "id": "state-404@fr",
+      "route": "/fr/404",
+      "file": "/fr/404/index.html",
+      "bytes": 5904,
+      "sha256": "152ed369992588a7a63ec501d61f614bd6309dbda572f6f5612c90c39baa4286"
+    },
+    {
+      "id": "state-withdrawn@fr",
+      "route": "/fr/withdrawn",
+      "file": "/fr/withdrawn/index.html",
+      "bytes": 5855,
+      "sha256": "657cf6314bfdeb9a18f88b9f96d4be9bb03d1a7510a4b3fbce36649f25236d12"
+    },
+    {
+      "id": "page-reading-room-001@ru",
+      "route": "/ru/reading-room",
+      "template": "reading",
+      "file": "/ru/reading-room/index.html",
+      "bytes": 9137,
+      "sha256": "07808c13b0ffffebe3d2f0bae8f551f1345dacd127345b32ee3adfd49b8b4a46"
+    },
+    {
+      "id": "page-reflections-001@ru",
+      "route": "/ru/reflections",
+      "template": "reflection",
+      "file": "/ru/reflections/index.html",
+      "bytes": 10930,
+      "sha256": "5cd3967a9058b87ed458852db8ef4538cdf9ea3435a2ed55f41683a30e8547c3"
+    },
+    {
+      "id": "page-poetry-001@ru",
+      "route": "/ru/poetry",
+      "template": "poem",
+      "file": "/ru/poetry/index.html",
+      "bytes": 8960,
+      "sha256": "ad71b34d689c93b803023c9b0ea50431e8c9fc366192d8ee2a8a16f005e15392"
+    },
+    {
+      "id": "page-home-001@ru",
       "route": "/ru/",
+      "template": "home",
       "file": "/ru/index.html",
-      "bytes": 5705,
-      "sha256": "e431bc968e982b02b979e3cbf3cee33ab92a96db437b66eb099b9fe41725cd5e"
+      "bytes": 11178,
+      "sha256": "86baafe32aab5fbcc2501f95f6dc6bea47f372fc3f7a7958777754864a6e8549"
     },
     {
-      "id": "state-locale-es",
+      "id": "page-discover-001@ru",
+      "route": "/ru/discover",
+      "template": "destination",
+      "file": "/ru/discover/index.html",
+      "bytes": 13075,
+      "sha256": "72904b4ce2799924d2df160e09ee0474895926fc9080585f42f4ac28d961f89c"
+    },
+    {
+      "id": "page-journey-001@ru",
+      "route": "/ru/journey",
+      "template": "journey",
+      "file": "/ru/journey/index.html",
+      "bytes": 10415,
+      "sha256": "81fb6e315ce0b6b9cc12cabee6946d84b184f47fa02e12d81eb721c065d137d0"
+    },
+    {
+      "id": "page-stewardship-001@ru",
+      "route": "/ru/stewardship",
+      "template": "article",
+      "file": "/ru/stewardship/index.html",
+      "bytes": 9456,
+      "sha256": "aac9a88e80b544617fd6535e6187596f4529494896225b6f0f7dbc65b36186d4"
+    },
+    {
+      "id": "page-speaking-001@ru",
+      "route": "/ru/speaking",
+      "template": "destination",
+      "file": "/ru/speaking/index.html",
+      "bytes": 8850,
+      "sha256": "1458f2b090577a1c16ee5afb94b994a85816c334251f108c435fec90eb34e1eb"
+    },
+    {
+      "id": "page-publications-001@ru",
+      "route": "/ru/publications",
+      "template": "destination",
+      "file": "/ru/publications/index.html",
+      "bytes": 8836,
+      "sha256": "99c8878376e015d6132ff91baf0a1c2f6f8e9d440bca93c9e20b3dd7cdde5114"
+    },
+    {
+      "id": "page-initiatives-001@ru",
+      "route": "/ru/initiatives",
+      "template": "initiative",
+      "file": "/ru/initiatives/index.html",
+      "bytes": 9409,
+      "sha256": "833ea101e76598c33c83b975a321f46f3697100a732a18b7f6860244d3db9479"
+    },
+    {
+      "id": "page-shura-001@ru",
+      "route": "/ru/shura",
+      "template": "article",
+      "file": "/ru/shura/index.html",
+      "bytes": 9069,
+      "sha256": "cbdab696236074a2e5fc409efde9edde59f4c2c0b6d42813693f9739abae4fd2"
+    },
+    {
+      "id": "page-media-001@ru",
+      "route": "/ru/media",
+      "template": "gallery",
+      "file": "/ru/media/index.html",
+      "bytes": 9921,
+      "sha256": "3554e58ade6473e23348af03ac2b30e20d65e6dadf277190ccc8ab81a8d51175"
+    },
+    {
+      "id": "page-collaboration-001@ru",
+      "route": "/ru/collaboration",
+      "template": "collaboration",
+      "file": "/ru/collaboration/index.html",
+      "bytes": 8914,
+      "sha256": "787af6dfcde2bc0e29291f21bb0a07a8cbd8ad5a4b2d20dcfc7ff2fad7b68e57"
+    },
+    {
+      "id": "page-ideas-001@ru",
+      "route": "/ru/ideas",
+      "template": "destination",
+      "file": "/ru/ideas/index.html",
+      "bytes": 10471,
+      "sha256": "aa7dddfa24a51c2df87666f35196c88d56a45eb8d7cb987583ea82923bd97e77"
+    },
+    {
+      "id": "page-emirati-identity-001@ru",
+      "route": "/ru/emirati-identity",
+      "template": "identity",
+      "file": "/ru/emirati-identity/index.html",
+      "bytes": 11006,
+      "sha256": "e85dadf56d9b8ca152e9dc31d1fe5ef5d650d5443741d64035ad20a69846e07b"
+    },
+    {
+      "id": "page-privacy-001@ru",
+      "route": "/ru/privacy",
+      "template": "legal",
+      "file": "/ru/privacy/index.html",
+      "bytes": 21531,
+      "sha256": "b0c2228780a3ed085ac0f7a276ba68e9cb27c3d537170ca7bc3891bc3290c4fc"
+    },
+    {
+      "id": "page-terms-001@ru",
+      "route": "/ru/terms",
+      "template": "legal",
+      "file": "/ru/terms/index.html",
+      "bytes": 16358,
+      "sha256": "8f7fbe3c9dbd906898f0e50c95b4879ed31066d79439f3cdec2088356af072ef"
+    },
+    {
+      "id": "page-accessibility-001@ru",
+      "route": "/ru/accessibility",
+      "template": "legal",
+      "file": "/ru/accessibility/index.html",
+      "bytes": 14165,
+      "sha256": "ddde1e133fcacdcaaaa75f8f50ef7c85e20da540fae6cb64ac398e2029005ace"
+    },
+    {
+      "id": "page-ai-notice-001@ru",
+      "route": "/ru/ai-notice",
+      "template": "legal",
+      "file": "/ru/ai-notice/index.html",
+      "bytes": 15190,
+      "sha256": "71f3df4084af40a753b757d474336deb32dfb0c56c54b055c543d492a777436e"
+    },
+    {
+      "id": "page-media-rights-001@ru",
+      "route": "/ru/media-rights",
+      "template": "legal",
+      "file": "/ru/media-rights/index.html",
+      "bytes": 16191,
+      "sha256": "25166d9d867874cbb4faeb8f4580b078d5006ad2fbb501cb4bba7c513e94f62f"
+    },
+    {
+      "id": "page-yaqoot-001@ru",
+      "route": "/ru/yaqoot",
+      "template": "yaqoot",
+      "file": "/ru/yaqoot/index.html",
+      "bytes": 11053,
+      "sha256": "effbea6bb4189016fa145a7f3a687559053048b822bbbef44bdc73e6bb12cb7d"
+    },
+    {
+      "id": "page-contact-001@ru",
+      "route": "/ru/contact",
+      "template": "contact",
+      "file": "/ru/contact/index.html",
+      "bytes": 11970,
+      "sha256": "6a1cb7156fa79ff5bb5ac0f81ef6eec44810a396417d3e403dd137ac98c2a101"
+    },
+    {
+      "id": "page-sitemap-001@ru",
+      "route": "/ru/sitemap",
+      "template": "sitemap",
+      "file": "/ru/sitemap/index.html",
+      "bytes": 8974,
+      "sha256": "35da20a867e2bd48e7f62799ac8ca072edbf082ddbff6a2f8ee66d15c4ad8166"
+    },
+    {
+      "id": "state-404@ru",
+      "route": "/ru/404",
+      "file": "/ru/404/index.html",
+      "bytes": 6772,
+      "sha256": "a3a6268a20d6a23d2c51a52181f84b00ea5ed038d31e1aa5d1627ef4bb6b7cb4"
+    },
+    {
+      "id": "state-withdrawn@ru",
+      "route": "/ru/withdrawn",
+      "file": "/ru/withdrawn/index.html",
+      "bytes": 6741,
+      "sha256": "0baffbdc7100283d7eb447eac27c92a9e27c02d945ba32859ad5dc2a965dcc64"
+    },
+    {
+      "id": "page-reading-room-001@es",
+      "route": "/es/reading-room",
+      "template": "reading",
+      "file": "/es/reading-room/index.html",
+      "bytes": 7965,
+      "sha256": "9258b4f73692a8645cf8a365a9fc04fefef8f832c62267fb12e6007778cda678"
+    },
+    {
+      "id": "page-reflections-001@es",
+      "route": "/es/reflections",
+      "template": "reflection",
+      "file": "/es/reflections/index.html",
+      "bytes": 9366,
+      "sha256": "4e55146caeeebafbbdbcf659ebb1b4f8bb554beb8d59911f2d39840b7dae6c1a"
+    },
+    {
+      "id": "page-poetry-001@es",
+      "route": "/es/poetry",
+      "template": "poem",
+      "file": "/es/poetry/index.html",
+      "bytes": 7912,
+      "sha256": "d009c2609a22453793d64363eef7e5d66907ebf3b15fd28feee688535d237595"
+    },
+    {
+      "id": "page-home-001@es",
       "route": "/es/",
+      "template": "home",
       "file": "/es/index.html",
-      "bytes": 5693,
-      "sha256": "78e4ff3dd1eb2056f5342302497465e05b2ea050c4b1e2cb246c4ad20e799994"
+      "bytes": 9039,
+      "sha256": "87ac02e3179bb32d1a13dc1b2998ad7819a55987f255294a645ea7130e9b3d00"
+    },
+    {
+      "id": "page-discover-001@es",
+      "route": "/es/discover",
+      "template": "destination",
+      "file": "/es/discover/index.html",
+      "bytes": 10599,
+      "sha256": "2252ac2354c89b0b8aa59e0667f81501b700006949b9c04d01a779e35d42f353"
+    },
+    {
+      "id": "page-journey-001@es",
+      "route": "/es/journey",
+      "template": "journey",
+      "file": "/es/journey/index.html",
+      "bytes": 8660,
+      "sha256": "991818a71728e3baa7512939cd79dd824b8cc10903e2865929648313b8023384"
+    },
+    {
+      "id": "page-stewardship-001@es",
+      "route": "/es/stewardship",
+      "template": "article",
+      "file": "/es/stewardship/index.html",
+      "bytes": 7881,
+      "sha256": "74365eab264f5be49442b2f229b20534aedeff0f9217f1d8901047eb5a2a8115"
+    },
+    {
+      "id": "page-speaking-001@es",
+      "route": "/es/speaking",
+      "template": "destination",
+      "file": "/es/speaking/index.html",
+      "bytes": 7694,
+      "sha256": "13c204cbe2cd4945926fbf051889f000fe11c2ee0adad976cd944e2edbe1f3d2"
+    },
+    {
+      "id": "page-publications-001@es",
+      "route": "/es/publications",
+      "template": "destination",
+      "file": "/es/publications/index.html",
+      "bytes": 7603,
+      "sha256": "b120e6b18a0d5b658ef79f19981e56f0a68c2effdb06c1025098e58f793be8c5"
+    },
+    {
+      "id": "page-initiatives-001@es",
+      "route": "/es/initiatives",
+      "template": "initiative",
+      "file": "/es/initiatives/index.html",
+      "bytes": 7918,
+      "sha256": "8519160d7d8483e45a7f72032df0fd68dfc8fda7302b7d7571d5b25e3d1a6ec7"
+    },
+    {
+      "id": "page-shura-001@es",
+      "route": "/es/shura",
+      "template": "article",
+      "file": "/es/shura/index.html",
+      "bytes": 7779,
+      "sha256": "feac207299151e95930af218c1a0ce7f13b4e83924c7073cab9a87406b239e0a"
+    },
+    {
+      "id": "page-media-001@es",
+      "route": "/es/media",
+      "template": "gallery",
+      "file": "/es/media/index.html",
+      "bytes": 8093,
+      "sha256": "c50f18e63a20f691241c349ad8624fad8b7acec83ca50f4501227b045fde814c"
+    },
+    {
+      "id": "page-collaboration-001@es",
+      "route": "/es/collaboration",
+      "template": "collaboration",
+      "file": "/es/collaboration/index.html",
+      "bytes": 7273,
+      "sha256": "7277dbe64a36bf4f627283af7354fce304724be68099a563401f7a7d547d59cc"
+    },
+    {
+      "id": "page-ideas-001@es",
+      "route": "/es/ideas",
+      "template": "destination",
+      "file": "/es/ideas/index.html",
+      "bytes": 8434,
+      "sha256": "ec2b246036c4a0a28bfaff35b8e6882bced6bb02304c32615745dee0bdda13fb"
+    },
+    {
+      "id": "page-emirati-identity-001@es",
+      "route": "/es/emirati-identity",
+      "template": "identity",
+      "file": "/es/emirati-identity/index.html",
+      "bytes": 9140,
+      "sha256": "a96d1da2d0d34cc6654dbdf692ca49edf282b1dab0fc930101a03346a41a2a3d"
+    },
+    {
+      "id": "page-privacy-001@es",
+      "route": "/es/privacy",
+      "template": "legal",
+      "file": "/es/privacy/index.html",
+      "bytes": 15356,
+      "sha256": "2b4cf5958cb703bc58f670db614ce69c75dafd0b481f79c7a1c3cc063aa186eb"
+    },
+    {
+      "id": "page-terms-001@es",
+      "route": "/es/terms",
+      "template": "legal",
+      "file": "/es/terms/index.html",
+      "bytes": 12320,
+      "sha256": "af7288a04e3db5cd342d8160cbe90f1fd6615ff0824c7b51f286963f5d33baee"
+    },
+    {
+      "id": "page-accessibility-001@es",
+      "route": "/es/accessibility",
+      "template": "legal",
+      "file": "/es/accessibility/index.html",
+      "bytes": 10939,
+      "sha256": "8c4fd1a29be2d39b92155cfcdbc065cff15f8cc5812e9ee3be8f666ae74749c9"
+    },
+    {
+      "id": "page-ai-notice-001@es",
+      "route": "/es/ai-notice",
+      "template": "legal",
+      "file": "/es/ai-notice/index.html",
+      "bytes": 11363,
+      "sha256": "4d56cb7c5c66306d36a1bdc7bbc8172e082da0703ee2e742e5c635a3fa3c970a"
+    },
+    {
+      "id": "page-media-rights-001@es",
+      "route": "/es/media-rights",
+      "template": "legal",
+      "file": "/es/media-rights/index.html",
+      "bytes": 12098,
+      "sha256": "1234e5241f060b344ae25b2a71bc60583673fa99a0239775bb63fa3aae3822e5"
+    },
+    {
+      "id": "page-yaqoot-001@es",
+      "route": "/es/yaqoot",
+      "template": "yaqoot",
+      "file": "/es/yaqoot/index.html",
+      "bytes": 9035,
+      "sha256": "3820a210378c8e845b86a87836216827650ad665b8f73beb017d83359abef109"
+    },
+    {
+      "id": "page-contact-001@es",
+      "route": "/es/contact",
+      "template": "contact",
+      "file": "/es/contact/index.html",
+      "bytes": 9982,
+      "sha256": "71eca73c9a0ef5113a3209144caef956ae2bd8da4eb10ff914cdbe4aec3a8f38"
+    },
+    {
+      "id": "page-sitemap-001@es",
+      "route": "/es/sitemap",
+      "template": "sitemap",
+      "file": "/es/sitemap/index.html",
+      "bytes": 7927,
+      "sha256": "033a29e313b6655a30d5161f9e5267e0fb78b19f33f7e0f317c01e5470abd68a"
+    },
+    {
+      "id": "state-404@es",
+      "route": "/es/404",
+      "file": "/es/404/index.html",
+      "bytes": 5928,
+      "sha256": "b4c86af899f8216593e767e57a758d92894795e6727860a0308a467af2144e33"
+    },
+    {
+      "id": "state-withdrawn@es",
+      "route": "/es/withdrawn",
+      "file": "/es/withdrawn/index.html",
+      "bytes": 5850,
+      "sha256": "0324f10dec2670b83607bfa7fa3704ea49bb2faf872445a6779cda944e42bf3e"
     }
   ],
   "assets": [
@@ -551,23 +1315,23 @@
     },
     {
       "code": "zh",
-      "published": false,
-      "state": "unavailable-language notice"
+      "published": true,
+      "state": "approved"
     },
     {
       "code": "fr",
-      "published": false,
-      "state": "unavailable-language notice"
+      "published": true,
+      "state": "approved"
     },
     {
       "code": "ru",
-      "published": false,
-      "state": "unavailable-language notice"
+      "published": true,
+      "state": "approved"
     },
     {
       "code": "es",
-      "published": false,
-      "state": "unavailable-language notice"
+      "published": true,
+      "state": "approved"
     }
   ]
 }

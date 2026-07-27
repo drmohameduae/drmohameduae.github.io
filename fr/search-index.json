@@ -1,0 +1,163 @@
+[
+  {
+    "id": "page-reading-room-001",
+    "title": "Salle de lecture",
+    "summary": "Certains livres offrent des réponses. Les plus utiles améliorent souvent la qualité de la question.",
+    "route": "/fr/reading-room",
+    "type": "page"
+  },
+  {
+    "id": "page-reflections-001",
+    "title": "Réflexions",
+    "summary": "De brèves réflexions sur le dessein tranquille, le temps, l'humilité, le caractère et le travail invisible du service.",
+    "route": "/fr/reflections",
+    "type": "page"
+  },
+  {
+    "id": "page-poetry-001",
+    "title": "Poésie",
+    "summary": "La poésie est la langue de la présence.",
+    "route": "/fr/poetry",
+    "type": "page"
+  },
+  {
+    "id": "page-home-001",
+    "title": "Accueil",
+    "summary": "Une plateforme indépendante pour un leadership réfléchi, l'intendance environnementale, les valeurs émiriennes et l'apprentissage tout au long de la vie.",
+    "route": "/fr/",
+    "type": "page"
+  },
+  {
+    "id": "page-discover-001",
+    "title": "Découvrir",
+    "summary": "Un parcours façonné par la curiosité, le service public et la responsabilité de laisser les institutions plus fortes qu'elles n'ont été trouvées.",
+    "route": "/fr/discover",
+    "type": "page"
+  },
+  {
+    "id": "page-journey-001",
+    "title": "Le Parcours",
+    "summary": "Une suite d'apprentissage et de contribution à travers la gouvernance environnementale, les politiques publiques et le développement institutionnel.",
+    "route": "/fr/journey",
+    "type": "page"
+  },
+  {
+    "id": "page-stewardship-001",
+    "title": "Intendance",
+    "summary": "Le leadership n'est pas une possession. C'est la garde temporaire de responsabilités qui doivent être transmises en meilleur état.",
+    "route": "/fr/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-speaking-001",
+    "title": "Interventions",
+    "summary": "Les conversations comptent lorsqu'elles dépassent la performance et aident les gens à voir un problème plus clairement.",
+    "route": "/fr/speaking",
+    "type": "page"
+  },
+  {
+    "id": "page-publications-001",
+    "title": "Publications",
+    "summary": "Documents de politique, essais, transcriptions d'allocutions et collaborations de recherche.",
+    "route": "/fr/publications",
+    "type": "page"
+  },
+  {
+    "id": "page-initiatives-001",
+    "title": "Initiatives",
+    "summary": "Un travail utile lié à l'environnement, la gouvernance, la technologie et le développement du leadership.",
+    "route": "/fr/initiatives",
+    "type": "page"
+  },
+  {
+    "id": "page-shura-001",
+    "title": "Shura Global Consultancy",
+    "summary": "Un cabinet de conseil stratégique indépendant fondé pour relier politique gouvernementale, intendance environnementale, développement institutionnel et technologies émergentes.",
+    "route": "/fr/shura",
+    "type": "page"
+  },
+  {
+    "id": "page-media-001",
+    "title": "Médias",
+    "summary": "Chaque photographie raconte une histoire.",
+    "route": "/fr/media",
+    "type": "page"
+  },
+  {
+    "id": "page-collaboration-001",
+    "title": "Collaboration",
+    "summary": "La collaboration utile est la bienvenue dans les politiques gouvernementales, la transformation environnementale, l'éthique de l'IA, le mentorat des jeunes et la recherche conjointe.",
+    "route": "/fr/collaboration",
+    "type": "page"
+  },
+  {
+    "id": "page-ideas-001",
+    "title": "Idées et perspectives politiques",
+    "summary": "Une politique réussit lorsqu'elle relie la preuve, les institutions et le comportement humain.",
+    "route": "/fr/ideas",
+    "type": "page"
+  },
+  {
+    "id": "page-emirati-identity-001",
+    "title": "Identité émirienne",
+    "summary": "L'identité émirienne n'est pas une étiquette à arborer. C'est un standard à incarner.",
+    "route": "/fr/emirati-identity",
+    "type": "page"
+  },
+  {
+    "id": "page-privacy-001",
+    "title": "Confidentialité",
+    "summary": "Comment DRMOHAMED.NET traite les informations personnelles : ce qui est traité, pourquoi, combien de temps elles sont conservées et les droits de chaque visiteur.",
+    "route": "/fr/privacy",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-terms-001",
+    "title": "Conditions d'utilisation",
+    "summary": "Les conditions d'utilisation de DRMOHAMED.NET en langage clair : à quoi sert le site, ce que vous pouvez faire de son contenu et ce qui n'est pas permis.",
+    "route": "/fr/terms",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-accessibility-001",
+    "title": "Accessibilité",
+    "summary": "Une déclaration d'accessibilité honnête : l'objectif WCAG 2.2 niveau AA, ce que ce site prend en charge, les limites connues et comment nous joindre.",
+    "route": "/fr/accessibility",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-ai-notice-001",
+    "title": "IA responsable",
+    "summary": "Ce qu'est Yaqoot, ce qu'il peut et ne peut pas faire, comment les conversations sont traitées et comment signaler une réponse erronée.",
+    "route": "/fr/ai-notice",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-media-rights-001",
+    "title": "Droits des médias",
+    "summary": "Comment le droit d'auteur, les licences, le consentement et la dignité régissent les textes, poèmes, photographies et le monogramme publiés sur DRMOHAMED.NET.",
+    "route": "/fr/media-rights",
+    "type": "legal-notice"
+  },
+  {
+    "id": "page-yaqoot-001",
+    "title": "Demander à Yaqoot",
+    "summary": "Yaqoot est le guide IA de la plateforme : un concierge contextuel et un bibliothécaire numérique du contenu public approuvé de DRMOHAMED.NET.",
+    "route": "/fr/yaqoot",
+    "type": "page"
+  },
+  {
+    "id": "page-contact-001",
+    "title": "Contact",
+    "summary": "Les invitations à collaborer, intervenir, chercher et dialoguer stratégiquement sont les bienvenues.",
+    "route": "/fr/contact",
+    "type": "page"
+  },
+  {
+    "id": "page-sitemap-001",
+    "title": "Plan du site",
+    "summary": "Le répertoire complet des destinations publiées.",
+    "route": "/fr/sitemap",
+    "type": "page"
+  }
+]
