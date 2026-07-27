@@ -216,6 +216,27 @@ small, .caption { font-size: var(--text-xs); }
   inline-size: 2rem; block-size: 2rem; flex: none;
   /* Monogram is still by default (FE-03 §10.3, FE-09 §5.2) */
 }
+/* Bilingual Founder name lock-up beside the monogram (FE-03 §14; replaces
+   the DRMOHAMED.NET wordmark text — DRMOHAMED.NET remains the official page
+   designation in titles, footer and metadata) */
+.wordmark__names {
+  display: flex; flex-direction: column; justify-content: center;
+  line-height: 1.15; text-align: start;
+}
+.wordmark__name-en {
+  font-family: var(--font-interface);
+  font-size: 0.8125rem; font-weight: 600; letter-spacing: 0.01em;
+  color: var(--colour-slate);
+}
+.wordmark__name-ar {
+  font-family: var(--font-arabic);
+  font-size: 0.875rem; font-weight: 400; letter-spacing: 0;
+  color: var(--colour-slate-soft);
+}
+@media (max-width: 560px) {
+  .wordmark__name-en { font-size: 0.72rem; }
+  .wordmark__name-ar { font-size: 0.78rem; }
+}
 
 /* ---------- Primary navigation (FE-03 §2) ---------- */
 .nav-toggle {
