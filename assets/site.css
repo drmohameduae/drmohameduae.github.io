@@ -349,6 +349,15 @@ figure { margin: 0 0 var(--space-3); }
 figcaption { font-size: var(--text-xs); color: var(--colour-slate-soft); margin-block-start: var(--space-1); }
 figcaption .credit { color: var(--colour-terracotta); }
 
+/* Founder-supplied media figures (FE-01 §13 asset register).
+   Assets are presented as supplied — never stretched or recoloured. */
+.media-figure { text-align: center; }
+.media-figure img { inline-size: auto; max-inline-size: 100%; border-radius: var(--radius); }
+.media-figure--portrait img { max-inline-size: 30rem; }
+.media-figure--artwork img { max-inline-size: 26rem; }
+.media-figure--logo img { max-inline-size: 20rem; }
+.media-figure--mark img { max-inline-size: 11rem; }
+
 /* ---------- Callout ---------- */
 .callout {
   background: var(--colour-sand-sunken);

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-26T13:30:05.849Z",
+  "builtAt": "2026-07-26T23:37:59.937Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -8,241 +8,241 @@
       "route": "/en/reading-room",
       "template": "reading",
       "file": "/en/reading-room/index.html",
-      "bytes": 7514,
-      "sha256": "ff1596cc00cc690fb4d2bb1aca92785f77d910d6a67cc19574c517dc7225725c"
+      "bytes": 7285,
+      "sha256": "2c0dc59d6a434b22995e394a977cad27b0cd740593803a2f41db58e2172790fa"
     },
     {
       "id": "page-reflections-001",
       "route": "/en/reflections",
       "template": "reflection",
       "file": "/en/reflections/index.html",
-      "bytes": 8662,
-      "sha256": "759a1d46522b2cb3aeba3210a0e44770fd392501701e1d57d9c9cc55cf80ae86"
+      "bytes": 8433,
+      "sha256": "b85127b5e107e4b4daaca6243d36d895a492d09a30366848a0c829529b5ed91c"
     },
     {
       "id": "page-poetry-001",
       "route": "/en/poetry",
       "template": "poem",
       "file": "/en/poetry/index.html",
-      "bytes": 7445,
-      "sha256": "dc41f2de91ec4142b3a0a83774071f7f3229913ac5c33b705a01fe958fa3c772"
+      "bytes": 7216,
+      "sha256": "4931e08626d11356fccc0e6b4227d35a101c4d98366b509b5314270fd0f5e578"
     },
     {
       "id": "page-home-001",
       "route": "/en/",
       "template": "home",
       "file": "/en/index.html",
-      "bytes": 8467,
-      "sha256": "ed59f01a836abbba5153d9820ef08ca806e82bf84864ab105ca016ea79332762"
+      "bytes": 8238,
+      "sha256": "6395fa4e81f8106f840fcf1dad4f6b0bd809ab5a7ab633d423c8ee42f471b6af"
     },
     {
       "id": "page-discover-001",
       "route": "/en/discover",
       "template": "destination",
       "file": "/en/discover/index.html",
-      "bytes": 9687,
-      "sha256": "e1bb809a7a38296111d1c8ca5d31baf0ec1a565ffe9d1c4444dbbb0db4030de8"
+      "bytes": 9766,
+      "sha256": "61994488e3c65be493f7929e4a628b952a61bbb50e1c77f16d36876681de4a1b"
     },
     {
       "id": "page-journey-001",
       "route": "/en/journey",
       "template": "journey",
       "file": "/en/journey/index.html",
-      "bytes": 8093,
-      "sha256": "781abb80fbf2f0b0910fcd481ea9aa2f27e6dba71692ea8f7c6461a1f6d807e5"
+      "bytes": 7864,
+      "sha256": "c75ddc1112ee43b1ac1802f2495240a3003c407e4b32330272988c90bf6f60ac"
     },
     {
       "id": "page-stewardship-001",
       "route": "/en/stewardship",
       "template": "article",
       "file": "/en/stewardship/index.html",
-      "bytes": 7490,
-      "sha256": "a91a8700ed10dd8d50c4fd31735e4bf7384c1665e49545f1c3eb8e094014ee04"
+      "bytes": 7261,
+      "sha256": "67cba741dd9a8cc0e34fba848ba15d7ccf08078d9fb8c199db0cb70d46a671ca"
     },
     {
       "id": "page-speaking-001",
       "route": "/en/speaking",
       "template": "destination",
       "file": "/en/speaking/index.html",
-      "bytes": 7122,
-      "sha256": "3225e749601281a5c2f349b1f6d934497a93db9612f065c947221cbe63f81b6c"
+      "bytes": 6893,
+      "sha256": "ad5245b42a590c3d09b0a34eec01ffe12d93cca9eb138d8bac5bbfd4bb111eea"
     },
     {
       "id": "page-publications-001",
       "route": "/en/publications",
       "template": "destination",
       "file": "/en/publications/index.html",
-      "bytes": 7030,
-      "sha256": "4f3f18e54dc62522c537f7f88b042d0a3abd8584843fdd109f5375b53d9eda02"
+      "bytes": 6801,
+      "sha256": "492aacec0cbf6b839139409aff09f2a8e56444ab07de1d6b726d591b32db8d53"
     },
     {
       "id": "page-initiatives-001",
       "route": "/en/initiatives",
       "template": "initiative",
       "file": "/en/initiatives/index.html",
-      "bytes": 7409,
-      "sha256": "728c96e047a4a2e2fe4bcf32d70c035f4108c9c8f7e307341c333ae64116d0d7"
+      "bytes": 7180,
+      "sha256": "63a1e26a52866851d3735d731c64175c5490841b35e8d6327c53fb6a96e6a1a6"
     },
     {
       "id": "page-shura-001",
       "route": "/en/shura",
       "template": "article",
       "file": "/en/shura/index.html",
-      "bytes": 6954,
-      "sha256": "fed59da14129cb19a1541bbd9dcc472f63c3f7f93a05306edcf12f22bf08fea1"
+      "bytes": 7075,
+      "sha256": "a4b1405b5fb1dab8c14f6b9e68d8373259e2fa3aad8664821d3ce869434ef5f6"
     },
     {
       "id": "page-media-001",
       "route": "/en/media",
       "template": "gallery",
       "file": "/en/media/index.html",
-      "bytes": 7697,
-      "sha256": "6427ed91b138132537262b0ab73248f55d0e6af6346a380dbfe635b41471af87"
+      "bytes": 7468,
+      "sha256": "c6046a1a18ba68e72833c6eb3545d178a51624dd78cbf497b114b7d2ac999011"
     },
     {
       "id": "page-collaboration-001",
       "route": "/en/collaboration",
       "template": "collaboration",
       "file": "/en/collaboration/index.html",
-      "bytes": 6830,
-      "sha256": "c25c24225fac4434ade4fcc90ccc3a02b105859f20e943e681f7d1f7387f8102"
+      "bytes": 6601,
+      "sha256": "e6830ca07268e1d48076275c8377508f484dc26402bb61f0c8b8f4ea6cd8980d"
     },
     {
       "id": "page-ideas-001",
       "route": "/en/ideas",
       "template": "destination",
       "file": "/en/ideas/index.html",
-      "bytes": 7827,
-      "sha256": "1596620b835d1b86606a2909eb9fd0362f77042561137210d688e0bf6e00cbfa"
+      "bytes": 7598,
+      "sha256": "267627ac47e5f8c0b2f385ffb861260c26cbbe4130171abe2780e730987e2472"
     },
     {
       "id": "page-emirati-identity-001",
       "route": "/en/emirati-identity",
       "template": "identity",
       "file": "/en/emirati-identity/index.html",
-      "bytes": 7756,
-      "sha256": "4558e8e2823540dc27c135e69411b4cd4ae1718e589508dfce057631990a1b21"
+      "bytes": 8385,
+      "sha256": "053ff2a3d5465a59414e77b603c145355978df244e034e3761a849867ddd6de5"
     },
     {
       "id": "page-privacy-001",
       "route": "/en/privacy",
       "template": "legal",
       "file": "/en/privacy/index.html",
-      "bytes": 14128,
-      "sha256": "f103a8703c55ef4bc0d670cd786c3a24d32d78baa32590a61e0f80a7876b414c"
+      "bytes": 13899,
+      "sha256": "134a2992eb59a40ebfb1f3d7acfc0e45e6e7b67340ceb9c2d83317dbecc66906"
     },
     {
       "id": "page-terms-001",
       "route": "/en/terms",
       "template": "legal",
       "file": "/en/terms/index.html",
-      "bytes": 11436,
-      "sha256": "b3e761484d40c20adc21a99cbf3213018007819ae741ebb510879dde4fc4eb20"
+      "bytes": 11207,
+      "sha256": "13b05f7f02a0cb0df3705d37df8f45c35c522be66756bb3bb9f46a4e67ae543c"
     },
     {
       "id": "page-accessibility-001",
       "route": "/en/accessibility",
       "template": "legal",
       "file": "/en/accessibility/index.html",
-      "bytes": 10041,
-      "sha256": "d2af4872c748115ca7de1f528303a2414f83f3b549d0b85bb27a6baec32649d5"
+      "bytes": 9812,
+      "sha256": "cd6961fce95c2ac7bca5c1b94a71c20ce2214241f2f6a6f41319796cc527d5a1"
     },
     {
       "id": "page-ai-notice-001",
       "route": "/en/ai-notice",
       "template": "legal",
       "file": "/en/ai-notice/index.html",
-      "bytes": 10591,
-      "sha256": "88a2bb128f47178a95d96b4632e436da91358a975d54d0031290e6348e006d45"
+      "bytes": 10362,
+      "sha256": "f10c4e8314e33deaca26b910d3c1d123ff8c789b5572975a05aaf6b44107d4f4"
     },
     {
       "id": "page-media-rights-001",
       "route": "/en/media-rights",
       "template": "legal",
       "file": "/en/media-rights/index.html",
-      "bytes": 10950,
-      "sha256": "4a58d01e6e4d99f19d62955a482bf01e54709c0cb7d97f35d98ad144fb46714b"
+      "bytes": 10721,
+      "sha256": "1ccb6d69d04aa204fe5b0a38f121fc2a96db1ae8c165d4e7b6437e9421571ef4"
     },
     {
       "id": "page-yaqoot-001",
       "route": "/en/yaqoot",
       "template": "yaqoot",
       "file": "/en/yaqoot/index.html",
-      "bytes": 8422,
-      "sha256": "091802e336b8c592cbabb162e6b34764b11fd854903cf92fa88c9330b7b227fe"
+      "bytes": 8193,
+      "sha256": "bb6efd6ad671ddc65d492c6bb10080f371baaf593ffcee43d4ce4ac57509fd1d"
     },
     {
       "id": "page-contact-001",
       "route": "/en/contact",
       "template": "contact",
       "file": "/en/contact/index.html",
-      "bytes": 9021,
-      "sha256": "80bd1d8ae22a1441e1aeeeb47fba952fae2167616362867cc58dd6c98a0c9fb1"
+      "bytes": 8792,
+      "sha256": "ac65a56db6bafa2181ba592602553b1df0891f1ec451ad857c1a81c6d77d57ad"
     },
     {
       "id": "page-sitemap-001",
       "route": "/en/sitemap",
       "template": "sitemap",
       "file": "/en/sitemap/index.html",
-      "bytes": 7539,
-      "sha256": "b314545992378653ef9ccbcf2eb74175087ffd276e1e57637d2b535f491647f9"
+      "bytes": 7310,
+      "sha256": "401a004972ca94e2875f425feb97b1fd234cbd3cbd20e2e879540b1a8a881df7"
     },
     {
       "id": "state-404",
       "route": "/en/404",
       "file": "/en/404/index.html",
-      "bytes": 5513,
-      "sha256": "c3e576ae8b8ad30ce632efaf102b89b59efd1e1f62e96ee15d91d5f1d65cb034"
+      "bytes": 5284,
+      "sha256": "1a83ba945aa1cb46f2ac40bc21e0dcf1d9dc0e2f08a016c387a656fb36acbdf9"
     },
     {
       "id": "state-withdrawn",
       "route": "/en/withdrawn",
       "file": "/en/withdrawn/index.html",
-      "bytes": 5589,
-      "sha256": "ecea401ccab2a781ea5351ed9bb172130805918db4739772ab785e1a1b5787b0"
+      "bytes": 5360,
+      "sha256": "ed3b56c0a47c95f1db8426ac888fa1128d1bab875d2d925f3c23c61038fb4826"
     },
     {
       "id": "state-locale-ar",
       "route": "/ar/",
       "file": "/ar/index.html",
-      "bytes": 5861,
-      "sha256": "1eb0570585fc1eda154d8f7e1bd375bb3aaf79edb8fb5501bb4386d9469b4a46"
+      "bytes": 5632,
+      "sha256": "3d78d612d5d3f7221fb85cc25b79b7b2a66f79c8325f3241f5e34827c7e0bfe7"
     },
     {
       "id": "state-locale-zh",
       "route": "/zh/",
       "file": "/zh/index.html",
-      "bytes": 5845,
-      "sha256": "4353b66c2211930392094c6cc23019a9cfc4b025458ac88e8b599ca71a66cfd8"
+      "bytes": 5616,
+      "sha256": "cc6aa5fcef1f46fd7b00fc0556bc6e4e0b3d91bf04f18399c507a88352e2a6c6"
     },
     {
       "id": "state-locale-fr",
       "route": "/fr/",
       "file": "/fr/index.html",
-      "bytes": 5851,
-      "sha256": "b2edc65870e2a9bea97bbe669c0d71d412ef15d7ad2dada1df8ce12cb65119b5"
+      "bytes": 5622,
+      "sha256": "4e0851fb9bf0b0a1ed0367c9bf0348d3820c9af1a74de917371aad6570c3fc6d"
     },
     {
       "id": "state-locale-ru",
       "route": "/ru/",
       "file": "/ru/index.html",
-      "bytes": 5861,
-      "sha256": "ab6f7a60148edc7e25afd57b8a0771868cdcef21dbfe0586b9f087e385fbd0ad"
+      "bytes": 5632,
+      "sha256": "7aa735683b20d0f17430627f7691c1e53242916ef06025e6cee35d991088ee09"
     },
     {
       "id": "state-locale-es",
       "route": "/es/",
       "file": "/es/index.html",
-      "bytes": 5849,
-      "sha256": "e2c95113741e7ea7b0e25161b34e9a927170ab47367adb6e558386d79084cf13"
+      "bytes": 5620,
+      "sha256": "3379a509cee31faa9e988adb65e06d73e69a0a34971118791c163a6ec6e0ddee"
     }
   ],
   "assets": [
     {
       "role": "stylesheet",
       "file": "/assets/site.css",
-      "bytes": 23159,
-      "sha256": "5b45b34491f2e1c45c2b71c5be37883a062f477a552638de4b2d0edee315ad2b"
+      "bytes": 23644,
+      "sha256": "32f6a5e64a335ecb2fb37f4e92762f9bca6f698db2e19b5dfa4f353ad5e723eb"
     },
     {
       "role": "print-stylesheet",
@@ -303,6 +303,36 @@
       "file": "assets/fonts/noto-naskh-arabic-600.woff2",
       "bytes": 19732,
       "sha256": "55cc6294c78bf25f17951de6fe3df67ad60d3ddbafd2836071dc7f10da7cd208"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/founder-portrait.webp",
+      "bytes": 40040,
+      "sha256": "b5571904fa2cbc28ab21c600c7f4ac86a57554bd5b3e673f93fc2165c712ef82"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/monogram.webp",
+      "bytes": 32972,
+      "sha256": "726b8c16d6a3d46f12be88903b078e343bf50874e174008fc78475bc9db36414"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/shura-global-logo.webp",
+      "bytes": 89852,
+      "sha256": "63b3881a451e07aeba7ff81c484af8561f0d78e08f87d677bf0bf395326b3336"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/uae-flag-brushstroke.webp",
+      "bytes": 8470,
+      "sha256": "4634d9f01fecd426e312f566f08a8d64111ef9a275e25b5e01549ece39ede001"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/uae-nation-brand.webp",
+      "bytes": 106242,
+      "sha256": "8cbef47be2137e42460e2347d1401da9b73018cbb2e50a61c4b542f3ee134f47"
     }
   ],
   "budgets": {
@@ -312,7 +342,7 @@
       "withinBudget": true
     },
     "initialCss": {
-      "compressedBytes": 5700,
+      "compressedBytes": 5834,
       "budget": 71680,
       "withinBudget": true
     }
