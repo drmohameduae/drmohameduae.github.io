@@ -21,10 +21,12 @@
   --colour-error: #8C3C3C;       /* error text, terracotta family, AA on sand */
   --colour-focus: #2D4030;       /* visible focus = olive */
 
-  /* Typography (FE-03 §4.3) */
+  /* Typography (FE-03 §4.3; Revision 1.2 pairing) */
   --font-display: "Cormorant Garamond", "Georgia", "Times New Roman", serif;
-  --font-interface: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Source Serif 4", "Georgia", "Times New Roman", serif;
+  --font-interface: "Source Sans 3", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   --font-arabic: "Noto Naskh Arabic", "Amiri", "Traditional Arabic", serif;
+  --font-chinese: "Noto Serif SC", "Songti SC", "STSong", "SimSun", serif;
 
   /* Type scale (1.25 ratio; body minimum 16px per FE-03 §4.2) */
   --text-xs: 0.8rem;      /* 12.8px — captions, credits (min legible, non-body) */
@@ -71,13 +73,24 @@
   --z-panel: 60;
 }
 
-/* Self-hosted typefaces (FE-03 §4.3, §4.4): local privacy-preserving
-   delivery, font-display swap to avoid invisible text, measured fallbacks. */
+/* Self-hosted typefaces (FE-03 §4.3, §4.4; Revision 1.2 typography):
+   Display — Cormorant Garamond; Latin/Cyrillic long-form — Source Serif 4;
+   interface — Source Sans 3; Arabic — Noto Naskh Arabic with Amiri fallback.
+   Simplified Chinese long-form uses Noto Serif SC (CDN delivery; system
+   serif fallback in the self-hosted build). */
 
 
 
 
 
+
+
+
+
+
+
+
+/* Amiri: specified fallback for Arabic (Revision 1.2 typography) */
 
 
 /* ==========================================================================
@@ -101,7 +114,7 @@ body {
   margin: 0;
   background: var(--colour-sand);
   color: var(--colour-slate);
-  font-family: var(--font-interface);
+  font-family: var(--font-body);
   font-size: var(--text-base);
   line-height: var(--leading-body);
   text-rendering: optimizeLegibility;
@@ -109,6 +122,23 @@ body {
 [lang="ar"] body, html[dir="rtl"] body {
   font-family: var(--font-arabic);
   line-height: var(--leading-arabic);
+}
+[lang="zh"] body {
+  font-family: var(--font-chinese);
+}
+[lang="zh"] h1, [lang="zh"] h2, [lang="zh"] h3, [lang="zh"] h4 {
+  font-family: "Cormorant Garamond", var(--font-chinese);
+}
+/* Interface chrome stays sans across editions (Revision 1.2 pairing) */
+.primary-nav, .masthead__controls, .identity-strip__names, .breadcrumbs,
+.site-footer, .button, .actions, .contact-form, .yaqoot, .card__meta,
+.directory, .language-selector, .notice, .figure__credit, .search-panel {
+  font-family: var(--font-interface);
+}
+[lang="zh"] .primary-nav, [lang="zh"] .masthead__controls, [lang="zh"] .breadcrumbs,
+[lang="zh"] .site-footer, [lang="zh"] .button, [lang="zh"] .actions,
+[lang="zh"] .contact-form, [lang="zh"] .directory, [lang="zh"] .language-selector {
+  font-family: "Source Sans 3", var(--font-chinese);
 }
 img, svg, video { max-inline-size: 100%; block-size: auto; }
 button, input, select, textarea { font: inherit; color: inherit; }
@@ -219,6 +249,34 @@ small, .caption { font-size: var(--text-xs); }
   font-weight: 600;
 }
 .masthead__controls { display: flex; align-items: center; gap: var(--space-1); }
+
+/* ---------- National identity strip (FE-03 §14) ----------
+   One official bilingual identity system shared by all six editions:
+   transparent UAE brush flag, the Founder's English and Arabic names and an
+   authorised UAE Nation Brand master. Logical properties keep the lock-up
+   correct in LTR and RTL. */
+.identity-strip {
+  border-block-start: var(--border);
+  background: var(--colour-sand);
+}
+.identity-strip__inner {
+  display: flex; align-items: center; gap: var(--space-1);
+  padding-block: 0.25rem;
+}
+.identity-strip__flag { inline-size: 2rem; block-size: 2rem; flex: none; }
+.identity-strip__names {
+  margin: 0; font-size: 0.8125rem; color: var(--colour-slate-soft);
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.35rem;
+}
+.identity-strip__names [lang="ar"] { font-family: var(--font-arabic, "Noto Naskh Arabic", "Amiri", serif); }
+.identity-strip__sep { color: var(--colour-line); }
+.identity-strip__brand {
+  inline-size: 1.45rem; block-size: 2rem; flex: none;
+  margin-inline-start: auto;
+}
+@media (max-width: 560px) {
+  .identity-strip__names { font-size: 0.75rem; }
+}
 
 /* ---------- Language selector (FE-03 §12; own names, never flags) ---------- */
 .language-selector { position: relative; }

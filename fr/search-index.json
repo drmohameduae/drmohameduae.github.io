@@ -23,7 +23,7 @@
   {
     "id": "page-home-001",
     "title": "Accueil",
-    "summary": "Une plateforme indépendante pour un leadership réfléchi, l'intendance environnementale, les valeurs émiriennes et l'apprentissage tout au long de la vie.",
+    "summary": "La plateforme officielle consacrée au leadership éclairé, à la responsabilité environnementale, à l'identité émiratie et à l'apprentissage tout au long de la vie.",
     "route": "/fr/",
     "type": "page"
   },
@@ -43,7 +43,7 @@
   },
   {
     "id": "page-stewardship-001",
-    "title": "Intendance",
+    "title": "Responsabilité et transmission",
     "summary": "Le leadership n'est pas une possession. C'est la garde temporaire de responsabilités qui doivent être transmises en meilleur état.",
     "route": "/fr/stewardship",
     "type": "page"
@@ -72,7 +72,7 @@
   {
     "id": "page-shura-001",
     "title": "Shura Global Consultancy",
-    "summary": "Un cabinet de conseil stratégique indépendant fondé pour relier politique gouvernementale, intendance environnementale, développement institutionnel et technologies émergentes.",
+    "summary": "Un cabinet de conseil stratégique indépendant fondé pour relier politique gouvernementale, responsabilité environnementale, développement institutionnel et technologies émergentes.",
     "route": "/fr/shura",
     "type": "page"
   },
@@ -91,6 +91,13 @@
     "type": "page"
   },
   {
+    "id": "page-aware-family-001",
+    "title": "La famille consciente",
+    "summary": "La forteresse de la société en temps de changement — un essai de mars 2026 sur la famille comme fondement de la stabilité sociale et investissement le plus précieux de la nation.",
+    "route": "/fr/publications/aware-family",
+    "type": "page"
+  },
+  {
     "id": "page-ideas-001",
     "title": "Idées et perspectives politiques",
     "summary": "Une politique réussit lorsqu'elle relie la preuve, les institutions et le comportement humain.",
@@ -99,8 +106,8 @@
   },
   {
     "id": "page-emirati-identity-001",
-    "title": "Identité émirienne",
-    "summary": "L'identité émirienne n'est pas une étiquette à arborer. C'est un standard à incarner.",
+    "title": "Identité émiratie",
+    "summary": "L'identité émiratie n'est pas une étiquette à arborer. C'est un standard à incarner.",
     "route": "/fr/emirati-identity",
     "type": "page"
   },
@@ -142,7 +149,7 @@
   {
     "id": "page-yaqoot-001",
     "title": "Demander à Yaqoot",
-    "summary": "Yaqoot est le guide IA de la plateforme : un concierge contextuel et un bibliothécaire numérique du contenu public approuvé de DRMOHAMED.NET.",
+    "summary": "Yaqoot est le guide IA de la plateforme : un guide contextuel et un bibliothécaire numérique du contenu public approuvé de DRMOHAMED.NET.",
     "route": "/fr/yaqoot",
     "type": "page"
   },

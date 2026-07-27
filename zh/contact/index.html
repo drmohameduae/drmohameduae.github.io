@@ -27,12 +27,12 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Inter:wght@400;600&family=Noto+Naskh+Arabic:wght@400;600&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Source+Serif+4:ital,wght@0,400;0,600&family=Source+Sans+3:wght@400;600&family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Serif+SC:wght@400;600&family=Amiri:wght@400&display=swap" />
   <link rel="stylesheet" href="/assets/site.css" />
   <link rel="stylesheet" href="/assets/print.css" media="print" />
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/cormorant-garamond-600.woff2" crossorigin />
-  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-400.woff2" crossorigin />
-  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-600.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/source-serif-4-400-latin.woff2" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/source-sans-3-400-latin.woff2" crossorigin />
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"联系","description":"欢迎合作、演讲、研究与战略对话的邀请。","inLanguage":"zh","url":"https://drmohamed.net/zh/contact"}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://drmohamed.net/zh/"},{"@type":"ListItem","position":2,"name":"联系","item":"https://drmohamed.net/zh/contact"}]}</script>
 </head>
@@ -50,7 +50,7 @@
       <ul>
       <li><a href="/zh">首页</a></li>
       <li><a href="/zh/discover">探索</a></li>
-      <li><a href="/zh/stewardship">守护之道</a></li>
+      <li><a href="/zh/stewardship">责任与传承</a></li>
       <li><a href="/zh/emirati-identity">阿联酋身份认同</a></li>
       <li><a href="/zh/reading-room">阅览室</a></li>
       <li><a href="/zh/reflections">随思录</a></li>
@@ -72,6 +72,13 @@
       </a>
     </div>
   </div>
+  <div class="identity-strip">
+    <div class="container identity-strip__inner">
+      <img class="identity-strip__flag" src="/assets/media/uae-flag-brush-strip.png" alt="" width="48" height="48" decoding="async" />
+      <p class="identity-strip__names"><span lang="en">Dr. Mohamed Yousef Almadfaei</span><span class="identity-strip__sep" aria-hidden="true">·</span><span lang="ar" dir="rtl">الدكتور محمد يوسف المدفعي</span></p>
+      <img class="identity-strip__brand" src="/assets/media/uae-nation-brand-strip.webp" alt="The Emirates — الإمارات" width="35" height="48" decoding="async" />
+    </div>
+  </div>
 </header>
   <nav class="breadcrumbs container" aria-label="面包屑导航"><ol><li><a href="/zh">首页</a></li><li aria-current="page">联系</li></ol></nav>
   <main id="main-content">
@@ -82,7 +89,7 @@
 <section class="section container">
   <div class="section-heading"><h2>开启对话。</h2></div>
   <div class="prose">
-  <p class="lede">欢迎合作、演讲、研究与战略对话的邀请。请说明目的、预期贡献与相关时间安排,以便我们认真考量您的咨询。</p>
+  <p class="lede">欢迎合作、演讲、研究与战略对话的邀请。请说明目的、预期贡献与相关时间安排，以便我们认真考量您的咨询。</p>
   
   </div>
 </section>
@@ -91,8 +98,8 @@
   <form class="form" method="post" action="/api/contact" data-contact-form novalidate
         data-locale="zh"
         data-msg-review="请检查标出的字段。" data-msg-sending="正在发送……"
-        data-msg-unavailable="提交服务尚未配置完成。您的留言尚未发送,请稍后再试。" data-msg-failed="您的留言未能发送。请检查后重试。"
-        data-msg-down="提交服务暂时不可用。您的留言尚未发送,请稍后再试。">
+        data-msg-unavailable="提交服务尚未配置完成。您的留言尚未发送，请稍后再试。" data-msg-failed="您的留言未能发送。请检查后重试。"
+        data-msg-down="提交服务暂时不可用。您的留言尚未发送，请稍后再试。">
     <div class="form-field">
       <label for="cf-name">姓名</label>
       <input type="text" id="cf-name" name="name" autocomplete="name" required maxlength="120" aria-describedby="cf-name-error" />
@@ -104,7 +111,7 @@
       <p class="error" id="cf-email-error" role="alert">请输入有效的电子邮箱地址。</p>
     </div>
     <div class="form-field">
-      <label for="cf-organisation">机构(选填)</label>
+      <label for="cf-organisation">机构（选填）</label>
       <input type="text" id="cf-organisation" name="organisation" autocomplete="organization" maxlength="160" />
     </div>
     <div class="form-field">
@@ -123,14 +130,14 @@
         <input type="checkbox" id="cf-consent" name="consent" value="yes" required aria-describedby="cf-consent-error" />
         <label for="cf-consent">我同意我的信息可被用于回复本次咨询。</label>
       </div>
-      <p class="error" id="cf-consent-error" role="alert">我们需要您的同意,以便回复您的咨询。</p>
+      <p class="error" id="cf-consent-error" role="alert">我们需要您的同意，以便回复您的咨询。</p>
     </div>
-    <p class="privacy-summary">您的信息仅用于评估并回复本次咨询,不会用于营销,也不会在回复所需范围之外共享。关于保存期限与您的权利,请参阅《隐私声明》。</p>
+    <p class="privacy-summary">您的信息仅用于评估并回复本次咨询，不会用于营销，也不会在回复所需范围之外共享。关于保存期限与您的权利，请参阅《隐私声明》。</p>
     <div class="actions">
       <button class="button button--primary" type="submit">发送留言</button>
     </div>
     <p class="form-status" data-form-status role="status" aria-live="polite" hidden></p>
-    <p class="visually-hidden" data-success-message>谢谢。您的留言已收到。若咨询内容与本平台宗旨相符,我们将予以回复。</p>
+    <p class="visually-hidden" data-success-message>谢谢。您的留言已收到。若咨询内容与本平台宗旨相符，我们将予以回复。</p>
   </form>
 </section>
   </main>

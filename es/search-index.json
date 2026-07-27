@@ -23,7 +23,7 @@
   {
     "id": "page-home-001",
     "title": "Inicio",
-    "summary": "Una plataforma independiente para un liderazgo reflexivo, la mayordomía ambiental, los valores emiratíes y el aprendizaje permanente.",
+    "summary": "La plataforma oficial dedicada al liderazgo reflexivo, la responsabilidad ambiental, la identidad emiratí y el aprendizaje permanente.",
     "route": "/es/",
     "type": "page"
   },
@@ -43,7 +43,7 @@
   },
   {
     "id": "page-stewardship-001",
-    "title": "Mayordomía",
+    "title": "Custodia responsable",
     "summary": "El liderazgo no es posesión. Es la custodia temporal de responsabilidades que deben transmitirse en mejores condiciones.",
     "route": "/es/stewardship",
     "type": "page"
@@ -72,7 +72,7 @@
   {
     "id": "page-shura-001",
     "title": "Shura Global Consultancy",
-    "summary": "Una firma independiente de asesoría estratégica fundada para conectar la política gubernamental, la mayordomía ambiental, el desarrollo institucional y la tecnología emergente.",
+    "summary": "Una firma independiente de asesoría estratégica fundada para conectar la política gubernamental, la responsabilidad ambiental, el desarrollo institucional y la tecnología emergente.",
     "route": "/es/shura",
     "type": "page"
   },
@@ -88,6 +88,13 @@
     "title": "Colaboración",
     "summary": "Se agradece la colaboración con propósito en política gubernamental, transformación ambiental, ética de la IA, mentoría de jóvenes e investigación conjunta.",
     "route": "/es/collaboration",
+    "type": "page"
+  },
+  {
+    "id": "page-aware-family-001",
+    "title": "La familia consciente",
+    "summary": "La fortaleza de la sociedad en tiempos de cambio: un ensayo de marzo de 2026 sobre la familia como fundamento de la estabilidad social y la inversión más valiosa de la nación.",
+    "route": "/es/publications/aware-family",
     "type": "page"
   },
   {
@@ -142,7 +149,7 @@
   {
     "id": "page-yaqoot-001",
     "title": "Preguntar a Yaqoot",
-    "summary": "Yaqoot es el guía de IA de la plataforma: un conserje contextual y bibliotecario digital del contenido público aprobado de DRMOHAMED.NET.",
+    "summary": "Yaqoot es el guía de IA de la plataforma: un asistente contextual y bibliotecario digital del contenido público aprobado de DRMOHAMED.NET.",
     "route": "/es/yaqoot",
     "type": "page"
   },

@@ -23,7 +23,7 @@
   {
     "id": "page-home-001",
     "title": "Home",
-    "summary": "An independent platform for thoughtful leadership, environmental stewardship, Emirati values and lifelong learning.",
+    "summary": "The official platform for thoughtful leadership, environmental stewardship, Emirati identity and lifelong learning.",
     "route": "/en/",
     "type": "page"
   },
@@ -91,6 +91,13 @@
     "type": "page"
   },
   {
+    "id": "page-aware-family-001",
+    "title": "The Aware Family",
+    "summary": "Society's Fortress during Times of Change — a March 2026 essay on the family as the foundation of social stability and the nation's most valuable investment.",
+    "route": "/en/publications/aware-family",
+    "type": "page"
+  },
+  {
     "id": "page-ideas-001",
     "title": "Ideas and Policy Perspectives",
     "summary": "Policy succeeds when it connects evidence, institutions and human behaviour.",
@@ -142,7 +149,7 @@
   {
     "id": "page-yaqoot-001",
     "title": "Ask Yaqoot",
-    "summary": "Yaqoot is the platform's AI guide: a contextual concierge and digital librarian for the approved public content of DRMOHAMED.NET.",
+    "summary": "Yaqoot is the platform's AI guide: a contextual guide and digital librarian for the approved public content of DRMOHAMED.NET.",
     "route": "/en/yaqoot",
     "type": "page"
   },

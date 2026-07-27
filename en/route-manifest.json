@@ -104,6 +104,14 @@
     "redirectHistory": []
   },
   {
+    "id": "page-aware-family-001",
+    "route": "/en/publications/aware-family",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-ideas-001",
     "route": "/en/ideas",
     "template": "destination",
@@ -124,7 +132,7 @@
     "route": "/en/privacy",
     "template": "legal",
     "locale": "en",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -132,7 +140,7 @@
     "route": "/en/terms",
     "template": "legal",
     "locale": "en",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -140,7 +148,7 @@
     "route": "/en/accessibility",
     "template": "legal",
     "locale": "en",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -148,7 +156,7 @@
     "route": "/en/ai-notice",
     "template": "legal",
     "locale": "en",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -156,7 +164,7 @@
     "route": "/en/media-rights",
     "template": "legal",
     "locale": "en",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -304,6 +312,14 @@
     "redirectHistory": []
   },
   {
+    "id": "page-aware-family-001@ar",
+    "route": "/ar/publications/aware-family",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-ideas-001@ar",
     "route": "/ar/ideas",
     "template": "destination",
@@ -324,7 +340,7 @@
     "route": "/ar/privacy",
     "template": "legal",
     "locale": "ar",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -332,7 +348,7 @@
     "route": "/ar/terms",
     "template": "legal",
     "locale": "ar",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -340,7 +356,7 @@
     "route": "/ar/accessibility",
     "template": "legal",
     "locale": "ar",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -348,7 +364,7 @@
     "route": "/ar/ai-notice",
     "template": "legal",
     "locale": "ar",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -356,7 +372,7 @@
     "route": "/ar/media-rights",
     "template": "legal",
     "locale": "ar",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -504,6 +520,14 @@
     "redirectHistory": []
   },
   {
+    "id": "page-aware-family-001@zh",
+    "route": "/zh/publications/aware-family",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-ideas-001@zh",
     "route": "/zh/ideas",
     "template": "destination",
@@ -524,7 +548,7 @@
     "route": "/zh/privacy",
     "template": "legal",
     "locale": "zh",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -532,7 +556,7 @@
     "route": "/zh/terms",
     "template": "legal",
     "locale": "zh",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -540,7 +564,7 @@
     "route": "/zh/accessibility",
     "template": "legal",
     "locale": "zh",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -548,7 +572,7 @@
     "route": "/zh/ai-notice",
     "template": "legal",
     "locale": "zh",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -556,7 +580,7 @@
     "route": "/zh/media-rights",
     "template": "legal",
     "locale": "zh",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -704,6 +728,14 @@
     "redirectHistory": []
   },
   {
+    "id": "page-aware-family-001@fr",
+    "route": "/fr/publications/aware-family",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-ideas-001@fr",
     "route": "/fr/ideas",
     "template": "destination",
@@ -724,7 +756,7 @@
     "route": "/fr/privacy",
     "template": "legal",
     "locale": "fr",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -732,7 +764,7 @@
     "route": "/fr/terms",
     "template": "legal",
     "locale": "fr",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -740,7 +772,7 @@
     "route": "/fr/accessibility",
     "template": "legal",
     "locale": "fr",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -748,7 +780,7 @@
     "route": "/fr/ai-notice",
     "template": "legal",
     "locale": "fr",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -756,7 +788,7 @@
     "route": "/fr/media-rights",
     "template": "legal",
     "locale": "fr",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -904,6 +936,14 @@
     "redirectHistory": []
   },
   {
+    "id": "page-aware-family-001@ru",
+    "route": "/ru/publications/aware-family",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-ideas-001@ru",
     "route": "/ru/ideas",
     "template": "destination",
@@ -924,7 +964,7 @@
     "route": "/ru/privacy",
     "template": "legal",
     "locale": "ru",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -932,7 +972,7 @@
     "route": "/ru/terms",
     "template": "legal",
     "locale": "ru",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -940,7 +980,7 @@
     "route": "/ru/accessibility",
     "template": "legal",
     "locale": "ru",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -948,7 +988,7 @@
     "route": "/ru/ai-notice",
     "template": "legal",
     "locale": "ru",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -956,7 +996,7 @@
     "route": "/ru/media-rights",
     "template": "legal",
     "locale": "ru",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -1104,6 +1144,14 @@
     "redirectHistory": []
   },
   {
+    "id": "page-aware-family-001@es",
+    "route": "/es/publications/aware-family",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-ideas-001@es",
     "route": "/es/ideas",
     "template": "destination",
@@ -1124,7 +1172,7 @@
     "route": "/es/privacy",
     "template": "legal",
     "locale": "es",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -1132,7 +1180,7 @@
     "route": "/es/terms",
     "template": "legal",
     "locale": "es",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -1140,7 +1188,7 @@
     "route": "/es/accessibility",
     "template": "legal",
     "locale": "es",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -1148,7 +1196,7 @@
     "route": "/es/ai-notice",
     "template": "legal",
     "locale": "es",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
@@ -1156,7 +1204,7 @@
     "route": "/es/media-rights",
     "template": "legal",
     "locale": "es",
-    "indexStatus": "index",
+    "indexStatus": "noindex",
     "redirectHistory": []
   },
   {
