@@ -92,6 +92,8 @@
 
 /* Amiri: specified fallback for Arabic (Revision 1.2 typography) */
 
+/* Pinyon Script: calligraphic Latin for the Founder's name lock-up */
+
 
 /* ==========================================================================
    DRMOHAMED.NET — Founder's Edition Version 1.0
@@ -130,7 +132,7 @@ body {
   font-family: "Cormorant Garamond", var(--font-chinese);
 }
 /* Interface chrome stays sans across editions (Revision 1.2 pairing) */
-.primary-nav, .masthead__controls, .identity-strip__names, .breadcrumbs,
+.primary-nav, .masthead__controls, .breadcrumbs,
 .site-footer, .button, .actions, .contact-form, .yaqoot, .card__meta,
 .directory, .language-selector, .notice, .figure__credit, .search-panel {
   font-family: var(--font-interface);
@@ -216,26 +218,37 @@ small, .caption { font-size: var(--text-xs); }
   inline-size: 2rem; block-size: 2rem; flex: none;
   /* Monogram is still by default (FE-03 §10.3, FE-09 §5.2) */
 }
-/* Bilingual Founder name lock-up beside the monogram (FE-03 §14; replaces
-   the DRMOHAMED.NET wordmark text — DRMOHAMED.NET remains the official page
-   designation in titles, footer and metadata) */
+/* Bilingual Founder name lock-up beside the monogram: Arabic name, the UAE
+   brush flag, then the English name — one line, calligraphic in both scripts,
+   centred on the monogram. (FE-03 §14; DRMOHAMED.NET remains the official
+   page designation in titles, footer and metadata.) */
 .wordmark__names {
-  display: flex; flex-direction: column; justify-content: center;
-  line-height: 1.15; text-align: start;
+  display: flex; align-items: center; gap: 0.5rem;
+  white-space: nowrap; line-height: 1;
 }
-.wordmark__name-en {
-  font-family: var(--font-interface);
-  font-size: 0.8125rem; font-weight: 600; letter-spacing: 0.01em;
-  color: var(--colour-slate);
+.wordmark__flag {
+  inline-size: 1.375rem; block-size: 1.375rem; flex: none;
 }
 .wordmark__name-ar {
-  font-family: var(--font-arabic);
-  font-size: 0.875rem; font-weight: 400; letter-spacing: 0;
-  color: var(--colour-slate-soft);
+  font-family: "Amiri", var(--font-arabic);
+  font-size: 1rem; font-weight: 400; letter-spacing: 0;
+  color: var(--colour-slate);
+  padding-block-start: 0.15em; /* optical centre for Arabic script */
 }
-@media (max-width: 560px) {
-  .wordmark__name-en { font-size: 0.72rem; }
-  .wordmark__name-ar { font-size: 0.78rem; }
+.wordmark__name-en {
+  font-family: "Pinyon Script", "Cormorant Garamond", cursive;
+  font-size: 1.125rem; font-weight: 400; letter-spacing: 0.01em;
+  color: var(--colour-slate);
+}
+.masthead__brand {
+  inline-size: 1.875rem; block-size: 2.5rem; flex: none;
+}
+@media (max-width: 720px) {
+  .wordmark__name-ar { font-size: 0.8125rem; }
+  .wordmark__name-en { font-size: 0.9375rem; }
+  .wordmark__flag { inline-size: 1.125rem; block-size: 1.125rem; }
+  .wordmark__names { gap: 0.35rem; }
+  .masthead__brand { inline-size: 1.5rem; block-size: 2rem; }
 }
 
 /* ---------- Primary navigation (FE-03 §2) ---------- */
@@ -271,33 +284,7 @@ small, .caption { font-size: var(--text-xs); }
 }
 .masthead__controls { display: flex; align-items: center; gap: var(--space-1); }
 
-/* ---------- National identity strip (FE-03 §14) ----------
-   One official bilingual identity system shared by all six editions:
-   transparent UAE brush flag, the Founder's English and Arabic names and an
-   authorised UAE Nation Brand master. Logical properties keep the lock-up
-   correct in LTR and RTL. */
-.identity-strip {
-  border-block-start: var(--border);
-  background: var(--colour-sand);
-}
-.identity-strip__inner {
-  display: flex; align-items: center; gap: var(--space-1);
-  padding-block: 0.25rem;
-}
-.identity-strip__flag { inline-size: 2rem; block-size: 2rem; flex: none; }
-.identity-strip__names {
-  margin: 0; font-size: 0.8125rem; color: var(--colour-slate-soft);
-  display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.35rem;
-}
-.identity-strip__names [lang="ar"] { font-family: var(--font-arabic, "Noto Naskh Arabic", "Amiri", serif); }
-.identity-strip__sep { color: var(--colour-line); }
-.identity-strip__brand {
-  inline-size: 1.45rem; block-size: 2rem; flex: none;
-  margin-inline-start: auto;
-}
-@media (max-width: 560px) {
-  .identity-strip__names { font-size: 0.75rem; }
-}
+
 
 /* ---------- Language selector (FE-03 §12; own names, never flags) ---------- */
 .language-selector { position: relative; }
