@@ -80,6 +80,46 @@
     "redirectHistory": []
   },
   {
+    "id": "page-athar-gallery-high-level-engagements",
+    "route": "/en/stewardship/career-in-pictures/high-level-engagements",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ead-memories",
+    "route": "/en/stewardship/career-in-pictures/ead-memories",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories",
+    "route": "/en/stewardship/career-in-pictures/sgc-memories",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories",
+    "route": "/en/stewardship/career-in-pictures/ndc-memories",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-epda-memories",
+    "route": "/en/stewardship/career-in-pictures/epda-memories",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-speaking-001",
     "route": "/en/speaking",
     "template": "destination",
@@ -306,6 +346,46 @@
   {
     "id": "page-athar-career-001@ar",
     "route": "/ar/stewardship/career-in-pictures",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-high-level-engagements@ar",
+    "route": "/ar/stewardship/career-in-pictures/high-level-engagements",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ead-memories@ar",
+    "route": "/ar/stewardship/career-in-pictures/ead-memories",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories@ar",
+    "route": "/ar/stewardship/career-in-pictures/sgc-memories",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories@ar",
+    "route": "/ar/stewardship/career-in-pictures/ndc-memories",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-epda-memories@ar",
+    "route": "/ar/stewardship/career-in-pictures/epda-memories",
     "template": "article",
     "locale": "ar",
     "indexStatus": "index",
@@ -544,6 +624,46 @@
     "redirectHistory": []
   },
   {
+    "id": "page-athar-gallery-high-level-engagements@zh",
+    "route": "/zh/stewardship/career-in-pictures/high-level-engagements",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ead-memories@zh",
+    "route": "/zh/stewardship/career-in-pictures/ead-memories",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories@zh",
+    "route": "/zh/stewardship/career-in-pictures/sgc-memories",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories@zh",
+    "route": "/zh/stewardship/career-in-pictures/ndc-memories",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-epda-memories@zh",
+    "route": "/zh/stewardship/career-in-pictures/epda-memories",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-speaking-001@zh",
     "route": "/zh/speaking",
     "template": "destination",
@@ -770,6 +890,46 @@
   {
     "id": "page-athar-career-001@fr",
     "route": "/fr/stewardship/career-in-pictures",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-high-level-engagements@fr",
+    "route": "/fr/stewardship/career-in-pictures/high-level-engagements",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ead-memories@fr",
+    "route": "/fr/stewardship/career-in-pictures/ead-memories",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories@fr",
+    "route": "/fr/stewardship/career-in-pictures/sgc-memories",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories@fr",
+    "route": "/fr/stewardship/career-in-pictures/ndc-memories",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-epda-memories@fr",
+    "route": "/fr/stewardship/career-in-pictures/epda-memories",
     "template": "article",
     "locale": "fr",
     "indexStatus": "index",
@@ -1008,6 +1168,46 @@
     "redirectHistory": []
   },
   {
+    "id": "page-athar-gallery-high-level-engagements@ru",
+    "route": "/ru/stewardship/career-in-pictures/high-level-engagements",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ead-memories@ru",
+    "route": "/ru/stewardship/career-in-pictures/ead-memories",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories@ru",
+    "route": "/ru/stewardship/career-in-pictures/sgc-memories",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories@ru",
+    "route": "/ru/stewardship/career-in-pictures/ndc-memories",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-epda-memories@ru",
+    "route": "/ru/stewardship/career-in-pictures/epda-memories",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-speaking-001@ru",
     "route": "/ru/speaking",
     "template": "destination",
@@ -1234,6 +1434,46 @@
   {
     "id": "page-athar-career-001@es",
     "route": "/es/stewardship/career-in-pictures",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-high-level-engagements@es",
+    "route": "/es/stewardship/career-in-pictures/high-level-engagements",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ead-memories@es",
+    "route": "/es/stewardship/career-in-pictures/ead-memories",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories@es",
+    "route": "/es/stewardship/career-in-pictures/sgc-memories",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories@es",
+    "route": "/es/stewardship/career-in-pictures/ndc-memories",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-gallery-epda-memories@es",
+    "route": "/es/stewardship/career-in-pictures/epda-memories",
     "template": "article",
     "locale": "es",
     "indexStatus": "index",

@@ -46,7 +46,12 @@
     <nav class="primary-nav" id="primary-nav" aria-label="Navegación principal" hidden data-primary-nav>
       <ul>
       <li><a href="/es">Inicio</a></li>
-      <li><a href="/es/stewardship" aria-current="page">El Athar</a></li>
+      <li class="has-sub"><a href="/es/stewardship" aria-current="page">El Athar</a>
+          <ul class="subnav">
+            <li><a href="/es/stewardship/biography">Biografía</a></li>
+            <li><a href="/es/stewardship/values-perspectives">Valores y perspectivas</a></li>
+            <li><a href="/es/stewardship/career-in-pictures">La carrera en imágenes</a></li>
+          </ul></li>
       <li><a href="/es/emirati-identity">Identidad emiratí</a></li>
       <li><a href="/es/initiatives">Aspiraciones estratégicas</a></li>
       <li><a href="/es/reading-room">Patio numérico</a></li>
@@ -83,10 +88,25 @@
 
 <section class="section container">
   
-  <ul class="card-grid">
-    <li class="card"><a class="stretched" href="/es/stewardship/biography"><h3>Biografía</h3></a><p>El perfil ejecutivo de S.E. Dr. Mohamed Yousef Almadfaei.</p></li>
-    <li class="card"><a class="stretched" href="/es/stewardship/values-perspectives"><h3>Valores y perspectivas</h3></a><p>La custodia responsable como forma de dirigir, construir y transmitir.</p></li>
-    <li class="card"><a class="stretched" href="/es/stewardship/career-in-pictures"><h3>La carrera en imágenes</h3></a><p>Los hitos de una carrera profesional, en imágenes.</p></li>
+  <ul class="feature-grid">
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/es/stewardship/biography">
+        <span class="feature-tile__media"><img src="/assets/media/bio-tile.webp" alt="Retrato de S.E. el Dr. Mohamed Yousef Almadfaei" width="1401" height="1050" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>Biografía</h3><p>El perfil ejecutivo de S.E. Dr. Mohamed Yousef Almadfaei.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/es/stewardship/values-perspectives">
+        <span class="feature-tile__media"><img src="/assets/media/values-ring.webp" alt="El anillo de oro de Saruq Al Hadid — el artefacto que inspiró el logotipo de la Expo 2020 Dubái" width="746" height="560" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>Valores y perspectivas</h3><p>La custodia responsable como forma de dirigir, construir y transmitir.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/es/stewardship/career-in-pictures">
+        <span class="feature-tile__media"><img src="/assets/media/career-tile.webp" alt="El perfil de Abu Dabi al atardecer" width="482" height="362" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>La carrera en imágenes</h3><p>Los hitos de una carrera profesional, en imágenes.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
   </ul>
 </section>
   </main>

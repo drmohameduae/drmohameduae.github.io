@@ -38,7 +38,7 @@
   
 <header class="masthead">
   <div class="container masthead__inner">
-    <a class="wordmark" href="/ar/"><img class="monogram" src="/assets/media/monogram.webp" alt="" width="300" height="399" decoding="async" /><span class="wordmark__names"><span class="wordmark__name-ar" lang="ar" dir="rtl">د. محمــد بــن يوســف المــدفـعــي</span><img class="wordmark__flag" src="/assets/media/uae-flag-brush-strip.png" alt="" width="22" height="22" decoding="async" /><span class="wordmark__name-en" lang="en">Dr. Mohamed Yousef Almadfaei</span></span></a>
+    <a class="wordmark" href="/ar/"><img class="monogram" src="/assets/media/monogram.webp" alt="" width="300" height="399" decoding="async" /><span class="wordmark__names"><span class="wordmark__name-en" lang="en">Dr. Mohamed Yousef Almadfaei</span><img class="wordmark__flag" src="/assets/media/uae-flag-brush-strip.png" alt="" width="22" height="22" decoding="async" /><span class="wordmark__name-ar" lang="ar" dir="rtl">د. محمــد بــن يوســف المــدفـعــي</span></span></a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" data-nav-toggle>
       <span class="visually-hidden">القائمة</span>
       <span class="nav-toggle__icon" aria-hidden="true"><span></span><span></span><span></span></span>
@@ -46,7 +46,12 @@
     <nav class="primary-nav" id="primary-nav" aria-label="التنقل الرئيسي" hidden data-primary-nav>
       <ul>
       <li><a href="/ar">الرئيسية</a></li>
-      <li><a href="/ar/stewardship">الأثر</a></li>
+      <li class="has-sub"><a href="/ar/stewardship">الأثر</a>
+          <ul class="subnav">
+            <li><a href="/ar/stewardship/biography">السيرة</a></li>
+            <li><a href="/ar/stewardship/values-perspectives">القيم والرؤى</a></li>
+            <li><a href="/ar/stewardship/career-in-pictures">مسيرة مهنية بالصور</a></li>
+          </ul></li>
       <li><a href="/ar/emirati-identity">الهوية الإماراتية</a></li>
       <li><a href="/ar/initiatives">تطلعات استراتيجية</a></li>
       <li><a href="/ar/reading-room">الليوان الرقمي</a></li>
@@ -75,34 +80,19 @@
   <p class="lede">الاستخلاف منهجٌ في القيادة والبناء والتسليم للأجيال.</p>
 </section>
 <section class="section section--plain container">
-  <blockquote class="quote">
+  <blockquote class="quote quote--feature">
     <p>القيادة ليست تملّكاً، بل أمانة مؤقتة لمسؤوليات يجب تسليمها إلى من يلي في حال أفضل.</p>
     
   </blockquote>
 </section>
 
 <section class="section container">
-  <div class="section-heading"><h2>القيادة بوصفها استخلافاً</h2></div>
-  <div class="prose">
   
-  <p>المناصب أمانات مؤقتة، وقيمتها في المؤسسات التي قويت، والناس الذين مُكّنوا، والقيمة العامة التي أُحدثت أثناء حمل المسؤولية.</p>
-  </div>
-</section>
-
-<section class="section container">
-  <div class="section-heading"><h2>الاستخلاف البيئي</h2></div>
-  <div class="prose">
-  
-  <p>الطبيعة ليست عائقاً أمام الازدهار؛ فصحة البيئة هي الأساس المادي الذي يقوم عليه كل اقتصاد راسخ. والسياسة الرشيدة تتعامل مع الحدود البيئية بوصفها شروط تصميم، لا أفكاراً لاحقة.</p>
-  </div>
-</section>
-
-<section class="section container">
-  <div class="section-heading"><h2>تقنية بغاية إنسانية</h2></div>
-  <div class="prose">
-  
-  <p>التقنية لا تنفصل أبداً عن قيم من يصممونها وينشرونها. وينبغي للذكاء الاصطناعي أن يوسّع الحكم الإنساني، وأن يصون الكرامة، وأن يخدم الصالح العام.</p>
-  </div>
+  <ul class="pillar-grid">
+    <li class="pillar-card"><span class="pillar-card__num" aria-hidden="true">01</span><h2>القيادة بوصفها استخلافاً</h2><p>المناصب أمانات مؤقتة، وقيمتها في المؤسسات التي قويت، والناس الذين مُكّنوا، والقيمة العامة التي أُحدثت أثناء حمل المسؤولية.</p></li>
+    <li class="pillar-card"><span class="pillar-card__num" aria-hidden="true">02</span><h2>الاستخلاف البيئي</h2><p>الطبيعة ليست عائقاً أمام الازدهار؛ فصحة البيئة هي الأساس المادي الذي يقوم عليه كل اقتصاد راسخ. والسياسة الرشيدة تتعامل مع الحدود البيئية بوصفها شروط تصميم، لا أفكاراً لاحقة.</p></li>
+    <li class="pillar-card"><span class="pillar-card__num" aria-hidden="true">03</span><h2>تقنية بغاية إنسانية</h2><p>التقنية لا تنفصل أبداً عن قيم من يصممونها وينشرونها. وينبغي للذكاء الاصطناعي أن يوسّع الحكم الإنساني، وأن يصون الكرامة، وأن يخدم الصالح العام.</p></li>
+  </ul>
 </section>
 
 <section class="section container">

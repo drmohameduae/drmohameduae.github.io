@@ -70,6 +70,41 @@
     "type": "page"
   },
   {
+    "id": "page-athar-gallery-high-level-engagements",
+    "title": "Встречи высокого уровня",
+    "summary": "Официальные встречи и знаковые моменты — в фотографиях.",
+    "route": "/ru/stewardship/career-in-pictures/high-level-engagements",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ead-memories",
+    "title": "Воспоминания EAD",
+    "summary": "Семнадцать лет в Экологическом агентстве Абу-Даби — в фотографиях.",
+    "route": "/ru/stewardship/career-in-pictures/ead-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories",
+    "title": "Воспоминания SGC",
+    "summary": "Вехи Shura Global Consultancy — в фотографиях.",
+    "route": "/ru/stewardship/career-in-pictures/sgc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories",
+    "title": "Воспоминания NDC",
+    "summary": "Годы в Колледже национальной обороны ОАЭ — в фотографиях.",
+    "route": "/ru/stewardship/career-in-pictures/ndc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-epda-memories",
+    "title": "Воспоминания EPDA",
+    "summary": "Руководство Управлением по защите окружающей среды и развитию — в фотографиях.",
+    "route": "/ru/stewardship/career-in-pictures/epda-memories",
+    "type": "page"
+  },
+  {
     "id": "page-speaking-001",
     "title": "Выступления",
     "summary": "Беседы ценны, когда выходят за рамки представления и помогают людям яснее увидеть проблему.",

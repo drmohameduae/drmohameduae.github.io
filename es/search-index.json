@@ -70,6 +70,41 @@
     "type": "page"
   },
   {
+    "id": "page-athar-gallery-high-level-engagements",
+    "title": "Encuentros de alto nivel",
+    "summary": "Compromisos oficiales y momentos de liderazgo, en fotografías.",
+    "route": "/es/stewardship/career-in-pictures/high-level-engagements",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ead-memories",
+    "title": "Recuerdos de la EAD",
+    "summary": "Diecisiete años en la Agencia de Medio Ambiente – Abu Dabi, en fotografías.",
+    "route": "/es/stewardship/career-in-pictures/ead-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories",
+    "title": "Recuerdos de SGC",
+    "summary": "Hitos de Shura Global Consultancy, en fotografías.",
+    "route": "/es/stewardship/career-in-pictures/sgc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories",
+    "title": "Recuerdos del NDC",
+    "summary": "Los años en el Colegio de Defensa Nacional de los EAU, en fotografías.",
+    "route": "/es/stewardship/career-in-pictures/ndc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-epda-memories",
+    "title": "Recuerdos de la EPDA",
+    "summary": "Al frente de la Autoridad de Protección Ambiental y Desarrollo, en fotografías.",
+    "route": "/es/stewardship/career-in-pictures/epda-memories",
+    "type": "page"
+  },
+  {
     "id": "page-speaking-001",
     "title": "Conferencias",
     "summary": "Las conversaciones importan cuando van más allá de la actuación y ayudan a las personas a ver un problema con mayor claridad.",

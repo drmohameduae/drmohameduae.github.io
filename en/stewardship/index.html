@@ -46,7 +46,12 @@
     <nav class="primary-nav" id="primary-nav" aria-label="Primary" hidden data-primary-nav>
       <ul>
       <li><a href="/en">Home</a></li>
-      <li><a href="/en/stewardship" aria-current="page">The Athar</a></li>
+      <li class="has-sub"><a href="/en/stewardship" aria-current="page">The Athar</a>
+          <ul class="subnav">
+            <li><a href="/en/stewardship/biography">Biography</a></li>
+            <li><a href="/en/stewardship/values-perspectives">Values &amp; Perspectives</a></li>
+            <li><a href="/en/stewardship/career-in-pictures">Career in Pictures</a></li>
+          </ul></li>
       <li><a href="/en/emirati-identity">Emirati Identity</a></li>
       <li><a href="/en/initiatives">Strategic Aspirations</a></li>
       <li><a href="/en/reading-room">Digital Liwan</a></li>
@@ -83,10 +88,25 @@
 
 <section class="section container">
   
-  <ul class="card-grid">
-    <li class="card"><a class="stretched" href="/en/stewardship/biography"><h3>Biography</h3></a><p>The executive profile of H.E. Dr. Mohamed Yousef Almadfaei.</p></li>
-    <li class="card"><a class="stretched" href="/en/stewardship/values-perspectives"><h3>Values &amp; Perspectives</h3></a><p>Stewardship as a way of leading, building and handing over.</p></li>
-    <li class="card"><a class="stretched" href="/en/stewardship/career-in-pictures"><h3>Career in Pictures</h3></a><p>Milestones of a professional career, in photographs.</p></li>
+  <ul class="feature-grid">
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/en/stewardship/biography">
+        <span class="feature-tile__media"><img src="/assets/media/bio-tile.webp" alt="Portrait of H.E. Dr. Mohamed Yousef Almadfaei" width="1401" height="1050" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>Biography</h3><p>The executive profile of H.E. Dr. Mohamed Yousef Almadfaei.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/en/stewardship/values-perspectives">
+        <span class="feature-tile__media"><img src="/assets/media/values-ring.webp" alt="The Saruq Al Hadid gold ring — the artefact that inspired the Expo 2020 Dubai logo" width="746" height="560" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>Values &amp; Perspectives</h3><p>Stewardship as a way of leading, building and handing over.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/en/stewardship/career-in-pictures">
+        <span class="feature-tile__media"><img src="/assets/media/career-tile.webp" alt="The Abu Dhabi skyline at dusk" width="482" height="362" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>Career in Pictures</h3><p>Milestones of a professional career, in photographs.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
   </ul>
 </section>
   </main>

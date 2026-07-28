@@ -46,7 +46,12 @@
     <nav class="primary-nav" id="primary-nav" aria-label="Navigation principale" hidden data-primary-nav>
       <ul>
       <li><a href="/fr">Accueil</a></li>
-      <li><a href="/fr/stewardship" aria-current="page">L&#39;Athar</a></li>
+      <li class="has-sub"><a href="/fr/stewardship" aria-current="page">L&#39;Athar</a>
+          <ul class="subnav">
+            <li><a href="/fr/stewardship/biography">Biographie</a></li>
+            <li><a href="/fr/stewardship/values-perspectives">Valeurs et perspectives</a></li>
+            <li><a href="/fr/stewardship/career-in-pictures">La carrière en images</a></li>
+          </ul></li>
       <li><a href="/fr/emirati-identity">Identité émiratie</a></li>
       <li><a href="/fr/initiatives">Aspirations stratégiques</a></li>
       <li><a href="/fr/reading-room">Patio numérique</a></li>
@@ -83,10 +88,25 @@
 
 <section class="section container">
   
-  <ul class="card-grid">
-    <li class="card"><a class="stretched" href="/fr/stewardship/biography"><h3>Biographie</h3></a><p>Le profil exécutif de S.E. Dr Mohamed Yousef Almadfaei.</p></li>
-    <li class="card"><a class="stretched" href="/fr/stewardship/values-perspectives"><h3>Valeurs et perspectives</h3></a><p>Diriger, bâtir et transmettre dans un esprit de responsabilité.</p></li>
-    <li class="card"><a class="stretched" href="/fr/stewardship/career-in-pictures"><h3>La carrière en images</h3></a><p>Les grandes étapes d&#39;une carrière, en images.</p></li>
+  <ul class="feature-grid">
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/fr/stewardship/biography">
+        <span class="feature-tile__media"><img src="/assets/media/bio-tile.webp" alt="Portrait de S.E. Dr Mohamed Yousef Almadfaei" width="1401" height="1050" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>Biographie</h3><p>Le profil exécutif de S.E. Dr Mohamed Yousef Almadfaei.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/fr/stewardship/values-perspectives">
+        <span class="feature-tile__media"><img src="/assets/media/values-ring.webp" alt="L&#39;anneau d&#39;or de Saruq Al Hadid — l&#39;artefact qui a inspiré le logo d&#39;Expo 2020 Dubaï" width="746" height="560" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>Valeurs et perspectives</h3><p>Diriger, bâtir et transmettre dans un esprit de responsabilité.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/fr/stewardship/career-in-pictures">
+        <span class="feature-tile__media"><img src="/assets/media/career-tile.webp" alt="La silhouette d&#39;Abou Dabi au crépuscule" width="482" height="362" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>La carrière en images</h3><p>Les grandes étapes d&#39;une carrière, en images.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
   </ul>
 </section>
   </main>

@@ -46,7 +46,12 @@
     <nav class="primary-nav" id="primary-nav" aria-label="主导航" hidden data-primary-nav>
       <ul>
       <li><a href="/zh">首页</a></li>
-      <li><a href="/zh/stewardship" aria-current="page">阿塔尔</a></li>
+      <li class="has-sub"><a href="/zh/stewardship" aria-current="page">阿塔尔</a>
+          <ul class="subnav">
+            <li><a href="/zh/stewardship/biography">生平</a></li>
+            <li><a href="/zh/stewardship/values-perspectives">价值观与理念</a></li>
+            <li><a href="/zh/stewardship/career-in-pictures">职业生涯影像</a></li>
+          </ul></li>
       <li><a href="/zh/emirati-identity">阿联酋身份认同</a></li>
       <li><a href="/zh/initiatives">战略愿景</a></li>
       <li><a href="/zh/reading-room">数字庭院</a></li>
@@ -83,10 +88,25 @@
 
 <section class="section container">
   
-  <ul class="card-grid">
-    <li class="card"><a class="stretched" href="/zh/stewardship/biography"><h3>生平</h3></a><p>穆罕默德·优素福·阿尔马德法伊博士阁下的执行概要。</p></li>
-    <li class="card"><a class="stretched" href="/zh/stewardship/values-perspectives"><h3>价值观与理念</h3></a><p>以责任与传承之道领导、建设并交接。</p></li>
-    <li class="card"><a class="stretched" href="/zh/stewardship/career-in-pictures"><h3>职业生涯影像</h3></a><p>以影像记录职业生涯的重要时刻。</p></li>
+  <ul class="feature-grid">
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/zh/stewardship/biography">
+        <span class="feature-tile__media"><img src="/assets/media/bio-tile.webp" alt="穆罕默德·优素福·阿尔马德法伊博士阁下肖像" width="1401" height="1050" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>生平</h3><p>穆罕默德·优素福·阿尔马德法伊博士阁下的执行概要。</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/zh/stewardship/values-perspectives">
+        <span class="feature-tile__media"><img src="/assets/media/values-ring.webp" alt="萨鲁克·哈迪德金戒指——2020年迪拜世博会会徽的灵感来源" width="746" height="560" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>价值观与理念</h3><p>以责任与传承之道领导、建设并交接。</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
+    <li class="feature-tile">
+      <a class="feature-tile__link" href="/zh/stewardship/career-in-pictures">
+        <span class="feature-tile__media"><img src="/assets/media/career-tile.webp" alt="暮色中的阿布扎比天际线" width="482" height="362" loading="lazy" decoding="async" /></span>
+        <span class="feature-tile__text"><h3>职业生涯影像</h3><p>以影像记录职业生涯的重要时刻。</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
+      </a>
+    </li>
   </ul>
 </section>
   </main>

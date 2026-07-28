@@ -70,6 +70,41 @@
     "type": "page"
   },
   {
+    "id": "page-athar-gallery-high-level-engagements",
+    "title": "High Level Engagements",
+    "summary": "Official engagements and leadership moments, in photographs.",
+    "route": "/en/stewardship/career-in-pictures/high-level-engagements",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ead-memories",
+    "title": "EAD Memories",
+    "summary": "Seventeen years at the Environment Agency – Abu Dhabi, in photographs.",
+    "route": "/en/stewardship/career-in-pictures/ead-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories",
+    "title": "SGC Memories",
+    "summary": "Milestones of Shura Global Consultancy, in photographs.",
+    "route": "/en/stewardship/career-in-pictures/sgc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories",
+    "title": "NDC Memories",
+    "summary": "The UAE National Defence College years, in photographs.",
+    "route": "/en/stewardship/career-in-pictures/ndc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-epda-memories",
+    "title": "EPDA Memories",
+    "summary": "Leading the Environment Protection and Development Authority, in photographs.",
+    "route": "/en/stewardship/career-in-pictures/epda-memories",
+    "type": "page"
+  },
+  {
     "id": "page-speaking-001",
     "title": "Speaking",
     "summary": "Conversations matter when they move beyond performance and help people see a problem more clearly.",

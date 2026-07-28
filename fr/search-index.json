@@ -70,6 +70,41 @@
     "type": "page"
   },
   {
+    "id": "page-athar-gallery-high-level-engagements",
+    "title": "Engagements de haut niveau",
+    "summary": "Engagements officiels et moments de leadership, en images.",
+    "route": "/fr/stewardship/career-in-pictures/high-level-engagements",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ead-memories",
+    "title": "Souvenirs de l'EAD",
+    "summary": "Dix-sept ans à l'Environment Agency – Abou Dabi, en images.",
+    "route": "/fr/stewardship/career-in-pictures/ead-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories",
+    "title": "Souvenirs de SGC",
+    "summary": "Les étapes de Shura Global Consultancy, en images.",
+    "route": "/fr/stewardship/career-in-pictures/sgc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories",
+    "title": "Souvenirs du NDC",
+    "summary": "Les années au Collège national de défense des Émirats, en images.",
+    "route": "/fr/stewardship/career-in-pictures/ndc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-epda-memories",
+    "title": "Souvenirs de l'EPDA",
+    "summary": "À la tête de l'Autorité de Protection de l'Environnement et du Développement, en images.",
+    "route": "/fr/stewardship/career-in-pictures/epda-memories",
+    "type": "page"
+  },
+  {
     "id": "page-speaking-001",
     "title": "Interventions",
     "summary": "Les conversations comptent lorsqu'elles dépassent la performance et aident les gens à voir un problème plus clairement.",

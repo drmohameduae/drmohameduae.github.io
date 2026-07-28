@@ -70,6 +70,41 @@
     "type": "page"
   },
   {
+    "id": "page-athar-gallery-high-level-engagements",
+    "title": "高层交往",
+    "summary": "官方活动与重要时刻，以影像记录。",
+    "route": "/zh/stewardship/career-in-pictures/high-level-engagements",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ead-memories",
+    "title": "阿布扎比环境署岁月",
+    "summary": "在阿布扎比环境署的十七年，以影像记录。",
+    "route": "/zh/stewardship/career-in-pictures/ead-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-sgc-memories",
+    "title": "舒拉全球咨询岁月",
+    "summary": "舒拉全球咨询公司的重要里程碑，以影像记录。",
+    "route": "/zh/stewardship/career-in-pictures/sgc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-ndc-memories",
+    "title": "国防学院岁月",
+    "summary": "在阿联酋国防学院的岁月，以影像记录。",
+    "route": "/zh/stewardship/career-in-pictures/ndc-memories",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-gallery-epda-memories",
+    "title": "拉斯海马环保局岁月",
+    "summary": "领导环境保护与发展局的历程，以影像记录。",
+    "route": "/zh/stewardship/career-in-pictures/epda-memories",
+    "type": "page"
+  },
+  {
     "id": "page-speaking-001",
     "title": "演讲",
     "summary": "当对话超越表面功夫、帮助人们更清晰地看待问题时，它才真正有意义。",
