@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-28T15:24:46.567Z",
+  "builtAt": "2026-07-28T15:45:19.514Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -36,8 +36,8 @@
       "template": "home",
       "indexStatus": "index",
       "file": "/en/index.html",
-      "bytes": 7975,
-      "sha256": "d14a7af1ad6521c746b6135524e51e8173ae7f100c550f1361914e8f5e85d01c"
+      "bytes": 8905,
+      "sha256": "afbbc1a92c5f1fd7a24a77ed68da7fe169c3e4640d9b54b28d54ddb54333e040"
     },
     {
       "id": "page-discover-001",
@@ -63,8 +63,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/en/stewardship/index.html",
-      "bytes": 9282,
-      "sha256": "45e5fc2459d2c4c64fe1e55397c6e926bdc92da6e9b315d0ce322e09823ecc3b"
+      "bytes": 9303,
+      "sha256": "3813ca19cfb201f7d8ae9585bf8d0d9c82740d41888c3a14952884981df56c94"
     },
     {
       "id": "page-athar-biography-001",
@@ -73,7 +73,7 @@
       "indexStatus": "index",
       "file": "/en/stewardship/biography/index.html",
       "bytes": 19700,
-      "sha256": "6e67d213632210e151ede60192f40809db4adf7f7fa20a3dd7178110e2e26fa0"
+      "sha256": "07af4adfe0d50d1f2df67a1004be677c759809511325a7c7a2edbbf6efb18c65"
     },
     {
       "id": "page-athar-values-001",
@@ -338,8 +338,8 @@
       "template": "home",
       "indexStatus": "index",
       "file": "/ar/index.html",
-      "bytes": 8747,
-      "sha256": "f3bbb95e977590f210c7c47897c8deca1d41809161abdf1cae7f5f31622f6086"
+      "bytes": 9828,
+      "sha256": "b24eab52d0c9c4c5cdb51b5192c2993b9ee495296eaadd860b41468b695c762b"
     },
     {
       "id": "page-discover-001@ar",
@@ -365,8 +365,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ar/stewardship/index.html",
-      "bytes": 10063,
-      "sha256": "f5bf3f79963a49c99c73395497407e9aa634cce6d76ea8304f390f558b7199c9"
+      "bytes": 10090,
+      "sha256": "0c40e39c4f3c6bca4f822f230eb2c4ab6e749c2f7d0a89d13a1fc372305a37cd"
     },
     {
       "id": "page-athar-biography-001@ar",
@@ -375,7 +375,7 @@
       "indexStatus": "index",
       "file": "/ar/stewardship/biography/index.html",
       "bytes": 24649,
-      "sha256": "26c34e3211848a96eebde7e0c58c52fda751373653de898889511def53d655dc"
+      "sha256": "3e9f588fdfa2156a5530cd872985b140b5a2e4d6bd601e3dc03983e562aa0adb"
     },
     {
       "id": "page-athar-values-001@ar",
@@ -640,8 +640,8 @@
       "template": "home",
       "indexStatus": "index",
       "file": "/zh/index.html",
-      "bytes": 7808,
-      "sha256": "47d6443c2d1467c992a6e69d6e287d843801122aacf4dd87c9f611443f16ca0d"
+      "bytes": 8722,
+      "sha256": "55967473867f353fda0ab340191a1f467cf0d691f787b47792c4eaefc9ad020f"
     },
     {
       "id": "page-discover-001@zh",
@@ -667,8 +667,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/zh/stewardship/index.html",
-      "bytes": 9387,
-      "sha256": "3c8100cf637e29a97524f2fa3950aba69c6b9775716d810882ae724684a46278"
+      "bytes": 9414,
+      "sha256": "f2d3bc3a41742bb9e4e66fa01f7ece33199ad1fc6fdedd7cc14014bb686060a6"
     },
     {
       "id": "page-athar-biography-001@zh",
@@ -677,7 +677,7 @@
       "indexStatus": "index",
       "file": "/zh/stewardship/biography/index.html",
       "bytes": 17563,
-      "sha256": "051e0976635998692d26063e4908a0718df7913a79f6aebe07aea899a8c78b6b"
+      "sha256": "46f774f5587e180e953dea4596cc67860473bc443dab39f1ac9e2746c073160e"
     },
     {
       "id": "page-athar-values-001@zh",
@@ -942,8 +942,8 @@
       "template": "home",
       "indexStatus": "index",
       "file": "/fr/index.html",
-      "bytes": 8604,
-      "sha256": "23ee01a11c5069799770681132c436c4f8864586670ae3f580e1ed8bff7561c0"
+      "bytes": 9592,
+      "sha256": "37ce8fdd895e8097955e481f7d874ab01105f138020ec58551d7635aac0865ca"
     },
     {
       "id": "page-discover-001@fr",
@@ -969,8 +969,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/fr/stewardship/index.html",
-      "bytes": 9477,
-      "sha256": "c66861d21fcdb5c8be6a061d069374b6da68ec10537c1b066843c32bc06c0285"
+      "bytes": 9491,
+      "sha256": "c58712bf7b6be35b050990b4b60c4dcc2335f42d05cf3cdb0f56a5bfd82945a9"
     },
     {
       "id": "page-athar-biography-001@fr",
@@ -979,7 +979,7 @@
       "indexStatus": "index",
       "file": "/fr/stewardship/biography/index.html",
       "bytes": 22119,
-      "sha256": "4f2bae6869a244aa36d9811e9ff0c31342a5dbb14e4918c062ac5d99a6534778"
+      "sha256": "9e06edd4735db7b658ce37b7397a188d8633a6a00a99debcd60983d05ee457a1"
     },
     {
       "id": "page-athar-values-001@fr",
@@ -1244,8 +1244,8 @@
       "template": "home",
       "indexStatus": "index",
       "file": "/ru/index.html",
-      "bytes": 9897,
-      "sha256": "df77378d86d0a23a32a3a7be18e1663354e34c8b97a3a5a946b74ff3223733ca"
+      "bytes": 11010,
+      "sha256": "8cfe386005d56dd114c0fc113367a0ae89bf2055f93781085b5abd91a2f4541c"
     },
     {
       "id": "page-discover-001@ru",
@@ -1271,8 +1271,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ru/stewardship/index.html",
-      "bytes": 10954,
-      "sha256": "e4f18736f22d506cdd05e5909cff507509b3025a6018ddfa9a749fb78ae17995"
+      "bytes": 10977,
+      "sha256": "ca4de39b7a313388788d08799de0960258bf6c48b6ad95ba482f49d40ad4402d"
     },
     {
       "id": "page-athar-biography-001@ru",
@@ -1281,7 +1281,7 @@
       "indexStatus": "index",
       "file": "/ru/stewardship/biography/index.html",
       "bytes": 29794,
-      "sha256": "b36d1e209a2b9781d791e8e9d842be988ebd4a9ee1d927dbd79bcc9751976443"
+      "sha256": "545398c7df7d7795bfd88f819a5eba2344c6a0f03526c80c983bb19cb1f163ac"
     },
     {
       "id": "page-athar-values-001@ru",
@@ -1546,8 +1546,8 @@
       "template": "home",
       "indexStatus": "index",
       "file": "/es/index.html",
-      "bytes": 8301,
-      "sha256": "c8e2684c7118aa9f30dd633b6e099c3b2da3aaac45a585e9854db0dced05fa31"
+      "bytes": 9248,
+      "sha256": "f7b78ebf33c4863cb1893ca6a023752652aaffed3d895aeaf23a062ad8ef2a0b"
     },
     {
       "id": "page-discover-001@es",
@@ -1573,8 +1573,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/es/stewardship/index.html",
-      "bytes": 9397,
-      "sha256": "c221fd6e5374ebe449ded6b7e8d64b165b04e4f7bb8fd7c778436afb11084dbc"
+      "bytes": 9412,
+      "sha256": "626755c840c9919a45741652b0bf23b9d510ca7e0f4838f3253bf646137afb5a"
     },
     {
       "id": "page-athar-biography-001@es",
@@ -1583,7 +1583,7 @@
       "indexStatus": "index",
       "file": "/es/stewardship/biography/index.html",
       "bytes": 20802,
-      "sha256": "837720b7eb78c68a8e500a9aeab7617a34d5d291e9b4f8788d1e4a351ba5e15b"
+      "sha256": "52d84c9acfd40cd26bedcd07cb78557a30fb32b035f3b1cc7ce34b18fe7ebaa8"
     },
     {
       "id": "page-athar-values-001@es",
@@ -1820,8 +1820,8 @@
     {
       "role": "stylesheet",
       "file": "/assets/site.css",
-      "bytes": 41112,
-      "sha256": "ac1c8e87ecce3ba7a932cf2ff65fd54cc3c92001e4e4cfa6355823a70118e708"
+      "bytes": 41517,
+      "sha256": "fe6ac933053ef3aa086463bc3fedfbaaaa3dd3fb08fffed15581eb6134ecf901"
     },
     {
       "role": "print-stylesheet",
@@ -1916,8 +1916,8 @@
     {
       "role": "public-asset",
       "file": "assets/media/bio-strip.webp",
-      "bytes": 42196,
-      "sha256": "1d9b4d7db97598a5a0d015cabd9755e6bf075cc78bf999155009193529360865"
+      "bytes": 42094,
+      "sha256": "6b772073d7f61fe0e24618f46d54cdb10c3e47537ce023f157033115798b9956"
     },
     {
       "role": "public-asset",
@@ -1928,8 +1928,8 @@
     {
       "role": "public-asset",
       "file": "assets/media/career-tile.webp",
-      "bytes": 8162,
-      "sha256": "de439f46b3f60c7bacf430352b0d90bb4cee1f498c1a88d42c6510c4edd283fc"
+      "bytes": 50976,
+      "sha256": "4cc1586d60ee5cedcda409e61e99f0508883c0c8d924eeec6cc83231280dfc31"
     },
     {
       "role": "public-asset",
@@ -1948,6 +1948,30 @@
       "file": "assets/media/founder-portrait.webp",
       "bytes": 64972,
       "sha256": "068b023f028f1ea0de22a5e791d6f740a35c8db72565d9662b3941dd16a6ec17"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/home-dhow.webp",
+      "bytes": 32896,
+      "sha256": "880518fb2abfa017fd4bdd93629b8f7c32746d3dd2ab46bf62c07b1e6ab533ab"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/home-gazelle.webp",
+      "bytes": 22344,
+      "sha256": "02134293cf377be73c635912be64a3317ca3bd5784a4595f9ab1f41248b17e09"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/home-hero-qasr.webp",
+      "bytes": 90744,
+      "sha256": "01d41f5aa8036fc692e6c3311deb14e7e5e35600cc6bc9395affce22f4e4e8b4"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/home-mangrove.webp",
+      "bytes": 204250,
+      "sha256": "b612ee3b82c951560efafd05e8d1f7d51d10b5fafdac218d30c284f453a9031e"
     },
     {
       "role": "public-asset",
@@ -2011,7 +2035,7 @@
       "withinBudget": true
     },
     "initialCss": {
-      "compressedBytes": 9534,
+      "compressedBytes": 9593,
       "budget": 71680,
       "withinBudget": true
     }

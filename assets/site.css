@@ -893,3 +893,11 @@ html[dir="rtl"] .timeline__year { font-family: var(--font-arabic-display); font-
 /* Biography portrait: full column width */
 .profile-main .media-figure img { inline-size: 100%; max-inline-size: 100%; }
 .pillar-card h2 { font-size: var(--text-xl); padding-inline-end: 2.75rem; }
+
+/* ---------- Inspiring image row (home) ---------- */
+.imagrow { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-3); grid-template-columns: 1fr; }
+@media (min-width: 48rem) { .imagrow { grid-template-columns: repeat(3, 1fr); } }
+.imagrow img {
+  display: block; inline-size: 100%; aspect-ratio: 4 / 3; object-fit: cover;
+  border-radius: var(--radius); border: var(--border);
+}
