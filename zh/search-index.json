@@ -43,8 +43,8 @@
   },
   {
     "id": "page-stewardship-001",
-    "title": "责任与传承",
-    "summary": "领导力不是占有，而是对责任的临时守护——这些责任必须以更好的状态传承下去。",
+    "title": "阿塔尔",
+    "summary": "穆罕默德·优素福·阿尔马德法伊博士阁下执行概要——在公共政策、环境治理、机构转型与战略事务领域逾二十年的历程。",
     "route": "/zh/stewardship",
     "type": "page"
   },
@@ -71,7 +71,7 @@
   },
   {
     "id": "page-shura-001",
-    "title": "Shura Global Consultancy",
+    "title": "舒拉全球咨询公司",
     "summary": "一家独立的战略咨询机构，旨在贯通政府政策、环境责任、机构建设与新兴科技。",
     "route": "/zh/shura",
     "type": "page"

@@ -22,11 +22,12 @@
   --colour-focus: #2D4030;       /* visible focus = olive */
 
   /* Typography (FE-03 §4.3; Revision 1.2 pairing) */
-  --font-display: "Cormorant Garamond", "Georgia", "Times New Roman", serif;
-  --font-body: "Source Serif 4", "Georgia", "Times New Roman", serif;
-  --font-interface: "Source Sans 3", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  --font-arabic: "Noto Naskh Arabic", "Amiri", "Traditional Arabic", serif;
-  --font-chinese: "Noto Serif SC", "Songti SC", "STSong", "SimSun", serif;
+  --font-display: "Archivo Black", "Montserrat Lockup", "Noto Sans", sans-serif;
+  --font-body: "Noto Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-interface: "Noto Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --font-arabic: "Noto Sans Arabic", "Tahoma", "Noto Sans", sans-serif;
+  --font-arabic-display: "Kufam", "Noto Sans Arabic", "Tahoma", sans-serif;
+  --font-chinese: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", sans-serif;
 
   /* Type scale (1.25 ratio; body minimum 16px per FE-03 §4.2) */
   --text-xs: 0.8rem;      /* 12.8px — captions, credits (min legible, non-body) */
@@ -73,110 +74,63 @@
   --z-panel: 60;
 }
 
-/* Self-hosted typefaces (FE-03 §4.3, §4.4; Revision 1.2 typography):
-   Display — Cormorant Garamond; Latin/Cyrillic long-form — Source Serif 4;
-   interface — Source Sans 3; Arabic — Noto Naskh Arabic with Amiri fallback.
-   Simplified Chinese long-form uses Noto Serif SC (CDN delivery; system
-   serif fallback in the self-hosted build). */
+/* Self-hosted typefaces (Founder's typography directive, July 2026):
+   Headlines — Archivo Black (Latin), Kufam 900 (Arabic), Montserrat Lockup
+   (Cyrillic fallback); body and interface — Noto Sans (Latin/Cyrillic) and
+   Noto Sans Arabic (Arabic). Chinese uses system sans fallbacks. */
 
+/* Noto Sans: body/interface, Latin */
 @font-face {
-  font-family: "Cormorant Garamond";
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url("/assets/fonts/cormorant-garamond-600.woff2") format("woff2");
-  size-adjust: 100%;
-}
-@font-face {
-  font-family: "Source Serif 4";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/source-serif-4-400-latin.woff2") format("woff2");
+  src: url("/assets/fonts/noto-sans-400-latin.woff2") format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: "Source Serif 4";
+  font-family: "Noto Sans";
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-display: swap;
-  src: url("/assets/fonts/source-serif-4-400-cyrillic.woff2") format("woff2");
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-@font-face {
-  font-family: "Source Serif 4";
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url("/assets/fonts/source-serif-4-600-latin.woff2") format("woff2");
+  src: url("/assets/fonts/noto-sans-700-latin.woff2") format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+/* Noto Sans: body/interface, Cyrillic */
 @font-face {
-  font-family: "Source Serif 4";
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url("/assets/fonts/source-serif-4-600-cyrillic.woff2") format("woff2");
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-@font-face {
-  font-family: "Source Sans 3";
+  font-family: "Noto Sans";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/source-sans-3-400-latin.woff2") format("woff2");
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-@font-face {
-  font-family: "Source Sans 3";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url("/assets/fonts/source-sans-3-400-cyrillic.woff2") format("woff2");
+  src: url("/assets/fonts/noto-sans-400-cyrillic.woff2") format("woff2");
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 @font-face {
-  font-family: "Source Sans 3";
+  font-family: "Noto Sans";
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
   font-display: swap;
-  src: url("/assets/fonts/source-sans-3-600-latin.woff2") format("woff2");
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-@font-face {
-  font-family: "Source Sans 3";
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url("/assets/fonts/source-sans-3-600-cyrillic.woff2") format("woff2");
+  src: url("/assets/fonts/noto-sans-700-cyrillic.woff2") format("woff2");
   unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
+/* Noto Sans Arabic: body/interface, Arabic */
 @font-face {
-  font-family: "Noto Naskh Arabic";
+  font-family: "Noto Sans Arabic";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/noto-naskh-arabic-400-arabic.woff2") format("woff2");
+  src: url("/assets/fonts/noto-sans-arabic-400-arabic.woff2") format("woff2");
   unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF, U+0660-0669;
 }
 @font-face {
-  font-family: "Noto Naskh Arabic";
+  font-family: "Noto Sans Arabic";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("/assets/fonts/noto-naskh-arabic-600-arabic.woff2") format("woff2");
+  src: url("/assets/fonts/noto-sans-arabic-600-arabic.woff2") format("woff2");
   unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF, U+0660-0669;
 }
-/* Amiri: specified fallback for Arabic (Revision 1.2 typography) */
-@font-face {
-  font-family: "Amiri";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url("/assets/fonts/amiri-400-arabic.woff2") format("woff2");
-  unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF, U+0660-0669;
-}
-/* Kufam (variable, used at 900): geometric Kufi for the Founder's Arabic name */
+/* Kufam (variable, used at 900): Arabic headlines and the Founder's Arabic name */
 @font-face {
   font-family: "Kufam";
   font-style: normal;
@@ -185,7 +139,7 @@
   src: url("/assets/fonts/kufam-400-900-arabic.woff2") format("woff2");
   unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF, U+0660-0669, U+0640;
 }
-/* Archivo Black: Latin partner face for the Founder's name lock-up */
+/* Archivo Black: Latin headlines and the Founder's name lock-up */
 @font-face {
   font-family: "Archivo Black";
   font-style: normal;
@@ -194,8 +148,8 @@
   src: url("/assets/fonts/archivo-black-400-latin.woff2") format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-/* Montserrat ExtraBold (registered at 400): Cyrillic partner for the lock-up —
-   Archivo Black covers no Cyrillic, so the Russian name falls through to this. */
+/* Montserrat ExtraBold (registered at 400): Cyrillic partner for headlines
+   and the lock-up — Archivo Black covers no Cyrillic. */
 @font-face {
   font-family: "Montserrat Lockup";
   font-style: normal;
@@ -239,7 +193,8 @@ body {
   font-family: var(--font-chinese);
 }
 [lang="zh"] h1, [lang="zh"] h2, [lang="zh"] h3, [lang="zh"] h4 {
-  font-family: "Cormorant Garamond", var(--font-chinese);
+  font-family: "Archivo Black", var(--font-chinese);
+  font-weight: 700;
 }
 /* Interface chrome stays sans across editions (Revision 1.2 pairing) */
 .primary-nav, .masthead__controls, .breadcrumbs,
@@ -250,7 +205,7 @@ body {
 [lang="zh"] .primary-nav, [lang="zh"] .masthead__controls, [lang="zh"] .breadcrumbs,
 [lang="zh"] .site-footer, [lang="zh"] .button, [lang="zh"] .actions,
 [lang="zh"] .contact-form, [lang="zh"] .directory, [lang="zh"] .language-selector {
-  font-family: "Source Sans 3", var(--font-chinese);
+  font-family: "Noto Sans", var(--font-chinese);
 }
 img, svg, video { max-inline-size: 100%; block-size: auto; }
 button, input, select, textarea { font: inherit; color: inherit; }
@@ -258,18 +213,19 @@ button, input, select, textarea { font: inherit; color: inherit; }
 /* ---------- Typography ---------- */
 h1, h2, h3, h4 {
   font-family: var(--font-display);
-  font-weight: 600;
+  font-weight: 400; /* Archivo Black is single-weight; size differentiates levels */
   line-height: var(--leading-tight);
   color: var(--colour-slate);
   margin-block: 0 var(--space-2);
 }
 html[dir="rtl"] h1, html[dir="rtl"] h2, html[dir="rtl"] h3, html[dir="rtl"] h4 {
-  font-family: var(--font-arabic);
+  font-family: var(--font-arabic-display);
+  font-weight: 900;
 }
-h1 { font-size: var(--text-3xl); letter-spacing: -0.01em; }
+h1 { font-size: var(--text-3xl); letter-spacing: -0.005em; }
 h2 { font-size: var(--text-2xl); }
-h3 { font-size: var(--text-xl); font-family: var(--font-interface); font-weight: 650; }
-h4 { font-size: var(--text-lg); font-family: var(--font-interface); font-weight: 600; }
+h3 { font-size: var(--text-xl); }
+h4 { font-size: var(--text-lg); }
 p { margin-block: 0 var(--space-2); max-inline-size: var(--measure); }
 a { color: var(--colour-olive); text-decoration-thickness: 1px; text-underline-offset: 0.18em; }
 a:hover { color: var(--colour-olive-hover); }
@@ -346,7 +302,7 @@ small, .caption { font-size: var(--text-xs); }
   padding-block-start: 0.12em; /* optical centre for Arabic script */
 }
 .wordmark__name-en {
-  font-family: "Archivo Black", "Montserrat Lockup", "Source Sans 3", sans-serif;
+  font-family: "Archivo Black", "Montserrat Lockup", "Noto Sans", sans-serif;
   font-size: 0.9375rem; font-weight: 400; letter-spacing: 0.005em;
   color: var(--colour-slate);
 }
@@ -655,7 +611,7 @@ figcaption .credit { color: var(--colour-terracotta); }
 .site-footer a { color: var(--colour-slate); font-size: var(--text-sm); }
 .site-footer a:hover { color: var(--colour-olive); }
 .site-footer .closing-line {
-  font-family: var(--font-display); font-style: italic;
+  font-family: var(--font-display);
   font-size: var(--text-lg); color: var(--colour-slate-soft);
   max-inline-size: var(--measure-narrow);
   margin-block: var(--space-3) var(--space-2);
