@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-28T02:22:57.760Z",
+  "builtAt": "2026-07-28T03:02:33.809Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -10,7 +10,7 @@
       "indexStatus": "index",
       "file": "/en/reading-room/index.html",
       "bytes": 8111,
-      "sha256": "493635ef13870553f61342506c829ce59a4f151b105a88f0116ee35af08e34ce"
+      "sha256": "bcb3b0d563bd8e3d34b5583c73abfbb24639488fe47a646c07143eff445b86c9"
     },
     {
       "id": "page-reflections-001",
@@ -19,7 +19,7 @@
       "indexStatus": "index",
       "file": "/en/reflections/index.html",
       "bytes": 9193,
-      "sha256": "29ff1cdf188f8bdf63018784c9fd5b46a1aec34d4edd7f21a54d020bbbfa3a97"
+      "sha256": "916ffbecc6c517b7c361dd1a3eec797ec0b4ac0aa17a0fde809fd8055c2c8665"
     },
     {
       "id": "page-poetry-001",
@@ -28,7 +28,7 @@
       "indexStatus": "index",
       "file": "/en/poetry/index.html",
       "bytes": 8012,
-      "sha256": "9248d5e419cd943d490daa3acaaf10b1093f4bfe5cc7e534709b1e67dab2c7a6"
+      "sha256": "be9c406d999bf9b5e4dfae811ba894cd192e2ad63ef406ef04f724b3ccd9e79d"
     },
     {
       "id": "page-home-001",
@@ -37,7 +37,7 @@
       "indexStatus": "index",
       "file": "/en/index.html",
       "bytes": 9002,
-      "sha256": "b75675363e5c42409f123c8d496f55fb7955b325f89dd15dbfb56321167c9de1"
+      "sha256": "618bcd6ef03fcd23eb70c298235d32e5457404e3d4d56319bcf1876b35498bb1"
     },
     {
       "id": "page-discover-001",
@@ -46,7 +46,7 @@
       "indexStatus": "index",
       "file": "/en/discover/index.html",
       "bytes": 10552,
-      "sha256": "d54a5747d440f4fe6b3f3c04e494819e989f2acbdb1c7b249ed1f59f40b872fa"
+      "sha256": "b60c9590e92deaf310ba806f7840d1ed589b692b981aec28e93c9a79deab020f"
     },
     {
       "id": "page-journey-001",
@@ -55,7 +55,7 @@
       "indexStatus": "index",
       "file": "/en/journey/index.html",
       "bytes": 8665,
-      "sha256": "fed20111cc8708940fa7f6e14891b05409a4f6adc46ad2d98b4542e7f0b79c6a"
+      "sha256": "05bf8101eb7cbf42899bb5259f54f2328f94fc35a16271cd67bdc60520385350"
     },
     {
       "id": "page-stewardship-001",
@@ -64,7 +64,7 @@
       "indexStatus": "index",
       "file": "/en/stewardship/index.html",
       "bytes": 8082,
-      "sha256": "62a476a5a88fd8837a05b7afec19c6d1c306b09b15d4d4578035d7053b5efea7"
+      "sha256": "570bd99a47b041de56ca1f5122f266bd1954c4b33297eda0c2ef8729c39208fa"
     },
     {
       "id": "page-speaking-001",
@@ -73,7 +73,7 @@
       "indexStatus": "index",
       "file": "/en/speaking/index.html",
       "bytes": 7699,
-      "sha256": "63723538344ab90b5df2ab77e014303fd291db16fa171302d897a1d4c65eb82f"
+      "sha256": "af5ce928bb66c7bc3724fc8d43584947946099a1938794b3d1d31c86ac14944e"
     },
     {
       "id": "page-publications-001",
@@ -82,7 +82,7 @@
       "indexStatus": "index",
       "file": "/en/publications/index.html",
       "bytes": 7869,
-      "sha256": "494c53ec37f87e93628b80c5da947484bbe7c505596da2617f99c292f370e7b8"
+      "sha256": "82139b67de582f722f321ff32395a007e97ac6dc17b83b69b4e9b5caf0eeb0b0"
     },
     {
       "id": "page-initiatives-001",
@@ -91,7 +91,7 @@
       "indexStatus": "index",
       "file": "/en/initiatives/index.html",
       "bytes": 8001,
-      "sha256": "090a116f03a0c0b88f2ec3ae82807e478f55f6f85c81f823d32f1d1a2652649a"
+      "sha256": "722a9098b2452bf2e3089da82d04384fa1dc1779ec179d083c594b30e450e5e2"
     },
     {
       "id": "page-shura-001",
@@ -100,7 +100,7 @@
       "indexStatus": "index",
       "file": "/en/shura/index.html",
       "bytes": 7866,
-      "sha256": "72baa39a8b7d9cd195a17114b026c3884299a181f06e755ec2805b39b5fa94a7"
+      "sha256": "9611ef5048ac9305ac7211e36dd44958605ba44f0e603ec3659c5323cf27a68a"
     },
     {
       "id": "page-media-001",
@@ -109,7 +109,7 @@
       "indexStatus": "index",
       "file": "/en/media/index.html",
       "bytes": 8259,
-      "sha256": "ec72e0fc899bad3c4ebce4077b79e0928fedffdb409163e7b7db39638e62c5c4"
+      "sha256": "dd595cdffdb1f918ca78679119341cbf6fc785d55605705d98038150dcf44f0d"
     },
     {
       "id": "page-collaboration-001",
@@ -118,7 +118,7 @@
       "indexStatus": "index",
       "file": "/en/collaboration/index.html",
       "bytes": 7432,
-      "sha256": "0037aa709783572af6fda8ecf5695ec1956d9a52e5f54db5d32db048f807b695"
+      "sha256": "1c60f181df43369246b8b3c5307dc2da24ff1345085a3f196385f8d34765dec8"
     },
     {
       "id": "page-aware-family-001",
@@ -127,7 +127,7 @@
       "indexStatus": "index",
       "file": "/en/publications/aware-family/index.html",
       "bytes": 15581,
-      "sha256": "7139b1f5d7896d31d213213f098c520a6f023a81ba1862df74b1b8f5f35e0358"
+      "sha256": "cd55503e096d685cdc4a55633481172afdf1e299f584ce4d4235b00b2b1218b7"
     },
     {
       "id": "page-ideas-001",
@@ -136,7 +136,7 @@
       "indexStatus": "index",
       "file": "/en/ideas/index.html",
       "bytes": 8389,
-      "sha256": "bdfc6d29a4c05034405821b9cdab30a93538c388129aaffa0e7c015e40563300"
+      "sha256": "2b5f1b64b6ffe954457716e8f2b95a16a3055ed2abe94535c3471b119e657e7f"
     },
     {
       "id": "page-emirati-identity-001",
@@ -145,7 +145,7 @@
       "indexStatus": "index",
       "file": "/en/emirati-identity/index.html",
       "bytes": 9231,
-      "sha256": "6acb137048e96b2058b216eae245978838e33c70e935610abf703cfddd20ad1d"
+      "sha256": "574d56639d8bc060ad5cd1c0cb997f9e1e3e1f0ca5c03a0c60d9b1b6114f4018"
     },
     {
       "id": "page-privacy-001",
@@ -154,7 +154,7 @@
       "indexStatus": "noindex",
       "file": "/en/privacy/index.html",
       "bytes": 13521,
-      "sha256": "7350dbfcbc6b6c9d765ad461f0709f155595c89e78a75d2147a2eeeaf9531779"
+      "sha256": "416df02d2b0311a6a5473fdc282fe0853bda0fc8ab42cbf8188882350e45b5dd"
     },
     {
       "id": "page-terms-001",
@@ -163,7 +163,7 @@
       "indexStatus": "noindex",
       "file": "/en/terms/index.html",
       "bytes": 11563,
-      "sha256": "e01d7f7114979a6f58f49c8bc41865d39213b42788d25dfbe614d30f39222dbf"
+      "sha256": "9cb6789ce2a199e9456f53b859f4aa9a0ed8fab3c279f9c8f22ecf24fc4fc9c5"
     },
     {
       "id": "page-accessibility-001",
@@ -172,7 +172,7 @@
       "indexStatus": "noindex",
       "file": "/en/accessibility/index.html",
       "bytes": 10207,
-      "sha256": "613a363aaf88434f94318c6507b5d935414fb07952c55f6678157604a4ee0d94"
+      "sha256": "11261893c5c86c6afced588735e1b43c3e0dc60a75de17f01f0eb3d81e175b53"
     },
     {
       "id": "page-ai-notice-001",
@@ -181,7 +181,7 @@
       "indexStatus": "noindex",
       "file": "/en/ai-notice/index.html",
       "bytes": 10707,
-      "sha256": "7fd3b841eeed79069c229397ea68b5c1368a7e35315b406aa99b7039df230a03"
+      "sha256": "a7b74c657ad09b389a37d03b4fa7c785af8e7a923deb56ef7c4f6ebd90ef2d16"
     },
     {
       "id": "page-media-rights-001",
@@ -190,7 +190,7 @@
       "indexStatus": "noindex",
       "file": "/en/media-rights/index.html",
       "bytes": 11176,
-      "sha256": "e186913cf61aa600db75efa74d5a9749c4d5b4eac7a45a7d7548840e26a4dc37"
+      "sha256": "e63bb29b64a0f271c18f89dd2b1a96e4802e1ea16b0caa54468d7e9ddaa4b2e7"
     },
     {
       "id": "page-yaqoot-001",
@@ -199,7 +199,7 @@
       "indexStatus": "index",
       "file": "/en/yaqoot/index.html",
       "bytes": 9013,
-      "sha256": "2c8a248cde41b54b894d8d91f96b4d51ad1c6ef04ea3c6e865c01e4768885855"
+      "sha256": "a48a0edc96d51aeac8f0ac4684cf5239120a2b1783af469709e24f9b5e816d8c"
     },
     {
       "id": "page-contact-001",
@@ -208,7 +208,7 @@
       "indexStatus": "index",
       "file": "/en/contact/index.html",
       "bytes": 10053,
-      "sha256": "fa0344c2b59dc06cb586d2a3a17065444cc5ef435d5c0991aa7243556918a2cc"
+      "sha256": "719892df747dc7a6611330ba8c2220b966499fb247dd9327d2be41d8cefa8fa3"
     },
     {
       "id": "page-sitemap-001",
@@ -217,21 +217,21 @@
       "indexStatus": "index",
       "file": "/en/sitemap/index.html",
       "bytes": 8111,
-      "sha256": "2685645dc0d6b3ac7d4d2f185d1952f38db595b4820ee651992c7936fa5eb06f"
+      "sha256": "60ce366a997e3967e7373c923d4c03fac2841b86d75de6bb73fec3b3ebdf9baa"
     },
     {
       "id": "state-404",
       "route": "/en/404",
       "file": "/en/404/index.html",
       "bytes": 6050,
-      "sha256": "4ac9ef165f8528448e251cee097d0b2872ec4267e3fe9a09bf065f5da0f1f180"
+      "sha256": "7e443a224e1f11d3d6ca31dad2678ccd358f39cec2c60a09a78d7be9420013e5"
     },
     {
       "id": "state-withdrawn",
       "route": "/en/withdrawn",
       "file": "/en/withdrawn/index.html",
       "bytes": 6156,
-      "sha256": "140c2cf07f20a3a538c2480fe8048eaa3c8356117e04bf8d1eb91f6a5d46b976"
+      "sha256": "87e2f500e6ba52d15d05cab54b72d01a00e6eba443f5722c6450daf921aad3a2"
     },
     {
       "id": "page-reading-room-001@ar",
@@ -240,7 +240,7 @@
       "indexStatus": "index",
       "file": "/ar/reading-room/index.html",
       "bytes": 8941,
-      "sha256": "166b18654fc5a5ae3fa82a8febfd0620296e7f3041376193b4cffcc563210020"
+      "sha256": "4cad7927f72ee93c9eddbb9b8146be462dd494b30af7ce19ad3365463fd810e1"
     },
     {
       "id": "page-reflections-001@ar",
@@ -249,7 +249,7 @@
       "indexStatus": "index",
       "file": "/ar/reflections/index.html",
       "bytes": 10400,
-      "sha256": "4b2c446f1d7f9e3d3378880c555dedcae0b7cf73576b27fe5bf164436755c2ec"
+      "sha256": "c578f28131dfbe44e13bd46d69bc49247a764f50e3a61fec7e1065aff5f12177"
     },
     {
       "id": "page-poetry-001@ar",
@@ -258,7 +258,7 @@
       "indexStatus": "index",
       "file": "/ar/poetry/index.html",
       "bytes": 8829,
-      "sha256": "1bd1c63730f4514d996fc25ec0572a4bf82dc12187bca75b50af44a468217662"
+      "sha256": "d70b8a5c6515fa6dba7a6203b7fa231aa8468c8cdb69870aa2386074d74e5f8b"
     },
     {
       "id": "page-home-001@ar",
@@ -267,7 +267,7 @@
       "indexStatus": "index",
       "file": "/ar/index.html",
       "bytes": 10290,
-      "sha256": "37748caab7db594929a41d0e5857eb7b5b69a817e8983ae9d84fedc3cf1c672d"
+      "sha256": "d5b6812918660c2f95b3826291fe9ebca0d9e98ea93b2db3d493939e48ac597a"
     },
     {
       "id": "page-discover-001@ar",
@@ -276,7 +276,7 @@
       "indexStatus": "index",
       "file": "/ar/discover/index.html",
       "bytes": 11633,
-      "sha256": "e6f0e1f8e3cc694085a9c2686a63dc03bfdd9a6f1907c7400d59efd41765cf47"
+      "sha256": "a21ae181e0edad5c23d093e33d106d2e7c5b8743311e11b8ddd843e7b0796e75"
     },
     {
       "id": "page-journey-001@ar",
@@ -285,7 +285,7 @@
       "indexStatus": "index",
       "file": "/ar/journey/index.html",
       "bytes": 9789,
-      "sha256": "c97c1be4ad90b516c926958ad2358ef09e0a21b1e64de499766a7725f5673877"
+      "sha256": "5610cbd22e1e8ff085e2f1138aaf625a0590095bb37782c54e9863852067ffd8"
     },
     {
       "id": "page-stewardship-001@ar",
@@ -294,7 +294,7 @@
       "indexStatus": "index",
       "file": "/ar/stewardship/index.html",
       "bytes": 8937,
-      "sha256": "02be561fe64133b68fb339a872cdad9188159008469938ad11d848952bc34ab6"
+      "sha256": "40d6dc47d841c15436470dc8806f208a9eedbab5eac812eaf90863f8fb7fed86"
     },
     {
       "id": "page-speaking-001@ar",
@@ -303,7 +303,7 @@
       "indexStatus": "index",
       "file": "/ar/speaking/index.html",
       "bytes": 8640,
-      "sha256": "45152d11ade3cf514a559ccc12c54532d9ce2ee26ab2beb1af45f3e9f0924402"
+      "sha256": "f457524a1fae987cd8c55540ffdc0357df25193b5c6fd17be6e40fa6c15d822d"
     },
     {
       "id": "page-publications-001@ar",
@@ -312,7 +312,7 @@
       "indexStatus": "index",
       "file": "/ar/publications/index.html",
       "bytes": 8592,
-      "sha256": "72442ed7b935e6e1d70a5eb8700d75ce92f4cccb66e07276737405e0265ed0bb"
+      "sha256": "976c1fcdd3e1ec747de8241381f7ef191aa14c4653940c10f4ec7fe008644cd3"
     },
     {
       "id": "page-initiatives-001@ar",
@@ -321,7 +321,7 @@
       "indexStatus": "index",
       "file": "/ar/initiatives/index.html",
       "bytes": 8751,
-      "sha256": "c70385078c937a40c446f3cc562aa9272d9855cc5bb67d4dcb2e442ed24d5db6"
+      "sha256": "8eca46c4fac9658a4a326a600a8badafe07c047670e830abd0f7b1e6dfd4efad"
     },
     {
       "id": "page-shura-001@ar",
@@ -330,7 +330,7 @@
       "indexStatus": "index",
       "file": "/ar/shura/index.html",
       "bytes": 8857,
-      "sha256": "80a772908ab7da103d80e8bb54b2f61551151583d384b02ee91ffa2a2ede47bf"
+      "sha256": "28e9f48069bd20a86b17cbae48c48d7daad5945d5cbe3fb56ec6e5ae06a91cbf"
     },
     {
       "id": "page-media-001@ar",
@@ -339,7 +339,7 @@
       "indexStatus": "index",
       "file": "/ar/media/index.html",
       "bytes": 9227,
-      "sha256": "0c216d94faeda58af29b11c561a3f2f2fe5f701b0bbb00b21c1e914b51382968"
+      "sha256": "04a46760a29c254b021b7799f74a95a2991d908ecbef0cbefd6bfd31f003dc10"
     },
     {
       "id": "page-collaboration-001@ar",
@@ -348,7 +348,7 @@
       "indexStatus": "index",
       "file": "/ar/collaboration/index.html",
       "bytes": 8302,
-      "sha256": "c58a8737449ff25b9d1e55cfa0895e99e7b572b75822de99a50acdf1c14752de"
+      "sha256": "5e41dc5fb3b52e6a9b98eb9ed3f46bcf7f60de067d55acfe8d01b084f4768431"
     },
     {
       "id": "page-aware-family-001@ar",
@@ -357,7 +357,7 @@
       "indexStatus": "index",
       "file": "/ar/publications/aware-family/index.html",
       "bytes": 18716,
-      "sha256": "383e1f827e6b2380280edf71de1c79d2b11366927cb02b8175283dbb5a97ef8d"
+      "sha256": "45f3fb1edcff9e1cdf5d560936ba6c01452d13362b5dc45350d7504a35a7ee53"
     },
     {
       "id": "page-ideas-001@ar",
@@ -366,7 +366,7 @@
       "indexStatus": "index",
       "file": "/ar/ideas/index.html",
       "bytes": 9687,
-      "sha256": "690387e8848c9cbdad9cd3c2e9dec3646d9ebf33b66bbe067e3835102b1637c8"
+      "sha256": "e50434f2f8f1b55485c7551e31bf7a9f870967ae44f698ee9f8326bf87383d0a"
     },
     {
       "id": "page-emirati-identity-001@ar",
@@ -375,7 +375,7 @@
       "indexStatus": "index",
       "file": "/ar/emirati-identity/index.html",
       "bytes": 10440,
-      "sha256": "896df3ccbca624e0444b92636d95d5832d96caa170185186e5ac3913fd5d4a89"
+      "sha256": "6255928d64368fffa151957afe6f3c097037831bb9731c7b8980b5a7420701a3"
     },
     {
       "id": "page-privacy-001@ar",
@@ -384,7 +384,7 @@
       "indexStatus": "noindex",
       "file": "/ar/privacy/index.html",
       "bytes": 16507,
-      "sha256": "925fc67ffed225a08dce6a889b4172acfedca9ddc8343468337b3f09795c2197"
+      "sha256": "a08223b2dbcbb7e14e7312f1d73003de05158629b37a7d1680b76682c102729c"
     },
     {
       "id": "page-terms-001@ar",
@@ -393,7 +393,7 @@
       "indexStatus": "noindex",
       "file": "/ar/terms/index.html",
       "bytes": 13651,
-      "sha256": "fd3c4b86f97893cabe2f1a34c7d10ae7ddf41ebe7806fec728030f0b68701295"
+      "sha256": "fc57042f9f5bb7c1cb48ca84c7d9b7adcd49153ac7dfefff4b1f7c64b8fc8b98"
     },
     {
       "id": "page-accessibility-001@ar",
@@ -402,7 +402,7 @@
       "indexStatus": "noindex",
       "file": "/ar/accessibility/index.html",
       "bytes": 12128,
-      "sha256": "c242b766769223a0a8fb1534a40196f9a498c92ff8015cd5f6e0f912ae3309d7"
+      "sha256": "38faea151dbbfa0a1e80c53f8adb4a31276a930745bfd70ccda9398f538d97cc"
     },
     {
       "id": "page-ai-notice-001@ar",
@@ -411,7 +411,7 @@
       "indexStatus": "noindex",
       "file": "/ar/ai-notice/index.html",
       "bytes": 13017,
-      "sha256": "e18663a068d0bcdfb7467254598c5bfea9a558ad0b95d050d8da30598217753e"
+      "sha256": "28096da997165631871abd70a46d3cd89e307145cbf2b1db5a71c40b6e9bc04d"
     },
     {
       "id": "page-media-rights-001@ar",
@@ -420,7 +420,7 @@
       "indexStatus": "noindex",
       "file": "/ar/media-rights/index.html",
       "bytes": 13322,
-      "sha256": "58a77e1c46ab207c2a12344e84bef0490cf6ff03fad5eaf4b991922026f5bd03"
+      "sha256": "8ec19a0136d7d900a44b54809e7808ca14846272c3f069a5626afc0548d3ac0d"
     },
     {
       "id": "page-yaqoot-001@ar",
@@ -429,7 +429,7 @@
       "indexStatus": "index",
       "file": "/ar/yaqoot/index.html",
       "bytes": 10389,
-      "sha256": "cbed7668a58a65e9b1a60e5ccd624a279d1dd17724b0f2e8d6bd84996c5a1a6b"
+      "sha256": "5d8413a11c5b5b41444737445f1650ca1d53d6bd7757f64f77b339df401afe28"
     },
     {
       "id": "page-contact-001@ar",
@@ -438,7 +438,7 @@
       "indexStatus": "index",
       "file": "/ar/contact/index.html",
       "bytes": 10997,
-      "sha256": "484187b7da9cfa7cf2211393d42f00f35311a3d7c0a0cdfba4b95036643681d8"
+      "sha256": "7822cec29ff1139396544a5efed7fac6112dfe2de504173df6e7b9b3b2982de7"
     },
     {
       "id": "page-sitemap-001@ar",
@@ -447,21 +447,21 @@
       "indexStatus": "index",
       "file": "/ar/sitemap/index.html",
       "bytes": 8839,
-      "sha256": "08a3c5a21ff8d47276c31ce4d51be6e6c079bf6773c16dcea4b47aec594fe3f4"
+      "sha256": "6a1d4786aab58dc4ac74ba6bec1f9cdc95589a1d06d7bcdf221d6ae4ad8a2b91"
     },
     {
       "id": "state-404@ar",
       "route": "/ar/404",
       "file": "/ar/404/index.html",
       "bytes": 6715,
-      "sha256": "54931e2a915a0898f342364e15d4b4c40a6940a852a256d2812132a0fc256d91"
+      "sha256": "b08ade55bd913f7e19a041838ec28fd3a2d726115a797bfa8f7bb0876c41bc45"
     },
     {
       "id": "state-withdrawn@ar",
       "route": "/ar/withdrawn",
       "file": "/ar/withdrawn/index.html",
       "bytes": 6570,
-      "sha256": "bdc94ba2e9727973d9d204259daccd8c7444a589d38166a8f5ec84bb6c1f7db3"
+      "sha256": "a3f303fd9d072330d369c487ad855cac349b29ba52760c4c43169b0ea6f7661d"
     },
     {
       "id": "page-reading-room-001@zh",
@@ -470,7 +470,7 @@
       "indexStatus": "index",
       "file": "/zh/reading-room/index.html",
       "bytes": 7939,
-      "sha256": "f92b4506427012131513d953eb5fb2f30d713dd341a498da232bea56387e4cb9"
+      "sha256": "07f7e40588d903817baebb384fc708621a1584cd4cd4d959578aa3055b54f62d"
     },
     {
       "id": "page-reflections-001@zh",
@@ -479,7 +479,7 @@
       "indexStatus": "index",
       "file": "/zh/reflections/index.html",
       "bytes": 9104,
-      "sha256": "23acade9fef1bb2f03b9f6e12df4f63f7ad3b2683df60e958bbe00267923695c"
+      "sha256": "4611d449c29db42b83df56fa6e75a8a247cf8e142e858e35c1a8e9f64b346115"
     },
     {
       "id": "page-poetry-001@zh",
@@ -488,7 +488,7 @@
       "indexStatus": "index",
       "file": "/zh/poetry/index.html",
       "bytes": 7750,
-      "sha256": "56c1c8e94089c71a553b05844f3c8ac6d9421dbb0a23b541c87c7661be9459ca"
+      "sha256": "df1bf61ef011bf6c49ab22fb0bfd60653a1fbdc0566572244d01ad9bce895e50"
     },
     {
       "id": "page-home-001@zh",
@@ -497,7 +497,7 @@
       "indexStatus": "index",
       "file": "/zh/index.html",
       "bytes": 8746,
-      "sha256": "ffb00420a8d2210088b0ccd79700b6cb86ba58c4080999be84943c4b8c111be5"
+      "sha256": "381d5062f2b233b0ea2de76fd9fa65eafbf34c6b5409e24b3f47f91fd7a74d1a"
     },
     {
       "id": "page-discover-001@zh",
@@ -506,7 +506,7 @@
       "indexStatus": "index",
       "file": "/zh/discover/index.html",
       "bytes": 10227,
-      "sha256": "9b1acb6e1b7880a07a18f5d0c2c58948067dac171c68231422948e2eade171c4"
+      "sha256": "ee2a7a0c4b068cd835bcfadf244cb99e76f6568eeff3634e7daa68460f9bdc8f"
     },
     {
       "id": "page-journey-001@zh",
@@ -515,7 +515,7 @@
       "indexStatus": "index",
       "file": "/zh/journey/index.html",
       "bytes": 8500,
-      "sha256": "ad65e77a35faea31be245b088f99ecf3ca7dc29623587b74fc8615b662b78baf"
+      "sha256": "578fdae29231f2b825ffb48d58042a8c3fd9ef410edc0a93b1cda9b2959812bb"
     },
     {
       "id": "page-stewardship-001@zh",
@@ -524,7 +524,7 @@
       "indexStatus": "index",
       "file": "/zh/stewardship/index.html",
       "bytes": 7964,
-      "sha256": "9d2873efb5013a048fedaf0b49eb707a993e8bfa7948648c1d9b4354024b8ece"
+      "sha256": "11735dd69943f6d39637c9065d48886b845583d1910302f9b2bbbaf3426c2af1"
     },
     {
       "id": "page-speaking-001@zh",
@@ -533,7 +533,7 @@
       "indexStatus": "index",
       "file": "/zh/speaking/index.html",
       "bytes": 7574,
-      "sha256": "455d51b9c9af87b39d8589d409bbfafde9168ab49eb35233e1889aa408412f95"
+      "sha256": "e157e7e83cbb985f1e9c89aae2603939af69d0a784eb263f0f71b7c0b9121f9d"
     },
     {
       "id": "page-publications-001@zh",
@@ -542,7 +542,7 @@
       "indexStatus": "index",
       "file": "/zh/publications/index.html",
       "bytes": 7712,
-      "sha256": "78c34241c747e7020e0bba8da569c5c986fd49f546d6a6e40111354470128e25"
+      "sha256": "2eddcb0320ec050d29d24f9019e1ad9c37fd775451cf1b25e8c92ee07e9dc2d4"
     },
     {
       "id": "page-initiatives-001@zh",
@@ -551,7 +551,7 @@
       "indexStatus": "index",
       "file": "/zh/initiatives/index.html",
       "bytes": 7918,
-      "sha256": "8e912406e2241a6ac6bec939c9d49efc0f6e3757e56545418fb8bf5a4feae1c1"
+      "sha256": "3b6956931bea9dc928ddc9b645c6582b101e1856c7596c3e00f72f863e84042b"
     },
     {
       "id": "page-shura-001@zh",
@@ -560,7 +560,7 @@
       "indexStatus": "index",
       "file": "/zh/shura/index.html",
       "bytes": 7588,
-      "sha256": "9a2aa05ffae97cd29e6fd64e30bf6982ed4cd53925197d0b1c80e761c843612e"
+      "sha256": "a3c4448f886b29c571e0f5e70dd5131a5d89c93d8f0330885be02f5626daafef"
     },
     {
       "id": "page-media-001@zh",
@@ -569,7 +569,7 @@
       "indexStatus": "index",
       "file": "/zh/media/index.html",
       "bytes": 8135,
-      "sha256": "a075d37aedc6d9b4d8d7aa80339430dfa0f7afcce3931c4bf4b422a7660f415f"
+      "sha256": "5db5b72c7884ae6290f5044c49196dd8b54e1aefe25009049c150e1cd56fbfda"
     },
     {
       "id": "page-collaboration-001@zh",
@@ -578,7 +578,7 @@
       "indexStatus": "index",
       "file": "/zh/collaboration/index.html",
       "bytes": 7321,
-      "sha256": "f4012f642071e724ec2d84963e3f2a4bea0fc70a8841dd877a4ccfac52bd8926"
+      "sha256": "ccca389cea04361e619665f7b800eab02e02b1cb5de3e2ba2adacd655cf6f11f"
     },
     {
       "id": "page-aware-family-001@zh",
@@ -587,7 +587,7 @@
       "indexStatus": "index",
       "file": "/zh/publications/aware-family/index.html",
       "bytes": 14398,
-      "sha256": "1dc7909deef97d9ddacd03c153bc90945245e7131d90dc8e62525749ce5399f3"
+      "sha256": "07e7dfd406bc6902d46491c39416afe634dc893ac5ed8b02006516be5f6dd482"
     },
     {
       "id": "page-ideas-001@zh",
@@ -596,7 +596,7 @@
       "indexStatus": "index",
       "file": "/zh/ideas/index.html",
       "bytes": 8141,
-      "sha256": "2f2302fd58c880e6a5a76bdf33b56ff76612f9e92ed47142f2e61e81dd2fa713"
+      "sha256": "96a1b305c861e586febed7763ba71553e87478ae4db93e02bd1ac1f91ac1f7d9"
     },
     {
       "id": "page-emirati-identity-001@zh",
@@ -605,7 +605,7 @@
       "indexStatus": "index",
       "file": "/zh/emirati-identity/index.html",
       "bytes": 9374,
-      "sha256": "0b2ed35c70b52bac0bbab18dc06a96729ba35bd5982dc91f2dea7bd28c11ede4"
+      "sha256": "57af7ea367af9d4e6d7c9c4fba1e35660dffd0524f81cca74d5d0fd50e4ddd7f"
     },
     {
       "id": "page-privacy-001@zh",
@@ -614,7 +614,7 @@
       "indexStatus": "noindex",
       "file": "/zh/privacy/index.html",
       "bytes": 12591,
-      "sha256": "37c307e896f91cd5319e4527b1465a94b5c2d80020a74144726e44698156a796"
+      "sha256": "f753e9308691ff25ed6f56ccdab982c7447fe1382abdd489fc5bf126f7cb36b9"
     },
     {
       "id": "page-terms-001@zh",
@@ -623,7 +623,7 @@
       "indexStatus": "noindex",
       "file": "/zh/terms/index.html",
       "bytes": 11237,
-      "sha256": "8cf883dbb13c940659d811976dc39e319f1277277cef3f04581af8a80ecaefe6"
+      "sha256": "636e25e677fd974ec36f9a3c821c3b324aaf502420be39768eb79cebd7ebfc8b"
     },
     {
       "id": "page-accessibility-001@zh",
@@ -632,7 +632,7 @@
       "indexStatus": "noindex",
       "file": "/zh/accessibility/index.html",
       "bytes": 9978,
-      "sha256": "bc7fdd03e801ccda3358e82ebb543cfec1978fae18b1b014d6855b646c93b8ec"
+      "sha256": "9b65625babc45fa32c726933409f2b896a7d7cda72bdb5db90995522663212ed"
     },
     {
       "id": "page-ai-notice-001@zh",
@@ -641,7 +641,7 @@
       "indexStatus": "noindex",
       "file": "/zh/ai-notice/index.html",
       "bytes": 10497,
-      "sha256": "8951af389a7781738efd3c24b5109929b838fd8f47abf03f859b2783b5ce7c18"
+      "sha256": "c4e0fb350036b033f0dad5d88ea70865e8e256a02f820db783ed7994598956fd"
     },
     {
       "id": "page-media-rights-001@zh",
@@ -650,7 +650,7 @@
       "indexStatus": "noindex",
       "file": "/zh/media-rights/index.html",
       "bytes": 10809,
-      "sha256": "716b7a935a7decf154ad3235dd0c296f35606d173289789da5cc0ff8a6b50fea"
+      "sha256": "dcc5877a616a7ae9f7b9678e8d14d9cd85087bd5dbf5f27810143a54cecabeb1"
     },
     {
       "id": "page-yaqoot-001@zh",
@@ -659,7 +659,7 @@
       "indexStatus": "index",
       "file": "/zh/yaqoot/index.html",
       "bytes": 8920,
-      "sha256": "387b6308305f1f6b0440f9463abb6724851fcb9dd8d3bdb6b040beb8102b8798"
+      "sha256": "6a6db96220af8dfb4b469dd1b94cd2bf6aa12fefda8f4ec29e3a9288e7aa929a"
     },
     {
       "id": "page-contact-001@zh",
@@ -668,7 +668,7 @@
       "indexStatus": "index",
       "file": "/zh/contact/index.html",
       "bytes": 9726,
-      "sha256": "fabb8a80d0cfa805377f565aa524ab1592bb7edbb8eece038a7396ba5e33914d"
+      "sha256": "e15b055d86185517cac109f4ff9c59847d5755629090c4032d35e7e5389a2c5d"
     },
     {
       "id": "page-sitemap-001@zh",
@@ -677,21 +677,21 @@
       "indexStatus": "index",
       "file": "/zh/sitemap/index.html",
       "bytes": 8036,
-      "sha256": "3edbc9de60b243876c4d409d7dc9bb90e9539b24b75cc236a4259c2624fb44f4"
+      "sha256": "9cad4734902a8fa06c394edf0582fd7a115b7077d05019be543cd26c175e426c"
     },
     {
       "id": "state-404@zh",
       "route": "/zh/404",
       "file": "/zh/404/index.html",
       "bytes": 5998,
-      "sha256": "446902db2200e653b9ab1e5da1d1babe0f1d6339ffb3def59d0956deb6742507"
+      "sha256": "e8f0335c9eb38b63a24f34c32c7e2b4d0ac68bf76ee102c4959e58278a047a65"
     },
     {
       "id": "state-withdrawn@zh",
       "route": "/zh/withdrawn",
       "file": "/zh/withdrawn/index.html",
       "bytes": 5992,
-      "sha256": "cecdb07fec815868753be9a6f4fb3152e495e7f2c3fa5434311364db40c565f7"
+      "sha256": "0b6b70f6baa9f3e75156696d05fb622c2444e167df1234c6927e5eb2d8e2154b"
     },
     {
       "id": "page-reading-room-001@fr",
@@ -700,7 +700,7 @@
       "indexStatus": "index",
       "file": "/fr/reading-room/index.html",
       "bytes": 8457,
-      "sha256": "2dd920e1430160ecc9b2233d9f524644c8d465ee5ae67e6fc40e8de8a2f210a0"
+      "sha256": "8472267f02458a0fe747c7338a007b090beace34a12fc3d8c90f9b1b734717a6"
     },
     {
       "id": "page-reflections-001@fr",
@@ -709,7 +709,7 @@
       "indexStatus": "index",
       "file": "/fr/reflections/index.html",
       "bytes": 9801,
-      "sha256": "ce2860a2243e994c4c1284b74228a758d03e60bafa0bb44a4c05373f3a2162f1"
+      "sha256": "1e0b0513d0136215b811b2b8b3951529612554f0ff30b704d819bac0ec1a08e0"
     },
     {
       "id": "page-poetry-001@fr",
@@ -718,7 +718,7 @@
       "indexStatus": "index",
       "file": "/fr/poetry/index.html",
       "bytes": 8469,
-      "sha256": "a7558c00f37dfd9cfe2ab1d764f84473fecd92987e5b0b4e4210a7fce2f2e1ee"
+      "sha256": "b0a0cbd3872d86d0aaa46e7830ae39588a5fde7460d0134b26b63c8442a3458e"
     },
     {
       "id": "page-home-001@fr",
@@ -727,7 +727,7 @@
       "indexStatus": "index",
       "file": "/fr/index.html",
       "bytes": 9983,
-      "sha256": "b4a28304610ab1c31d67d111af23ab87b1d86a32ae884ab887df40d6a21c3403"
+      "sha256": "91963425b1eb88b6ce3f1ad67f2d94d7e182668e38caa69c8680a6a1fd052f1d"
     },
     {
       "id": "page-discover-001@fr",
@@ -736,7 +736,7 @@
       "indexStatus": "index",
       "file": "/fr/discover/index.html",
       "bytes": 11218,
-      "sha256": "ac20304251622239ea6a1628b425c4ab8582ab3b0fae229f67a13ad915c0d371"
+      "sha256": "6a4b4352436592f93ee4ca9bf8c2b200cda77244c4a2000516846a8ca773ab42"
     },
     {
       "id": "page-journey-001@fr",
@@ -745,7 +745,7 @@
       "indexStatus": "index",
       "file": "/fr/journey/index.html",
       "bytes": 9282,
-      "sha256": "a5aa587fafa58c0e25e375ebc26a61583849efd31c75feac8deb36004082d6b2"
+      "sha256": "ddb4cfccfe388df860c3d55bc86bb2a1c8a54e1e8b076c02d6a235d8321c4ae5"
     },
     {
       "id": "page-stewardship-001@fr",
@@ -754,7 +754,7 @@
       "indexStatus": "index",
       "file": "/fr/stewardship/index.html",
       "bytes": 8616,
-      "sha256": "20c011db74fe8b9ce092be4f7ea49f84e8020b2b349ab5e909584e5cb252f711"
+      "sha256": "489731b106569d17e453e1101c758dbcbc7ef80c824be5fe1935d2919e02bc5b"
     },
     {
       "id": "page-speaking-001@fr",
@@ -763,7 +763,7 @@
       "indexStatus": "index",
       "file": "/fr/speaking/index.html",
       "bytes": 8159,
-      "sha256": "cf0fcdf9ea43d7ab29a5486a867871a6281c4e5964385fab9e52e0fbcdeeb573"
+      "sha256": "bd9f5a2d3ab3b9da4d16ab0c24235fbc1ade1ce32aa8dc66d97f41c854c599d4"
     },
     {
       "id": "page-publications-001@fr",
@@ -772,7 +772,7 @@
       "indexStatus": "index",
       "file": "/fr/publications/index.html",
       "bytes": 8301,
-      "sha256": "347825226e90b08b640b3d6e01a77a2a3e227811a3f8d29b62c3de3ad23269a5"
+      "sha256": "ae051f24ec661cf334ed20b3471b81dc94ad5e24b5e353797455dc9dd3ecf273"
     },
     {
       "id": "page-initiatives-001@fr",
@@ -781,7 +781,7 @@
       "indexStatus": "index",
       "file": "/fr/initiatives/index.html",
       "bytes": 8405,
-      "sha256": "36081c82f20dc8d72c28986e6313f9f1f132268471a8196b08c8e114785b653a"
+      "sha256": "382344f72992a63797377962068bfc4464bd68e2dab5ad20e07a687cda33cafc"
     },
     {
       "id": "page-shura-001@fr",
@@ -790,7 +790,7 @@
       "indexStatus": "index",
       "file": "/fr/shura/index.html",
       "bytes": 8214,
-      "sha256": "b18d7e61c2ef964fcf89c081cb3e9783ca95a9bb633115ab7e083aa18405d8fe"
+      "sha256": "5baba37d96a2144080f3e2fe842a5b7bcd5f50fc142617f072097d2286a4b417"
     },
     {
       "id": "page-media-001@fr",
@@ -799,7 +799,7 @@
       "indexStatus": "index",
       "file": "/fr/media/index.html",
       "bytes": 8827,
-      "sha256": "55471af051efec83aad6ae9d24de372d224ad301db3a0a8b34f1937b15292354"
+      "sha256": "e37fca288e92abdb1594b9f192d3042b45f06427d742839d55c6c813ed5ecef8"
     },
     {
       "id": "page-collaboration-001@fr",
@@ -808,7 +808,7 @@
       "indexStatus": "index",
       "file": "/fr/collaboration/index.html",
       "bytes": 7861,
-      "sha256": "af374bad5f3a2380cd1161d6395631b951952c9f80ca063532df61eccec3dfe0"
+      "sha256": "4e35b65b2e869254847cd5135610ed4f9d22f9f6e81172e2285993d13955327e"
     },
     {
       "id": "page-aware-family-001@fr",
@@ -817,7 +817,7 @@
       "indexStatus": "index",
       "file": "/fr/publications/aware-family/index.html",
       "bytes": 17335,
-      "sha256": "628d3cb6fbe230020948d7479b5087ea0a03a00c92308a590f5724b3302df217"
+      "sha256": "5b317edec37d93afb9b59c9000f24aa3e698a9a3b8953a7269e95c49ffe3841d"
     },
     {
       "id": "page-ideas-001@fr",
@@ -826,7 +826,7 @@
       "indexStatus": "index",
       "file": "/fr/ideas/index.html",
       "bytes": 8934,
-      "sha256": "2a4e9a0100e5c5ef888317382908ce74592bb154c2c3fc5fa66828ea568177d3"
+      "sha256": "6d18ab01957c2da4b39ce3b7ea86765d0c07f8355a86aca2e9685f70d3441650"
     },
     {
       "id": "page-emirati-identity-001@fr",
@@ -835,7 +835,7 @@
       "indexStatus": "index",
       "file": "/fr/emirati-identity/index.html",
       "bytes": 9766,
-      "sha256": "3fe6991a83a912dc37f5abb97901084de69fc0855bd481380b7530b8b78a3961"
+      "sha256": "0aa65e29259d3622a77b28c9e41737447d451abd579d649fac2c798923e4beed"
     },
     {
       "id": "page-privacy-001@fr",
@@ -844,7 +844,7 @@
       "indexStatus": "noindex",
       "file": "/fr/privacy/index.html",
       "bytes": 15049,
-      "sha256": "8e044c189b7f387dc08df09c47d49b58f88695ecc6bea6bd7a1d153bf99cef47"
+      "sha256": "e8e7b451272783fc4c0c4c26c8a3beec0eaeab5ee7221fc24f98432f55394582"
     },
     {
       "id": "page-terms-001@fr",
@@ -853,7 +853,7 @@
       "indexStatus": "noindex",
       "file": "/fr/terms/index.html",
       "bytes": 12605,
-      "sha256": "e9860fdbfed68519f757cf3441e5410a1de177a2bd4c193607a2c11b7fa8a591"
+      "sha256": "f92cc3cf6256c6992d8548ab19a9871a299128602f93c57be46357d15fe9864f"
     },
     {
       "id": "page-accessibility-001@fr",
@@ -862,7 +862,7 @@
       "indexStatus": "noindex",
       "file": "/fr/accessibility/index.html",
       "bytes": 11091,
-      "sha256": "5eb0d1d74f69f1a951a0641d9de9fbdf94df625ce219d5c5d08a35e88ae960df"
+      "sha256": "db8d8c0233a87d57e97996ad9c2d66e8b6d36fd1fb89be46c0eedc2e67affa24"
     },
     {
       "id": "page-ai-notice-001@fr",
@@ -871,7 +871,7 @@
       "indexStatus": "noindex",
       "file": "/fr/ai-notice/index.html",
       "bytes": 11774,
-      "sha256": "ea761e8b34be7f2b98aa6ddaf9cafcd3061c90479e468ad29b410a129cc9f810"
+      "sha256": "32cf4a0a32e63c3c65a65ef355dfe948cd4fbbc702f924f5c4d624cc8bf42dfd"
     },
     {
       "id": "page-media-rights-001@fr",
@@ -880,7 +880,7 @@
       "indexStatus": "noindex",
       "file": "/fr/media-rights/index.html",
       "bytes": 12351,
-      "sha256": "82d06fdc2646e60f354d18a44c911d2820ae4d8c85bf42dc6ea975bf2628b09b"
+      "sha256": "5a89fb210480060949d1adb39a3da682f2fa4e603cd92bd25493f41e255d29c0"
     },
     {
       "id": "page-yaqoot-001@fr",
@@ -889,7 +889,7 @@
       "indexStatus": "index",
       "file": "/fr/yaqoot/index.html",
       "bytes": 9610,
-      "sha256": "aae3ca22034a5c389729e0f3a6f92f8237d13f736791151e619724cb4f2beb40"
+      "sha256": "53051b21bb0b30b419800bf66d0d66e83b5a5e82415f17c746cfce9635028ae3"
     },
     {
       "id": "page-contact-001@fr",
@@ -898,7 +898,7 @@
       "indexStatus": "index",
       "file": "/fr/contact/index.html",
       "bytes": 10521,
-      "sha256": "251ad1d62a2c8d4f8eaec2d7c4207e63e9b7588b976679300fc387df83d92e87"
+      "sha256": "72ef5e616ad2d21d0d636d99fe7bd9cce2fca65bc381985111dbe1841e4d3b21"
     },
     {
       "id": "page-sitemap-001@fr",
@@ -907,21 +907,21 @@
       "indexStatus": "index",
       "file": "/fr/sitemap/index.html",
       "bytes": 8360,
-      "sha256": "bde7a36b49f55fa531743733536f3a10f9b5c03cc7af5aec392a8da79dbc2fa5"
+      "sha256": "5ea1da77b25dc21f080bd5944b5d55bdb3e04d9347435fdb30d907e3e9365e43"
     },
     {
       "id": "state-404@fr",
       "route": "/fr/404",
       "file": "/fr/404/index.html",
       "bytes": 6279,
-      "sha256": "7740c7ad6bd1385c12de7b516d4c5673e488efb7de3f767bb1dfaebe1ebdaeec"
+      "sha256": "c3bb3ad4c2fdf1e3c9241c0e69a887c7ed475676b66ab1a4bb5e8b441edb1945"
     },
     {
       "id": "state-withdrawn@fr",
       "route": "/fr/withdrawn",
       "file": "/fr/withdrawn/index.html",
       "bytes": 6230,
-      "sha256": "4c0c4318ceeea751f8dfaef5b225678335a720c712877b9e53e8fe16c9354e1b"
+      "sha256": "0bd9bab2c372d91b4ed9f3042afd62350a0b4fdda4ac56447b47e5c3a35522c6"
     },
     {
       "id": "page-reading-room-001@ru",
@@ -930,7 +930,7 @@
       "indexStatus": "index",
       "file": "/ru/reading-room/index.html",
       "bytes": 9564,
-      "sha256": "2dab58eaa8d6bb493d65985648478958c1cbfd6487fccf14a07e3442f11ab3fc"
+      "sha256": "b92dd66173feef0e7a45311beef93ebe17d712a04a51d671758b498bca03ad87"
     },
     {
       "id": "page-reflections-001@ru",
@@ -939,7 +939,7 @@
       "indexStatus": "index",
       "file": "/ru/reflections/index.html",
       "bytes": 11333,
-      "sha256": "b2cd3be4714f2f0d5115849d0c14563f120f5fd8f8c636f5dc700fa978140fe9"
+      "sha256": "000f3d86faaba1eb89719a0640dee4d105486400a57b690bf6a93504e052c70c"
     },
     {
       "id": "page-poetry-001@ru",
@@ -948,7 +948,7 @@
       "indexStatus": "index",
       "file": "/ru/poetry/index.html",
       "bytes": 9387,
-      "sha256": "6451fe7c72bf3a2496d85f31b639c2ed24fe53504a103d9036f3f05e4dae1f96"
+      "sha256": "c855216d34d39f78c58dfa8db8042503287e509d3edd3facdd5f3ebbc789ccc1"
     },
     {
       "id": "page-home-001@ru",
@@ -957,7 +957,7 @@
       "indexStatus": "index",
       "file": "/ru/index.html",
       "bytes": 11845,
-      "sha256": "4b0a7fd267674fd811e8c601a28f4c50bc0dd7a5143738b2363c3f611311fb6f"
+      "sha256": "aed822f8b71918ba94e56d3d5d1908eacf4141dc0afa62dc94096bf904725c3e"
     },
     {
       "id": "page-discover-001@ru",
@@ -966,7 +966,7 @@
       "indexStatus": "index",
       "file": "/ru/discover/index.html",
       "bytes": 13480,
-      "sha256": "d26e0390b94a1f6cc36bda506e703df44839d1b4baa116871cd734ddd10099be"
+      "sha256": "4a544de4bf9deff1876649f63b335bb831fece1c672595d4d6b8d9dd5a4b9db1"
     },
     {
       "id": "page-journey-001@ru",
@@ -975,7 +975,7 @@
       "indexStatus": "index",
       "file": "/ru/journey/index.html",
       "bytes": 10842,
-      "sha256": "d1f191a562cab72d8e7f91b49623702883ae5f81851a535f0a2aaf43ccce0bc3"
+      "sha256": "812628383e7409ed4140a818d7b2c15fd89da938f875825d00291e222e481681"
     },
     {
       "id": "page-stewardship-001@ru",
@@ -984,7 +984,7 @@
       "indexStatus": "index",
       "file": "/ru/stewardship/index.html",
       "bytes": 10037,
-      "sha256": "343f0934c97fc60f8047ec43ce92fbc285ab37956c35ee1b63c42a5143eed658"
+      "sha256": "d781c808932c0b67e15f2cf946a14cd9f84efa8a20e59652019d73504ad2f3c8"
     },
     {
       "id": "page-speaking-001@ru",
@@ -993,7 +993,7 @@
       "indexStatus": "index",
       "file": "/ru/speaking/index.html",
       "bytes": 9315,
-      "sha256": "10d5df8bbc6e439329f236bd30694fff5c5a96041ff69905562e0632bfb13f1d"
+      "sha256": "f87c5447f6398059aa207e761b3fadc9af42bffb36468135d41963d65f777040"
     },
     {
       "id": "page-publications-001@ru",
@@ -1002,7 +1002,7 @@
       "indexStatus": "index",
       "file": "/ru/publications/index.html",
       "bytes": 9530,
-      "sha256": "94b35082b94baa96427f34c97b06ae7f3a718ddcbc6bf07da821f485a1d8def0"
+      "sha256": "2fdb7053befb884f12998d05b7344fef3e959a17e5e46ef65a698d13a0513231"
     },
     {
       "id": "page-initiatives-001@ru",
@@ -1011,7 +1011,7 @@
       "indexStatus": "index",
       "file": "/ru/initiatives/index.html",
       "bytes": 9836,
-      "sha256": "5fb804a8a38d39b6b3de6cc565a75a145b204521dddb423a481d5d5cc4f21fb9"
+      "sha256": "6ed73eaa1b5c1c8198f67e5af08c7f4083cf2a02ea69adaf6665e3b822448c06"
     },
     {
       "id": "page-shura-001@ru",
@@ -1020,7 +1020,7 @@
       "indexStatus": "index",
       "file": "/ru/shura/index.html",
       "bytes": 9496,
-      "sha256": "3055e5f73df220e5a14b133f806f669640bbb5b2f1727bac95b9a5ff1124d3c2"
+      "sha256": "2649181fa21c00d8481741c5a0a3cc1c2964ff80edd7d6872f6d4195816293bd"
     },
     {
       "id": "page-media-001@ru",
@@ -1029,7 +1029,7 @@
       "indexStatus": "index",
       "file": "/ru/media/index.html",
       "bytes": 10379,
-      "sha256": "15abfe0259e4c50931c2fd303a5fb70f3ff87100ea83bcba2ab46f44d9be8850"
+      "sha256": "bd7183770758f14a88ecb8ffae39e0ff145f1910b320cca71f681753e56c1056"
     },
     {
       "id": "page-collaboration-001@ru",
@@ -1038,7 +1038,7 @@
       "indexStatus": "index",
       "file": "/ru/collaboration/index.html",
       "bytes": 9341,
-      "sha256": "a7b040dd9aef386795e80e227fea1ffe1007fca22818f98a415e58a053d42036"
+      "sha256": "a4b58e82462f0d2ea2f7ce7b8af673c4e46cb54f719e0770f2cbd08d16e3b724"
     },
     {
       "id": "page-aware-family-001@ru",
@@ -1047,7 +1047,7 @@
       "indexStatus": "index",
       "file": "/ru/publications/aware-family/index.html",
       "bytes": 22316,
-      "sha256": "cc4724e3e25bf3143b1da186c78463cf52c3270ed9b75d61714fa96192044a5c"
+      "sha256": "62c76a6923b4f9375dcd20aec4c6c8f3253be3c871fc43e1cc1803cf984f643b"
     },
     {
       "id": "page-ideas-001@ru",
@@ -1056,7 +1056,7 @@
       "indexStatus": "index",
       "file": "/ru/ideas/index.html",
       "bytes": 10898,
-      "sha256": "e7db9787efe4ecf0a230663c0ce6154924f82dc3b82585e5b3b1b6c1226dcb8a"
+      "sha256": "c729a651981bb8555aa1954eb1d6cd8758800de18c4d657c0eb556091b25ad41"
     },
     {
       "id": "page-emirati-identity-001@ru",
@@ -1065,7 +1065,7 @@
       "indexStatus": "index",
       "file": "/ru/emirati-identity/index.html",
       "bytes": 11433,
-      "sha256": "9ca1d04492d7f0574126dfe4981e3538b85a4d989e9ec44a43a273b87d465d20"
+      "sha256": "399a543e25647d8d61a20f56511c3036935f24c6ff948d0c8fcbf38bbc2ad42b"
     },
     {
       "id": "page-privacy-001@ru",
@@ -1074,7 +1074,7 @@
       "indexStatus": "noindex",
       "file": "/ru/privacy/index.html",
       "bytes": 19799,
-      "sha256": "317467f088371b8cb9912054b3d44f943edb46c1e26a8fff263c07ec363ba5c9"
+      "sha256": "8b3039e5b26c660bf742154fbf75aadd5f2d6b56fc186d14cae40d2367a8d32b"
     },
     {
       "id": "page-terms-001@ru",
@@ -1083,7 +1083,7 @@
       "indexStatus": "noindex",
       "file": "/ru/terms/index.html",
       "bytes": 16032,
-      "sha256": "dbc8b59984594ae421a2d2181338b8fb907b5c1f4561b71afbe0db8c5296a50b"
+      "sha256": "b8ecfd3c4dd482a6302e721550723ae9eb8e939827de576e58385edd96ff034c"
     },
     {
       "id": "page-accessibility-001@ru",
@@ -1092,7 +1092,7 @@
       "indexStatus": "noindex",
       "file": "/ru/accessibility/index.html",
       "bytes": 13855,
-      "sha256": "31290c33d1c23f465298980b7b44a140031f8cd4c7b4138a6b88e78227d6f906"
+      "sha256": "31640a12597f0dba7a1f8159a4a46ad78eea721d5233a58a38fa6ee468ec754e"
     },
     {
       "id": "page-ai-notice-001@ru",
@@ -1101,7 +1101,7 @@
       "indexStatus": "noindex",
       "file": "/ru/ai-notice/index.html",
       "bytes": 14783,
-      "sha256": "ffe5670aec40fca788fcb48797f7f52c3ed29cb015b732714552c2fb02691ed0"
+      "sha256": "b94b5718690681962e9677c3a9ac61d04a83749da2bcab652f1404144451c8e9"
     },
     {
       "id": "page-media-rights-001@ru",
@@ -1110,7 +1110,7 @@
       "indexStatus": "noindex",
       "file": "/ru/media-rights/index.html",
       "bytes": 16008,
-      "sha256": "4607fa43c70d54e4040a0f2362cecd3c2e26b4f710067a440c5f9259346021ca"
+      "sha256": "b4d5a92217dcea2bded440dd2e235059cc5d4f67ab19d3fd0b7bb32a024838ea"
     },
     {
       "id": "page-yaqoot-001@ru",
@@ -1119,7 +1119,7 @@
       "indexStatus": "index",
       "file": "/ru/yaqoot/index.html",
       "bytes": 11404,
-      "sha256": "43065efa277fa694b969be4d57a106fe0acbc94ceda196e5611b8281a72931f1"
+      "sha256": "2b512742bb7bf7cefc7c27750da85e6f9d81f2158978cf6a9f20e354bcbd04bf"
     },
     {
       "id": "page-contact-001@ru",
@@ -1128,7 +1128,7 @@
       "indexStatus": "index",
       "file": "/ru/contact/index.html",
       "bytes": 12397,
-      "sha256": "21c11577c2b729693bf6f19d9ef0a457c0155b6f0f1b0fb197d1cf37900cecf0"
+      "sha256": "a009324e84210a36526a3ddc839984298b39b16f430328db9d020a275298c4fd"
     },
     {
       "id": "page-sitemap-001@ru",
@@ -1137,21 +1137,21 @@
       "indexStatus": "index",
       "file": "/ru/sitemap/index.html",
       "bytes": 9399,
-      "sha256": "93e6f8168040d59c2eb767cb144d992b8a2ac10b24b1149b4c6d8ef59e9189b0"
+      "sha256": "363ded49421e6334eb30a5b909c20a81e9dde138d9e1444d1aa8a0894ba981d3"
     },
     {
       "id": "state-404@ru",
       "route": "/ru/404",
       "file": "/ru/404/index.html",
       "bytes": 7157,
-      "sha256": "1dbbea8b7dc75306e0a83f71f1c9565e11b58e1e0dd7487fed334a7686d638a7"
+      "sha256": "28c30e7065445d1b7515e181bcd3da4b7e30c04df3a68e8113b1a4e9031afe57"
     },
     {
       "id": "state-withdrawn@ru",
       "route": "/ru/withdrawn",
       "file": "/ru/withdrawn/index.html",
       "bytes": 7126,
-      "sha256": "83733ec644ebb29f5b9b28357cb193e65713859524ce0e71b9d5832b4324e124"
+      "sha256": "08137c5bae1be11814d4cca6efe0bbe033a3b20735a98bfeff80f54a0ab86808"
     },
     {
       "id": "page-reading-room-001@es",
@@ -1160,7 +1160,7 @@
       "indexStatus": "index",
       "file": "/es/reading-room/index.html",
       "bytes": 8355,
-      "sha256": "e2b5a03d96bde8f2165157c0c4a8dc0c130d489829cfe8f8e52f49da6c8f32b3"
+      "sha256": "f3bdd6ba0931b50b4fd4d20de15811e0b0b9ca32e427db66b8ac1b4e7da6ee6f"
     },
     {
       "id": "page-reflections-001@es",
@@ -1169,7 +1169,7 @@
       "indexStatus": "index",
       "file": "/es/reflections/index.html",
       "bytes": 9680,
-      "sha256": "8f94bc387a2cf4b1cb8843467e8c338dab0d4fe0bb39326899d5304015a91348"
+      "sha256": "0cfc755f7e7daee606a6df188e29fdd36757a560a94d65936e2df4808dd5c4cb"
     },
     {
       "id": "page-poetry-001@es",
@@ -1178,7 +1178,7 @@
       "indexStatus": "index",
       "file": "/es/poetry/index.html",
       "bytes": 8302,
-      "sha256": "fa0ea9141240b6ad1da4fef44dde3b198fc907e1aef8161c8534bcab8d4b2612"
+      "sha256": "c81a5ecdbc3126a7fdcc5692caacf546a92f0f595ae0857f46e3e25f81a0cab3"
     },
     {
       "id": "page-home-001@es",
@@ -1187,7 +1187,7 @@
       "indexStatus": "index",
       "file": "/es/index.html",
       "bytes": 9479,
-      "sha256": "77f4ad9f3198d80838e1b029058a14fa57dba322823acb7e4e37f84bf574f168"
+      "sha256": "6b623a66e809a01147baa3163acc355a9e41941c08c96ad0d0fce410aefe8c8f"
     },
     {
       "id": "page-discover-001@es",
@@ -1196,7 +1196,7 @@
       "indexStatus": "index",
       "file": "/es/discover/index.html",
       "bytes": 10978,
-      "sha256": "0f23e8aefc90202acf5e69f50dd536c3b2e475d586f7574d9b4e74786d0e6f80"
+      "sha256": "577c67fc8e43339cafe0703715b95ff6d04d3e1840a8e5e0670058b99e5e4d04"
     },
     {
       "id": "page-journey-001@es",
@@ -1205,7 +1205,7 @@
       "indexStatus": "index",
       "file": "/es/journey/index.html",
       "bytes": 9050,
-      "sha256": "90c3d807a535a996edf8ddf39c4b2c8fc7a0bda5437598e74bf9b682f48faec5"
+      "sha256": "d9f9f6a4ac965c874b3bac26af8633236ce8de3a394e8db62dc7dad1ad3b6fa2"
     },
     {
       "id": "page-stewardship-001@es",
@@ -1214,7 +1214,7 @@
       "indexStatus": "index",
       "file": "/es/stewardship/index.html",
       "bytes": 8347,
-      "sha256": "55e2d93a5d8d80a2e875398eab5e86a87e2913215772d294eb53c3c9fe096448"
+      "sha256": "a16f93f7facb58d7e20073bff093fdbf095a7b38e6cbbfa346fd96834137f63b"
     },
     {
       "id": "page-speaking-001@es",
@@ -1223,7 +1223,7 @@
       "indexStatus": "index",
       "file": "/es/speaking/index.html",
       "bytes": 8102,
-      "sha256": "f94409c47fb052762b312f6a4325e22802753b69da4af002cb5ab73c101ee5a9"
+      "sha256": "b6758c340db8c786467b0fe0bd00a30e1373c1d147a343f6889fd09fa8fad56c"
     },
     {
       "id": "page-publications-001@es",
@@ -1232,7 +1232,7 @@
       "indexStatus": "index",
       "file": "/es/publications/index.html",
       "bytes": 8273,
-      "sha256": "64029f9a5ea3fcc872c250729265fb362b0552d6f0d9d007abe1365eb2debe8a"
+      "sha256": "296e1513b96298c8eacdf06402a246740831fc1f12538fb0370861b4461b42e7"
     },
     {
       "id": "page-initiatives-001@es",
@@ -1241,7 +1241,7 @@
       "indexStatus": "index",
       "file": "/es/initiatives/index.html",
       "bytes": 8308,
-      "sha256": "d5ff883ae2ae7123cc9d480b30044a3f264c9317f8057ecf1a43c589b4f534c8"
+      "sha256": "224bd12c786a52c87ae4b790340b6d1bddda6680af34b951de1e8fb87e09ac3b"
     },
     {
       "id": "page-shura-001@es",
@@ -1250,7 +1250,7 @@
       "indexStatus": "index",
       "file": "/es/shura/index.html",
       "bytes": 8193,
-      "sha256": "fc3dab285b492ccd82d788f80916d1de106001be0498f3177d28df4a08e843e8"
+      "sha256": "ed92eec99966aaf3ce915f7e9c879ec643a2728c981faff1410c0d23ec02cfa6"
     },
     {
       "id": "page-media-001@es",
@@ -1259,7 +1259,7 @@
       "indexStatus": "index",
       "file": "/es/media/index.html",
       "bytes": 8511,
-      "sha256": "4c11b7e3b04eb95cc305d4ec416abb455c9f4ad6c4a726ada55687d3630af4e1"
+      "sha256": "c39ba6e74168e49f5cb25c6f4cdc10b15bf51f4be26361f9d05c10d5f0664a55"
     },
     {
       "id": "page-collaboration-001@es",
@@ -1268,7 +1268,7 @@
       "indexStatus": "index",
       "file": "/es/collaboration/index.html",
       "bytes": 7663,
-      "sha256": "deb1b2447d50488645fd6aefec8cb82e1f59b2dfc3e9fa314a15f514e9863b5b"
+      "sha256": "e944e3f00ef393cc5cbbb0302e14f6715b7b6d8ebf2eb1d2f39d7cb35a65a0ff"
     },
     {
       "id": "page-aware-family-001@es",
@@ -1277,7 +1277,7 @@
       "indexStatus": "index",
       "file": "/es/publications/aware-family/index.html",
       "bytes": 16654,
-      "sha256": "8c8c8d0152e8ddb5295c9d17741eb062f249c6f7df63b41e65c6d12512a947f3"
+      "sha256": "f348432f3c749ed64620ff124c892dc1d88ba9c3075650fc358ad81f04b757b5"
     },
     {
       "id": "page-ideas-001@es",
@@ -1286,7 +1286,7 @@
       "indexStatus": "index",
       "file": "/es/ideas/index.html",
       "bytes": 8824,
-      "sha256": "22ff7298576ea427e1c8e4bf2c3d00a67a66a07723106fbbe2c949a22f0cebd3"
+      "sha256": "46dd8e4cf95862034e73b850238f14bb9ff2c5f184ff354e0e3cdfc8da3b64e7"
     },
     {
       "id": "page-emirati-identity-001@es",
@@ -1295,7 +1295,7 @@
       "indexStatus": "index",
       "file": "/es/emirati-identity/index.html",
       "bytes": 9530,
-      "sha256": "184c18a8a763dab01432757ad03f5d42702c95edb777d7a7c8a219354eb0afcd"
+      "sha256": "7e490d98343499f13d0f0104fb88965b59977aa384fc866c0bd90d9775196460"
     },
     {
       "id": "page-privacy-001@es",
@@ -1304,7 +1304,7 @@
       "indexStatus": "noindex",
       "file": "/es/privacy/index.html",
       "bytes": 14449,
-      "sha256": "566b6d02b417519469e40570058290956f2477d3ed1a0d307cf40b5a153ddf73"
+      "sha256": "aa6e97e5ae44bc83cdf9ad5e490215d9647867686bf8c525bd9d4540be911e3b"
     },
     {
       "id": "page-terms-001@es",
@@ -1313,7 +1313,7 @@
       "indexStatus": "noindex",
       "file": "/es/terms/index.html",
       "bytes": 12244,
-      "sha256": "d8ba23ff1073c331aa4b298edac540f22caeddc601d02619251ee1a7fa0e411a"
+      "sha256": "bdbabd9910fe24fc0774f093b4b8246301c6d7c85c6be5214de77ed299004697"
     },
     {
       "id": "page-accessibility-001@es",
@@ -1322,7 +1322,7 @@
       "indexStatus": "noindex",
       "file": "/es/accessibility/index.html",
       "bytes": 10852,
-      "sha256": "47bc0cb45f4a78419ced27ea37d0f91a08615ccc8c9ca8d5ed111a8a8df0c6b9"
+      "sha256": "afed34fd9ade1e93b77c4ba47f76b90c76dabfcf8a0793b0885da67a65f3501e"
     },
     {
       "id": "page-ai-notice-001@es",
@@ -1331,7 +1331,7 @@
       "indexStatus": "noindex",
       "file": "/es/ai-notice/index.html",
       "bytes": 11271,
-      "sha256": "651e997409efd5b4bbf8d90e2dcc53dc3cb06c6209cdb254cead6406d648d64c"
+      "sha256": "78f39804c41fef9def8e7933df4bede00f0782c438f92c16689a03bcb00fb273"
     },
     {
       "id": "page-media-rights-001@es",
@@ -1340,7 +1340,7 @@
       "indexStatus": "noindex",
       "file": "/es/media-rights/index.html",
       "bytes": 12082,
-      "sha256": "401ed68e12250daacb8cefe714368b482cf679f7096cca28250dd0c350fcaa33"
+      "sha256": "389f5199a342c68dd54986d067d765c30135ed9d7bd384425528187c225c28f9"
     },
     {
       "id": "page-yaqoot-001@es",
@@ -1349,7 +1349,7 @@
       "indexStatus": "index",
       "file": "/es/yaqoot/index.html",
       "bytes": 9410,
-      "sha256": "bdd4281b27b3cd013dbd9ed571e4708b09b30e450cf9701b3647b00ec7827ef5"
+      "sha256": "83b99d338ee7146ea9a133b10b1f576246fd7259f673d8b6ee0ffba9b26ef942"
     },
     {
       "id": "page-contact-001@es",
@@ -1358,7 +1358,7 @@
       "indexStatus": "index",
       "file": "/es/contact/index.html",
       "bytes": 10372,
-      "sha256": "4c8823f388bba8c47338f8dcdb10b18f2a23efaa87028f378e6331ccf2b2a22f"
+      "sha256": "d4d004fb74d79ae915d5898b729faa78d25b52b18adcfbbb67cdbdc83a1d83b8"
     },
     {
       "id": "page-sitemap-001@es",
@@ -1367,21 +1367,21 @@
       "indexStatus": "index",
       "file": "/es/sitemap/index.html",
       "bytes": 8326,
-      "sha256": "f589216d68705b3f59ed854db672a1ae2055a2c9b1a7a3ed88dd5b059745edec"
+      "sha256": "b5d3eabb6d0b6bd9838c26e481b5ffa5218407832821e78917ac41e432c05269"
     },
     {
       "id": "state-404@es",
       "route": "/es/404",
       "file": "/es/404/index.html",
       "bytes": 6303,
-      "sha256": "19abbbcb38bc0abe7a0c292f5d9bdf0b75bc7823166a2acd617d743b3a714cb0"
+      "sha256": "9128e941e656b29d3a5b6a9abc98071f9e086d0eefe99ebd3c8d8777adc9e2e6"
     },
     {
       "id": "state-withdrawn@es",
       "route": "/es/withdrawn",
       "file": "/es/withdrawn/index.html",
       "bytes": 6225,
-      "sha256": "46a4b059ea5d88f8ca33a5ed6307d2bcc732b055a327a9c5c46efff8bfd3e13b"
+      "sha256": "9006d6aafe3f95ebe33f2ab135a23596891a86f933d85ff1e4643faa7b9be648"
     }
   ],
   "assets": [
@@ -1532,8 +1532,8 @@
     {
       "role": "public-asset",
       "file": "assets/media/monogram.webp",
-      "bytes": 32972,
-      "sha256": "726b8c16d6a3d46f12be88903b078e343bf50874e174008fc78475bc9db36414"
+      "bytes": 47396,
+      "sha256": "077a689ced2047653236e4dbadffcb93f048b385c0e6a27ff554f10fc848be24"
     },
     {
       "role": "public-asset",
