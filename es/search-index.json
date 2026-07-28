@@ -44,8 +44,29 @@
   {
     "id": "page-stewardship-001",
     "title": "El Athar",
-    "summary": "El perfil ejecutivo de S.E. Dr. Mohamed Yousef Almadfaei — más de dos décadas de políticas públicas, gobernanza ambiental, transformación institucional y asuntos estratégicos.",
+    "summary": "El legado del Dr. Mohamed Yousef Almadfaei — su biografía, los valores que guían su trabajo y una carrera contada en imágenes.",
     "route": "/es/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-biography-001",
+    "title": "Biografía",
+    "summary": "El perfil ejecutivo de S.E. Dr. Mohamed Yousef Almadfaei — más de dos décadas de políticas públicas, gobernanza ambiental, transformación institucional y asuntos estratégicos.",
+    "route": "/es/stewardship/biography",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-values-001",
+    "title": "Valores y perspectivas",
+    "summary": "La custodia responsable como forma de dirigir, construir y transmitir.",
+    "route": "/es/stewardship/values-perspectives",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-career-001",
+    "title": "La carrera en imágenes",
+    "summary": "Se están reuniendo galerías que documentan los hitos de la carrera profesional del Dr. Almadfaei y se publicarán aquí.",
+    "route": "/es/stewardship/career-in-pictures",
     "type": "page"
   },
   {

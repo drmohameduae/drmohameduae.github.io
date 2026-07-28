@@ -44,8 +44,29 @@
   {
     "id": "page-stewardship-001",
     "title": "阿塔尔",
-    "summary": "穆罕默德·优素福·阿尔马德法伊博士阁下执行概要——在公共政策、环境治理、机构转型与战略事务领域逾二十年的历程。",
+    "summary": "穆罕默德·优素福·阿尔马德法伊博士的传承——他的生平、指引其工作的价值观，以及以影像呈现的职业生涯。",
     "route": "/zh/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-biography-001",
+    "title": "生平",
+    "summary": "穆罕默德·优素福·阿尔马德法伊博士阁下执行概要——在公共政策、环境治理、机构转型与战略事务领域逾二十年的历程。",
+    "route": "/zh/stewardship/biography",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-values-001",
+    "title": "价值观与理念",
+    "summary": "以责任与传承之道领导、建设并交接。",
+    "route": "/zh/stewardship/values-perspectives",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-career-001",
+    "title": "职业生涯影像",
+    "summary": "记录阿尔马德法伊博士职业生涯重要时刻的影像集正在整理中，将陆续发布于本栏目。",
+    "route": "/zh/stewardship/career-in-pictures",
     "type": "page"
   },
   {

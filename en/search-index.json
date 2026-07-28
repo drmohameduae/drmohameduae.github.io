@@ -44,8 +44,29 @@
   {
     "id": "page-stewardship-001",
     "title": "The Athar",
-    "summary": "The executive profile of H.E. Dr. Mohamed Yousef Almadfaei — more than two decades of public policy, environmental governance, institutional transformation and strategic affairs.",
+    "summary": "The legacy of Dr. Mohamed Yousef Almadfaei — his biography, the values that guide his work, and a career told in pictures.",
     "route": "/en/stewardship",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-biography-001",
+    "title": "Biography",
+    "summary": "The executive profile of H.E. Dr. Mohamed Yousef Almadfaei — more than two decades of public policy, environmental governance, institutional transformation and strategic affairs.",
+    "route": "/en/stewardship/biography",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-values-001",
+    "title": "Values & Perspectives",
+    "summary": "Stewardship as a way of leading, building and handing over.",
+    "route": "/en/stewardship/values-perspectives",
+    "type": "page"
+  },
+  {
+    "id": "page-athar-career-001",
+    "title": "Career in Pictures",
+    "summary": "Galleries documenting milestones of Dr. Almadfaei’s professional career are being assembled and will be published here.",
+    "route": "/en/stewardship/career-in-pictures",
     "type": "page"
   },
   {

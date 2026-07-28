@@ -56,6 +56,30 @@
     "redirectHistory": []
   },
   {
+    "id": "page-athar-biography-001",
+    "route": "/en/stewardship/biography",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-values-001",
+    "route": "/en/stewardship/values-perspectives",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-career-001",
+    "route": "/en/stewardship/career-in-pictures",
+    "template": "article",
+    "locale": "en",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-speaking-001",
     "route": "/en/speaking",
     "template": "destination",
@@ -258,6 +282,30 @@
   {
     "id": "page-stewardship-001@ar",
     "route": "/ar/stewardship",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-biography-001@ar",
+    "route": "/ar/stewardship/biography",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-values-001@ar",
+    "route": "/ar/stewardship/values-perspectives",
+    "template": "article",
+    "locale": "ar",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-career-001@ar",
+    "route": "/ar/stewardship/career-in-pictures",
     "template": "article",
     "locale": "ar",
     "indexStatus": "index",
@@ -472,6 +520,30 @@
     "redirectHistory": []
   },
   {
+    "id": "page-athar-biography-001@zh",
+    "route": "/zh/stewardship/biography",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-values-001@zh",
+    "route": "/zh/stewardship/values-perspectives",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-career-001@zh",
+    "route": "/zh/stewardship/career-in-pictures",
+    "template": "article",
+    "locale": "zh",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-speaking-001@zh",
     "route": "/zh/speaking",
     "template": "destination",
@@ -674,6 +746,30 @@
   {
     "id": "page-stewardship-001@fr",
     "route": "/fr/stewardship",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-biography-001@fr",
+    "route": "/fr/stewardship/biography",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-values-001@fr",
+    "route": "/fr/stewardship/values-perspectives",
+    "template": "article",
+    "locale": "fr",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-career-001@fr",
+    "route": "/fr/stewardship/career-in-pictures",
     "template": "article",
     "locale": "fr",
     "indexStatus": "index",
@@ -888,6 +984,30 @@
     "redirectHistory": []
   },
   {
+    "id": "page-athar-biography-001@ru",
+    "route": "/ru/stewardship/biography",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-values-001@ru",
+    "route": "/ru/stewardship/values-perspectives",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-career-001@ru",
+    "route": "/ru/stewardship/career-in-pictures",
+    "template": "article",
+    "locale": "ru",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
     "id": "page-speaking-001@ru",
     "route": "/ru/speaking",
     "template": "destination",
@@ -1090,6 +1210,30 @@
   {
     "id": "page-stewardship-001@es",
     "route": "/es/stewardship",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-biography-001@es",
+    "route": "/es/stewardship/biography",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-values-001@es",
+    "route": "/es/stewardship/values-perspectives",
+    "template": "article",
+    "locale": "es",
+    "indexStatus": "index",
+    "redirectHistory": []
+  },
+  {
+    "id": "page-athar-career-001@es",
+    "route": "/es/stewardship/career-in-pictures",
     "template": "article",
     "locale": "es",
     "indexStatus": "index",
