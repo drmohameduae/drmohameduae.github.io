@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-30T07:28:03.885Z",
+  "builtAt": "2026-07-30T07:47:06.201Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -63,8 +63,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/en/stewardship/biography/index.html",
-      "bytes": 27337,
-      "sha256": "280b93d41df745107d50fc08d99925a28b17eca6135f6580e186d53d7ed818dd"
+      "bytes": 26908,
+      "sha256": "6e0913203e9d83614aaa886c6f15370571a01e642eb1732c3ff00eaf70b9ce67"
     },
     {
       "id": "page-athar-values-001",
@@ -356,8 +356,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ar/stewardship/biography/index.html",
-      "bytes": 32916,
-      "sha256": "befb1b1992a18a6be664408825a20df83875e353e32638082b3ae1af94ca6eb1"
+      "bytes": 32603,
+      "sha256": "2a99365820b51b5436529806c16fd75f4b1862a7171b0629cf461f131706f953"
     },
     {
       "id": "page-athar-values-001@ar",
@@ -649,8 +649,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/zh/stewardship/biography/index.html",
-      "bytes": 25440,
-      "sha256": "7196b86dfcf7bd1dcad3efb4e124de04b5d61bbb93bc8cd029f9ebf7369aa8a9"
+      "bytes": 25148,
+      "sha256": "01fe19196a160c3da20e8871e9cbefc7fda72cb57bb3821ab66d2dfc3628f5e4"
     },
     {
       "id": "page-athar-values-001@zh",
@@ -942,8 +942,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/fr/stewardship/biography/index.html",
-      "bytes": 29892,
-      "sha256": "ee4e7ee9db35b1899b25c1ddc452a1c2de661e68de0a6520adc25a413325f998"
+      "bytes": 29451,
+      "sha256": "3fce2ae34400c40935b7b0e40de64f2d6c0181113f4d39f1b2a75351c2a0d566"
     },
     {
       "id": "page-athar-values-001@fr",
@@ -1235,8 +1235,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ru/stewardship/biography/index.html",
-      "bytes": 38058,
-      "sha256": "6baf8e4db13f9df2627d51d0820fd3b741a79f3962828d4cb884284e0558f48c"
+      "bytes": 37698,
+      "sha256": "af1ca44bb66e024dcc8ca4e485c4baf3b033f1b126a206cf2d4a69caa6d21580"
     },
     {
       "id": "page-athar-values-001@ru",
@@ -1528,8 +1528,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/es/stewardship/biography/index.html",
-      "bytes": 28625,
-      "sha256": "205b60f853c3d01562d5cebbdcc579314ac1ec5d2d617928a4717b462436d7ae"
+      "bytes": 28160,
+      "sha256": "62f28a761ce5636a28faeb45cd2659bfe1dad058a53c4ff9308e753cc12c37b1"
     },
     {
       "id": "page-athar-values-001@es",
@@ -2000,8 +2000,8 @@
     {
       "role": "public-asset",
       "file": "assets/media/journey/journey-2018.webp",
-      "bytes": 8832,
-      "sha256": "2d0b9b177703aaaf6907654837e75fc0850bfc16450e63588355106b8c4affe4"
+      "bytes": 26154,
+      "sha256": "f233e9dd3f7e15fabd3c433a4b2143114b0e70f18863861e7b476b9345c2a5d6"
     },
     {
       "role": "public-asset",
@@ -2012,14 +2012,20 @@
     {
       "role": "public-asset",
       "file": "assets/media/journey/journey-2020.webp",
-      "bytes": 11706,
-      "sha256": "40ce339c3b394429447cb900d52d5ab1079be280628be47a71f368116bbf2246"
+      "bytes": 8832,
+      "sha256": "2d0b9b177703aaaf6907654837e75fc0850bfc16450e63588355106b8c4affe4"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2021.webp",
+      "bytes": 17392,
+      "sha256": "c08d062f6bc46f009bb237b0e34dd0e212eb733ebc4dcc9d4e2b37257201b636"
     },
     {
       "role": "public-asset",
       "file": "assets/media/journey/journey-2022.webp",
-      "bytes": 17392,
-      "sha256": "c08d062f6bc46f009bb237b0e34dd0e212eb733ebc4dcc9d4e2b37257201b636"
+      "bytes": 11706,
+      "sha256": "40ce339c3b394429447cb900d52d5ab1079be280628be47a71f368116bbf2246"
     },
     {
       "role": "public-asset",
