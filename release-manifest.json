@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-30T06:12:35.668Z",
+  "builtAt": "2026-07-30T07:28:03.885Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -63,8 +63,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/en/stewardship/biography/index.html",
-      "bytes": 24660,
-      "sha256": "4cd9da4e13661383955fa4e203b6da32f7d93297c311de698f609e8d49421f52"
+      "bytes": 27337,
+      "sha256": "280b93d41df745107d50fc08d99925a28b17eca6135f6580e186d53d7ed818dd"
     },
     {
       "id": "page-athar-values-001",
@@ -356,8 +356,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ar/stewardship/biography/index.html",
-      "bytes": 30318,
-      "sha256": "e2e07982ae966852c8773c1ff4abef72a1f40c8b85d8a7235a174e89aedcd06f"
+      "bytes": 32916,
+      "sha256": "befb1b1992a18a6be664408825a20df83875e353e32638082b3ae1af94ca6eb1"
     },
     {
       "id": "page-athar-values-001@ar",
@@ -649,8 +649,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/zh/stewardship/biography/index.html",
-      "bytes": 22610,
-      "sha256": "d5c7145667c8f591d25a3703b5a02321cef8d1dcc64e2823037b4976fd36d5b5"
+      "bytes": 25440,
+      "sha256": "7196b86dfcf7bd1dcad3efb4e124de04b5d61bbb93bc8cd029f9ebf7369aa8a9"
     },
     {
       "id": "page-athar-values-001@zh",
@@ -942,8 +942,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/fr/stewardship/biography/index.html",
-      "bytes": 27198,
-      "sha256": "0ba9ecd4bb6ed0ae846f59d43e1b9536895843d6d1c1136d4e23d6512e49eeb8"
+      "bytes": 29892,
+      "sha256": "ee4e7ee9db35b1899b25c1ddc452a1c2de661e68de0a6520adc25a413325f998"
     },
     {
       "id": "page-athar-values-001@fr",
@@ -1235,8 +1235,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ru/stewardship/biography/index.html",
-      "bytes": 35409,
-      "sha256": "0ec9d6918ae5ae9e467223dba52bc506052e024513168e42165ef4151a0b2998"
+      "bytes": 38058,
+      "sha256": "6baf8e4db13f9df2627d51d0820fd3b741a79f3962828d4cb884284e0558f48c"
     },
     {
       "id": "page-athar-values-001@ru",
@@ -1528,8 +1528,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/es/stewardship/biography/index.html",
-      "bytes": 25877,
-      "sha256": "094ab92491d5680b4005a703b2d5d9755e4b4533a45cf4fc95367bdcf3bb0cbe"
+      "bytes": 28625,
+      "sha256": "205b60f853c3d01562d5cebbdcc579314ac1ec5d2d617928a4717b462436d7ae"
     },
     {
       "id": "page-athar-values-001@es",
@@ -1766,8 +1766,8 @@
     {
       "role": "stylesheet",
       "file": "/assets/site.css",
-      "bytes": 41517,
-      "sha256": "fe6ac933053ef3aa086463bc3fedfbaaaa3dd3fb08fffed15581eb6134ecf901"
+      "bytes": 42699,
+      "sha256": "cfea69d1389f7496f8bab2650cae559529d6f59b30c80ceb4d01101f5a868937"
     },
     {
       "role": "print-stylesheet",
@@ -1921,6 +1921,132 @@
     },
     {
       "role": "public-asset",
+      "file": "assets/media/journey/journey-2001.webp",
+      "bytes": 28814,
+      "sha256": "faa6228578a6f78b74a1653c6f920e3f2277e7f553618f7bc48e296afd23b6cb"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2002.webp",
+      "bytes": 7306,
+      "sha256": "221c7e4655cd4a27ce6ef02f4105df9efd991b31605c495fa246148b6c793eea"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2003.webp",
+      "bytes": 8154,
+      "sha256": "01722ccfef7287468160f8c2c02890d414206d6fb26b1768bcf99d85f18c6127"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2004.webp",
+      "bytes": 7722,
+      "sha256": "263a65fefc0d67fcdcbbdc00f6f4c904d4c205579cdc5f61f73ade2de670ef07"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2009.webp",
+      "bytes": 7292,
+      "sha256": "819d37468be90210e3d4c8fbad50047b2e7a83b01b49958fb9f095bb501bcf6d"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2010.webp",
+      "bytes": 7142,
+      "sha256": "a845bbef5ee2dacff685511fe1623aeead913a18177510c9396b4a59cd5cb411"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2011.webp",
+      "bytes": 8828,
+      "sha256": "b60f9d5e00f32961201f10d8a167695c0c12db9af3f6d7d55a5cee9738ca85af"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2012.webp",
+      "bytes": 11074,
+      "sha256": "e47e8c12d9d82300fe8a703d5cf7857d376eb4a38f8d17261fe1993d0be728bf"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2013.webp",
+      "bytes": 8324,
+      "sha256": "460709d3d8c3a091d362679d5fabd1282a76197a2eed874d934a065e13e67420"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2014.webp",
+      "bytes": 8182,
+      "sha256": "d24fa4d40e55c3ebc2029879ee0f037023c5ea8de8e21b6bbfc614be2189e352"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2015.webp",
+      "bytes": 13016,
+      "sha256": "b90efe8a02c2ea7e697ee42aac77dab554394bba1498e0ec2b6e706a9b2410ac"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2016.webp",
+      "bytes": 34874,
+      "sha256": "41d26e140302646be16d9238603494fbbf1fe642ce51908b424aecac2482ad72"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2017.webp",
+      "bytes": 11092,
+      "sha256": "6e041f832e11c7eb1f4e7dabc7b325586ee55d8a661c3946b21652ff53622805"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2018.webp",
+      "bytes": 8832,
+      "sha256": "2d0b9b177703aaaf6907654837e75fc0850bfc16450e63588355106b8c4affe4"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2019.webp",
+      "bytes": 10840,
+      "sha256": "ccf0894e68bdf52a7140e9578dc38a1a6c6822ff57a70a4baa94d448436c4ddc"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2020.webp",
+      "bytes": 11706,
+      "sha256": "40ce339c3b394429447cb900d52d5ab1079be280628be47a71f368116bbf2246"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2022.webp",
+      "bytes": 17392,
+      "sha256": "c08d062f6bc46f009bb237b0e34dd0e212eb733ebc4dcc9d4e2b37257201b636"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2023.webp",
+      "bytes": 14188,
+      "sha256": "3e508a423a43221f212f095d0c60645d4e2372df94cf2b45138fbbe113e54e44"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2024.webp",
+      "bytes": 10592,
+      "sha256": "2100aef2ff317e21c8a160c8a2286f9461d86e203724abc5c8ce1e1816c14ddc"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2025.webp",
+      "bytes": 19818,
+      "sha256": "97dedbf21f658128f4d329431cdf1313b3615372d159ded75f9aeea8f5768070"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/journey/journey-2026.webp",
+      "bytes": 15144,
+      "sha256": "1fc5e6a04630aa8722812a0c7e31a74580793d1975dfde3947717bdb791e7b46"
+    },
+    {
+      "role": "public-asset",
       "file": "assets/media/monogram.webp",
       "bytes": 54208,
       "sha256": "c41e87e6545d2457ecd4122dc43aceec5b42ff560ed3269379526ed5065e08da"
@@ -1981,7 +2107,7 @@
       "withinBudget": true
     },
     "initialCss": {
-      "compressedBytes": 9593,
+      "compressedBytes": 9827,
       "budget": 71680,
       "withinBudget": true
     }
