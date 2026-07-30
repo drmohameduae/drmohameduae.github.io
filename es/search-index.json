@@ -35,15 +35,8 @@
     "type": "page"
   },
   {
-    "id": "page-journey-001",
-    "title": "La Trayectoria",
-    "summary": "Una secuencia de aprendizaje y contribución a través de la gobernanza ambiental, las políticas públicas y el desarrollo institucional.",
-    "route": "/es/journey",
-    "type": "page"
-  },
-  {
     "id": "page-stewardship-001",
-    "title": "El Athar",
+    "title": "La Trayectoria",
     "summary": "El legado del Dr. Mohamed Yousef Almadfaei — su biografía, los valores que guían su trabajo y una carrera contada en imágenes.",
     "route": "/es/stewardship",
     "type": "page"

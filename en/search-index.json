@@ -35,15 +35,8 @@
     "type": "page"
   },
   {
-    "id": "page-journey-001",
-    "title": "The Journey",
-    "summary": "A sequence of learning and contribution across environmental governance, public policy and institutional development.",
-    "route": "/en/journey",
-    "type": "page"
-  },
-  {
     "id": "page-stewardship-001",
-    "title": "The Athar",
+    "title": "The Journey",
     "summary": "The legacy of Dr. Mohamed Yousef Almadfaei — his biography, the values that guide his work, and a career told in pictures.",
     "route": "/en/stewardship",
     "type": "page"

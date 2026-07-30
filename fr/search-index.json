@@ -35,15 +35,8 @@
     "type": "page"
   },
   {
-    "id": "page-journey-001",
-    "title": "Le Parcours",
-    "summary": "Une suite d'apprentissage et de contribution à travers la gouvernance environnementale, les politiques publiques et le développement institutionnel.",
-    "route": "/fr/journey",
-    "type": "page"
-  },
-  {
     "id": "page-stewardship-001",
-    "title": "L'Athar",
+    "title": "Le Parcours",
     "summary": "L'héritage du Dr Mohamed Yousef Almadfaei — sa biographie, les valeurs qui guident son action et une carrière racontée en images.",
     "route": "/fr/stewardship",
     "type": "page"

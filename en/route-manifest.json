@@ -40,14 +40,6 @@
     "redirectHistory": []
   },
   {
-    "id": "page-journey-001",
-    "route": "/en/journey",
-    "template": "journey",
-    "locale": "en",
-    "indexStatus": "index",
-    "redirectHistory": []
-  },
-  {
     "id": "page-stewardship-001",
     "route": "/en/stewardship",
     "template": "article",
@@ -307,14 +299,6 @@
     "id": "page-discover-001@ar",
     "route": "/ar/discover",
     "template": "destination",
-    "locale": "ar",
-    "indexStatus": "index",
-    "redirectHistory": []
-  },
-  {
-    "id": "page-journey-001@ar",
-    "route": "/ar/journey",
-    "template": "journey",
     "locale": "ar",
     "indexStatus": "index",
     "redirectHistory": []
@@ -584,14 +568,6 @@
     "redirectHistory": []
   },
   {
-    "id": "page-journey-001@zh",
-    "route": "/zh/journey",
-    "template": "journey",
-    "locale": "zh",
-    "indexStatus": "index",
-    "redirectHistory": []
-  },
-  {
     "id": "page-stewardship-001@zh",
     "route": "/zh/stewardship",
     "template": "article",
@@ -851,14 +827,6 @@
     "id": "page-discover-001@fr",
     "route": "/fr/discover",
     "template": "destination",
-    "locale": "fr",
-    "indexStatus": "index",
-    "redirectHistory": []
-  },
-  {
-    "id": "page-journey-001@fr",
-    "route": "/fr/journey",
-    "template": "journey",
     "locale": "fr",
     "indexStatus": "index",
     "redirectHistory": []
@@ -1128,14 +1096,6 @@
     "redirectHistory": []
   },
   {
-    "id": "page-journey-001@ru",
-    "route": "/ru/journey",
-    "template": "journey",
-    "locale": "ru",
-    "indexStatus": "index",
-    "redirectHistory": []
-  },
-  {
     "id": "page-stewardship-001@ru",
     "route": "/ru/stewardship",
     "template": "article",
@@ -1395,14 +1355,6 @@
     "id": "page-discover-001@es",
     "route": "/es/discover",
     "template": "destination",
-    "locale": "es",
-    "indexStatus": "index",
-    "redirectHistory": []
-  },
-  {
-    "id": "page-journey-001@es",
-    "route": "/es/journey",
-    "template": "journey",
     "locale": "es",
     "indexStatus": "index",
     "redirectHistory": []

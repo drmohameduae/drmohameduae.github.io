@@ -35,15 +35,8 @@
     "type": "page"
   },
   {
-    "id": "page-journey-001",
-    "title": "人生历程",
-    "summary": "在环境治理、公共政策与机构建设领域中，一段不断学习与奉献的历程。",
-    "route": "/zh/journey",
-    "type": "page"
-  },
-  {
     "id": "page-stewardship-001",
-    "title": "阿塔尔",
+    "title": "历程",
     "summary": "穆罕默德·优素福·阿尔马德法伊博士的传承——他的生平、指引其工作的价值观，以及以影像呈现的职业生涯。",
     "route": "/zh/stewardship",
     "type": "page"
