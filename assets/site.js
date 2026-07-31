@@ -154,4 +154,15 @@
       })
       .catch(function () { /* service absent: keep truthful unavailable state */ });
   }
+
+  /* ---------- Career galleries: rights-protected photographs ----------
+     Presentation is complete without this script; these handlers only reduce
+     casual copying (right-click, drag, long-press selection) on gallery
+     photographs, complementing the per-frame shield and rights microline. */
+  var galleryRoot = document.querySelector(".eng-gallery");
+  if (galleryRoot) {
+    ["contextmenu", "dragstart", "selectstart"].forEach(function (type) {
+      galleryRoot.addEventListener(type, function (event) { event.preventDefault(); });
+    });
+  }
 })();

@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-30T07:47:06.201Z",
+  "builtAt": "2026-07-31T00:11:15.106Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -81,8 +81,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/en/stewardship/career-in-pictures/index.html",
-      "bytes": 10266,
-      "sha256": "ea5581aaead92932d543aca8d189b9390166205ce89e5d4af8c7600c4d36f9bd"
+      "bytes": 10357,
+      "sha256": "37d0607a65f3a211f9357320881c4523539d80797f820cd9080beae15507328d"
     },
     {
       "id": "page-athar-gallery-high-level-engagements",
@@ -90,8 +90,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/en/stewardship/career-in-pictures/high-level-engagements/index.html",
-      "bytes": 7746,
-      "sha256": "cae1b34cedde3ec7d4c4afd2a5f8fc16dc766c1fdc60f7099f3f84b67ca0a001"
+      "bytes": 44706,
+      "sha256": "f555ad043cc71b38dc61c632eb0a7beba3efd8ecfbf5739ec54c4df678d94a9a"
     },
     {
       "id": "page-athar-gallery-ead-memories",
@@ -374,8 +374,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ar/stewardship/career-in-pictures/index.html",
-      "bytes": 11337,
-      "sha256": "43adfc1030da890ef7484c2eb6663530071c7c7eb66b7ee6f8abea9ed4359a5b"
+      "bytes": 11480,
+      "sha256": "c339a43faf70eee2b8c564910ca37afe833506e79ff13e4a3bb1a120ec76f977"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@ar",
@@ -383,8 +383,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ar/stewardship/career-in-pictures/high-level-engagements/index.html",
-      "bytes": 8333,
-      "sha256": "16baa5ffdc8bd762fe2970f06e719acf0f6667108f23fec63ac0f0d7c8fae9a3"
+      "bytes": 53461,
+      "sha256": "38187520f7d7cdec29cee5cf8e022be09b9314df2aee7464de0e1fd3cd7fd041"
     },
     {
       "id": "page-athar-gallery-ead-memories@ar",
@@ -667,8 +667,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/zh/stewardship/career-in-pictures/index.html",
-      "bytes": 10223,
-      "sha256": "8038816b5e68992de3e525e78797666049385ce08e073d13c3f96a5744dfdbf2"
+      "bytes": 10300,
+      "sha256": "7e60889dd9c5d5d140552ff8c9502add48e40b0e89cbc396ec9b6eee8f63e34f"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@zh",
@@ -676,8 +676,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/zh/stewardship/career-in-pictures/high-level-engagements/index.html",
-      "bytes": 7620,
-      "sha256": "30f38fe02b786bb8819ed1f5bce12f81e9b06680b88cbb94c13df3864b16bfc2"
+      "bytes": 45678,
+      "sha256": "b3de6c03c43b6ee809b8508d2a39d303f8ecf438e042757cc21d16b7f477c3c1"
     },
     {
       "id": "page-athar-gallery-ead-memories@zh",
@@ -960,8 +960,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/fr/stewardship/career-in-pictures/index.html",
-      "bytes": 10567,
-      "sha256": "a57ee147aa8dc4a446637efdf856de3a54f437b77664d4ab48df83ea2c0d8299"
+      "bytes": 10660,
+      "sha256": "5eee6fb46c14f3eab75364350398958edb20e933c3dfe8a79bfac105fada305d"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@fr",
@@ -969,8 +969,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/fr/stewardship/career-in-pictures/high-level-engagements/index.html",
-      "bytes": 7896,
-      "sha256": "dc37cb5a68cd942be58e83904fb9b7c4e23357108b88dcfedcfacd3e8d227d30"
+      "bytes": 48238,
+      "sha256": "871a72f1360193c353ab9d218c4bbea047d3fa0a98dbfe82fdf34fcf2f03920c"
     },
     {
       "id": "page-athar-gallery-ead-memories@fr",
@@ -1253,8 +1253,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ru/stewardship/career-in-pictures/index.html",
-      "bytes": 11820,
-      "sha256": "792db716d46c154056292f9b90287167f6040d3aed742f294421dbabe174edbb"
+      "bytes": 11946,
+      "sha256": "3b15e59191abd6eb7efdaa08bd21d5caea0568e5e02dc1f1955f4a6c93a5c88a"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@ru",
@@ -1262,8 +1262,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ru/stewardship/career-in-pictures/high-level-engagements/index.html",
-      "bytes": 8745,
-      "sha256": "257635c9a80961523606a79484d8be26341c96336e4170498bf1dfa9e641518c"
+      "bytes": 61663,
+      "sha256": "8066e9bbd33280ed34c564cd2422c4c9447dffe274aac9d49e06c05088b4b384"
     },
     {
       "id": "page-athar-gallery-ead-memories@ru",
@@ -1546,8 +1546,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/es/stewardship/career-in-pictures/index.html",
-      "bytes": 10472,
-      "sha256": "4b56356d83b6bba9363c9db309a3b6c711c4dd264bd2e843a482ba613bec2c99"
+      "bytes": 10565,
+      "sha256": "90f05070aaf833b079988bfc491d8ac8c25bef21eb41c923a3a6b81321c49cd2"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@es",
@@ -1555,8 +1555,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/es/stewardship/career-in-pictures/high-level-engagements/index.html",
-      "bytes": 7893,
-      "sha256": "3158366cafe55eef13eb7c4f34602f766206f0adcd85139acdaf047bd2f7be19"
+      "bytes": 46446,
+      "sha256": "5b50dc32e4759e25e70fd50b22114ec02ebd94326b94e188e269e54553ed6e4a"
     },
     {
       "id": "page-athar-gallery-ead-memories@es",
@@ -1766,8 +1766,8 @@
     {
       "role": "stylesheet",
       "file": "/assets/site.css",
-      "bytes": 42699,
-      "sha256": "cfea69d1389f7496f8bab2650cae559529d6f59b30c80ceb4d01101f5a868937"
+      "bytes": 44666,
+      "sha256": "c9c84e34d83b684c900c18fb1d8404bc113f52d52e371f52cee5fb11c1f0102a"
     },
     {
       "role": "print-stylesheet",
@@ -1778,8 +1778,8 @@
     {
       "role": "script",
       "file": "/assets/site.js",
-      "bytes": 7394,
-      "sha256": "6d86013e0825dca16a4ae4e875718112ae12d7bd6be256e47f3e3ddfcbf795f6"
+      "bytes": 7953,
+      "sha256": "00f129c191133036244f1dd08dddc22899b3c287343d04748bc811465d8b9170"
     },
     {
       "role": "public-asset",
@@ -1882,6 +1882,324 @@
       "file": "assets/media/ead-logo.webp",
       "bytes": 54384,
       "sha256": "10caf3c9398ba19fc5a20644af15ac62ee837942064046ee1a399ecbcf5bdbc9"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-01-1.webp",
+      "bytes": 46980,
+      "sha256": "d2ebd9bed878d1186d6636cfecc59a79c3ca94157fced85ddc6dda3f6971f801"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-02-1.webp",
+      "bytes": 52358,
+      "sha256": "372288b1c591574988c73ca1bef3c53d2c9b8b2c1ab933be816392dffa16131d"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-03-1.webp",
+      "bytes": 58674,
+      "sha256": "f357542d4b22380751ace713242792a9ae357acdd7484c933ae9d336fa1546f6"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-03-2.webp",
+      "bytes": 81710,
+      "sha256": "91e510b455fd25876a7cf0f5f736ac042dd75b158888859eeaebc958f3ebc8ab"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-03-3.webp",
+      "bytes": 82588,
+      "sha256": "dff11d1e9615802ec3f936c3db5184673630961322bd9f61e44ec867ee9f974d"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-03-4.webp",
+      "bytes": 92884,
+      "sha256": "061119ee4a411abea8145cc9196c625cb67163e0b63d8576940d65f5f99ebb73"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-04-1.webp",
+      "bytes": 56712,
+      "sha256": "d62c05a093004ae17b3f7452f79805776aca8d8ccb60107b9d3c9d5b1764fd03"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-05-1.webp",
+      "bytes": 68582,
+      "sha256": "e63f593666bba1869ee70614d5502087a0ccf6490f612485692751be1d12ffc0"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-06-1.webp",
+      "bytes": 216078,
+      "sha256": "13c73a6164ef54e827013b26717d54f9196e4f4f4550b6d92a5da05afb7efbe6"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-06-2.webp",
+      "bytes": 190252,
+      "sha256": "1196338cce659a867905232b8a429000fdb1471f7b3e75ab37396e21270e7868"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-06-3.webp",
+      "bytes": 437736,
+      "sha256": "51bbe593d6a1d4b3686ba257b3ccede2cc89c6ccefa14fe25c39b1eecc2163db"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-07-1.webp",
+      "bytes": 78234,
+      "sha256": "129ef1855fdc7f0ec7f71c006cfc0ae90302f92e2106663ef008e059a3a93367"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-08-1.webp",
+      "bytes": 64050,
+      "sha256": "9d08b818729bee6ad523855c31005f383671b243fe9cbeed60102b7da757115a"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-09-1.webp",
+      "bytes": 98326,
+      "sha256": "de0fb15a6166509bedc6343e1911961edf4a07be932544a894b1a72207cfd07d"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-09-2.webp",
+      "bytes": 31072,
+      "sha256": "c49b5c2b660456529bef7c42009dfba23ea8e9eb9a8156ccdf62aa43eb09ff14"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-10-1.webp",
+      "bytes": 68740,
+      "sha256": "2e8d959509da5760264b88f3de06d3963741cf9f37293d6f238bdf5b3ca62a54"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-11-1.webp",
+      "bytes": 92472,
+      "sha256": "5b15dd54f470099eca15ccf5c08192e7c6d8f9009b43541bc8123c75b054015a"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-12-1.webp",
+      "bytes": 64436,
+      "sha256": "30c06a72017dfa3a289b361a0ff92db436805f115e041866e7cc5ed48dc8389a"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-13-1.webp",
+      "bytes": 42912,
+      "sha256": "1824a164d6b517ce081a50de36c53f8fc4bedb7b9e3adf5bca757d2c07d8acb2"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-14-1.webp",
+      "bytes": 66070,
+      "sha256": "2ea97ff2465aea0c216f5eb01de38a62e0fc7d6f1503a10db269c11514a37e94"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-14-2.webp",
+      "bytes": 52804,
+      "sha256": "7e8403db4a6228958d5f4ee268f3728cce2eb23c9d93474ba3f6d146c5ce4977"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-14-3.webp",
+      "bytes": 43168,
+      "sha256": "47c2200e75d38dd6d65b824e1e16673dca271b3fe636779aa92772190651298e"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-15-1.webp",
+      "bytes": 82258,
+      "sha256": "c4caf119b53114ea6c4c737867b07bcd6a87b6f82b0cb2d31b270baf028aa5f9"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-16-1.webp",
+      "bytes": 23072,
+      "sha256": "b1c4e4b2d2cf433f90e22e07059658f7675965b0c53592070096ba3bf38a0f47"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-17-1.webp",
+      "bytes": 95632,
+      "sha256": "4d71cdbce7d4ade6f151d28669bf39b7c49891db82507b0608e07a8e139cf769"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-18-1.webp",
+      "bytes": 36798,
+      "sha256": "ee49315b7956eb3a11568d58e997eec41015f132205e26b93349fbd5c6cfda1a"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-19-1.webp",
+      "bytes": 45544,
+      "sha256": "65abca6e612def42bfd3703f3bf0cd3da643c44f67a7da9a6c8696ca255d9ade"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-19-2.webp",
+      "bytes": 37820,
+      "sha256": "4e21d8e107a57769c812e300295d15278ae1816e6f4a9ad700cdf4a3b4dfee79"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-19-3.webp",
+      "bytes": 44642,
+      "sha256": "70d96cf6752315ea7c9a7881c5635cf4af994afe9975265a4df257387be45a43"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-20-1.webp",
+      "bytes": 92078,
+      "sha256": "c74950eb85d64401082e3b287730b853aba4ea825dd32ed0a34edaa8396e2be8"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-21-1.webp",
+      "bytes": 179108,
+      "sha256": "1b0745faf08c20470028eacf48fb5a9df9339fed2683c9e2c2855baf69e6c57c"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-22-1.webp",
+      "bytes": 164316,
+      "sha256": "704509799276d51047e55027dbc0bb5d01da16c41005a51b2b213a49ab19173d"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-23-1.webp",
+      "bytes": 66826,
+      "sha256": "10da243323bc5d074c6b150ad311229011db379aa15de13a845966f5ef8d7979"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-24-1.webp",
+      "bytes": 139384,
+      "sha256": "7310c85e4e2f800063cf3679277b9543a204f889016f6c5e5e72958380c7c301"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-25-1.webp",
+      "bytes": 130256,
+      "sha256": "90edef9b214bda848d1f096c0b59776469b0581b26c8f12fa7f90631d501065e"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-26-1.webp",
+      "bytes": 70710,
+      "sha256": "ec957817b70d0b7dd34b30812fb00dc3428e128c08606912cffaac800613d415"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-27-1.webp",
+      "bytes": 121552,
+      "sha256": "ca94be96b16ff9105bbfa35dd75411df63f0ae5272b6565b83abbc08a8cde099"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-28-1.webp",
+      "bytes": 74014,
+      "sha256": "64ee1e2c0dcbd4459aa132f310726924fe51271765ec15d76356fd36ff7151e3"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-29-1.webp",
+      "bytes": 78380,
+      "sha256": "9835c5d5fdacc045ee93e8eeb94549fd938d10b416fef9de04f56f2427935e06"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-30-1.webp",
+      "bytes": 124384,
+      "sha256": "1dd89b49ab23cbcc3937a2e90138e9b0550b1952a70122050a9f8cc81cd93a4b"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-31-1.webp",
+      "bytes": 54394,
+      "sha256": "fe455dd26e434f8f9e9cba9a508d3b62a21488a804067ca3756feea4fccfcb20"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-32-1.webp",
+      "bytes": 40468,
+      "sha256": "0fa674f4144be535fe3b78f1a59e22d76df28f43c62f157d6d50c2b698943a09"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-33-1.webp",
+      "bytes": 68692,
+      "sha256": "4f0802abc74d798c0d54b5e12fb29688795d18df5587862c55df02eb29c480fa"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-34-1.webp",
+      "bytes": 84266,
+      "sha256": "e5d261db76d708bd58063c1f9a910babdad6a08d25e45b2b59ce75cc292d1ae9"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-35-1.webp",
+      "bytes": 74860,
+      "sha256": "25597cccc14b22d4d955ea8f1388333c9bf2e720fb8379f97e600341037d6424"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-36-1.webp",
+      "bytes": 78174,
+      "sha256": "bbcd0bc8137e9c602777341438b6bf83cbfcadf6f9d538bbfb22b3b434ea23a6"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-37-1.webp",
+      "bytes": 82220,
+      "sha256": "d0638517b17fe1e8f97b45bc06d0ff54869b7a987d24894d5ad5918742aed53b"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-38-1.webp",
+      "bytes": 159812,
+      "sha256": "fe6a662d94adf4892df1e6033b10fa806e7f00c4009a9b9a3b54dcaa742acf0a"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-39-1.webp",
+      "bytes": 68316,
+      "sha256": "e21ddfd3afd761523572f23919a262d1b7b6212b7831dbac6ade611605584ac3"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-40-1.webp",
+      "bytes": 200238,
+      "sha256": "8810e3ddb3694f565917081da4e98af16faea08bd196b2eed2e8c337bdbb9ebd"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-41-1.webp",
+      "bytes": 28444,
+      "sha256": "9bf545145af7d055604299848202468ae604b52f5345c5fb263d21f3a7f8df55"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-42-1.webp",
+      "bytes": 16098,
+      "sha256": "d0458a9b8c35b7b870a9c6c9e9bd319a9ab801e960bfdd6755aea348c140b119"
+    },
+    {
+      "role": "public-asset",
+      "file": "assets/media/engagements/eng-cover.webp",
+      "bytes": 102986,
+      "sha256": "d8259587b93fd92e983b0824bc6d32c6db0ddba38eff40432156638a8b6a1e38"
     },
     {
       "role": "public-asset",
@@ -2108,12 +2426,12 @@
   ],
   "budgets": {
     "initialJavaScript": {
-      "compressedBytes": 2476,
+      "compressedBytes": 2682,
       "budget": 174080,
       "withinBudget": true
     },
     "initialCss": {
-      "compressedBytes": 9827,
+      "compressedBytes": 10183,
       "budget": 71680,
       "withinBudget": true
     }
