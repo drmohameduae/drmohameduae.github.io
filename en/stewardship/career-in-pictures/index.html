@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Dr. Mohamed Yousef Almadfaei | Career in Pictures</title>
-  <meta name="description" content="Galleries documenting milestones of Dr. Almadfaei’s professional career are being assembled and will be published here." />
+  <meta name="description" content="A photo album of Dr. Almadfaei’s professional journey — turn the pages of High Level Engagements; further albums are being assembled." />
   <link rel="canonical" href="https://drmohamed.net/en/stewardship/career-in-pictures" />
   <link rel="alternate" hreflang="en" href="https://drmohamed.net/en/stewardship/career-in-pictures" />
   <link rel="alternate" hreflang="ar" href="https://drmohamed.net/ar/stewardship/career-in-pictures" />
@@ -17,12 +17,12 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="DRMOHAMED.NET" />
   <meta property="og:title" content="Career in Pictures | DRMOHAMED.NET" />
-  <meta property="og:description" content="Galleries documenting milestones of Dr. Almadfaei’s professional career are being assembled and will be published here." />
+  <meta property="og:description" content="A photo album of Dr. Almadfaei’s professional journey — turn the pages of High Level Engagements; further albums are being assembled." />
   <meta property="og:url" content="https://drmohamed.net/en/stewardship/career-in-pictures" />
   <meta property="og:locale" content="en" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Career in Pictures | DRMOHAMED.NET" />
-  <meta name="twitter:description" content="Galleries documenting milestones of Dr. Almadfaei’s professional career are being assembled and will be published here." />
+  <meta name="twitter:description" content="A photo album of Dr. Almadfaei’s professional journey — turn the pages of High Level Engagements; further albums are being assembled." />
   <meta name="theme-color" content="#F7F5F0" />
   <link rel="icon" href="/assets/favicon.png" type="image/png" />
   <link rel="stylesheet" href="/assets/site.css" />
@@ -30,12 +30,283 @@
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/archivo-black-400-latin.woff2" crossorigin />
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/noto-sans-400-latin.woff2" crossorigin />
   <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/noto-sans-arabic-400-arabic.woff2" crossorigin />
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Career in Pictures","description":"Galleries documenting milestones of Dr. Almadfaei’s professional career are being assembled and will be published here.","inLanguage":"en","datePublished":"2026-07-26","dateModified":"2026-07-31","author":{"@type":"Person","name":"Dr. Mohamed Yousef Almadfaei"},"mainEntityOfPage":"https://drmohamed.net/en/stewardship/career-in-pictures"}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Career in Pictures","description":"A photo album of Dr. Almadfaei’s professional journey — turn the pages of High Level Engagements; further albums are being assembled.","inLanguage":"en","datePublished":"2026-07-26","dateModified":"2026-08-01","author":{"@type":"Person","name":"Dr. Mohamed Yousef Almadfaei"},"mainEntityOfPage":"https://drmohamed.net/en/stewardship/career-in-pictures"}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://drmohamed.net/en/"},{"@type":"ListItem","position":2,"name":"The Journey","item":"https://drmohamed.net/en/stewardship"},{"@type":"ListItem","position":3,"name":"Career in Pictures","item":"https://drmohamed.net/en/stewardship/career-in-pictures"}]}</script>
+  <style>
+    /* ---- Career in Pictures · turning photo album ---- */
+    .album {
+      --page-w: min(440px, 40vw);
+      --paper: #FDFBF4;
+      --paper-edge: #EFE9DA;
+      --ink: #0A192F;
+      --olive: #2D4030;
+      --gold: #B8956A;
+      --terracotta: #8C5A3C;
+      --sand: #F7F5F0;
+      margin: 0 auto;
+    }
+    .album__tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+      margin-bottom: 28px;
+    }
+    .album__tab {
+      font: 600 13px/1 'Noto Sans', -apple-system, 'Segoe UI', sans-serif;
+      letter-spacing: .04em;
+      padding: 10px 16px;
+      border: 1px solid rgba(10,25,47,.18);
+      border-radius: 6px 6px 0 0;
+      background: #EFEAE0;
+      color: var(--ink);
+      cursor: pointer;
+      transition: background .2s ease, color .2s ease, border-color .2s ease;
+    }
+    .album__tab:hover { background: #E6DFCF; }
+    .album__tab:focus-visible { outline: 2px solid var(--terracotta); outline-offset: 2px; }
+    .album__tab[aria-selected="true"] {
+      background: var(--olive);
+      border-color: var(--olive);
+      color: #F7F5F0;
+    }
+    .album__stage {
+      position: relative;
+      width: calc(var(--page-w) * 2);
+      max-width: 100%;
+      margin: 0 auto;
+      min-height: calc(var(--page-w) * 1.32);
+    }
+    .album__book {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: var(--page-w);
+      aspect-ratio: 440 / 580;
+      perspective: 2400px;
+      filter: drop-shadow(0 18px 28px rgba(10,25,47,.22));
+    }
+    .album__spine {
+      position: absolute;
+      top: 0; bottom: 0; left: -6px;
+      width: 12px;
+      background: linear-gradient(90deg, rgba(10,25,47,.28), rgba(10,25,47,0));
+      pointer-events: none;
+      z-index: 0;
+    }
+    .leaf {
+      position: absolute;
+      inset: 0;
+      transform-origin: left center;
+      transform-style: preserve-3d;
+      transition: transform .85s cubic-bezier(.45,.05,.25,1);
+      will-change: transform;
+    }
+    .leaf--flipped { transform: rotateY(-180deg); }
+    .album--instant .leaf { transition: none !important; }
+    .leaf__face {
+      position: absolute;
+      inset: 0;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+      overflow: hidden;
+      border: 1px solid rgba(10,25,47,.12);
+      border-left: none;
+      border-radius: 0 10px 10px 0;
+      background: var(--paper);
+    }
+    .leaf__face--back {
+      transform: rotateY(180deg);
+      border: 1px solid rgba(10,25,47,.12);
+      border-right: none;
+      border-radius: 10px 0 0 10px;
+      background:
+        repeating-linear-gradient(0deg, rgba(184,149,106,.05) 0 2px, transparent 2px 26px),
+        var(--paper-edge);
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+      padding: 14px 18px;
+    }
+    .leaf__folio {
+      font: 400 11px/1 'Noto Sans', sans-serif;
+      color: rgba(10,25,47,.38);
+      letter-spacing: .08em;
+    }
+    /* cover + back cover */
+    .leaf__face--cover {
+      background:
+        radial-gradient(120% 90% at 50% 0%, rgba(184,149,106,.22), transparent 55%),
+        var(--olive);
+      color: #F7F5F0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 36px 30px;
+      cursor: pointer;
+    }
+    .cover__frame {
+      border: 1px solid rgba(184,149,106,.65);
+      border-radius: 4px;
+      padding: 30px 24px;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+    }
+    .cover__kicker {
+      font: 600 11px/1.4 'Noto Sans', sans-serif;
+      letter-spacing: .32em;
+      text-transform: uppercase;
+      color: var(--gold);
+    }
+    .cover__title {
+      font-family: 'Archivo Black', 'Noto Sans', sans-serif;
+      font-size: clamp(20px, 2.6vw, 28px);
+      line-height: 1.25;
+      letter-spacing: .01em;
+      color: #F7F5F0;
+      margin: 0;
+    }
+    .cover__rule { width: 56px; height: 1px; background: var(--gold); }
+    .cover__sub {
+      font: 400 13px/1.6 'Noto Sans', sans-serif;
+      color: rgba(247,245,240,.82);
+      margin: 0;
+    }
+    .cover__hint {
+      margin-top: 18px;
+      font: 600 11px/1 'Noto Sans', sans-serif;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: rgba(247,245,240,.6);
+    }
+    /* photo page */
+    .photo {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      padding: 18px 20px 14px;
+      box-sizing: border-box;
+    }
+    .photo__imgwrap {
+      flex: 1 1 auto;
+      min-height: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #F1ECE0;
+      border: 1px solid rgba(10,25,47,.1);
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    .photo__imgwrap img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      display: block;
+      box-shadow: 0 2px 10px rgba(10,25,47,.16);
+      background: #fff;
+    }
+    .photo__caption {
+      flex: 0 0 auto;
+      margin: 12px 2px 0;
+      font: 400 13px/1.55 'Noto Sans', sans-serif;
+      color: var(--ink);
+      min-height: 3.1em;
+    }
+    .photo__meta {
+      flex: 0 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin: 8px 2px 0;
+      font: 400 10.5px/1.4 'Noto Sans', sans-serif;
+      color: rgba(10,25,47,.5);
+    }
+    .photo__year {
+      font-weight: 600;
+      letter-spacing: .12em;
+      color: var(--terracotta);
+    }
+    /* empty album message page */
+    .empty-page {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      padding: 40px 34px;
+      text-align: center;
+    }
+    .empty-page__mark { width: 44px; height: 44px; opacity: .55; }
+    .empty-page__text {
+      font: 400 14px/1.7 'Noto Sans', sans-serif;
+      color: rgba(10,25,47,.72);
+      margin: 0;
+    }
+    /* controls */
+    .album__controls {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+      margin-top: 30px;
+    }
+    .album__btn {
+      font: 600 13px/1 'Noto Sans', sans-serif;
+      letter-spacing: .05em;
+      padding: 11px 20px;
+      border-radius: 999px;
+      border: 1px solid var(--olive);
+      background: transparent;
+      color: var(--olive);
+      cursor: pointer;
+      transition: background .2s ease, color .2s ease;
+    }
+    .album__btn:hover:not(:disabled) { background: var(--olive); color: #F7F5F0; }
+    .album__btn:focus-visible { outline: 2px solid var(--terracotta); outline-offset: 2px; }
+    .album__btn:disabled { opacity: .35; cursor: default; }
+    .album__counter {
+      font: 400 12.5px/1 'Noto Sans', sans-serif;
+      color: rgba(10,25,47,.62);
+      min-width: 132px;
+      text-align: center;
+      letter-spacing: .04em;
+    }
+    .album__note {
+      text-align: center;
+      font: 400 11.5px/1.6 'Noto Sans', sans-serif;
+      color: rgba(10,25,47,.45);
+      margin: 12px 0 0;
+    }
+    @media (max-width: 860px) {
+      .album { --page-w: min(86vw, 420px); }
+      .album__stage { width: var(--page-w); overflow: hidden; border-radius: 0 10px 10px 0; }
+      .album__book { left: 0; right: auto; }
+      .leaf--flipped {
+        transform: rotateY(-165deg);
+        opacity: 0;
+        transition: transform .8s cubic-bezier(.45,.05,.25,1), opacity .35s ease .45s;
+      }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .leaf, .leaf--flipped { transition: none !important; }
+    }
+    @media print {
+      .album__controls, .album__tabs, .album__note { display: none !important; }
+    }
+  </style>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to main content</a>
-  
+
 <header class="masthead">
   <div class="container masthead__inner">
     <a class="wordmark" href="/en/"><img class="monogram" src="/assets/media/monogram.webp" alt="" width="300" height="399" decoding="async" /><span class="wordmark__names"><span class="wordmark__name-ar" lang="ar" dir="rtl">د. محمــد بــن يوســف المــدفـعــي</span><img class="wordmark__flag" src="/assets/media/uae-flag-brush-strip.png" alt="" width="22" height="22" decoding="async" /><span class="wordmark__name-en" lang="en">Dr. Mohamed Yousef Almadfaei</span></span></a>
@@ -77,45 +348,32 @@
   <main id="main-content">
 <section class="section container">
   <div class="section-heading"><h1>Career in Pictures</h1></div>
-  <p class="lede">Galleries documenting milestones of Dr. Almadfaei’s professional career are being assembled and will be published here.</p>
+  <p class="lede">One album, five collections. Choose a tab and turn the pages — each page holds a single photograph with its story beneath.</p>
 </section>
 <section class="section container">
-  
-  <ul class="feature-grid feature-grid--compact">
-    <li class="feature-tile">
-      <a class="feature-tile__link" href="/en/stewardship/career-in-pictures/high-level-engagements">
-        <span class="feature-tile__media"><img src="/assets/media/engagements/eng-cover.webp" alt="High Level Engagements" width="1224" height="816" loading="lazy" decoding="async" /></span>
-        <span class="feature-tile__text"><h3>High Level Engagements</h3><p>Official engagements and leadership moments — 42 photographs, 2009 to 2026.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
-      </a>
-    </li>
-    <li class="feature-tile">
-      <a class="feature-tile__link" href="/en/stewardship/career-in-pictures/ead-memories">
-        <span class="feature-tile__media feature-tile__media--logo"><img src="/assets/media/ead-logo.webp" alt="Environment Agency – Abu Dhabi" width="1119" height="320" loading="lazy" decoding="async" /></span>
-        <span class="feature-tile__text"><h3>EAD Memories</h3><p>Photographs will be added to this gallery.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
-      </a>
-    </li>
-    <li class="feature-tile">
-      <a class="feature-tile__link" href="/en/stewardship/career-in-pictures/sgc-memories">
-        <span class="feature-tile__media feature-tile__media--logo"><img src="/assets/media/shura-logo.webp" alt="Shura Global Consultancy" width="367" height="320" loading="lazy" decoding="async" /></span>
-        <span class="feature-tile__text"><h3>SGC Memories</h3><p>Photographs will be added to this gallery.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
-      </a>
-    </li>
-    <li class="feature-tile">
-      <a class="feature-tile__link" href="/en/stewardship/career-in-pictures/ndc-memories">
-        <span class="feature-tile__media"><span class="feature-tile__icon feature-tile__icon--shield" aria-hidden="true"></span></span>
-        <span class="feature-tile__text"><h3>NDC Memories</h3><p>Photographs will be added to this gallery.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
-      </a>
-    </li>
-    <li class="feature-tile">
-      <a class="feature-tile__link" href="/en/stewardship/career-in-pictures/epda-memories">
-        <span class="feature-tile__media feature-tile__media--logo"><img src="/assets/media/epda-logo.webp" alt="Environment Protection and Development Authority" width="1245" height="320" loading="lazy" decoding="async" /></span>
-        <span class="feature-tile__text"><h3>EPDA Memories</h3><p>Photographs will be added to this gallery.</p><span class="feature-tile__cta" aria-hidden="true"></span></span>
-      </a>
-    </li>
-  </ul>
+  <div class="album" data-album>
+    <div class="album__tabs" role="tablist" aria-label="Album collections"></div>
+    <div class="album__stage">
+      <div class="album__spine" aria-hidden="true"></div>
+      <div class="album__book" data-book></div>
+    </div>
+    <div class="album__controls">
+      <button class="album__btn" type="button" data-prev aria-label="Turn to the previous page">‹ Previous page</button>
+      <span class="album__counter" data-counter aria-live="polite"></span>
+      <button class="album__btn" type="button" data-next aria-label="Turn to the next page">Next page ›</button>
+    </div>
+    <p class="album__note">Turn pages with the buttons, the arrow keys, or by clicking the pages themselves.</p>
+  </div>
+</section>
+
+<section class="section section--plain container">
+  <div class="notice" role="note">
+    <h3>Copyright and permitted use</h3>
+    <p>The photographs in this album are protected works. They may not be downloaded, copied, captured, reproduced, redistributed or reused in any form without the prior written permission of the rights holder. The review baseline for these matters is UAE Federal Decree-Law No. 38 of 2021 on copyright and neighbouring rights.</p>
+  </div>
 </section>
   </main>
-  
+
 <footer class="site-footer">
   <div class="container">
     <nav aria-label="Trust and legal">
@@ -133,5 +391,252 @@
   </div>
 </footer>
   <script src="/assets/site.js" defer></script>
+  <script>
+  (function () {
+    'use strict';
+    var MEDIA = '/assets/media/engagements/';
+    var RIGHTS = '© Dr. Mohamed Yousef Almadfaei';
+    /* [year, file, width, height, caption] — captions verified against the published gallery */
+    var HLE = [
+      ['2018','eng-01-1.webp',721,721,'2018 Green Business Summit with HE Khaled Fahmy, Former Egyptian Minister of Environment.'],
+      ['2018','eng-02-1.webp',720,727,'2018 Brasilia World Water Forum UAE Delegation Reception with HE Hafsa Al Olama, Former UAE Ambassador to Brazil.'],
+      ['2016','eng-03-1.webp',743,743,'2016 Emirates Palace Royal Reception with HRH King Charles III, King of United Kingdom.'],
+      ['2016','eng-03-2.webp',883,882,'2016 Emirates Palace Royal Reception with HRH King Charles III, King of United Kingdom.'],
+      ['2016','eng-03-3.webp',960,1280,'2016 Emirates Palace Royal Reception with HRH King Charles III, King of United Kingdom.'],
+      ['2016','eng-03-4.webp',960,1280,'2016 Emirates Palace Royal Reception with HRH King Charles III, King of United Kingdom.'],
+      ['2014','eng-04-1.webp',740,740,'2014 Al Nakheel Palace Ramadan Gathering with HH Sheikh Hamdan Bin Zayed Al Nahyan, Ruler’s Representative, Al Dhafra Region, and Chairman of the Environment Agency – Abu Dhabi.'],
+      ['2026','eng-05-1.webp',1280,720,'2026 Al Qawasim Corniche Fish Fingerlings Release with Sheikh Ahmed Bin Saud Al Qassimi, Chairman of the Public Services Department, Ras Al Khaimah.'],
+      ['2026','eng-06-1.webp',1600,1067,'2026 Al Muzahmi Reserve Mangrove Plantation with HH Sheikh Mohamed Bin Saud Al Qassimi, Crown Prince of Ras Al Khaimah and Chairman of the Executive Council.'],
+      ['2026','eng-06-2.webp',1280,853,'2026 Al Muzahmi Reserve Mangrove Plantation with HH Sheikh Mohamed Bin Saud Al Qassimi, Crown Prince of Ras Al Khaimah and Chairman of the Executive Council.'],
+      ['2026','eng-06-3.webp',1600,1067,'2026 Al Muzahmi Reserve Mangrove Plantation with HH Sheikh Mohamed Bin Saud Al Qassimi, Crown Prince of Ras Al Khaimah and Chairman of the Executive Council.'],
+      ['2026','eng-07-1.webp',995,1600,'2026 Al Dhait Palace Meeting with HH Sheikh Saud Bin Saqr Al Qassimi, UAE Supreme Council Member and Ruler of Ras Al Khaimah.'],
+      ['2012','eng-08-1.webp',640,640,'2012 Al Shatea Palace Barza with HH Sheikh Mansour Bin Zayed Al Nahyan, UAE Vice President, Deputy Prime Minister and Minister of the Presidential Court.'],
+      ['2018','eng-09-1.webp',1280,962,'2018 World Ocean Summit with President Enrique Peña Nieto, Former President of Mexico.'],
+      ['2018','eng-09-2.webp',433,433,'2018 World Ocean Summit with President Enrique Peña Nieto, Former President of Mexico.'],
+      ['2009','eng-10-1.webp',640,640,'2009 Bangor University Graduation with the late HH Sheikh Sultan Bin Zayed Al Nahyan — Allah rest his soul in peace.'],
+      ['2018','eng-11-1.webp',768,817,'2018 World Ocean Summit with President José María Figueres, Former President of Costa Rica.'],
+      ['2018','eng-12-1.webp',1145,960,'2018 Sea Palace Barza with HH Sheikh Mohamed Bin Zayed Al Nahyan, President of the UAE.'],
+      ['2019','eng-13-1.webp',942,680,'2019 Ministry of Climate Change and Environment Alliance for Circular Economy Ceremony with HE Dr. Thani Al Zeyoudi, Minister of External Trade.'],
+      ['2019','eng-14-1.webp',1080,1097,'2019 Al Nakheel Palace Barza with HH Sheikh Hamdan Bin Zayed Al Nahyan, Ruler’s Representative, Al Dhafra Region, and Chairman of the Environment Agency – Abu Dhabi.'],
+      ['2019','eng-14-2.webp',1080,726,'2019 Al Nakheel Palace Barza with HH Sheikh Hamdan Bin Zayed Al Nahyan, Ruler’s Representative, Al Dhafra Region, and Chairman of the Environment Agency – Abu Dhabi.'],
+      ['2019','eng-14-3.webp',1080,726,'2019 Al Nakheel Palace Barza with HH Sheikh Hamdan Bin Zayed Al Nahyan, Ruler’s Representative, Al Dhafra Region, and Chairman of the Environment Agency – Abu Dhabi.'],
+      ['2016','eng-15-1.webp',1233,1280,'2016 Al Shatea Palace Barza with HH Sheikh Mansour Bin Zayed Al Nahyan, UAE Vice President, Deputy Prime Minister and Minister of the Presidential Court.'],
+      ['2016','eng-16-1.webp',719,378,'2016 National Defence College Graduation with HH Sheikh Mohammed Bin Rashid Al Maktoum, UAE Vice President, Prime Minister and Ruler of Dubai.'],
+      ['2016','eng-17-1.webp',1212,772,'2016 Al Mushrif Palace Wedding Ceremony with Sheikh Dr. Khalid Bin Sultan Al Nahyan.'],
+      ['2014','eng-18-1.webp',800,600,'2014 Singapore International Water Week with HE Mohamed Ahmed Hamel Al Qubaisi, Former UAE Ambassador to Singapore.'],
+      ['2014','eng-19-1.webp',600,800,'2014 Singapore International Water Week with HE Dr. Rashid Ahmed Bin Fahad, Former UAE Minister of Environment and Water.'],
+      ['2014','eng-19-2.webp',600,600,'2014 Singapore International Water Week with HE Dr. Rashid Ahmed Bin Fahad, Former UAE Minister of Environment and Water.'],
+      ['2014','eng-19-3.webp',800,650,'2014 Singapore International Water Week with HE Dr. Rashid Ahmed Bin Fahad, Former UAE Minister of Environment and Water.'],
+      ['2019','eng-20-1.webp',1280,955,'2019 World Ocean Summit with HE Khalifa Bin Salim Al Mansouri, Former Undersecretary of the Abu Dhabi Department of Economic Development.'],
+      ['2018','eng-21-1.webp',1600,778,'2018 Australia–UAE Delegation Meeting with HE Julie Bishop, Former Australian Foreign Minister, HE Dr. Thani Al Zeyoudi, UAE Minister of External Affairs, and HE Dr. Obaid Al Ketbi, Former UAE Ambassador to Australia.'],
+      ['2018','eng-22-1.webp',1600,778,'2018 Seoul UAE Delegation Reception with HE Hussein Al Hammadi, Former UAE Ambassador to China, HE Abdulla Saif Al Nuaimi, UAE Ambassador to India, and HE Dr. Ahmed Ali Murad, Vice Chancellor of UAE University.'],
+      ['2018','eng-23-1.webp',1600,780,'2018 Flight Back from Brasilia with HE José Ángel Gurría, Former OECD Secretary-General.'],
+      ['2018','eng-24-1.webp',1600,778,'2018 World Ocean Summit with HE Mario Aguilar Sánchez, Mexican National Commissioner of Aquaculture and Fisheries.'],
+      ['2018','eng-25-1.webp',1600,778,'2018 World Ocean Summit with President Guðni Thorlacius Jóhannesson, Former President of Iceland.'],
+      ['2018','eng-26-1.webp',1041,578,'2018 World Ocean Summit with HE Christopher Stibbs, Former CEO of The Economist Group.'],
+      ['2017','eng-27-1.webp',1600,900,'2017 National Defence College Graduation with Sheikh Suhail Bin Butti Al Maktoum and Sheikh Maktoum Bin Butti Al Maktoum.'],
+      ['2016','eng-28-1.webp',1600,900,'2016 UAE–South Korea Joint Operation Committee Meeting with HE Kim Yi Tak, South Korea Vice Minister, Ministry of Land, Infrastructure and Transport.'],
+      ['2016','eng-29-1.webp',1002,1562,'2016 UAEU Scientific Committee Meeting with Dr. Ahmed Ali Murad, Vice Chancellor of UAE University.'],
+      ['2015','eng-30-1.webp',960,960,'2015 Abu Dhabi Ramadan Gathering with HE Barbara Leaf, Former US Ambassador to the UAE.'],
+      ['2016','eng-31-1.webp',1600,900,'2016 TwoFour54 Meeting with HE Noura Al Kaabi, UAE Minister of State.'],
+      ['2015','eng-32-1.webp',800,450,'2015 Ministry of Information with HE Diaa Rashwan, Egypt’s State Minister for Information and Chairman of the State Information Service.'],
+      ['2015','eng-33-1.webp',1600,900,'2015 UAE Embassy Cairo with HE Mohamed Bin Al Nakhera Al Dhaheri, Former UAE Ambassador to Egypt.'],
+      ['2015','eng-34-1.webp',1600,900,'2015 World Ocean Summit with President José María Figueres, Former President of Costa Rica.'],
+      ['2015','eng-35-1.webp',1600,900,'2015 UAE Prime Minister’s Office with HE Abdulla Bin Touq Al Marri, UAE Minister of Economy and Tourism.'],
+      ['2015','eng-36-1.webp',900,1600,'2015 Korea International Water Week with HE Hamed Al Neyadi, UAE Ambassador to Kuwait.'],
+      ['2014','eng-37-1.webp',1600,900,'2014 UAE Embassy Japan with HE Saeed Ali Al Nowais, UAE Ambassador to Japan.'],
+      ['2026','eng-38-1.webp',1280,853,'2026 Al Muzahmi Reserve Mangrove Plantation with HH Sheikh Mohamed Bin Saud Al Qassimi, Crown Prince of Ras Al Khaimah and Chairman of the Executive Council.'],
+      ['2013','eng-39-1.webp',1041,1389,'2013 Warsaw COP19 with HE Dr. Sultan Ahmed Al Jaber, UAE Minister of Industry and Advanced Technology and Former UAE Climate Change Envoy.'],
+      ['2014','eng-40-1.webp',1600,1600,'2014 Rashid Award for Scientific Outstanding Ceremony with HH Sheikh Mohammed Bin Rashid Al Maktoum, UAE Vice President, Prime Minister and Ruler of Dubai.'],
+      ['2014','eng-41-1.webp',600,600,'2014 7th World Urban Forum with HE Dr. Joan Clos, Former Executive Director of UN-Habitat.'],
+      ['2014','eng-42-1.webp',596,596,'2014 UAE Embassy Bogotá with HE Mohamed Issa Al Zaabi, Former UAE Ambassador to Colombia.']
+    ];
+    var ALBUMS = [
+      { id: 'hle',  tab: 'High Level Engagements', title: 'High Level Engagements',
+        sub: 'Official engagements and leadership moments · 2009 – 2026', photos: HLE },
+      { id: 'ead',  tab: 'EAD Memories',  title: 'EAD Memories',
+        sub: 'Environment Agency – Abu Dhabi', photos: [] },
+      { id: 'sgc',  tab: 'SGC Memories',  title: 'SGC Memories',
+        sub: 'Shura Global Consultancy', photos: [] },
+      { id: 'ndc',  tab: 'NDC Memories',  title: 'NDC Memories',
+        sub: 'National Defence College', photos: [] },
+      { id: 'epda', tab: 'EPDA Memories', title: 'EPDA Memories',
+        sub: 'Environment Protection and Development Authority', photos: [] }
+    ];
+
+    var root = document.querySelector('[data-album]');
+    if (!root) return;
+    var book = root.querySelector('[data-book]');
+    var tablist = root.querySelector('.album__tabs');
+    var btnPrev = root.querySelector('[data-prev]');
+    var btnNext = root.querySelector('[data-next]');
+    var counter = root.querySelector('[data-counter]');
+    var current = 0;   // album index
+    var flipped = 0;   // number of flipped leaves
+    var leaves = [];
+
+    function el(tag, cls, text) {
+      var n = document.createElement(tag);
+      if (cls) n.className = cls;
+      if (text != null) n.textContent = text;
+      return n;
+    }
+
+    function faceFront() { return el('div', 'leaf__face leaf__face--front'); }
+    function faceBack(folio) {
+      var b = el('div', 'leaf__face leaf__face--back');
+      if (folio) b.appendChild(el('span', 'leaf__folio', folio));
+      return b;
+    }
+
+    function coverLeaf(album, isBack) {
+      var leaf = el('div', 'leaf');
+      var f = faceFront();
+      f.classList.add('leaf__face--cover');
+      var frame = el('div', 'cover__frame');
+      frame.appendChild(el('span', 'cover__kicker', 'Career in Pictures'));
+      frame.appendChild(el('h2', 'cover__title', album.title));
+      frame.appendChild(el('span', 'cover__rule'));
+      frame.appendChild(el('p', 'cover__sub', album.sub));
+      if (!isBack) frame.appendChild(el('span', 'cover__hint', album.photos.length ? 'Turn the page ›' : 'Being assembled'));
+      f.appendChild(frame);
+      leaf.appendChild(f);
+      leaf.appendChild(faceBack(isBack ? '' : 'i'));
+      if (!isBack) f.addEventListener('click', nextPage);
+      return leaf;
+    }
+
+    function photoLeaf(photo, index, total) {
+      var leaf = el('div', 'leaf');
+      var f = faceFront();
+      var wrap = el('article', 'photo');
+      var imgwrap = el('div', 'photo__imgwrap');
+      var img = document.createElement('img');
+      img.src = MEDIA + photo[1];
+      img.alt = photo[4];
+      img.width = photo[2];
+      img.height = photo[3];
+      img.loading = 'lazy';
+      img.decoding = 'async';
+      img.draggable = false;
+      imgwrap.appendChild(img);
+      wrap.appendChild(imgwrap);
+      wrap.appendChild(el('p', 'photo__caption', photo[4]));
+      var meta = el('div', 'photo__meta');
+      meta.appendChild(el('span', 'photo__year', photo[0]));
+      meta.appendChild(el('span', null, RIGHTS));
+      wrap.appendChild(meta);
+      f.appendChild(wrap);
+      f.addEventListener('click', nextPage);
+      leaf.appendChild(f);
+      var back = faceBack(index + ' of ' + total);
+      back.addEventListener('click', prevPage);
+      leaf.appendChild(back);
+      return leaf;
+    }
+
+    function emptyLeaf() {
+      var leaf = el('div', 'leaf');
+      var f = faceFront();
+      var box = el('div', 'empty-page');
+      box.innerHTML = '<svg class="empty-page__mark" viewBox="0 0 44 44" aria-hidden="true"><circle cx="22" cy="22" r="20" fill="none" stroke="#2D4030" stroke-width="1.4"/><circle cx="22" cy="22" r="7" fill="none" stroke="#B8956A" stroke-width="1.4"/></svg>';
+      box.appendChild(el('p', 'empty-page__text', 'Photographs will be added to this album.'));
+      f.appendChild(box);
+      f.addEventListener('click', nextPage);
+      leaf.appendChild(f);
+      var back = faceBack('');
+      back.addEventListener('click', prevPage);
+      leaf.appendChild(back);
+      return leaf;
+    }
+
+    function layout() {
+      var n = leaves.length;
+      leaves.forEach(function (leaf, i) {
+        leaf.style.zIndex = leaf.classList.contains('leaf--flipped') ? (i + 1) : (n - i);
+      });
+      var total = n - 1;
+      var label;
+      if (flipped === 0) label = 'Cover';
+      else if (flipped === total) label = 'Back cover';
+      else label = 'Page ' + flipped + ' of ' + (total - 1);
+      counter.textContent = label + ' — ' + ALBUMS[current].title;
+      btnPrev.disabled = flipped === 0;
+      btnNext.disabled = flipped === total;
+    }
+
+    function nextPage() {
+      if (flipped >= leaves.length - 1) return;
+      leaves[flipped].classList.add('leaf--flipped');
+      flipped++;
+      layout();
+    }
+    function prevPage() {
+      if (flipped <= 0) return;
+      flipped--;
+      leaves[flipped].classList.remove('leaf--flipped');
+      layout();
+    }
+
+    function buildAlbum(index) {
+      current = index;
+      flipped = 0;
+      book.innerHTML = '';
+      leaves = [];
+      var album = ALBUMS[index];
+      root.classList.add('album--instant');
+      book.appendChild(coverLeaf(album, false));
+      if (album.photos.length) {
+        album.photos.forEach(function (p, i) {
+          book.appendChild(photoLeaf(p, i + 1, album.photos.length));
+        });
+      } else {
+        book.appendChild(emptyLeaf());
+      }
+      book.appendChild(coverLeaf(album, true));
+      leaves = Array.prototype.slice.call(book.children);
+      layout();
+      requestAnimationFrame(function () {
+        requestAnimationFrame(function () { root.classList.remove('album--instant'); });
+      });
+      Array.prototype.forEach.call(tablist.children, function (t, i) {
+        t.setAttribute('aria-selected', i === index ? 'true' : 'false');
+        t.tabIndex = i === index ? 0 : -1;
+      });
+    }
+
+    ALBUMS.forEach(function (album, i) {
+      var t = el('button', 'album__tab', album.tab);
+      t.type = 'button';
+      t.setAttribute('role', 'tab');
+      t.setAttribute('aria-selected', i === 0 ? 'true' : 'false');
+      t.addEventListener('click', function () { buildAlbum(i); });
+      t.addEventListener('keydown', function (e) {
+        if (e.key === 'ArrowRight') { buildAlbum((i + 1) % ALBUMS.length); tablist.children[(i + 1) % ALBUMS.length].focus(); }
+        if (e.key === 'ArrowLeft')  { buildAlbum((i + ALBUMS.length - 1) % ALBUMS.length); tablist.children[(i + ALBUMS.length - 1) % ALBUMS.length].focus(); }
+      });
+      tablist.appendChild(t);
+    });
+
+    btnNext.addEventListener('click', nextPage);
+    btnPrev.addEventListener('click', prevPage);
+    document.addEventListener('keydown', function (e) {
+      if (e.target && /^(INPUT|SELECT|TEXTAREA|BUTTON)$/.test(e.target.tagName)) return;
+      if (e.key === 'ArrowRight') nextPage();
+      if (e.key === 'ArrowLeft') prevPage();
+    });
+    var touchX = null;
+    book.addEventListener('touchstart', function (e) { touchX = e.changedTouches[0].clientX; }, { passive: true });
+    book.addEventListener('touchend', function (e) {
+      if (touchX == null) return;
+      var dx = e.changedTouches[0].clientX - touchX;
+      if (dx < -40) nextPage();
+      else if (dx > 40) prevPage();
+      touchX = null;
+    }, { passive: true });
+
+    buildAlbum(0);
+  })();
+  </script>
 </body>
 </html>
