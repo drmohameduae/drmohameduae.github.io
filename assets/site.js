@@ -159,10 +159,84 @@
      Presentation is complete without this script; these handlers only reduce
      casual copying (right-click, drag, long-press selection) on gallery
      photographs, complementing the per-frame shield and rights microline. */
-  var galleryRoot = document.querySelector(".eng-gallery");
+  var galleryRoot = document.querySelector(".eng-gallery, .album");
   if (galleryRoot) {
     ["contextmenu", "dragstart", "selectstart"].forEach(function (type) {
       galleryRoot.addEventListener(type, function (event) { event.preventDefault(); });
     });
+  }
+
+  /* ---------- Career photo album: tabbed flip book ----------
+     Upgrades the static framed list into a book: tabs for each gallery, one
+     photograph per page, page-turn animation, keyboard and swipe support. */
+  var albumRoot = document.querySelector("[data-album]");
+  if (albumRoot) {
+    albumRoot.classList.add("album--enhanced");
+    var albumTabs = Array.prototype.slice.call(albumRoot.querySelectorAll("[data-album-tab]"));
+    var albumPanels = Array.prototype.slice.call(albumRoot.querySelectorAll("[data-album-panel]"));
+    var isRtl = document.documentElement.dir === "rtl";
+    function activateAlbumPanel(idx) {
+      albumTabs.forEach(function (t, i) {
+        t.classList.toggle("is-active", i === idx);
+        t.setAttribute("aria-selected", String(i === idx));
+      });
+      albumPanels.forEach(function (p, i) { p.hidden = i !== idx; });
+      try { history.replaceState(null, "", "#album=" + idx); } catch (e) { /* file:// contexts */ }
+    }
+    albumTabs.forEach(function (t, i) {
+      t.addEventListener("click", function () { activateAlbumPanel(i); });
+    });
+    albumPanels.forEach(function (panel) {
+      var pages = Array.prototype.slice.call(panel.querySelectorAll(".album__page"));
+      if (!pages.length) return;
+      var book = panel.querySelector(".album__book");
+      var counter = panel.querySelector("[data-album-counter]");
+      var template = book.getAttribute("data-counter") || "Page %1 of %2";
+      var current = 0;
+      var animating = false;
+      function label(n) { return template.replace("%1", String(n)).replace("%2", String(pages.length)); }
+      function go(target, dir) {
+        if (animating || target < 0 || target >= pages.length || target === current) return;
+        animating = true;
+        var outgoing = pages[current];
+        var incoming = pages[target];
+        incoming.classList.add("is-active", dir === "next" ? "is-under" : "is-over");
+        outgoing.classList.add(dir === "next" ? "is-over" : "is-under");
+        if (dir === "next") { outgoing.classList.add("is-turn-out-next"); }
+        else { incoming.classList.add("is-turn-in-prev"); }
+        setTimeout(function () {
+          outgoing.classList.remove("is-active", "is-over", "is-under", "is-turn-out-next");
+          incoming.classList.remove("is-over", "is-under", "is-turn-in-prev");
+          current = target;
+          if (counter) counter.textContent = label(current + 1);
+          animating = false;
+        }, 700);
+      }
+      var prevBtn = panel.querySelector("[data-album-prev]");
+      var nextBtn = panel.querySelector("[data-album-next]");
+      if (prevBtn) prevBtn.addEventListener("click", function () { go(current - 1, "prev"); });
+      if (nextBtn) nextBtn.addEventListener("click", function () { go(current + 1, "next"); });
+      panel.setAttribute("tabindex", "0");
+      panel.addEventListener("keydown", function (ev) {
+        if (ev.key === "ArrowRight") { ev.preventDefault(); isRtl ? go(current - 1, "prev") : go(current + 1, "next"); }
+        if (ev.key === "ArrowLeft") { ev.preventDefault(); isRtl ? go(current + 1, "next") : go(current - 1, "prev"); }
+      });
+      var touchX = null;
+      book.addEventListener("touchstart", function (ev) { touchX = ev.touches[0].clientX; }, { passive: true });
+      book.addEventListener("touchend", function (ev) {
+        if (touchX === null) return;
+        var dx = ev.changedTouches[0].clientX - touchX;
+        if (Math.abs(dx) > 45) {
+          var forward = isRtl ? dx > 0 : dx < 0;
+          forward ? go(current + 1, "next") : go(current - 1, "prev");
+        }
+        touchX = null;
+      }, { passive: true });
+      panel.hidden = true;
+    });
+    var startPanel = 0;
+    var hashMatch = /#album=(\d)/.exec(window.location.hash || "");
+    if (hashMatch) startPanel = Math.min(parseInt(hashMatch[1], 10) || 0, albumPanels.length - 1);
+    activateAlbumPanel(startPanel);
   }
 })();
