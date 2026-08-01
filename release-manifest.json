@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "builtAt": "2026-07-31T23:37:47.678Z",
+  "builtAt": "2026-08-01T00:04:21.595Z",
   "origin": "https://drmohamed.net",
   "pages": [
     {
@@ -81,8 +81,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/en/stewardship/career-in-pictures/index.html",
-      "bytes": 47376,
-      "sha256": "abae74f37709d867b97e0e2d0a26b6cd792584491581753fac9ce81d7a6f8997"
+      "bytes": 50695,
+      "sha256": "1f2198f3089d5a91b40d17d6b07fc7b38b5fcdc2439a151b1d1683d99e43ca1c"
     },
     {
       "id": "page-athar-gallery-high-level-engagements",
@@ -374,8 +374,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ar/stewardship/career-in-pictures/index.html",
-      "bytes": 56994,
-      "sha256": "a601abe4ce2a2fd8fd70796819c61a705a094988aa890fead4de744db623b4ad"
+      "bytes": 60313,
+      "sha256": "5ae27844d723e60ad9ebd3da4e4744f848c712a1dd31f21b939f569891bede98"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@ar",
@@ -667,8 +667,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/zh/stewardship/career-in-pictures/index.html",
-      "bytes": 48439,
-      "sha256": "d43bc983f6a763c057eda547a28021433f2f57c253c666365909d5641d968746"
+      "bytes": 51758,
+      "sha256": "74cc7727dfda9bafd38712a8921efdde27b4c2ec30eb28557138d71ff54e0c7f"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@zh",
@@ -960,8 +960,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/fr/stewardship/career-in-pictures/index.html",
-      "bytes": 51195,
-      "sha256": "d8afbe8f7c6d5935d95c617bef9695a4344c8f2e493658cb0f6e1c074c73e77e"
+      "bytes": 54514,
+      "sha256": "57355ce415b912b6680410e20ecc520592d2074c3cb672f009f919d63a1ecdd7"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@fr",
@@ -1253,8 +1253,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/ru/stewardship/career-in-pictures/index.html",
-      "bytes": 66015,
-      "sha256": "050bb3b6ff42a24c572cf08879d7ef470b1866ae831e9076ead5585c296993d0"
+      "bytes": 69334,
+      "sha256": "09f172ad77d670d578f8bdf620d956e3a1b9e00a63f6bf2c06173ae942cd45f2"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@ru",
@@ -1546,8 +1546,8 @@
       "template": "article",
       "indexStatus": "index",
       "file": "/es/stewardship/career-in-pictures/index.html",
-      "bytes": 49306,
-      "sha256": "bdd948f1ca7df06ee8cde873200912a2d5fbcc5a81035585d03c8cbeff95274a"
+      "bytes": 52625,
+      "sha256": "847e6f75f2e540b6100259c9bdac28b618fd27f78b751be6aecfb48fb73919c8"
     },
     {
       "id": "page-athar-gallery-high-level-engagements@es",
@@ -1766,8 +1766,8 @@
     {
       "role": "stylesheet",
       "file": "/assets/site.css",
-      "bytes": 50517,
-      "sha256": "22bd82583cf854b49f4ef21a59d261f3cc822bb0e0de3fb50072602fa172e0b5"
+      "bytes": 50970,
+      "sha256": "5c47ba7dde63f1e4d2496992765776ce50368c1ea56a3d09f04fcc961ac11b5e"
     },
     {
       "role": "print-stylesheet",
@@ -2431,7 +2431,7 @@
       "withinBudget": true
     },
     "initialCss": {
-      "compressedBytes": 11278,
+      "compressedBytes": 11371,
       "budget": 71680,
       "withinBudget": true
     }

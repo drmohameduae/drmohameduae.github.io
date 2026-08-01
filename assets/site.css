@@ -1108,3 +1108,12 @@ html[dir="rtl"] .album__page.is-turn-in-prev { animation-name: albumInPrevRtl; t
   .album--enhanced .album__book { block-size: auto; }
   .album--enhanced .album__page { position: static; visibility: visible; break-inside: avoid; }
 }
+
+/* Album folio: printed page number at the outer bottom corner of each sheet */
+.album__folio {
+  position: absolute; inset-block-end: 0.375rem; inset-inline-end: 0.75rem;
+  font-family: var(--font-display); font-size: 0.75rem;
+  color: rgba(138, 106, 31, 0.55); letter-spacing: 0.04em;
+  pointer-events: none; user-select: none; -webkit-user-select: none;
+}
+html[dir="rtl"] .album__folio { font-family: var(--font-arabic-display); font-weight: 900; }
