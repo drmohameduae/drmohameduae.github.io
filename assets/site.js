@@ -192,9 +192,19 @@
       var book = panel.querySelector(".album__book");
       var counter = panel.querySelector("[data-album-counter]");
       var template = book.getAttribute("data-counter") || "Page %1 of %2";
+      var coverLabel = book.getAttribute("data-cover-label") || "";
+      var hasCover = coverLabel !== "" && pages.length && pages[0].classList.contains("album__page--cover");
+      var totalPhotos = hasCover ? pages.length - 1 : pages.length;
       var current = 0;
       var animating = false;
-      function label(n) { return template.replace("%1", String(n)).replace("%2", String(pages.length)); }
+      function label(idx) {
+        if (hasCover && idx === 0) return coverLabel;
+        return template.replace("%1", String(hasCover ? idx : idx + 1)).replace("%2", String(totalPhotos));
+      }
+      function syncButtons() {
+        if (prevBtn) prevBtn.disabled = current === 0;
+        if (nextBtn) nextBtn.disabled = current === pages.length - 1;
+      }
       function go(target, dir) {
         if (animating || target < 0 || target >= pages.length || target === current) return;
         animating = true;
@@ -208,12 +218,14 @@
           outgoing.classList.remove("is-active", "is-over", "is-under", "is-turn-out-next");
           incoming.classList.remove("is-over", "is-under", "is-turn-in-prev");
           current = target;
-          if (counter) counter.textContent = label(current + 1);
+          if (counter) counter.textContent = label(current);
+          syncButtons();
           animating = false;
         }, 700);
       }
       var prevBtn = panel.querySelector("[data-album-prev]");
       var nextBtn = panel.querySelector("[data-album-next]");
+      syncButtons();
       if (prevBtn) prevBtn.addEventListener("click", function () { go(current - 1, "prev"); });
       if (nextBtn) nextBtn.addEventListener("click", function () { go(current + 1, "next"); });
       panel.setAttribute("tabindex", "0");
