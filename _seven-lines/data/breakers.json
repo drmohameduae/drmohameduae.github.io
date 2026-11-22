@@ -1,0 +1,124 @@
+{
+ "breakers": [
+  {
+   "id": "ibn-khaldun-injustice",
+   "arabic": "الظلمُ مؤسِّسُ العمرانِ خراب",
+   "english": "Injustice is the ruin of civilisation.",
+   "attribution": "Ibn Khaldun",
+   "attributionArabic": "ابن خلدون",
+   "era": "1332–1406",
+   "variant": "ornament"
+  },
+  {
+   "id": "ali-knowledge-wealth",
+   "arabic": "العلمُ خيرٌ من المال، العلمُ يحرسُك وأنتَ تحرسُ المال",
+   "english": "Knowledge is better than wealth: knowledge guards you, while you must guard your wealth.",
+   "attribution": "Imam Ali ibn Abi Talib",
+   "attributionArabic": "الإمام علي بن أبي طالب",
+   "era": "601–661",
+   "variant": "ledger"
+  },
+  {
+   "id": "zayed-knowledge",
+   "arabic": "ما بنى أوطانَنا إلا العلم",
+   "english": "Nothing has built our nation but knowledge.",
+   "attribution": "Sheikh Zayed bin Sultan Al Nahyan",
+   "attributionArabic": "الشيخ زايد بن سلطان آل نهيان",
+   "era": "1918–2004",
+   "variant": "split",
+   "image": "/images/dunes_sky.jpg",
+   "caption": "The dunes of the Emirates at first light",
+   "captionArabic": "كثبان الإمارات عند أول النهار"
+  },
+  {
+   "id": "mutanabbi-resolve",
+   "arabic": "على قَدْرِ أهلِ العزمِ تأتي العزائم",
+   "english": "Great deeds come to the measure of great resolve.",
+   "attribution": "Al-Mutanabbi",
+   "attributionArabic": "المتنبي",
+   "era": "915–965",
+   "variant": "ornament"
+  },
+  {
+   "id": "umar-account",
+   "arabic": "حاسِبوا أنفسَكم قبل أن تُحاسَبوا",
+   "english": "Take account of yourselves before you are called to account.",
+   "attribution": "Umar ibn al-Khattab",
+   "attributionArabic": "عمر بن الخطاب",
+   "era": "586–644",
+   "variant": "ledger"
+  },
+  {
+   "id": "ibn-khaldun-time",
+   "arabic": "الجغرافيا عالمٌ، والتاريخ زمان، والإنسان بينهما",
+   "english": "Geography is space, history is time, and man stands between them.",
+   "attribution": "Ibn Khaldun",
+   "attributionArabic": "ابن خلدون",
+   "era": "1332–1406",
+   "variant": "split",
+   "image": "/images/desert_road_palms.jpg",
+   "caption": "The road through the palms — geography as destiny",
+   "captionArabic": "الطريق عبر النخيل — الجغرافيا مصير"
+  },
+  {
+   "id": "proverb-youth",
+   "arabic": "العلمُ في الصِّغَرِ كالنقشِ على الحجر",
+   "english": "Learning in youth is like engraving upon stone.",
+   "attribution": "Arab proverb",
+   "attributionArabic": "حكمة عربية",
+   "era": "",
+   "variant": "ornament"
+  },
+  {
+   "id": "proverb-friend",
+   "arabic": "الصديقُ وقتَ الضيق",
+   "english": "A friend is proven in times of hardship.",
+   "attribution": "Arab proverb",
+   "attributionArabic": "حكمة عربية",
+   "era": "",
+   "variant": "ledger"
+  },
+  {
+   "id": "gibran-shame",
+   "arabic": "وإذا لم تستحِ فاصنع ما شئت",
+   "english": "If you feel no shame, then do as you wish.",
+   "attribution": "Khalil Gibran",
+   "attributionArabic": "جبران خليل جبران",
+   "era": "1883–1931",
+   "variant": "split",
+   "image": "/images/city_skyline.jpg",
+   "caption": "The skyline rises — character rises first",
+   "captionArabic": "الأفق يعلو — والأخلاق أولاً"
+  },
+  {
+   "id": "mutanabbi-ambition",
+   "arabic": "أعزُّ مكانٍ في الدنى سرجُ سابحٍ وخيرُ جليسٍ في الزمانِ كتابُ",
+   "english": "The noblest place on earth is a rider’s saddle, and the finest companion of our days is a book.",
+   "attribution": "Al-Mutanabbi",
+   "attributionArabic": "المتنبي",
+   "era": "915–965",
+   "variant": "ornament"
+  },
+  {
+   "id": "sheikh-rashid-work",
+   "arabic": "ما أعطى الإنسانُ شيئاً أفضلَ من عملِ يدِه",
+   "english": "A person has given nothing better than the work of their own hands.",
+   "attribution": "Sheikh Rashid bin Saeed Al Maktoum",
+   "attributionArabic": "الشيخ راشد بن سعيد آل مكتوم",
+   "era": "1912–1990",
+   "variant": "split",
+   "image": "/images/hero_palms_road.jpg",
+   "caption": "The road built by hands, lined with life",
+   "captionArabic": "طريق بُني بالأيدي وازدُرع بالحياة"
+  },
+  {
+   "id": "ibn-sina-medicine",
+   "arabic": "الطبُّ إزالةُ المرضِ بالأدوية",
+   "english": "Medicine is the removal of illness by remedies — and the removal of ignorance is knowledge.",
+   "attribution": "Ibn Sina (Avicenna)",
+   "attributionArabic": "ابن سينا",
+   "era": "980–1037",
+   "variant": "ledger"
+  }
+ ]
+}
