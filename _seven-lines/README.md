@@ -48,7 +48,7 @@ npm --prefix _seven-lines test
 
 These checks cover all six languages, page navigation, animation state, keyboard focus, Arabic direction, text size, continuous reading, fullscreen fallback, crossword input and print state. DOM tests do not replace visual testing in a deployed browser.
 
-The reader progressively adds page turns. Without JavaScript, the full publication is available as consecutive sections. It includes reduced-motion support, touch navigation, keyboard navigation, page selection, continuous reading, text enlargement and fullscreen with a fallback. Arabic reverses the page-turn direction. Printing reveals all pages. October uses 20 pages because its final two source pieces are short exercises; each other issue uses 22 pages. The final page is always the back cover.
+The reader fits A4-proportioned sheets to the available screen and adds continuation sheets where text would otherwise overflow. Without JavaScript, the full publication is available as consecutive sections. It includes reduced-motion support, touch navigation, keyboard navigation, page selection, continuous reading, text enlargement and fullscreen with a fallback. Arabic reverses the page-turn direction. Printing reveals all pages. October uses 20 pages because its final two source pieces are short exercises; each other issue uses 22 pages. The final page is always the back cover.
 
 Translations are prepared from the audited source text. The supplied bilingual PDFs remain available independently. Religious quotation translations are identified as literary renderings; source links remain available on each interlude. The crossword retains its original English answers because they must fit the supplied grid, while its instructions are translated.
 
@@ -56,6 +56,4 @@ Translations are prepared from the audited source text. The supplied bilingual P
 
 After a successful full build and validation, commit all changed source files, generated HTML and media, then push the reviewed commit to the repository's existing GitHub Pages branch. Verify the deployed Reading Room and at least one complete reader, including an Arabic reader, after Pages finishes deployment. Do not treat a local build or commit as proof of publication.
 
-## Concurrent November publication
-
-The November 2026 edition and its existing assets, added upstream in commit `ba64cc0`, are retained unchanged. `data/preserved-editions.json` keeps those six readers in the collection, search and sitemaps. The audited source build and content tests cover the five supplied June–October newsletters; they do not regenerate or replace November.
+The November 2026 draft was withdrawn. Its source can be recovered from commit ba64cc0 when the edition is ready to publish.

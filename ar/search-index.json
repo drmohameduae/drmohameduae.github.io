@@ -250,12 +250,5 @@
     "summary": "أربعة مقالات أسبوعية أصلية وتمرينان مقترحان للممارسة القيادية.",
     "route": "/ar/reading-room/seven-lines/october-2026/",
     "type": "publication"
-  },
-  {
-    "id": "seven-lines-november-2026",
-    "title": "الخطوط السبعة — نوفمبر 2026",
-    "summary": "مقالات للدكتور محمد بن يوسف المدفعي، مجموعة في إصدار رقمي مصمم للقراءة المتأنية.",
-    "route": "/ar/reading-room/seven-lines/november-2026/",
-    "type": "publication"
   }
 ]

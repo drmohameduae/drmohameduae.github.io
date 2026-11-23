@@ -250,12 +250,5 @@
     "summary": "Cuatro artículos semanales originales y dos ejercicios propuestos de práctica del liderazgo.",
     "route": "/es/reading-room/seven-lines/october-2026/",
     "type": "publication"
-  },
-  {
-    "id": "seven-lines-november-2026",
-    "title": "Seven Lines — noviembre 2026",
-    "summary": "Ensayos del Dr. Mohamed Yousef Almadfaei, reunidos en una edición digital diseñada para una lectura pausada.",
-    "route": "/es/reading-room/seven-lines/november-2026/",
-    "type": "publication"
   }
 ]

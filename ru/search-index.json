@@ -250,12 +250,5 @@
     "summary": "Четыре оригинальные еженедельные статьи и два предлагаемых упражнения по практике лидерства.",
     "route": "/ru/reading-room/seven-lines/october-2026/",
     "type": "publication"
-  },
-  {
-    "id": "seven-lines-november-2026",
-    "title": "Seven Lines — ноябрь 2026",
-    "summary": "Эссе доктора Мохамеда Юсефа Альмадфаи, собранные в цифровом издании для вдумчивого чтения.",
-    "route": "/ru/reading-room/seven-lines/november-2026/",
-    "type": "publication"
   }
 ]

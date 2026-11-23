@@ -1,23 +1,7 @@
 {
   "version": 2,
   "source": "Original newsletters supplied by the author",
-  "preservedIssues": [
-    {
-      "id": "november-2026",
-      "month": "November",
-      "year": 2026,
-      "cover": "/assets/media/seven-lines-cover.webp",
-      "preservedFrom": "ba64cc0009be555d097b4850dcc8085e357b79e2",
-      "intro": {
-        "en": "Essays by Dr. Mohamed Yousef Almadfaei, collected in a digital edition designed for deliberate reading.",
-        "ar": "مقالات للدكتور محمد بن يوسف المدفعي، مجموعة في إصدار رقمي مصمم للقراءة المتأنية.",
-        "fr": "Des essais du Dr Mohamed Yousef Almadfaei, réunis dans une édition numérique conçue pour une lecture attentive.",
-        "es": "Ensayos del Dr. Mohamed Yousef Almadfaei, reunidos en una edición digital diseñada para una lectura pausada.",
-        "ru": "Эссе доктора Мохамеда Юсефа Альмадфаи, собранные в цифровом издании для вдумчивого чтения.",
-        "zh": "穆罕默德·本·优素福·阿尔马德法伊博士的文章合集，以适合静心阅读的数字版本呈现。"
-      }
-    }
-  ],
+  "preservedIssues": [],
   "locales": [
     "en",
     "ar",
@@ -101,8 +85,8 @@
   "sourceDigests": {
     "editions.json": "b10c59e42833b8fc50cde2b153630b99c20ba06019a99259277122cf98d51297",
     "breakers.json": "db8ccaf0655003021a94763fefe86ff06baac28005e9dcaa756f20155bb9f262",
-    "ui.json": "71f04285906000028fb0d82072ac73682788b1dee31d552634d1ea09e05b23f8",
-    "preserved-editions.json": "fa46b15d021bf080f91d5d53b153aaf2d0a1756963cc7307108b477662bbed2a",
+    "ui.json": "28ae76465facef9dcd8e6516842cd404628d4b1eae252948d9aeca64655c660a",
+    "preserved-editions.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
     "locales/ar.json": "f9c3633f942d63057a3200e396befc5af5af2f1b90ad04837540b4217b199346",
     "locales/fr.json": "352374f846ac8432859a5205981152226c48e5abd1782729c7f47961136db8dd",
     "locales/es.json": "de30072a88b3bc3a658b4d1f330365eba66259a11e24038527c929d3f74cba31",
