@@ -215,5 +215,47 @@
     "summary": "Полный перечень опубликованных разделов.",
     "route": "/ru/sitemap",
     "type": "page"
+  },
+  {
+    "id": "seven-lines-june-2026",
+    "title": "Seven Lines — июнь 2026",
+    "summary": "Шесть взглядов на решения, культуру и способности, которые укрепляют институты.",
+    "route": "/ru/reading-room/seven-lines/june-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-july-2026",
+    "title": "Seven Lines — июль 2026",
+    "summary": "Четыре еженедельных взгляда и два практических руководства по лидерству для более ясных решений и более сильных институтов.",
+    "route": "/ru/reading-room/seven-lines/july-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-august-2026",
+    "title": "Seven Lines — август 2026",
+    "summary": "Пять еженедельных взглядов и одно практическое руководство по лидерству об устойчивом развитии, способностях и устойчивости к потрясениям.",
+    "route": "/ru/reading-room/seven-lines/august-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-september-2026",
+    "title": "Seven Lines — сентябрь 2026",
+    "summary": "Четыре оригинальные еженедельные статьи и два предлагаемых упражнения по практике лидерства.",
+    "route": "/ru/reading-room/seven-lines/september-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-october-2026",
+    "title": "Seven Lines — октябрь 2026",
+    "summary": "Четыре оригинальные еженедельные статьи и два предлагаемых упражнения по практике лидерства.",
+    "route": "/ru/reading-room/seven-lines/october-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-november-2026",
+    "title": "Seven Lines — ноябрь 2026",
+    "summary": "Эссе доктора Мохамеда Юсефа Альмадфаи, собранные в цифровом издании для вдумчивого чтения.",
+    "route": "/ru/reading-room/seven-lines/november-2026/",
+    "type": "publication"
   }
 ]

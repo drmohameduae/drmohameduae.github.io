@@ -215,5 +215,47 @@
     "summary": "Le répertoire complet des destinations publiées.",
     "route": "/fr/sitemap",
     "type": "page"
+  },
+  {
+    "id": "seven-lines-june-2026",
+    "title": "Seven Lines — juin 2026",
+    "summary": "Six regards sur les décisions, les cultures et les capacités qui renforcent les institutions.",
+    "route": "/fr/reading-room/seven-lines/june-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-july-2026",
+    "title": "Seven Lines — juillet 2026",
+    "summary": "Quatre perspectives hebdomadaires et deux guides de pratique du leadership pour des décisions plus claires et des institutions plus solides.",
+    "route": "/fr/reading-room/seven-lines/july-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-august-2026",
+    "title": "Seven Lines — août 2026",
+    "summary": "Cinq perspectives hebdomadaires et un exercice de mise en pratique du leadership sur la durabilité, les capacités et la résilience.",
+    "route": "/fr/reading-room/seven-lines/august-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-september-2026",
+    "title": "Seven Lines — septembre 2026",
+    "summary": "Quatre articles hebdomadaires originaux et deux exercices proposés de mise en pratique du leadership.",
+    "route": "/fr/reading-room/seven-lines/september-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-october-2026",
+    "title": "Seven Lines — octobre 2026",
+    "summary": "Quatre articles hebdomadaires originaux et deux exercices proposés de mise en pratique du leadership.",
+    "route": "/fr/reading-room/seven-lines/october-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-november-2026",
+    "title": "Seven Lines — novembre 2026",
+    "summary": "Des essais du Dr Mohamed Yousef Almadfaei, réunis dans une édition numérique conçue pour une lecture attentive.",
+    "route": "/fr/reading-room/seven-lines/november-2026/",
+    "type": "publication"
   }
 ]

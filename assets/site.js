@@ -40,12 +40,10 @@
      Unpublished language editions lead to their truthful notice page. */
   var select = document.querySelector("[data-language-select]");
   if (select) {
-    try {
-      var saved = window.localStorage.getItem("drmohamed.locale");
-      if (saved && saved !== select.getAttribute("data-current-locale")) {
-        select.value = saved;
-      }
-    } catch (e) { /* storage unavailable; preference simply does not persist */ }
+    /* The selector describes the page being read. A saved preference must
+       not mislabel an explicitly opened translation or prevent switching back. */
+    var currentLocale = select.getAttribute("data-current-locale");
+    if (currentLocale) select.value = currentLocale;
     select.addEventListener("change", function () {
       var locale = select.value;
       try { window.localStorage.setItem("drmohamed.locale", locale); } catch (e) {}

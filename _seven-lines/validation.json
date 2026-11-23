@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "issues": 5,
+  "languages": 6,
+  "readers": 30,
+  "preservedNovemberReaders": 6,
+  "magazinePages": 648,
+  "originalPdfs": 5,
+  "originalPdfHashesVerified": true,
+  "contentStringsChecked": 4944,
+  "internalLinksChecked": 2028,
+  "errors": []
+}

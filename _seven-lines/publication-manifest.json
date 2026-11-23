@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "source": "Original newsletters supplied by the author",
+  "preservedIssues": [
+    {
+      "id": "november-2026",
+      "month": "November",
+      "year": 2026,
+      "cover": "/assets/media/seven-lines-cover.webp",
+      "preservedFrom": "ba64cc0009be555d097b4850dcc8085e357b79e2",
+      "intro": {
+        "en": "Essays by Dr. Mohamed Yousef Almadfaei, collected in a digital edition designed for deliberate reading.",
+        "ar": "مقالات للدكتور محمد بن يوسف المدفعي، مجموعة في إصدار رقمي مصمم للقراءة المتأنية.",
+        "fr": "Des essais du Dr Mohamed Yousef Almadfaei, réunis dans une édition numérique conçue pour une lecture attentive.",
+        "es": "Ensayos del Dr. Mohamed Yousef Almadfaei, reunidos en una edición digital diseñada para una lectura pausada.",
+        "ru": "Эссе доктора Мохамеда Юсефа Альмадфаи, собранные в цифровом издании для вдумчивого чтения.",
+        "zh": "穆罕默德·本·优素福·阿尔马德法伊博士的文章合集，以适合静心阅读的数字版本呈现。"
+      }
+    }
+  ],
+  "locales": [
+    "en",
+    "ar",
+    "fr",
+    "es",
+    "ru",
+    "zh"
+  ],
+  "issues": [
+    {
+      "id": "june-2026",
+      "articleCount": 6,
+      "pdf": "/assets/seven-lines/pdf/june-2026.pdf",
+      "pdfSha256": "dfa24f2ec9eb7c6c746cdee3cc38f30c055f1061a76df7ea62206857821409c8",
+      "readers": [
+        "/en/reading-room/seven-lines/june-2026/",
+        "/ar/reading-room/seven-lines/june-2026/",
+        "/fr/reading-room/seven-lines/june-2026/",
+        "/es/reading-room/seven-lines/june-2026/",
+        "/ru/reading-room/seven-lines/june-2026/",
+        "/zh/reading-room/seven-lines/june-2026/"
+      ]
+    },
+    {
+      "id": "july-2026",
+      "articleCount": 6,
+      "pdf": "/assets/seven-lines/pdf/july-2026.pdf",
+      "pdfSha256": "7eeda1f6b7ad7d7bf9fe8bab885151458bdf6694ce69e0f6057528d9754c8689",
+      "readers": [
+        "/en/reading-room/seven-lines/july-2026/",
+        "/ar/reading-room/seven-lines/july-2026/",
+        "/fr/reading-room/seven-lines/july-2026/",
+        "/es/reading-room/seven-lines/july-2026/",
+        "/ru/reading-room/seven-lines/july-2026/",
+        "/zh/reading-room/seven-lines/july-2026/"
+      ]
+    },
+    {
+      "id": "august-2026",
+      "articleCount": 6,
+      "pdf": "/assets/seven-lines/pdf/august-2026.pdf",
+      "pdfSha256": "dec47f4843072b1247f9d43f8e086d4ea8fa75b01532f0f6745f43150a53ab1c",
+      "readers": [
+        "/en/reading-room/seven-lines/august-2026/",
+        "/ar/reading-room/seven-lines/august-2026/",
+        "/fr/reading-room/seven-lines/august-2026/",
+        "/es/reading-room/seven-lines/august-2026/",
+        "/ru/reading-room/seven-lines/august-2026/",
+        "/zh/reading-room/seven-lines/august-2026/"
+      ]
+    },
+    {
+      "id": "september-2026",
+      "articleCount": 6,
+      "pdf": "/assets/seven-lines/pdf/september-2026.pdf",
+      "pdfSha256": "b222e2e355b9e95f1b4d8ae93d1b1c9b2bfa7088579008255b62a6a8d98b8569",
+      "readers": [
+        "/en/reading-room/seven-lines/september-2026/",
+        "/ar/reading-room/seven-lines/september-2026/",
+        "/fr/reading-room/seven-lines/september-2026/",
+        "/es/reading-room/seven-lines/september-2026/",
+        "/ru/reading-room/seven-lines/september-2026/",
+        "/zh/reading-room/seven-lines/september-2026/"
+      ]
+    },
+    {
+      "id": "october-2026",
+      "articleCount": 6,
+      "pdf": "/assets/seven-lines/pdf/october-2026.pdf",
+      "pdfSha256": "854aac70237fbb4da619e65a5753026a60fe761588a52d4d9caf48f42f117510",
+      "readers": [
+        "/en/reading-room/seven-lines/october-2026/",
+        "/ar/reading-room/seven-lines/october-2026/",
+        "/fr/reading-room/seven-lines/october-2026/",
+        "/es/reading-room/seven-lines/october-2026/",
+        "/ru/reading-room/seven-lines/october-2026/",
+        "/zh/reading-room/seven-lines/october-2026/"
+      ]
+    }
+  ],
+  "sourceDigests": {
+    "editions.json": "b10c59e42833b8fc50cde2b153630b99c20ba06019a99259277122cf98d51297",
+    "breakers.json": "db8ccaf0655003021a94763fefe86ff06baac28005e9dcaa756f20155bb9f262",
+    "ui.json": "71f04285906000028fb0d82072ac73682788b1dee31d552634d1ea09e05b23f8",
+    "preserved-editions.json": "fa46b15d021bf080f91d5d53b153aaf2d0a1756963cc7307108b477662bbed2a",
+    "locales/ar.json": "f9c3633f942d63057a3200e396befc5af5af2f1b90ad04837540b4217b199346",
+    "locales/fr.json": "352374f846ac8432859a5205981152226c48e5abd1782729c7f47961136db8dd",
+    "locales/es.json": "de30072a88b3bc3a658b4d1f330365eba66259a11e24038527c929d3f74cba31",
+    "locales/ru.json": "1f97d250896f691228b22d5ed7088a85cd40b534ee4bcde483961c5718074d53",
+    "locales/zh.json": "7ade68bec5be6a6a3378d725610ee224f103cccf0af4a1bfc5f4fb2b0adbe9c1"
+  }
+}

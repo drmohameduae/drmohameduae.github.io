@@ -215,5 +215,47 @@
     "summary": "الدليل الكامل للوجهات المنشورة.",
     "route": "/ar/sitemap",
     "type": "page"
+  },
+  {
+    "id": "seven-lines-june-2026",
+    "title": "الخطوط السبعة — يونيو 2026",
+    "summary": "ستّ رؤى في القرارات والثقافات والقدرات التي تعزّز قوة المؤسسات.",
+    "route": "/ar/reading-room/seven-lines/june-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-july-2026",
+    "title": "الخطوط السبعة — يوليو 2026",
+    "summary": "أربع رؤى أسبوعية ودليلان للممارسة القيادية من أجل قرارات أوضح ومؤسسات أقوى.",
+    "route": "/ar/reading-room/seven-lines/july-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-august-2026",
+    "title": "الخطوط السبعة — أغسطس 2026",
+    "summary": "خمس رؤى أسبوعية ودليل واحد للممارسة القيادية في الاستدامة والقدرة المؤسسية والمرونة.",
+    "route": "/ar/reading-room/seven-lines/august-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-september-2026",
+    "title": "الخطوط السبعة — سبتمبر 2026",
+    "summary": "أربعة مقالات أسبوعية أصلية وتمرينان مقترحان للممارسة القيادية.",
+    "route": "/ar/reading-room/seven-lines/september-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-october-2026",
+    "title": "الخطوط السبعة — أكتوبر 2026",
+    "summary": "أربعة مقالات أسبوعية أصلية وتمرينان مقترحان للممارسة القيادية.",
+    "route": "/ar/reading-room/seven-lines/october-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-november-2026",
+    "title": "الخطوط السبعة — نوفمبر 2026",
+    "summary": "مقالات للدكتور محمد بن يوسف المدفعي، مجموعة في إصدار رقمي مصمم للقراءة المتأنية.",
+    "route": "/ar/reading-room/seven-lines/november-2026/",
+    "type": "publication"
   }
 ]

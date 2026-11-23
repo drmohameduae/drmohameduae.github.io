@@ -1,168 +1,43 @@
-/* Assembles full Seven Lines magazine HTML documents per locale. */
-const fs = require('fs');
-const path = require('path');
-const { buildEdition, T, editions } = require('./gen');
-
-// In CI the generator lives at <repo>/_seven-lines/, so the site root is the
-// parent directory. Override with OUT=... for local testing.
-const OUT = process.env.OUT || require('path').join(__dirname, '..');
-
-function head(t, ed) {
-  const month = t.month[ed.month];
-  const url = `https://drmohamed.net/${t.locale}/reading-room/seven-lines/${ed.id}`;
-  const title = t.locale === 'ar'
-    ? `د. محمد بن يوسف المدفعي | ${t.sevenLines} — ${month} ${ed.year}`
-    : `Dr. Mohamed Yousef Almadfaei | ${t.sevenLines} — ${month} ${ed.year}`;
-  const alts = ['en','ar','zh','fr','ru','es'].map((l) =>
-    `<link rel="alternate" hreflang="${l}" href="https://drmohamed.net/${l}/reading-room/seven-lines/${ed.id}" />`).join('\n  ');
-  return `<!DOCTYPE html>
-<html lang="${t.locale}" dir="${t.dir}">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>${title}</title>
-  <meta name="description" content="${t.tagline}" />
-  <link rel="canonical" href="${url}" />
-  ${alts}
-  <link rel="alternate" hreflang="x-default" href="https://drmohamed.net/en/reading-room/seven-lines/${ed.id}" />
-  <meta name="robots" content="index,follow" />
-  <meta property="og:type" content="article" />
-  <meta property="og:site_name" content="DRMOHAMED.NET" />
-  <meta property="og:title" content="${t.sevenLines} — ${month} ${ed.year} | DRMOHAMED.NET" />
-  <meta property="og:description" content="${t.tagline}" />
-  <meta property="og:url" content="${url}" />
-  <meta property="og:locale" content="${t.locale}" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="theme-color" content="#F7F5F0" />
-  <link rel="icon" href="/assets/favicon.png" type="image/png" />
-  <link rel="stylesheet" href="/assets/site.css" />
-  <link rel="stylesheet" href="/assets/seven-lines.css" />
-  <link rel="stylesheet" href="/assets/print.css" media="print" />
-  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/archivo-black-400-latin.woff2" crossorigin />
-  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/noto-sans-400-latin.woff2" crossorigin />
-  <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/noto-sans-arabic-400-arabic.woff2" crossorigin />
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","name":"${t.sevenLines} ${month} ${ed.year}","inLanguage":"${t.locale}","url":"${url}"}</script>
-</head>`;
+/* Run from any directory. All translations are required; no silent English fallback. */
+const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
+const {buildEdition,localizedEditions,T,editions,preservedEditions,media,esc,issueTitle}=require('./gen');
+const ROOT=process.env.OUT||path.join(__dirname,'..');
+const ORIGIN=process.env.SITE_ORIGIN||'https://drmohameduae.github.io';
+const requested=process.argv.includes('--locale')?[process.argv[process.argv.indexOf('--locale')+1]]:Object.keys(T);
+let generated=0;
+for(const locale of requested){
+ const t=T[locale];if(!t)throw new Error(`Unknown locale ${locale}`);
+ const data=localizedEditions(locale);
+ const shell=fs.readFileSync(path.join(ROOT,locale,'reading-room/index.html'),'utf8');
+ const header=shell.match(/<header class="masthead">[\s\S]*?<\/header>/)?.[0];
+ const footer=shell.match(/<footer class="site-footer">[\s\S]*?<\/footer>/)?.[0];
+ if(!header||!footer)throw new Error(`Site shell absent ${locale}`);
+ for(const [index,ed] of data.entries()){
+  const result=buildEdition(t,ed,index),m=media[ed.id],name=`${t.brand} — ${issueTitle(t,ed)}`;
+  const route=`/${locale}/reading-room/seven-lines/${ed.id}/`,url=ORIGIN+route;
+  const jsonld={'@context':'https://schema.org','@type':'PublicationIssue',name,description:ed.intro,inLanguage:locale,issueNumber:index+1,isPartOf:{'@type':'Periodical',name:t.brand},author:{'@type':'Person',name:t.byline},url,associatedMedia:{'@type':'MediaObject',contentUrl:ORIGIN+m.originalPdf,encodingFormat:'application/pdf',inLanguage:['en','ar']}};
+  const html=`<!doctype html>
+<html lang="${locale}" dir="${t.dir}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${esc(name)} | ${esc(t.byline)}</title><meta name="description" content="${esc(ed.intro)}"><link rel="canonical" href="${url}">
+${Object.keys(T).map(l=>`<link rel="alternate" hreflang="${l}" href="${ORIGIN}/${l}/reading-room/seven-lines/${ed.id}/">`).join('\n')}
+<link rel="alternate" hreflang="x-default" href="${ORIGIN}/en/reading-room/seven-lines/${ed.id}/"><meta property="og:type" content="article"><meta property="og:title" content="${esc(name)}"><meta property="og:description" content="${esc(ed.intro)}"><meta property="og:url" content="${url}"><meta property="og:image" content="${ORIGIN+m.cover}"><meta property="og:locale" content="${locale}"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#F7F5F0"><link rel="icon" href="/assets/favicon.png"><link rel="stylesheet" href="/assets/site.css"><link rel="stylesheet" href="/assets/seven-lines.css?v=20261123"><link rel="stylesheet" href="/assets/print.css" media="print"><script type="application/ld+json">${JSON.stringify(jsonld).replace(/</g,'\\u003c')}</script></head>
+<body><a class="skip-link" href="#main-content">${esc(t.skipMain)}</a>${header}
+<nav class="breadcrumbs container" aria-label="${esc(t.readingRoom)}"><ol><li><a href="/${locale}/">${esc(t.home)}</a></li><li><a href="/${locale}/reading-room/#seven-lines-monthly-editions">${esc(t.readingRoom)}</a></li><li aria-current="page">${esc(name)}</li></ol></nav>
+<main id="main-content"><section class="section container sl-reader-section"><div class="section-heading"><p class="kicker">${esc(t.title)}</p><h1>${esc(name)}</h1></div>
+<div class="sl-book" data-sl-book data-total="${result.total}" data-label-page="${esc(t.page)}" data-label-of="${esc(t.of)}" data-label-reading="${esc(t.readingView)}" data-label-magazine="${esc(t.magazineView)}" data-label-fullscreen="${esc(t.fullscreen)}" data-label-exit-fullscreen="${esc(t.exitFullscreen)}">
+<div class="sl-book__toolbar"><button type="button" data-sl-contents>${esc(t.contents)}</button><label><span class="visually-hidden">${esc(t.choosePage)}</span><select data-sl-pages aria-label="${esc(t.choosePage)}">${result.pages.map((p,i)=>`<option value="${i}">${i+1} · ${esc(p.label)}</option>`).join('')}</select></label><button type="button" data-sl-zoom-out aria-label="${esc(t.textSmaller)}">A−</button><button type="button" data-sl-zoom-in aria-label="${esc(t.textLarger)}">A+</button><button type="button" data-sl-fullscreen>${esc(t.fullscreen)}</button><button type="button" data-sl-view>${esc(t.readingView)}</button></div>
+<p class="sl-book__hint">${esc(t.readingInstructions)}</p><div class="sl-book__stage">${result.pages.map(p=>p.html).join('\n')}</div>
+<div class="sl-book__controls"><button type="button" data-sl-prev>${esc(t.prev)}</button><span class="sl-book__progress" data-sl-progress role="status" aria-live="polite"></span><button type="button" data-sl-next>${esc(t.next)}</button></div>
+<details class="sl-thumbnails"><summary>${esc(t.thumbnails)}</summary><ol>${result.pages.map((p,i)=>`<li><button type="button" data-sl-goto="${i}"><span>${i+1}</span>${p.thumbnail?`<img src="${p.thumbnail}" alt="" loading="lazy" width="160" height="110">`:''}<span>${esc(p.label)}</span></button></li>`).join('')}</ol></details>
+<p class="sl-book__meta">${esc(t.translationNote)}</p></div>
+<div class="actions sl-reader-actions"><a class="button button--primary" href="${m.originalPdf}" download>${esc(t.download)}</a><a class="button button--secondary" href="/${locale}/reading-room/#seven-lines-monthly-editions">${esc(t.allEditions)}</a></div></section></main>${footer}
+<script src="/assets/site.js" defer></script><script src="/assets/seven-lines.js?v=20261123" defer></script></body></html>`;
+  const dest=path.join(ROOT,route);fs.mkdirSync(dest,{recursive:true});fs.writeFileSync(path.join(dest,'index.html'),html);generated++;
+ }
 }
-
-const NAV = {
-  en: [['/en','Home'],['/en/stewardship','The Journey'],['/en/emirati-identity','Emirati Identity'],['/en/initiatives','Strategic Aspirations'],['/en/reading-room','Digital Liwan'],['/en/contact','Marsa Al Wasl']],
-  ar: [['/ar','الرئيسية'],['/ar/stewardship','المسيرة'],['/ar/emirati-identity','الهوية الإماراتية'],['/ar/initiatives','تطلعات استراتيجية'],['/ar/reading-room','الليوان الرقمي'],['/ar/contact','مرسى الوصل']],
-  es: [['/es','Inicio'],['/es/stewardship','El Recorrido'],['/es/emirati-identity','Identidad Emiratí'],['/es/initiatives','Aspiraciones Estratégicas'],['/es/reading-room','Liwan Digital'],['/es/contact','Marsa Al Wasl']],
-  fr: [['/fr','Accueil'],['/fr/stewardship','Le Parcours'],['/fr/emirati-identity','Identité Émirienne'],['/fr/initiatives','Aspirations Stratégiques'],['/fr/reading-room','Liwan Numérique'],['/fr/contact','Marsa Al Wasl']],
-  ru: [['/ru','Главная'],['/ru/stewardship','Путь'],['/ru/emirati-identity','Эмиратская идентичность'],['/ru/initiatives','Стратегические устремления'],['/ru/reading-room','Цифровой Ливан'],['/ru/contact','Марса Аль Васл']],
-  zh: [['/zh','首页'],['/zh/stewardship','历程'],['/zh/emirati-identity','阿联酋认同'],['/zh/initiatives','战略愿景'],['/zh/reading-room','数字利万'],['/zh/contact','玛尔萨·阿尔·瓦斯拉']],
-};
-
-function masthead(t) {
-  const currentPath = `/${t.locale}/reading-room`;
-  const items = NAV[t.locale].map(([href, label]) => {
-    const cur = (currentPath === href || (currentPath.startsWith(href) && href !== `/${t.locale}`)) ? ' aria-current="page"' : '';
-    return `\n      <li><a href="${href}"${cur}>${label}</a></li>`;
-  }).join('');
-  const nameAr = '<span class="wordmark__name-ar" lang="ar" dir="rtl">د. محمــد بــن يوســف المــدفـعــي</span>';
-  const nameEn = '<span class="wordmark__name-en" lang="en">Dr. Mohamed Yousef Almadfaei</span>';
-  const names = t.dir === 'rtl'
-    ? `${nameEn}<img class="wordmark__flag" src="/assets/media/uae-flag-brush-strip.png" alt="" width="22" height="22" decoding="async" />${nameAr}`
-    : `${nameAr}<img class="wordmark__flag" src="/assets/media/uae-flag-brush-strip.png" alt="" width="22" height="22" decoding="async" />${nameEn}`;
-  const opts = ['en','ar','zh','fr','ru','es'].map((l) => {
-    const nm = { en:'English', ar:'العربية', zh:'中文', fr:'Français', ru:'Русский', es:'Español' }[l];
-    return `<option value="${l}"${l === t.locale ? ' selected' : ''}>${nm}</option>`;
-  }).join('');
-  const yaqoot = t.locale === 'ar' ? 'اسأل ياقوت' : 'Ask Yaqoot';
-  const menuLbl = t.locale === 'ar' ? 'القائمة' : 'Menu';
-  return `<header class="masthead">
-  <div class="container masthead__inner">
-    <a class="wordmark" href="/${t.locale}/"><img class="monogram" src="/assets/media/monogram.webp" alt="" width="300" height="399" decoding="async" /><span class="wordmark__names">${names}</span></a>
-    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" data-nav-toggle>
-      <span class="visually-hidden">${menuLbl}</span>
-      <span class="nav-toggle__icon" aria-hidden="true"><span></span><span></span><span></span></span>
-    </button>
-    <nav class="primary-nav" id="primary-nav" aria-label="Primary" hidden data-primary-nav>
-      <ul>${items}
-      </ul>
-    </nav>
-    <div class="masthead__controls">
-      <a class="masthead__brand-link" href="https://www.nationbrand.ae" target="_blank" rel="noopener"><img class="masthead__brand" src="/assets/media/uae-nation-brand-160.webp" alt="The Emirates — الإمارات" width="30" height="40" decoding="async" /></a>
-      <div class="language-selector">
-        <label class="visually-hidden" for="language-select">Language</label>
-        <select id="language-select" data-language-select data-current-locale="${t.locale}">${opts}</select>
-      </div>
-      <a class="yaqoot-launcher" href="/${t.locale}/yaqoot">
-        <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><circle cx="8" cy="8" r="7" fill="none" stroke="#2D4030" stroke-width="1.5"/><circle cx="8" cy="8" r="2.5" fill="#2D4030"/></svg>
-        <span>${yaqoot}</span>
-      </a>
-    </div>
-  </div>
-</header>`;
+if(requested.length===Object.keys(T).length){
+ process.env.ROOT=ROOT;require('./update-reading-rooms');require('./update-sitemap');
+ const manifest={version:2,source:'Original newsletters supplied by the author',preservedIssues:preservedEditions,locales:Object.keys(T),issues:editions.map(ed=>({id:ed.id,articleCount:ed.articles.length,pdf:media[ed.id].originalPdf,pdfSha256:media[ed.id].pdfSha256,readers:Object.keys(T).map(l=>`/${l}/reading-room/seven-lines/${ed.id}/`)})),sourceDigests:{}};
+ for(const filename of ['editions.json','breakers.json','ui.json','preserved-editions.json',...Object.keys(T).filter(l=>l!=='en').map(l=>`locales/${l}.json`)])manifest.sourceDigests[filename]=crypto.createHash('sha256').update(fs.readFileSync(path.join(__dirname,'data',filename))).digest('hex');
+ fs.writeFileSync(path.join(__dirname,'publication-manifest.json'),JSON.stringify(manifest,null,2)+'\n');
 }
-
-const FOOTER = {
-  en: { nav:'Trust and legal', links:[['/en/privacy','Privacy'],['/en/terms','Terms'],['/en/accessibility','Accessibility'],['/en/ai-notice','Responsible AI'],['/en/contact','Contact'],['/en/sitemap','Sitemap']], closing:'Leave behind ideas that continue serving people long after we are gone.', copy:'© 2026 Dr. Mohamed Yousef Almadfaei. All rights reserved.' },
-  ar: { nav:'الثقة والشؤون القانونية', links:[['/ar/privacy','الخصوصية'],['/ar/terms','الشروط'],['/ar/accessibility','سهولة الوصول'],['/ar/ai-notice','الذكاء الاصطناعي المسؤول'],['/ar/contact','تواصل'],['/ar/sitemap','خريطة الموقع']], closing:'اتركوا خلفكم أفكاراً تواصل خدمة الناس بعد رحيلنا بزمن طويل.', copy:'© 2026 الدكتور محمد يوسف المدفعي. جميع الحقوق محفوظة.' },
-  es: { nav:'Confianza y legal', links:[['/es/privacy','Privacidad'],['/es/terms','Términos'],['/es/accessibility','Accesibilidad'],['/es/ai-notice','IA Responsable'],['/es/contact','Contacto'],['/es/sitemap','Mapa del sitio']], closing:'Dejen atrás ideas que sigan sirviendo a la gente mucho después de que partamos.', copy:'© 2026 Dr. Mohamed Yousef Almadfaei. Todos los derechos reservados.' },
-  fr: { nav:'Confiance et légal', links:[['/fr/privacy','Confidentialité'],['/fr/terms','Conditions'],['/fr/accessibility','Accessibilité'],['/fr/ai-notice','IA Responsable'],['/fr/contact','Contact'],['/fr/sitemap','Plan du site']], closing:'Laissez derrière vous des idées qui continuent de servir les gens bien après notre départ.', copy:'© 2026 Dr. Mohamed Yousef Almadfaei. Tous droits réservés.' },
-  ru: { nav:'Доверие и право', links:[['/ru/privacy','Конфиденциальность'],['/ru/terms','Условия'],['/ru/accessibility','Доступность'],['/ru/ai-notice','Ответственный ИИ'],['/ru/contact','Контакт'],['/ru/sitemap','Карта сайта']], closing:'Оставьте после себя идеи, которые продолжат служить людям задолго после нашего ухода.', copy:'© 2026 Др. Мохаммед Юсуф Альмадафаи. Все права защищены.' },
-  zh: { nav:'信任与法律', links:[['/zh/privacy','隐私'],['/zh/terms','条款'],['/zh/accessibility','无障碍'],['/zh/ai-notice','负责任的人工智能'],['/zh/contact','联系'],['/zh/sitemap','网站地图']], closing:'留下一些理念，让它们在我们离去很久之后仍服务于人民。', copy:'© 2026 穆罕默德·优素福·马达法伊博士。保留所有权利。' },
-};
-
-function footer(t) {
-  const f = FOOTER[t.locale];
-  const links = f.links.map(([h, l]) => `\n      <li><a href="${h}">${l}</a></li>`).join('');
-  return `<footer class="site-footer">
-  <div class="container">
-    <nav aria-label="${f.nav}">
-      <ul>${links}
-      </ul>
-    </nav>
-    <p class="closing-line">${f.closing}</p>
-    <p class="copyright">${f.copy}</p>
-  </div>
-</footer>
-  <script src="/assets/site.js" defer></script>
-  <script src="/assets/seven-lines.js" defer></script>`;
-}
-
-const order = ['October', 'September', 'August', 'July', 'June'];
-
-for (const locale of Object.keys(T)) {
-  const t = T[locale];
-  order.forEach((monthName, editionIndex) => {
-    const ed = editions.find((e) => e.month === monthName);
-    const { total, pages } = buildEdition(t, ed, editionIndex);
-    const month = t.month[ed.month];
-    const book = pages.join('\n');
-    const home = `/${t.locale}/reading-room`;
-    const html = `${head(t, ed)}
-<body>
-  <a class="skip-link" href="#main-content">${t.locale === 'ar' ? 'تخطَّ إلى المحتوى الرئيسي' : 'Skip to main content'}</a>
-  ${masthead(t)}
-  <nav class="breadcrumbs container" aria-label="Breadcrumb"><ol><li><a href="/${t.locale}">${t.locale === 'ar' ? 'الرئيسية' : 'Home'}</a></li><li><a href="${home}">${t.locale === 'ar' ? 'غرفة القراءة' : 'Reading Room'}</a></li><li aria-current="page">${t.sevenLines} — ${month} ${ed.year}</li></ol></nav>
-  <main id="main-content">
-    <section class="section container">
-      <div class="sl-book" data-sl-book data-total="${total}">
-        <div class="sl-book__stage">
-<div class="sl-book__sizer" aria-hidden="true"></div>
-${book}
-        </div>
-        <div class="sl-book__controls">
-          <button type="button" class="sl-nav" data-sl-prev>${t.prev}</button>
-          <div class="sl-book__progress" data-sl-progress role="status" aria-live="polite"></div>
-          <button type="button" class="sl-nav" data-sl-next>${t.next}</button>
-        </div>
-        <div class="container"><div class="actions">
-          <a class="button button--secondary" href="${home}">${t.locale === 'ar' ? 'عودة إلى غرفة القراءة' : 'Back to the Reading Room'}</a>
-        </div></div>
-      </div>
-    </section>
-  </main>
-  ${footer(t)}
-</body>
-</html>`;
-    const dir = path.join(OUT, t.locale, 'reading-room', 'seven-lines', ed.id);
-    fs.mkdirSync(dir, { recursive: true });
-    fs.writeFileSync(path.join(dir, 'index.html'), html);
-  });
-  console.log('built locale', locale);
-}
-console.log('done — 30 files');
+console.log(`Generated ${generated} complete magazine readers.`);

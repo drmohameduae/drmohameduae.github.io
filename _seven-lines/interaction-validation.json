@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": 174,
+  "coverage": [
+    "6 locales",
+    "LTR/RTL keyboard",
+    "focus and inert",
+    "page turns and queue",
+    "contents and selector",
+    "direct URL",
+    "text enlargement",
+    "continuous mode",
+    "fullscreen fallback",
+    "crossword keyboard",
+    "print state",
+    "back cover"
+  ]
+}

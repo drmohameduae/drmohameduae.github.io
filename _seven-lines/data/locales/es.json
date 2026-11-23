@@ -1,0 +1,1797 @@
+[
+  {
+    "id": "june-2026",
+    "month": "June",
+    "year": 2026,
+    "intro": "Seis perspectivas sobre las decisiones, las culturas y las capacidades que fortalecen las instituciones.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Madurez institucional",
+        "title": "Liderar bajo presión",
+        "inBrief": "La presión revela la madurez institucional: los líderes sólidos actúan con deliberación y las organizaciones resilientes se preparan antes de que lleguen las crisis.",
+        "intro": [
+          "Uno de los indicadores más claros de madurez institucional es la manera de tomar decisiones bajo presión. Es fácil transmitir confianza cuando las condiciones son estables. La verdadera prueba del liderazgo aparece ante la incertidumbre, los intereses contrapuestos y el tiempo limitado.",
+          "En esos momentos, los líderes sólidos no se dejan llevar por la reacción inmediata. Actúan con deliberación. Dan prioridad a los hechos frente al ruido, al impacto a largo plazo frente a la imagen a corto plazo y al criterio basado en principios frente a la respuesta emocional.",
+          "La presión pone al descubierto la cultura de una organización. Revela si las instituciones se guían por la claridad y la disciplina o por la confusión y la improvisación."
+        ],
+        "vs": {
+          "leftLabel": "Condiciones estables",
+          "leftSub": "Es fácil transmitir confianza",
+          "rightLabel": "Incertidumbre · intereses contrapuestos · tiempo limitado",
+          "rightSub": "La verdadera prueba del liderazgo"
+        },
+        "contHeading": "Prepararse antes de la crisis",
+        "cont": [
+          "Por eso, las organizaciones resilientes invierten decididamente en gobernanza, rendición de cuentas y desarrollo del liderazgo antes de que surjan las crisis, no después.",
+          "Porque, cuando aumenta la presión, las instituciones rara vez actúan por encima de su cultura. Actúan de acuerdo con ella. El liderazgo no se mide únicamente por el crecimiento en los periodos favorables. Se mide por la serenidad, el criterio y la orientación cuando las condiciones se vuelven difíciles."
+        ],
+        "quote": "Cuando aumenta la presión, las instituciones rara vez actúan por encima de su cultura. Actúan de acuerdo con ella.",
+        "frameworksLabel": "Principios",
+        "frameworks": [
+          {
+            "label": "Hechos",
+            "sub": "frente al ruido"
+          },
+          {
+            "label": "Impacto a largo plazo",
+            "sub": "frente a la imagen a corto plazo"
+          },
+          {
+            "label": "Criterio basado en principios",
+            "sub": "frente a la respuesta emocional"
+          }
+        ],
+        "takeaways": [
+          "Decida con deliberación, sin limitarse a reaccionar.",
+          "La presión revela la cultura: claridad o improvisación.",
+          "Invierta en gobernanza, rendición de cuentas y desarrollo del liderazgo antes de las crisis."
+        ],
+        "frameworksTitle": "Tres prioridades. Una orientación clara."
+      },
+      {
+        "num": "02",
+        "section": "Cultura y rendición de cuentas",
+        "title": "La cultura en cada acción",
+        "inBrief": "La cultura se forma cada día a través de lo que los líderes miden, recompensan y toleran, no de las políticas ni de las declaraciones de misión.",
+        "intro": [
+          "En el liderazgo, lo que se mide recibe atención. Lo que se recompensa se repite. Lo que se tolera se convierte en cultura.",
+          "A menudo se habla de la cultura como un concepto abstracto; sin embargo, se forma cada día mediante decisiones, comportamientos y consecuencias. Las organizaciones no rinden cuentas porque esa obligación figure en una política. Lo hacen cuando sus líderes reconocen sistemáticamente la excelencia, corrigen el bajo desempeño y aplican las normas con equidad.",
+          "El mismo principio se aplica a la innovación, la colaboración, la integridad y la excelencia en el servicio."
+        ],
+        "vs": {
+          "leftLabel": "Lo que no constituye la cultura",
+          "leftSub": "Lo que una organización dice valorar · Declaraciones de misión y presentaciones",
+          "rightLabel": "La cultura",
+          "rightSub": "Lo que una organización hace repetidamente · Lo que los líderes celebran, ignoran y aceptan"
+        },
+        "contHeading": "El liderazgo envía las señales",
+        "cont": [
+          "Los empleados observan atentamente lo que la dirección celebra, ignora y acepta. Con el tiempo, esas señales llegan a influir más que las declaraciones de misión o las presentaciones. Por eso, la cultura nunca debe entenderse como un ejercicio de comunicación. Es una realidad operativa creada por las acciones del liderazgo.",
+          "Las instituciones más sólidas lo comprenden bien. Construyen su cultura de forma intencionada, la refuerzan con constancia y la protegen sin descanso. Porque la cultura no es lo que una organización dice valorar. La cultura es lo que una organización hace repetidamente."
+        ],
+        "quote": "La cultura no es lo que una organización dice valorar. La cultura es lo que una organización hace repetidamente.",
+        "frameworksLabel": "Señales",
+        "frameworks": [
+          {
+            "label": "Medir",
+            "sub": "→ Atención"
+          },
+          {
+            "label": "Recompensar",
+            "sub": "→ Repetición"
+          },
+          {
+            "label": "Tolerar",
+            "sub": "→ Práctica aceptada"
+          }
+        ],
+        "takeaways": [
+          "La rendición de cuentas se hace realidad mediante un liderazgo coherente, no mediante el texto de una política.",
+          "Los empleados interpretan lo que los líderes celebran, ignoran y aceptan.",
+          "Construya la cultura de forma intencionada, refuércela con constancia y protéjala sin descanso."
+        ],
+        "frameworksTitle": "Las señales que se convierten en cultura"
+      },
+      {
+        "num": "03",
+        "section": "Gobernanza y continuidad",
+        "title": "Sistemas que sostienen los resultados",
+        "inBrief": "La brillantez individual puede resolver un problema una vez. Los sistemas sólidos pueden resolverlo repetidamente.",
+        "intro": [
+          "Muchos líderes se concentran en tomar las decisiones correctas. Los líderes excepcionales se concentran en construir sistemas que produzcan decisiones correctas de forma sistemática. La brillantez individual puede resolver un problema una vez. Los sistemas sólidos pueden resolverlo repetidamente.",
+          "Por eso, las instituciones perdurables invierten en gobernanza, responsabilidades claras, información transparente y procesos de decisión bien definidos. Es posible que estos mecanismos no acaparen titulares, pero a menudo determinan el éxito a largo plazo.",
+          "Cuando los sistemas son débiles, las organizaciones dependen de unas pocas personas. El progreso se ralentiza cuando faltan personas clave y los errores se vuelven más frecuentes. Cuando los sistemas son sólidos, el desempeño resulta más previsible, mejora la rendición de cuentas y las organizaciones pueden crecer con confianza."
+        ],
+        "vs": {
+          "leftLabel": "Cuando los sistemas son débiles",
+          "leftSub": "Dependencia de unas pocas personas · El progreso se ralentiza cuando faltan personas clave · Los errores se vuelven más frecuentes",
+          "rightLabel": "Cuando los sistemas son sólidos",
+          "rightSub": "Desempeño más previsible · Mejor rendición de cuentas · Crecimiento con confianza"
+        },
+        "contHeading": "Diseñar para la continuidad",
+        "cont": [
+          "El objetivo del liderazgo no debería ser volverse indispensable. Debería ser crear una institución que siga funcionando a un nivel elevado porque sus fundamentos son sólidos, sus procesos son eficaces y su cultura respalda la excelencia.",
+          "Los grandes líderes consiguen resultados. Los mejores líderes construyen sistemas que siguen produciendo resultados mucho después de su partida."
+        ],
+        "quote": "Los grandes líderes consiguen resultados. Los mejores líderes construyen sistemas que siguen produciendo resultados mucho después de su partida.",
+        "frameworksLabel": "Fundamentos",
+        "frameworks": [
+          {
+            "label": "Gobernanza",
+            "sub": ""
+          },
+          {
+            "label": "Responsabilidades",
+            "sub": ""
+          },
+          {
+            "label": "Información",
+            "sub": ""
+          },
+          {
+            "label": "Procesos de decisión",
+            "sub": ""
+          }
+        ],
+        "takeaways": [
+          "Construya sistemas que produzcan decisiones correctas de forma sistemática.",
+          "Los sistemas débiles generan dependencia de unas pocas personas.",
+          "Aspire a construir una institución que siga funcionando, no a ser indispensable."
+        ],
+        "frameworksTitle": "Cuatro fundamentos para la continuidad"
+      },
+      {
+        "num": "04",
+        "section": "Aprendizaje y adaptación",
+        "title": "La capacidad de aprender",
+        "inBrief": "Las organizaciones que prosperen en la próxima década no serán las más grandes ni las más ricas, sino las que aprendan con mayor rapidez.",
+        "intro": [
+          "Las organizaciones que prosperen en la próxima década no serán necesariamente las más grandes, las más antiguas ni siquiera las que dispongan de más recursos. Serán las que aprendan con mayor rapidez.",
+          "En un mundo marcado por la inteligencia artificial, los desafíos climáticos, los cambios económicos y la evolución de las expectativas ciudadanas, los conocimientos pierden vigencia más rápidamente que nunca. La ventaja competitiva del futuro no consiste simplemente en disponer de conocimientos especializados. Consiste en la capacidad institucional de aprender, adaptarse y mejorar de manera continua."
+        ],
+        "vs": {
+          "leftLabel": "Ya no se trata de preguntar",
+          "leftSub": "«¿Cuánto sabemos?»",
+          "rightLabel": "La pregunta ahora es",
+          "rightSub": "«¿Con qué rapidez podemos aprender lo que aún no sabemos?»"
+        },
+        "contHeading": "Construir una cultura de aprendizaje",
+        "cont": [
+          "Esto exige más que programas de formación. Exige una cultura que estimule la curiosidad, registre las lecciones aprendidas, ponga a prueba las innovaciones y trate los errores como una fuente de aprendizaje, en lugar de una ocasión para culpar.",
+          "Las organizaciones que aprenden no esperan a que una disrupción las obligue a cambiar. Se anticipan, experimentan y evolucionan antes de que las circunstancias lo exijan.",
+          "La pregunta para cualquier líder ya no es: «¿Cuánto sabemos?». Es: «¿Con qué rapidez podemos aprender lo que aún no sabemos?». En una época de cambio constante, la capacidad de aprender puede convertirse en el activo estratégico más valioso de cualquier institución."
+        ],
+        "quote": "En una época de cambio constante, la capacidad de aprender puede convertirse en el activo estratégico más valioso de cualquier institución.",
+        "frameworksLabel": "Prácticas",
+        "frameworks": [
+          {
+            "label": "Preguntar",
+            "sub": "estimular la curiosidad"
+          },
+          {
+            "label": "Registrar",
+            "sub": "recoger las lecciones aprendidas"
+          },
+          {
+            "label": "Probar",
+            "sub": "poner a prueba la innovación"
+          },
+          {
+            "label": "Aprender",
+            "sub": "convertir el error en conocimiento"
+          }
+        ],
+        "takeaways": [
+          "Hoy los conocimientos pierden vigencia más rápidamente que nunca.",
+          "El aprendizaje necesita una cultura, no solo programas de formación.",
+          "Anticípese y experimente antes de que una disrupción obligue a cambiar."
+        ],
+        "frameworksTitle": "Un ciclo de aprendizaje continuo"
+      },
+      {
+        "num": "05",
+        "section": "Innovación y ejecución",
+        "title": "La innovación es una capacidad",
+        "inBrief": "En la mayoría de las organizaciones no faltan ideas. El desafío consiste en desarrollar la capacidad de convertirlas en resultados medibles.",
+        "intro": [
+          "A menudo hablamos de la innovación como la clave del éxito futuro. Sin embargo, la innovación sin capacidad institucional rara vez produce resultados duraderos.",
+          "El verdadero desafío no es generar ideas nuevas. En la mayoría de las organizaciones no faltan ideas. El desafío es crear un entorno en el que las buenas ideas puedan evaluarse, probarse, ponerse en práctica, medirse y ampliarse.",
+          "Esto requiere más que creatividad. Requiere una gobernanza clara, una ejecución eficaz, personas cualificadas, datos fiables y una cultura que respalde la mejora continua."
+        ],
+        "vs": {
+          "leftLabel": "Las ideas",
+          "leftSub": "Crean posibilidades",
+          "rightLabel": "La capacidad institucional",
+          "rightSub": "Crea impacto: la verdadera medida de la innovación"
+        },
+        "contHeading": "Hacer del impacto la medida",
+        "cont": [
+          "La innovación no es un acontecimiento. Es una capacidad. Las instituciones que liderarán la próxima década no serán necesariamente las que tengan las visiones más ambiciosas, sino las que hayan desarrollado la capacidad de transformar sistemáticamente su visión en resultados medibles.",
+          "Las ideas crean posibilidades. La capacidad institucional crea impacto. Y, en última instancia, el impacto es la verdadera medida de la innovación."
+        ],
+        "quote": "La innovación no es un acontecimiento. Es una capacidad.",
+        "frameworksLabel": "Factores facilitadores",
+        "frameworks": [
+          {
+            "label": "Gobernanza",
+            "sub": ""
+          },
+          {
+            "label": "Ejecución",
+            "sub": ""
+          },
+          {
+            "label": "Personas",
+            "sub": ""
+          },
+          {
+            "label": "Datos",
+            "sub": ""
+          },
+          {
+            "label": "Mejora",
+            "sub": ""
+          }
+        ],
+        "takeaways": [
+          "La innovación sin capacidad institucional rara vez produce resultados duraderos.",
+          "Construya un entorno que permita evaluar, probar, poner en práctica, medir y ampliar las ideas.",
+          "El impacto es la verdadera medida de la innovación."
+        ],
+        "frameworksTitle": "De la posibilidad al impacto duradero",
+        "steps": [
+          "Evaluar",
+          "Probar",
+          "Poner en práctica",
+          "Medir",
+          "Ampliar"
+        ],
+        "stepsTitle": "De una buena idea a un resultado a mayor escala"
+      },
+      {
+        "num": "06",
+        "section": "Autonomía y criterio",
+        "title": "Formar a quienes toman decisiones",
+        "inBrief": "Las decisiones lentas y excesivamente centralizadas rara vez son un problema de las personas. A menudo son un problema del diseño del liderazgo.",
+        "intro": [
+          "Los mejores líderes no crean seguidores. Forman a personas capaces de tomar decisiones. A medida que las organizaciones crecen, aumenta la complejidad. Las decisiones pueden empezar a ralentizarse, las aprobaciones se multiplican y los equipos dependen cada vez más de la alta dirección.",
+          "Rara vez se trata de un problema de las personas. A menudo es un problema del diseño del liderazgo.",
+          "Las instituciones de alto desempeño desarrollan deliberadamente la capacidad de tomar buenas decisiones en todos los niveles. Establecen principios claros, definen las responsabilidades, proporcionan información fiable y facultan a las personas para actuar dentro de límites bien comprendidos.",
+          "Cuando todas las decisiones deben llegar a la cúpula, se pierde agilidad. Cuando la toma de decisiones se distribuye con disciplina, las organizaciones se vuelven más rápidas, más resilientes y mejor preparadas para el cambio."
+        ],
+        "vs": {
+          "leftLabel": "Todas las decisiones llegan a la cúpula",
+          "leftSub": "Se pierde agilidad · Se multiplican las aprobaciones",
+          "rightLabel": "Las decisiones se distribuyen con disciplina",
+          "rightSub": "Mayor rapidez y resiliencia · Mejor preparación para el cambio"
+        },
+        "contHeading": "Medir a los líderes que se forman",
+        "cont": [
+          "El liderazgo no se mide por cuántas decisiones toma personalmente un líder. Se mide por cuántos líderes capaces forma, por cuánto buen criterio cultiva y por la confianza con la que la organización puede funcionar sin intervenciones constantes.",
+          "Una institución alcanza una verdadera madurez cuando las buenas decisiones están integradas en su cultura, no concentradas en un solo despacho. Así es como el liderazgo se convierte en un legado perdurable."
+        ],
+        "quote": "Los mejores líderes no crean seguidores. Forman a personas capaces de tomar decisiones.",
+        "frameworksLabel": "Fundamentos",
+        "frameworks": [
+          {
+            "label": "Principios",
+            "sub": "claros"
+          },
+          {
+            "label": "Responsabilidades",
+            "sub": "definidas"
+          },
+          {
+            "label": "Información",
+            "sub": "fiable"
+          },
+          {
+            "label": "Límites",
+            "sub": "bien comprendidos"
+          }
+        ],
+        "takeaways": [
+          "Desarrolle la capacidad de tomar decisiones acertadas en todos los niveles.",
+          "Distribuya las decisiones con disciplina para ganar rapidez y resiliencia.",
+          "Mida el liderazgo por los líderes capaces que forma."
+        ],
+        "frameworksTitle": "La arquitectura de la autonomía"
+      }
+    ],
+    "lab": {
+      "title": "El desafío de las decisiones",
+      "subtitle": "Utilice únicamente las reglas indicadas. Cada desafío tiene una respuesta. Todas las cifras de planificación son hipotéticas.",
+      "items": [
+        "Siga el proceso: en cada ronda, cierre la mitad de los casos abiertos y añada después 3 casos nuevos. Si comienza con 54 casos, ¿cuántos quedan después de 3 rondas?",
+        "Elija dentro de la capacidad disponible: cada iniciativa puede elegirse una sola vez. Elija exactamente 2 iniciativas que requieran, en conjunto, un máximo de 11 jornadas de equipo. ¿Qué pareja obtiene la mayor puntuación total de prioridad? Iniciativa / Jornadas de equipo / Puntos de prioridad: A / 4 / 6; B / 5 / 9; C / 7 / 12.",
+        "Ordene las revisiones: las revisiones A, B, C y D se realizan de lunes a jueves, una por día. A precede a C. B va inmediatamente después de D. C no se realiza el jueves. ¿Cuál es el orden?",
+        "Distinga los hechos de las suposiciones: se aprueba toda propuesta que supera tanto la prueba de costes como la de viabilidad. La propuesta X no se aprueba. ¿Qué conclusión debe ser cierta? A. No superó la prueba de costes. B. No superó la prueba de viabilidad. C. No superó al menos una de las pruebas."
+      ],
+      "guide": "Respuestas: 1 · 12 casos (54 → 30 → 18 → 12). 2 · A + C: 11 jornadas de equipo, 18 puntos de prioridad. 3 · Lunes A, martes C, miércoles D, jueves B. 4 · C: no superó al menos una de las pruebas.",
+      "table": {
+        "headers": [
+          "Iniciativa",
+          "Jornadas de equipo",
+          "Puntos de prioridad"
+        ],
+        "rows": [
+          [
+            "A",
+            4,
+            6
+          ],
+          [
+            "B",
+            5,
+            9
+          ],
+          [
+            "C",
+            7,
+            12
+          ]
+        ],
+        "afterItem": 1
+      }
+    }
+  },
+  {
+    "id": "july-2026",
+    "month": "July",
+    "year": 2026,
+    "intro": "Cuatro perspectivas semanales y dos guías de práctica del liderazgo para tomar decisiones más claras y fortalecer las instituciones.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Liderazgo y atención",
+        "title": "La atención es estrategia",
+        "inBrief": "La atención del liderazgo es limitada. Su destino determina el futuro de la institución.",
+        "intro": [
+          "El recurso más valioso de cualquier organización no es el capital. Es la atención. Todos los líderes disponen de las mismas 24 horas. Todas las instituciones cuentan con una capacidad de atención limitada por parte de su dirección.",
+          "Sin embargo, muchas organizaciones dedican involuntariamente esa atención a los asuntos urgentes en lugar de a los importantes: atender correos electrónicos, resolver problemas evitables y reaccionar a la crisis del día. La atención es un recurso estratégico. El lugar hacia el que los líderes la dirigen determina lo que la organización mejora, lo que descuida y, en última instancia, aquello en lo que se convierte.",
+          "Las instituciones de mayor desempeño actúan deliberadamente en este ámbito. Reservan tiempo de liderazgo para las decisiones que configuran el futuro: desarrollar capacidades en lugar de resolver problemas recurrentes; fortalecer los sistemas en lugar de depender de esfuerzos heroicos; desarrollar a las personas en lugar de gestionar cada tarea; mirar más allá del próximo trimestre, hacia la próxima década."
+        ],
+        "vs": {
+          "leftLabel": "Gestionar el trabajo de hoy",
+          "leftSub": "Asuntos urgentes y problemas recurrentes",
+          "rightLabel": "Construir la institución de mañana",
+          "rightSub": "Capacidades, sistemas y personas"
+        },
+        "contHeading": "Reservar tiempo para el futuro",
+        "cont": [
+          "La excelencia operativa importa, pero los líderes crean el mayor valor cuando dedican más tiempo a diseñar la institución que a limitarse a hacerla funcionar.",
+          "Una pregunta útil para cualquier directivo es: si alguien revisara mi agenda de los últimos tres meses, ¿vería que estoy gestionando el trabajo de hoy o construyendo la institución de mañana? El liderazgo se refleja no solo en las decisiones que tomamos, sino también en aquello a lo que elegimos prestar atención."
+        ],
+        "quote": "La atención es un recurso estratégico.",
+        "frameworksLabel": "Prioridades",
+        "frameworks": [
+          {
+            "label": "Desarrollar capacidades",
+            "sub": "capacidad futura"
+          },
+          {
+            "label": "Fortalecer los sistemas",
+            "sub": "más allá de los esfuerzos heroicos"
+          },
+          {
+            "label": "Desarrollar a las personas",
+            "sub": "más allá del control de tareas"
+          },
+          {
+            "label": "Pensar a largo plazo",
+            "sub": "la próxima década"
+          }
+        ],
+        "takeaways": [
+          "Trate la atención del liderazgo como un recurso estratégico limitado.",
+          "Reserve tiempo para las capacidades, los sistemas, las personas y la reflexión a largo plazo.",
+          "Revise su agenda: ¿refleja la institución que pretende construir?"
+        ],
+        "frameworksTitle": "Dar a la atención una orientación estratégica",
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3
+      },
+      {
+        "num": "02",
+        "section": "Pensamiento estratégico",
+        "title": "Hacer mejores preguntas",
+        "inBrief": "Las mejores preguntas revelan supuestos, riesgos y oportunidades, y mejoran las decisiones.",
+        "intro": [
+          "El futuro no estará liderado por las organizaciones que tengan más datos. Lo liderarán aquellas que hagan las mejores preguntas. A menudo oímos que los datos son la nueva moneda. Sin embargo, los datos, por sí solos, nunca han tomado una decisión estratégica.",
+          "El verdadero factor diferenciador es la calidad de las preguntas que hacen los líderes. Las buenas preguntas cuestionan los supuestos. Descubren riesgos antes de que se conviertan en crisis. Revelan oportunidades que otros no ven. Y fomentan culturas en las que aprender importa más que tener certezas."
+        ],
+        "vs": {
+          "leftLabel": "La antigua pregunta",
+          "leftSub": "¿Tenemos suficiente información?",
+          "rightLabel": "La mejor pregunta",
+          "rightSub": "¿Estamos haciendo las preguntas que realmente importan?"
+        },
+        "contHeading": "El criterio marca la diferencia",
+        "cont": [
+          "A medida que la inteligencia artificial se vuelve más capaz, el acceso a la información será cada vez más igualitario. Lo que seguirá siendo desigual es el criterio. Los líderes y las instituciones que destaquen serán quienes combinen los datos con la curiosidad, la tecnología con la sabiduría y el análisis con una gobernanza sólida.",
+          "La pregunta ya no es: «¿Tenemos suficiente información?». Es: «¿Estamos haciendo las preguntas que realmente importan?». Porque la calidad de nuestras preguntas determina, en última instancia, la calidad de nuestras decisiones. Y la calidad de nuestras decisiones configura el futuro de nuestras instituciones."
+        ],
+        "quote": "Porque la calidad de nuestras preguntas determina, en última instancia, la calidad de nuestras decisiones.",
+        "frameworksLabel": "Efectos",
+        "frameworks": [
+          {
+            "label": "Supuestos",
+            "sub": "cuestionarlos"
+          },
+          {
+            "label": "Riesgos",
+            "sub": "descubrirlos a tiempo"
+          },
+          {
+            "label": "Oportunidades",
+            "sub": "ver lo que pasa inadvertido"
+          },
+          {
+            "label": "Aprendizaje",
+            "sub": "fomentar la curiosidad"
+          }
+        ],
+        "takeaways": [
+          "Utilice las preguntas para poner a prueba los supuestos y revelar riesgos emergentes.",
+          "Combine los datos y la tecnología con la curiosidad, la sabiduría y la gobernanza.",
+          "La calidad de las preguntas determina las decisiones y el futuro de las instituciones."
+        ],
+        "frameworksTitle": "Lo que permiten descubrir las buenas preguntas",
+        "sourcePages": [
+          5,
+          6
+        ],
+        "imagePage": 5
+      },
+      {
+        "num": "03",
+        "section": "Calidad de las decisiones",
+        "title": "Mejores decisiones con rapidez",
+        "inBrief": "La capacidad institucional reduce la distancia entre la comprensión de una situación y una decisión acertada.",
+        "intro": [
+          "En la próxima década, la ventaja competitiva corresponderá a las instituciones capaces de tomar decisiones de alta calidad con mayor rapidez, no simplemente a las que actúen más rápido. La rapidez, por sí sola, no es una estrategia. Tomar decisiones rápidas con poco criterio solo acelera el resultado equivocado.",
+          "El verdadero desafío para los líderes consiste en reducir el tiempo entre la comprensión de una situación y la toma de decisiones acertadas sin comprometer la gobernanza, la rendición de cuentas ni el pensamiento estratégico. Aquí es donde importa la capacidad institucional. Las organizaciones que destacan están construyendo: atribuciones de decisión claras; datos e inteligencia fiables; marcos de gobernanza sencillos; líderes con autonomía en todos los niveles; y una cultura que valora las pruebas por encima de la jerarquía."
+        ],
+        "vs": {
+          "leftLabel": "La rapidez por sí sola",
+          "leftSub": "El criterio deficiente acelera el resultado equivocado",
+          "rightLabel": "Decisiones de calidad con rapidez",
+          "rightSub": "Tecnología acompañada de un liderazgo disciplinado"
+        },
+        "contHeading": "Mantener el criterio en el centro",
+        "cont": [
+          "La inteligencia artificial hará que la información sea más accesible que nunca. Pero no sustituirá al criterio, la integridad ni la rendición de cuentas. Estas siguen siendo responsabilidades propiamente humanas.",
+          "Las instituciones que definirán el futuro serán aquellas que combinen la tecnología con un liderazgo disciplinado, donde las decisiones no solo sean más rápidas, sino también sistemáticamente más acertadas. En una época de aceleración, la verdadera ventaja competitiva no es la rapidez. Es la capacidad de tomar mejores decisiones con rapidez.",
+          "¿Cuál cree que es hoy el mayor obstáculo para tomar mejores decisiones en las organizaciones: los datos, la cultura, la gobernanza o el liderazgo?"
+        ],
+        "quote": "Es la capacidad de tomar mejores decisiones con rapidez.",
+        "frameworksLabel": "Factores facilitadores",
+        "frameworks": [
+          {
+            "label": "Atribuciones de decisión",
+            "sub": "claras"
+          },
+          {
+            "label": "Datos e inteligencia",
+            "sub": "fiables"
+          },
+          {
+            "label": "Gobernanza",
+            "sub": "marcos sencillos"
+          },
+          {
+            "label": "Líderes",
+            "sub": "con autonomía"
+          },
+          {
+            "label": "Pruebas",
+            "sub": "valoradas por encima de la jerarquía"
+          }
+        ],
+        "takeaways": [
+          "Reduzca el tiempo de decisión preservando la gobernanza y la rendición de cuentas.",
+          "Establezca atribuciones claras, información fiable y un liderazgo con autonomía.",
+          "Mantenga el criterio, la integridad y la rendición de cuentas como responsabilidades humanas."
+        ],
+        "frameworksTitle": "Desarrollar la capacidad de decidir bien",
+        "sourcePages": [
+          7,
+          8
+        ],
+        "imagePage": 7
+      },
+      {
+        "num": "04",
+        "section": "Tecnología y liderazgo",
+        "title": "Inteligencia institucional",
+        "inBrief": "El factor diferenciador duradero es la capacidad de convertir la información en criterio y acción colectivos.",
+        "intro": [
+          "La próxima ventaja competitiva no procederá únicamente de la tecnología. Procederá de la inteligencia institucional. La inteligencia artificial está transformando la manera de analizar datos, automatizar procesos y generar conocimiento. Sin embargo, a medida que estas capacidades se generalicen, la tecnología en sí misma será cada vez menos un factor diferenciador.",
+          "Lo que distinguirá a las organizaciones líderes será su capacidad para convertir la información en inteligencia institucional. La inteligencia institucional es la capacidad colectiva de conectar datos entre funciones, en lugar de trabajar en compartimentos aislados; aprender de cada decisión, éxito y fracaso; anticipar los riesgos emergentes antes de que se conviertan en crisis; y transformar los conocimientos en acciones oportunas y medibles."
+        ],
+        "vs": {
+          "leftLabel": "La tecnología",
+          "leftSub": "Acelera las decisiones",
+          "rightLabel": "La inteligencia institucional",
+          "rightSub": "Garantiza que esas decisiones sean las correctas"
+        },
+        "contHeading": "Convertir la información en capacidad",
+        "cont": [
+          "Esto exige más que una transformación digital. Exige una transformación de la gobernanza, la cultura y el liderazgo. Las instituciones que liderarán la próxima década no serán necesariamente las que dispongan de las plataformas de IA más avanzadas. Serán aquellas que combinen la tecnología con buen criterio, datos fiables, responsabilidades claras y un compromiso con el aprendizaje continuo.",
+          "La tecnología puede acelerar las decisiones. La inteligencia institucional garantiza que esas decisiones sean las correctas. A medida que la IA se vuelve cada vez más accesible, quizá la pregunta decisiva para los líderes ya no sea: «¿Qué tan inteligente es nuestra tecnología?». Es: «¿Qué tan inteligente es nuestra institución?»."
+        ],
+        "quote": "La tecnología puede acelerar las decisiones. La inteligencia institucional garantiza que esas decisiones sean las correctas.",
+        "frameworksLabel": "Capacidades",
+        "frameworks": [
+          {
+            "label": "Conectar",
+            "sub": "datos entre funciones"
+          },
+          {
+            "label": "Aprender",
+            "sub": "de cada resultado"
+          },
+          {
+            "label": "Anticipar",
+            "sub": "riesgos emergentes"
+          },
+          {
+            "label": "Actuar",
+            "sub": "acciones medibles"
+          }
+        ],
+        "takeaways": [
+          "Conecte la información entre funciones y aprenda de cada resultado.",
+          "Anticipe los riesgos y convierta los conocimientos en acciones oportunas y medibles.",
+          "Pregunte qué tan inteligente es la institución, además de su tecnología."
+        ],
+        "frameworksTitle": "Hacer que la inteligencia forme parte de la institución",
+        "sourcePages": [
+          9,
+          10
+        ],
+        "imagePage": 9
+      },
+      {
+        "num": "05",
+        "section": "Práctica del liderazgo",
+        "title": "La auditoría de la atención",
+        "inBrief": "Un ejercicio práctico basado en el artículo de liderazgo de julio: utilizar una semana ya transcurrida para decidir con mayor claridad cómo organizar la siguiente.",
+        "intro": [
+          "Elija una semana laboral ya concluida. Revise su agenda junto con sus registros de trabajo y asigne cada bloque de tiempo a una de estas cuatro categorías: operaciones esenciales, resolución de problemas recurrentes, desarrollo de personas o desarrollo institucional.",
+          "Registre los minutos realmente dedicados. Identifique las estimaciones cuando la duración sea incierta, contabilice cada minuto una sola vez y señale cualquier tiempo no registrado. Utilice una categoría principal para cada bloque, incluso cuando la actividad haya servido a varios propósitos.",
+          "Calcule la proporción de tiempo dedicada al desarrollo institucional dividiendo los minutos de esa categoría entre el total de minutos de trabajo registrados y multiplicando el resultado por 100. Se trata de una referencia personal para la reflexión, no de un objetivo universal de desempeño. Las cuatro categorías son una herramienta de revisión propuesta."
+        ],
+        "vs": {
+          "leftLabel": "Revisar la semana concluida",
+          "leftSub": "Tiempo real y problemas recurrentes",
+          "rightLabel": "Diseñar la semana siguiente",
+          "rightSub": "Tiempo reservado y un resultado definido"
+        },
+        "contHeading": "Hacer diferente la semana siguiente",
+        "cont": [
+          "Revise los problemas recurrentes. Seleccione uno que pueda resolverse mediante un proceso mejor, una autoridad más clara o información más fiable. Designe a una persona responsable y determine qué pruebas demostrarían que la intervención repetida ya no es necesaria.",
+          "Reserve un bloque de tiempo la semana siguiente para una decisión importante sobre el futuro de la institución. Decida qué dejar de hacer, aplazar o delegar, manteniendo los servicios esenciales. Defina el resultado que debería producir ese tiempo.",
+          "Repita la revisión la semana siguiente. Compare el tiempo registrado, los problemas recurrentes y el resultado prometido. Mantenga los cambios que desarrollen capacidades y ajuste los que no lo hagan."
+        ],
+        "quote": "Introduzca una mejora que reduzca la necesidad de intervenir mañana.",
+        "frameworksLabel": "Categorías de revisión",
+        "frameworks": [
+          {
+            "label": "Operaciones",
+            "sub": "prestación esencial"
+          },
+          {
+            "label": "Problemas recurrentes",
+            "sub": "intervención repetida"
+          },
+          {
+            "label": "Personas",
+            "sub": "desarrollo"
+          },
+          {
+            "label": "Institución",
+            "sub": "capacidad futura"
+          }
+        ],
+        "takeaways": [
+          "Utilice el tiempo registrado como referencia; identifique las estimaciones y evite contar dos veces el mismo tiempo.",
+          "Aborde una causa recurrente con una persona responsable identificada y pruebas observables.",
+          "Reserve tiempo para el futuro y revise después el resultado que produce."
+        ],
+        "frameworksTitle": "¿En qué se fue la semana?",
+        "sourcePages": [
+          11,
+          12
+        ],
+        "imagePage": 11
+      },
+      {
+        "num": "06",
+        "section": "Práctica del liderazgo",
+        "title": "La ficha de decisión",
+        "inBrief": "Un ejercicio práctico basado en los artículos de julio: hacer visibles la pregunta, las pruebas, la autoridad y el aprendizaje antes y después de una decisión.",
+        "intro": [
+          "Elija una decisión importante. Especifique qué debe decidirse y para cuándo. Utilice cinco apartados breves: pregunta, pruebas, opciones, autoridad y revisión. Distinga los hechos de los supuestos e identifique las pruebas que podrían cambiar su opinión.",
+          "Compare al menos dos opciones viables utilizando los mismos criterios: adecuación estratégica, capacidad de ejecución y riesgo. Considere aplazar la decisión únicamente si es realista y explicite sus consecuencias. Utilice valoraciones cualitativas cuando las pruebas no permitan asignar puntuaciones precisas.",
+          "Identifique a la persona facultada para tomar la decisión y a quienes deban ser consultados. Defina qué información nueva o qué riesgo exigirían elevar el asunto a un nivel superior. Adapte estos pasos propuestos a la gobernanza existente en la institución."
+        ],
+        "vs": {
+          "leftLabel": "Antes de la decisión",
+          "leftSub": "Pregunta, pruebas y resultado esperado",
+          "rightLabel": "En la revisión",
+          "rightSub": "Resultado real, supuestos y lección aprendida"
+        },
+        "contHeading": "Crear un registro de aprendizaje",
+        "cont": [
+          "Registre la opción elegida, su justificación y la principal incertidumbre restante. Defina un indicador de progreso observable y una fecha de revisión. Haga que otro colega responsable pueda comprender el razonamiento.",
+          "En la revisión, compare los resultados reales con los previstos. ¿Qué supuestos se confirmaron y cuáles fallaron? ¿Qué debería cambiar la próxima vez? Registre la lección en un historial de decisiones reutilizable, con los permisos de acceso adecuados.",
+          "Utilice la tecnología para organizar las preguntas y las pruebas, manteniendo el criterio humano y la rendición de cuentas. Mantenga la ficha concisa y orientada a la acción; amplíe los detalles cuando las consecuencias o la incertidumbre lo justifiquen."
+        ],
+        "quote": "Un registro de decisiones útil conserva tanto la elección como su motivo.",
+        "frameworksLabel": "Apartados de la ficha",
+        "frameworks": [
+          {
+            "label": "Pregunta",
+            "sub": "qué y para cuándo"
+          },
+          {
+            "label": "Pruebas",
+            "sub": "hechos y supuestos"
+          },
+          {
+            "label": "Opciones",
+            "sub": "alternativas viables"
+          },
+          {
+            "label": "Autoridad",
+            "sub": "responsable y consultas"
+          },
+          {
+            "label": "Revisión",
+            "sub": "resultado y aprendizaje"
+          }
+        ],
+        "takeaways": [
+          "Defina la decisión y distinga los hechos de los supuestos.",
+          "Compare opciones viables con una autoridad clara y las consultas necesarias.",
+          "Registre el razonamiento, revise el resultado y conserve la lección aprendida."
+        ],
+        "frameworksTitle": "Una ficha clara antes de una decisión clara",
+        "sourcePages": [
+          13,
+          14
+        ],
+        "imagePage": 13
+      }
+    ],
+    "lab": {
+      "title": "El crucigrama del liderazgo",
+      "subtitle": "Utilice las pistas para completar la cuadrícula. Escriba las respuestas en inglés. Los números entre paréntesis indican el número de letras.",
+      "items": [
+        "1. Horizontal: procesos interconectados que permiten repetir un buen desempeño. (7).",
+        "2. Vertical: confianza en la fiabilidad y la integridad de otra persona. (5).",
+        "3. Vertical: examen estructurado del trabajo para identificar mejoras. (6).",
+        "4. Horizontal: valores compartidos y comportamientos repetidos que dan forma a una organización. (7).",
+        "5. Horizontal: conjunto coherente de decisiones para alcanzar objetivos a largo plazo. (8).",
+        "6. Vertical: principios morales que orientan la conducta y las decisiones. (6).",
+        "7. Horizontal: cualidad de lo que es claro y fácil de comprender. (7).",
+        "8. Horizontal: razón fundamental por la que existe una organización. (7)."
+      ],
+      "guide": "Respuestas. Horizontales: 1 SYSTEMS · 4 CULTURE · 5 STRATEGY · 7 CLARITY · 8 PURPOSE. Verticales: 2 TRUST · 3 REVIEW · 6 ETHICS.",
+      "reflection": "¿Cuál de estas ocho ideas necesita más atención en su institución?",
+      "crossword": {
+        "grid": [
+          "#.......##",
+          "####.####.",
+          "###.......",
+          "####.####.",
+          "........#.",
+          "#####.###.",
+          "#####.###.",
+          "#.......##",
+          "#####.####",
+          ".......###"
+        ],
+        "numbers": [
+          [
+            0,
+            1,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3
+          ],
+          [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            5,
+            0,
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            8,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "solution": [
+          "#SYSTEMS##",
+          "####R####R",
+          "###CULTURE",
+          "####S####V",
+          "STRATEGY#I",
+          "#####T###E",
+          "#####H###W",
+          "#CLARITY##",
+          "#####C####",
+          "PURPOSE###"
+        ]
+      }
+    }
+  },
+  {
+    "id": "august-2026",
+    "month": "August",
+    "year": 2026,
+    "intro": "Cinco perspectivas semanales y una guía de práctica del liderazgo sobre sostenibilidad, capacidad y resiliencia.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Sostenibilidad y gobernanza",
+        "title": "La sostenibilidad en las decisiones",
+        "inBrief": "La sostenibilidad se vuelve transformadora cuando orienta las decisiones cotidianas, los recursos y la rendición de cuentas.",
+        "intro": [
+          "La sostenibilidad solo se vuelve transformadora cuando pasa de los márgenes de la estrategia al centro de la toma de decisiones. Con demasiada frecuencia se trata como un programa, un informe o un departamento independiente.",
+          "Pero las instituciones más resilientes comprenden que debe influir en la selección de inversiones, la evaluación de riesgos, el diseño de operaciones, el desarrollo de personas y la medición del desempeño.",
+          "Una estrategia de sostenibilidad no puede prosperar si el conjunto de la organización sigue tomando decisiones basadas únicamente en consideraciones financieras u operativas a corto plazo. El progreso real comienza cuando el impacto ambiental y social forma parte de la gobernanza cotidiana."
+        ],
+        "vs": {
+          "leftLabel": "Un programa independiente",
+          "leftSub": "Una responsabilidad adicional",
+          "rightLabel": "Gobernanza cotidiana",
+          "rightSub": "Una mejor manera de tomar decisiones"
+        },
+        "contHeading": "Hacer mejores preguntas",
+        "cont": [
+          "Esto implica hacer mejores preguntas: ¿fortalecerá esta decisión la resiliencia a largo plazo? ¿Estamos resolviendo un problema o simplemente trasladando sus consecuencias a otro lugar? ¿Podemos crear simultáneamente valor económico, responsabilidad ambiental y beneficio social? El futuro no recompensará a las organizaciones que se limiten a comunicar compromisos ambiciosos. Recompensará a aquellas que integren la sostenibilidad en sus sistemas, incentivos, presupuestos y marcos de rendición de cuentas. La sostenibilidad no es una responsabilidad adicional. Es una mejor manera de tomar decisiones."
+        ],
+        "quote": "La sostenibilidad no es una responsabilidad adicional. Es una mejor manera de tomar decisiones.",
+        "frameworksLabel": "Preguntas",
+        "frameworks": [
+          {
+            "label": "Resiliencia",
+            "sub": "¿Más solidez con el tiempo?"
+          },
+          {
+            "label": "Consecuencias",
+            "sub": "¿Resueltas o trasladadas?"
+          },
+          {
+            "label": "Valor compartido",
+            "sub": "Económico · ambiental · social"
+          }
+        ],
+        "takeaways": [
+          "Incorpore la sostenibilidad a la gobernanza cotidiana.",
+          "Considere la resiliencia a largo plazo y las consecuencias que se trasladan a otros ámbitos.",
+          "Alinee los sistemas, los incentivos, los presupuestos y la rendición de cuentas."
+        ],
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3,
+        "frameworksTitle": "Tres preguntas antes de una decisión"
+      },
+      {
+        "num": "02",
+        "section": "Liderazgo y legado",
+        "title": "Un liderazgo que perdura",
+        "inBrief": "La prueba más profunda del liderazgo es si las personas, el conocimiento y los sistemas siguen creciendo después de la partida del líder.",
+        "intro": [
+          "El liderazgo suele juzgarse por lo que iniciamos. Quizá debería juzgarse en igual medida por lo que continúa después de nuestra partida. Los cargos son temporales. Las instituciones no deberían serlo.",
+          "A lo largo de nuestra carrera podemos dirigir iniciativas importantes, introducir reformas, formar equipos o alcanzar resultados asociados a nuestro nombre. Pero la prueba más profunda del liderazgo llega después: ¿construimos algo capaz de continuar sin nosotros?",
+          "El liderazgo sostenible implica crear instituciones donde se conserve el conocimiento, se distribuya la autoridad de manera responsable, se desarrollen las personas y las buenas prácticas queden integradas en los sistemas, en lugar de depender de personalidades concretas."
+        ],
+        "vs": {
+          "leftLabel": "Logro",
+          "leftSub": "Lo que cambió mientras estuvimos allí",
+          "rightLabel": "Legado",
+          "rightSub": "Lo que sigue creciendo después de nuestra partida"
+        },
+        "contHeading": "Una medida diferente del éxito",
+        "cont": [
+          "Esto exige una definición diferente del éxito. El éxito no consiste en ser indispensable. Consiste en formar a personas capaces de superarnos. En sustituir la intervención personal por la capacidad institucional. En convertir la experiencia en memoria organizativa. Y en dejar sistemas lo bastante sólidos como para evolucionar cuando cambien las circunstancias.",
+          "Todo cargo de liderazgo llega a su fin. El recorrido de la institución continúa. Quizá, entonces, una de las medidas más significativas del liderazgo no sea simplemente lo que cambió mientras estuvimos allí, sino lo que siguió siendo capaz de crecer después de nuestra partida. Esa es la diferencia entre el logro y el legado."
+        ],
+        "quote": "Todo cargo de liderazgo llega a su fin. El recorrido de la institución continúa.",
+        "frameworksLabel": "Fundamentos",
+        "frameworks": [
+          {
+            "label": "Conocimiento",
+            "sub": "Conservar"
+          },
+          {
+            "label": "Autoridad",
+            "sub": "Distribuir con responsabilidad"
+          },
+          {
+            "label": "Personas",
+            "sub": "Desarrollar"
+          },
+          {
+            "label": "Prácticas",
+            "sub": "Integrar en los sistemas"
+          }
+        ],
+        "takeaways": [
+          "Forme a personas capaces de superarle.",
+          "Convierta la experiencia en memoria institucional.",
+          "Construya sistemas que sigan evolucionando después de su partida."
+        ],
+        "sourcePages": [
+          5,
+          6
+        ],
+        "imagePage": 5,
+        "frameworksTitle": "Cuatro fundamentos para un liderazgo perdurable"
+      },
+      {
+        "num": "03",
+        "section": "Elección estratégica",
+        "title": "La disciplina de dejar de hacer",
+        "inBrief": "Para abrir espacio a nuevas prioridades hace falta la disciplina de eliminar las actividades que ya no crean valor.",
+        "intro": [
+          "Una de las capacidades de liderazgo más infravaloradas es saber qué dejar de hacer. Las organizaciones suelen ser muy buenas añadiendo cosas. Nuevas iniciativas. Nuevos comités. Nuevos informes. Nuevos sistemas. Nuevas prioridades.",
+          "A menudo muestran menos disciplina al eliminar lo que ya no crea valor. Con el tiempo, esto genera una acumulación institucional innecesaria. Las personas están ocupadas sin ser necesariamente más productivas. La toma de decisiones se ralentiza. Las prioridades compiten entre sí. Y los recursos siguen ligados a actividades cuyo propósito original quizá desapareció hace años.",
+          "Por eso, el liderazgo estratégico exige algo más que decidir qué objetivos perseguir. Exige el valor de preguntar: ¿qué deberíamos dejar de hacer?",
+          "¿Qué proceso existe únicamente porque «siempre lo hemos hecho así»? ¿Qué informe se elabora pero rara vez se utiliza?"
+        ],
+        "vs": {
+          "leftLabel": "Acumulación institucional innecesaria",
+          "leftSub": "Mucha actividad sin más productividad",
+          "rightLabel": "Espacio estratégico",
+          "rightSub": "Capacidad para abordar nuevas prioridades"
+        },
+        "contHeading": "Abrir espacio para las prioridades",
+        "cont": [
+          "¿Qué aprobación añade retrasos sin aportar un control significativo? ¿Qué iniciativa consume recursos pero ya no respalda las prioridades de la institución?",
+          "Dejar de hacer algo puede resultar incómodo porque toda actividad tiene un responsable, una historia y, a menudo, un grupo que la respalda. Pero la estrategia consiste, en última instancia, en elegir. Una organización que no puede abandonar prioridades antiguas acabará perdiendo la capacidad de abordar otras nuevas. El progreso no siempre consiste en añadir más. A veces, la decisión más estratégica que puede tomar un líder es abrir espacio. Antes de añadir la siguiente iniciativa, quizá todo equipo directivo debería identificar una cosa que esté dispuesto a dejar de hacer."
+        ],
+        "quote": "A veces, la decisión más estratégica que puede tomar un líder es abrir espacio.",
+        "frameworksLabel": "Ámbitos de revisión",
+        "frameworks": [
+          {
+            "label": "Procesos",
+            "sub": "¿Costumbre o propósito?"
+          },
+          {
+            "label": "Informes",
+            "sub": "¿Se utilizan o se archivan?"
+          },
+          {
+            "label": "Aprobaciones",
+            "sub": "¿Control o retraso?"
+          },
+          {
+            "label": "Iniciativas",
+            "sub": "¿Alineadas o desactualizadas?"
+          }
+        ],
+        "takeaways": [
+          "Revise las actividades que ya no crean valor.",
+          "Pregunte qué aporta cada proceso, informe y aprobación.",
+          "Identifique una cosa que dejar de hacer antes de añadir la siguiente iniciativa."
+        ],
+        "sourcePages": [
+          7,
+          8
+        ],
+        "imagePage": 7,
+        "frameworksTitle": "Cuatro ámbitos para cuestionar las antiguas rutinas"
+      },
+      {
+        "num": "04",
+        "section": "Desempeño y capacidad",
+        "title": "Más allá de los resultados de hoy",
+        "inBrief": "Una institución sólida mide tanto los resultados que obtiene como la capacidad que desarrolla para el mañana.",
+        "intro": [
+          "La mayoría de las organizaciones miden su desempeño. Muchas menos miden si están adquiriendo mayor capacidad. Los ingresos, la ejecución, el cumplimiento, la satisfacción del cliente, la finalización de proyectos y otros indicadores de desempeño muestran lo que una institución ha logrado. No siempre muestran si la propia institución se está fortaleciendo.",
+          "Una organización puede obtener resultados excelentes hoy mientras, de forma poco visible, se vuelve más dependiente de unas pocas personas, acumula procesos obsoletos, pierde conocimiento institucional o aplaza inversiones en capacidades futuras.",
+          "Por eso, los líderes deberían mirar más allá del desempeño y plantear una segunda pregunta: ¿nos estamos convirtiendo en una institución mejor mientras obtenemos estos resultados?",
+          "La capacidad institucional se aprecia en la calidad de las decisiones, la solidez de la cantera de líderes, la fiabilidad de los datos, la capacidad de colaborar entre áreas, la rapidez del aprendizaje y la resiliencia de los sistemas cuando cambian las circunstancias."
+        ],
+        "vs": {
+          "leftLabel": "Desempeño",
+          "leftSub": "¿Qué hemos logrado?",
+          "rightLabel": "Capacidad institucional",
+          "rightSub": "¿Qué se ha fortalecido?"
+        },
+        "contHeading": "Medir lo que se fortalece",
+        "cont": [
+          "Estas no son consideraciones secundarias. Determinan si el éxito de hoy puede repetirse mañana.",
+          "La distinción resulta especialmente relevante en periodos de rápidos cambios tecnológicos, económicos y ambientales. Una organización optimizada únicamente para el desempeño actual puede volverse muy eficiente a la hora de atender las prioridades de ayer. La excelencia sostenible exige algo más: la renovación continua de la capacidad institucional. Quizá todo cuadro de mando del liderazgo debería contener, por tanto, dos dimensiones: ¿qué hemos logrado? y ¿qué se ha fortalecido gracias a ese logro? La primera mide el desempeño. La segunda mide si estamos construyendo una institución capaz de perdurar."
+        ],
+        "quote": "¿Nos estamos convirtiendo en una institución mejor mientras obtenemos estos resultados?",
+        "frameworksLabel": "Riesgos ocultos",
+        "frameworks": [
+          {
+            "label": "Dependencia",
+            "sub": "De muy pocas personas"
+          },
+          {
+            "label": "Procesos antiguos",
+            "sub": "Acumulación"
+          },
+          {
+            "label": "Pérdida de conocimiento",
+            "sub": "Memoria institucional"
+          },
+          {
+            "label": "Inversión aplazada",
+            "sub": "Capacidad futura"
+          }
+        ],
+        "takeaways": [
+          "Mida conjuntamente el desempeño y la capacidad institucional.",
+          "Busque dependencias ocultas, pérdida de conocimiento y procesos obsoletos.",
+          "Pregunte qué se ha fortalecido gracias a cada logro."
+        ],
+        "sourcePages": [
+          9,
+          10
+        ],
+        "imagePage": 9,
+        "frameworksTitle": "Cuatro riesgos detrás de unos resultados sólidos"
+      },
+      {
+        "num": "05",
+        "section": "Resiliencia y renovación",
+        "title": "Resiliencia mediante el aprendizaje",
+        "inBrief": "La verdadera resiliencia convierte la disrupción en inteligencia y rediseña la institución antes de que llegue el siguiente impacto.",
+        "intro": [
+          "La resiliencia no es la capacidad de volver a la normalidad. Es la capacidad de salir mejor preparados para lo que venga después. Con demasiada frecuencia se habla de resiliencia como recuperación: restablecer las operaciones, reconstruir capacidades y volver a los niveles de desempeño anteriores tras una disrupción.",
+          "Pero volver al mismo sistema que ya era vulnerable no es resiliencia. Es restauración. La verdadera resiliencia exige aprendizaje.",
+          "Después de toda disrupción, ya sea económica, ambiental, tecnológica u organizativa, los líderes deberían preguntarse: ¿qué ha revelado sobre nuestros sistemas? ¿Qué supuestos resultaron equivocados? ¿Dónde dependíamos demasiado de personas, proveedores, tecnologías o procesos obsoletos? Y, sobre todo: ¿qué deberíamos rediseñar antes de que llegue la siguiente disrupción? Las instituciones más sólidas no se limitan a absorber impactos. Los convierten en inteligencia."
+        ],
+        "vs": {
+          "leftLabel": "Restauración",
+          "leftSub": "Volver al desempeño anterior",
+          "rightLabel": "Resiliencia",
+          "rightSub": "Salir mejor preparados"
+        },
+        "contHeading": "Convertir los impactos en inteligencia",
+        "cont": [
+          "Refuerzan los puntos débiles, diversifican las dependencias críticas, actualizan la gobernanza, desarrollan nuevas capacidades e incorporan una mayor adaptabilidad a la propia organización.",
+          "Esta distinción importa en un mundo que afronta desafíos cada vez más interconectados, desde los riesgos climáticos y la disrupción tecnológica hasta la incertidumbre geopolítica y económica. El objetivo no debería ser construir instituciones que nunca sufran disrupciones. Eso es poco realista. El objetivo es construir instituciones que aprendan más rápido de lo que cambia su entorno. Por tanto, la resiliencia no es una capacidad defensiva. Es una capacidad estratégica. Y, a veces, la prueba más clara de resiliencia no es la rapidez con la que una organización vuelve al punto en el que estaba, sino la inteligencia con la que decide no hacerlo."
+        ],
+        "quote": "La verdadera resiliencia exige aprendizaje.",
+        "frameworksLabel": "Acciones",
+        "frameworks": [
+          {
+            "label": "Reforzar",
+            "sub": "Los puntos débiles"
+          },
+          {
+            "label": "Diversificar",
+            "sub": "Las dependencias"
+          },
+          {
+            "label": "Actualizar",
+            "sub": "La gobernanza"
+          },
+          {
+            "label": "Desarrollar",
+            "sub": "Las capacidades"
+          },
+          {
+            "label": "Adaptar",
+            "sub": "La institución"
+          }
+        ],
+        "takeaways": [
+          "Aprenda de cada disrupción y cuestione los supuestos que no se cumplieron.",
+          "Rediseñe los puntos débiles antes de que llegue el siguiente impacto.",
+          "Trate la resiliencia como una capacidad institucional estratégica."
+        ],
+        "sourcePages": [
+          11,
+          12
+        ],
+        "imagePage": 11,
+        "frameworksTitle": "Cinco acciones que construyen resiliencia"
+      },
+      {
+        "num": "06",
+        "section": "Práctica del liderazgo",
+        "title": "La revisión de capacidades",
+        "inBrief": "Un ejercicio práctico basado en los cinco artículos de este mes: examinar una decisión y elegir un cambio del que hacerse responsable.",
+        "intro": [
+          "Elija una decisión institucional reciente y revísela mediante las cinco preguntas siguientes. Invite a las personas que comprendan sus consecuencias, incluidas aquellas que deberán ponerla en práctica. Apoye cada respuesta en un documento, una práctica observada o una carencia identificada.",
+          "Sostenibilidad: ¿consideramos las consecuencias ambientales y sociales a largo plazo? Continuidad: ¿puede continuar el trabajo si se marcha una persona clave? Concentración: ¿qué actividad podría cesar para que esta prioridad reciba suficiente atención?",
+          "Capacidad: ¿qué se fortaleció gracias al resultado? Resiliencia: ¿qué debería rediseñarse a la luz de la última lección aprendida o de la última disrupción? Este es un ejercicio de revisión propuesto, no una puntuación del desempeño ni una afirmación sobre su institución."
+        ],
+        "vs": {
+          "leftLabel": "Examinar las pruebas",
+          "leftSub": "Documento · práctica · carencia",
+          "rightLabel": "Asumir un compromiso",
+          "rightSub": "Acción · responsable · pruebas · fecha"
+        },
+        "contHeading": "Concluir con una acción y una persona responsable",
+        "cont": [
+          "Seleccione un cambio que responda a la carencia de mayor trascendencia revelada por la revisión. Escriba la acción en una sola frase. Identifique a la persona responsable, las pruebas que mostrarán si el cambio funcionó y una fecha para revisar esas pruebas. En la revisión, registre lo que ocurrió, lo que aprendió y lo que deberá cambiar a continuación. Si las pruebas están incompletas, indique qué falta. Conserve juntas la decisión y su lección para que la institución retenga el conocimiento cuando cambien las personas o las prioridades.",
+          "El resultado es una acción, una persona responsable identificada, pruebas claras y una fecha de revisión. El valor está en el seguimiento."
+        ],
+        "quote": "Una revisión útil termina con un cambio del que alguien se hace responsable.",
+        "frameworksLabel": "Preguntas de revisión",
+        "frameworks": [
+          {
+            "label": "Sostenibilidad",
+            "sub": "¿Consecuencias?"
+          },
+          {
+            "label": "Continuidad",
+            "sub": "¿Puede continuar el trabajo?"
+          },
+          {
+            "label": "Concentración",
+            "sub": "¿Qué puede dejar de hacerse?"
+          },
+          {
+            "label": "Capacidad",
+            "sub": "¿Qué se fortaleció?"
+          },
+          {
+            "label": "Resiliencia",
+            "sub": "¿Qué necesita rediseñarse?"
+          }
+        ],
+        "takeaways": [
+          "Apoye cada respuesta en pruebas o en una carencia claramente identificada.",
+          "Elija una acción e identifique a su responsable.",
+          "Fije una fecha de revisión y conserve la lección junto a la decisión."
+        ],
+        "sourcePages": [
+          13,
+          14
+        ],
+        "imagePage": 13,
+        "frameworksTitle": "Cinco perspectivas. Una revisión práctica."
+      }
+    ],
+    "lab": {
+      "title": "El desafío de las decisiones",
+      "subtitle": "Utilice únicamente las reglas indicadas. Cada desafío tiene una respuesta. Todas las cifras de planificación son hipotéticas.",
+      "items": [
+        "Siga el proceso: en cada ronda, cierre la mitad de los casos abiertos y añada después 3 casos nuevos. Si comienza con 54 casos, ¿cuántos quedan después de 3 rondas?",
+        "Elija dentro de la capacidad disponible: cada iniciativa puede elegirse una sola vez. Elija exactamente 2 iniciativas que requieran, en conjunto, un máximo de 11 jornadas de equipo. ¿Qué pareja obtiene la mayor puntuación total de prioridad? Iniciativa / Jornadas de equipo / Puntos de prioridad: A / 4 / 6; B / 5 / 9; C / 7 / 12.",
+        "Ordene las revisiones: las revisiones A, B, C y D se realizan de lunes a jueves, una por día. A precede a C. B va inmediatamente después de D. C no se realiza el jueves. ¿Cuál es el orden?",
+        "Distinga los hechos de las suposiciones: se aprueba toda propuesta que supera tanto la prueba de costes como la de viabilidad. La propuesta X no se aprueba. ¿Qué conclusión debe ser cierta? A. No superó la prueba de costes. B. No superó la prueba de viabilidad. C. No superó al menos una de las pruebas."
+      ],
+      "guide": "Respuestas: 1 · 12 casos (54 → 30 → 18 → 12). 2 · A + C: 11 jornadas de equipo, 18 puntos de prioridad. 3 · Lunes A, martes C, miércoles D, jueves B. 4 · C: no superó al menos una de las pruebas.",
+      "table": {
+        "headers": [
+          "Iniciativa",
+          "Jornadas de equipo",
+          "Puntos de prioridad"
+        ],
+        "rows": [
+          [
+            "A",
+            4,
+            6
+          ],
+          [
+            "B",
+            5,
+            9
+          ],
+          [
+            "C",
+            7,
+            12
+          ]
+        ],
+        "afterItem": 1
+      }
+    }
+  },
+  {
+    "id": "september-2026",
+    "month": "September",
+    "year": 2026,
+    "intro": "Cuatro artículos semanales originales y dos ejercicios propuestos de práctica del liderazgo.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Sostenibilidad y ejecución",
+        "title": "La sostenibilidad es ejecución",
+        "inBrief": "Convertir los objetivos declarados en resultados medibles.",
+        "intro": [
+          "La próxima etapa de la sostenibilidad estará definida por la disciplina de la implementación, más que por la ambición. Durante la última década, las organizaciones se han sentido cada vez más cómodas al fijar objetivos de sostenibilidad audaces. Cero emisiones netas. Balance positivo para la naturaleza. Economía circular. Resiliencia climática. Estas aspiraciones importan. Pero la ambición es solo el punto de partida.",
+          "La pregunta más difícil es si las instituciones han desarrollado la gobernanza, los datos, los mecanismos de financiación, las capacidades técnicas y la rendición de cuentas necesarios para convertir esos compromisos en resultados medibles. Un objetivo sin responsable es una aspiración. Una estrategia sin recursos es un documento.",
+          "Y un compromiso sin medición es difícil de distinguir de una buena intención. Por tanto, la próxima generación del liderazgo en sostenibilidad deberá centrarse en la arquitectura de la ejecución: responsabilidades claras respecto de los resultados; datos ambientales en los que puedan confiar quienes toman decisiones; presupuestos alineados con las prioridades declaradas; indicadores de desempeño conectados con las decisiones de gestión; y un examen periódico de si las intervenciones están produciendo realmente el impacto previsto."
+        ],
+        "vs": {
+          "leftLabel": "Anuncios",
+          "leftSub": "Sostenibilidad y ejecución",
+          "rightLabel": "Sistemas de ejecución",
+          "rightSub": "Fijar resultados medibles"
+        },
+        "contHeading": "Establecer una arquitectura para la ejecución",
+        "cont": [
+          "Esto resulta especialmente importante en el gobierno, donde las decisiones ambientales pueden influir durante décadas en las infraestructuras, la inversión, la salud pública, la competitividad y la calidad de vida. La conversación debe evolucionar desde: «¿A qué nos hemos comprometido?»,",
+          "hacia: «¿Qué mecanismos institucionales hemos construido para cumplirlo?». La sostenibilidad no avanzará porque las organizaciones mejoren al anunciar sus aspiraciones.",
+          "Avanzará cuando mejoren al convertir la ambición en sistemas, decisiones y resultados medibles. El futuro de la sostenibilidad es la ejecución."
+        ],
+        "quote": "El futuro de la sostenibilidad es la ejecución.",
+        "frameworksLabel": "Ideas clave",
+        "frameworks": [
+          {
+            "label": "Asignar responsables",
+            "sub": "rendición de cuentas"
+          },
+          {
+            "label": "Financiar las prioridades",
+            "sub": "presupuestos y ejecución"
+          },
+          {
+            "label": "Medir el impacto",
+            "sub": "pruebas de los resultados"
+          }
+        ],
+        "takeaways": [
+          "Asignar responsables · rendición de cuentas",
+          "Financiar las prioridades · presupuestos y ejecución",
+          "Medir el impacto · pruebas de los resultados"
+        ],
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3,
+        "frameworksTitle": "Del artículo"
+      },
+      {
+        "num": "02",
+        "section": "Liderazgo climático",
+        "title": "Liderazgo climático ante los 1,5 °C",
+        "inBrief": "El aumento de los riesgos del calentamiento hace más importantes las decisiones precisas.",
+        "intro": [
+          "Superar los 1,5 °C no debería reducir nuestra ambición. Debería elevar el nivel de exigencia del liderazgo.",
+          "Durante años, gran parte de la conversación climática se ha centrado en evitar que el calentamiento global supere los 1,5 °C. Las pruebas más recientes presentan a los líderes una realidad más difícil: una superación temporal de ese umbral es cada vez más probable. Esto no debe convertirse en una excusa para la resignación. Debe cambiar de manera fundamental nuestra forma de concebir el liderazgo ambiental. Cada fracción de grado sigue importando. Cada año de retraso sigue importando.",
+          "Y sigue importando cada decisión que fortalezca la resiliencia, reduzca las emisiones, proteja los ecosistemas o acelere la adaptación. El desafío que tenemos por delante exige, por tanto, actuar simultáneamente en varios frentes: reducir la magnitud y la duración de la superación del umbral.",
+          "Acelerar la adaptación a los impactos que ya no pueden evitarse. Proteger los sistemas naturales que fortalecen la resiliencia. Invertir en inteligencia ambiental capaz de detectar los riesgos con mayor antelación.",
+          "Y garantizar que las consideraciones climáticas formen parte habitual de las decisiones económicas, de infraestructura e institucionales."
+        ],
+        "vs": {
+          "leftLabel": "Resignación",
+          "leftSub": "Riesgo climático creciente",
+          "rightLabel": "Acción decidida",
+          "rightSub": "Decidir con precisión"
+        },
+        "contHeading": "Actuar en varios frentes",
+        "cont": [
+          "Quizá lo más importante sea superar la idea de que la acción climática consiste en una suma de proyectos ambientales. Cada vez se trata más de una cuestión de resiliencia nacional, competitividad económica, salud pública, seguridad alimentaria e hídrica, protección de las infraestructuras y responsabilidad intergeneracional. La próxima etapa del liderazgo climático no se definirá por quién haya anunciado el objetivo más ambicioso.",
+          "Se definirá por quién haya construido instituciones capaces de afrontar una realidad climática más difícil mientras siguen buscando otra más segura. Superar el umbral no da permiso para rendirse. Es una razón para ser más precisos, más resilientes y considerablemente más decididos."
+        ],
+        "quote": "Superar el umbral no da permiso para rendirse.",
+        "frameworksLabel": "Ideas clave",
+        "frameworks": [
+          {
+            "label": "Limitar la superación del umbral",
+            "sub": "magnitud y duración"
+          },
+          {
+            "label": "Adaptarse más rápido",
+            "sub": "impactos inevitables"
+          },
+          {
+            "label": "Detectar los riesgos",
+            "sub": "inteligencia temprana"
+          }
+        ],
+        "takeaways": [
+          "Limitar la superación del umbral · magnitud y duración",
+          "Adaptarse más rápido · impactos inevitables",
+          "Detectar los riesgos · inteligencia temprana"
+        ],
+        "sourcePages": [
+          5,
+          6
+        ],
+        "imagePage": 5,
+        "frameworksTitle": "Del artículo"
+      },
+      {
+        "num": "03",
+        "section": "Energía y competitividad",
+        "title": "Energía para la próxima economía",
+        "inBrief": "Diseñar la infraestructura energética en función de la economía a la que debe servir.",
+        "intro": [
+          "La transición energética ya no es simplemente una transición ambiental. Se está convirtiendo en la infraestructura de la próxima economía.",
+          "Durante años, el debate energético se planteó en gran medida en torno a un objetivo: reducir las emisiones. Ese objetivo sigue siendo esencial. Pero la conversación está adquiriendo una dimensión mucho mayor.",
+          "La inteligencia artificial y la computación avanzada están aumentando la demanda de electricidad. Las ciudades necesitan mayor resiliencia. La electrificación está transformando las industrias. Las economías en desarrollo siguen necesitando energía fiable y asequible para abrir oportunidades. Y los países consideran cada vez más que la seguridad energética es inseparable de la seguridad económica. Esto cambia la pregunta estratégica. Ya no se trata simplemente de:",
+          "¿Cómo producimos energía más limpia? Se trata de: ¿cómo construimos un sistema energético capaz de sostener la economía que queremos dentro de diez, veinte y treinta años?",
+          "Eso exige más que generación renovable. Exige redes inteligentes, almacenamiento, eficiencia, infraestructura resiliente, mejor gestión de la demanda, mayor integración regional y, de manera crucial, marcos de inversión capaces de convertir los planes en proyectos."
+        ],
+        "vs": {
+          "leftLabel": "Generación más limpia",
+          "leftSub": "Energía y competitividad",
+          "rightLabel": "Un sistema energético integrado",
+          "rightSub": "Diseñar según las necesidades económicas"
+        },
+        "contHeading": "Diseñar el sistema, no solo el suministro",
+        "cont": [
+          "También exige integrar las consideraciones ambientales desde el principio. El objetivo no debería ser elegir entre el crecimiento económico y la responsabilidad ambiental. El verdadero desafío del liderazgo es diseñar sistemas en los que la competitividad, la seguridad energética y la sostenibilidad se refuercen mutuamente. Los países que comprendan esto pronto no se limitarán a participar en la transición energética. La utilizarán para dar forma a nuevas industrias, atraer inversiones, fortalecer la resiliencia y crear los fundamentos de sus economías futuras. Por tanto, la transición energética no consiste únicamente en cambiar el origen de nuestra energía.",
+          "Consiste en decidir qué tipo de economía hará posible esa energía."
+        ],
+        "quote": "Consiste en decidir qué tipo de economía hará posible esa energía.",
+        "frameworksLabel": "Ideas clave",
+        "frameworks": [
+          {
+            "label": "Construir redes inteligentes",
+            "sub": "conectar y almacenar"
+          },
+          {
+            "label": "Gestionar la demanda",
+            "sub": "eficiencia y resiliencia"
+          },
+          {
+            "label": "Facilitar la ejecución",
+            "sub": "marcos de inversión"
+          }
+        ],
+        "takeaways": [
+          "Construir redes inteligentes · conectar y almacenar",
+          "Gestionar la demanda · eficiencia y resiliencia",
+          "Facilitar la ejecución · marcos de inversión"
+        ],
+        "sourcePages": [
+          7,
+          8
+        ],
+        "imagePage": 7,
+        "frameworksTitle": "Del artículo"
+      },
+      {
+        "num": "04",
+        "section": "Gobernanza ambiental",
+        "title": "Gobernanza del sistema Tierra",
+        "inBrief": "Los riesgos interconectados exigen instituciones capaces de ver el sistema completo.",
+        "intro": [
+          "No podemos resolver problemas ambientales interconectados con instituciones desconectadas.",
+          "Durante décadas, la gestión ambiental se ha organizado principalmente por temas. El cambio climático tiene su estrategia. El agua tiene su estrategia. La biodiversidad tiene su estrategia. Los residuos, la calidad del aire, el uso del suelo y los productos químicos tienen, cada uno, sus propias políticas, departamentos e indicadores. Sin embargo, la naturaleza no funciona por departamentos.",
+          "El agua influye en los sistemas alimentarios. Las decisiones sobre el uso del suelo afectan a la biodiversidad y al carbono. Las elecciones energéticas influyen en la calidad del aire, el clima y la competitividad económica. La degradación de los ecosistemas acaba afectando a la salud, la resiliencia y la seguridad nacional. Por tanto, el desafío ya no consiste simplemente en mejorar programas ambientales individuales. Consiste en mejorar la propia arquitectura de la toma de decisiones ambientales.",
+          "La próxima generación de gobernanza ambiental debería conectar tres elementos que siguen separados con demasiada frecuencia: ciencia, inteligencia y autoridad de decisión. Las pruebas científicas deben convertirse en inteligencia utilizable.",
+          "La inteligencia debe llegar a quienes toman decisiones con la antelación suficiente para resultar útil. Y la toma de decisiones debe considerar los impactos acumulativos en los sistemas ambientales, económicos y sociales, no solo el mandato de una institución."
+        ],
+        "vs": {
+          "leftLabel": "Programas independientes",
+          "leftSub": "Gobernanza ambiental",
+          "rightLabel": "Inteligencia compartida",
+          "rightSub": "Ver el sistema completo"
+        },
+        "contHeading": "Conectar el conocimiento con la autoridad",
+        "cont": [
+          "Esto exige plataformas de datos integradas, indicadores compartidos, una vigilancia prospectiva más sólida, responsabilidades más claras y mecanismos de gobernanza capaces de ver el sistema completo, en lugar de sus componentes aislados. La tecnología, incluida la inteligencia artificial y la vigilancia ambiental en tiempo real, puede fortalecer considerablemente esta capacidad. Pero la tecnología es solo un factor facilitador.",
+          "La verdadera transformación es institucional. Las instituciones ambientales del futuro no se limitarán a regular la contaminación o a proteger recursos individuales. Actuarán cada vez más como sistemas de inteligencia para la resiliencia nacional, ayudando a los gobiernos a anticipar el cambio ambiental, comprender los riesgos interconectados y tomar mejores decisiones antes de que los problemas se conviertan en crisis.",
+          "Quizá, por tanto, la siguiente evolución de la sostenibilidad no sea otra estrategia. Consista en construir instituciones capaces de ver las conexiones que las estrategias suelen pasar por alto."
+        ],
+        "quote": "No podemos resolver problemas ambientales interconectados con instituciones desconectadas.",
+        "frameworksLabel": "Ideas clave",
+        "frameworks": [
+          {
+            "label": "Ciencia",
+            "sub": "pruebas creíbles"
+          },
+          {
+            "label": "Inteligencia",
+            "sub": "análisis oportuno"
+          },
+          {
+            "label": "Autoridad de decisión",
+            "sub": "acción entre sectores"
+          }
+        ],
+        "takeaways": [
+          "Ciencia · pruebas creíbles",
+          "Inteligencia · análisis oportuno",
+          "Autoridad de decisión · acción entre sectores"
+        ],
+        "sourcePages": [
+          9,
+          10
+        ],
+        "imagePage": 9,
+        "frameworksTitle": "Del artículo"
+      },
+      {
+        "num": "05",
+        "section": "Práctica de liderazgo propuesta",
+        "title": "Del compromiso a la prueba",
+        "inBrief": "Convertir un compromiso en un plan que pueda comprobarse.",
+        "intro": [
+          "Elija un compromiso de sostenibilidad declarado. Defina qué se consideraría un avance.",
+          "Identifique a una persona que deba rendir cuentas, una decisión de financiación y una fuente de datos. Determine una medida de adaptación a corto plazo y una acción independiente para reducir las emisiones. Fije una fecha de revisión e identifique la decisión que sus pruebas deben fundamentar."
+        ],
+        "vs": {
+          "leftLabel": "Antes de la decisión",
+          "leftSub": "Definir un progreso medible",
+          "rightLabel": "Después de la decisión",
+          "rightSub": "Fijar una fecha de revisión"
+        },
+        "contHeading": "Revisar la decisión",
+        "cont": [
+          "Si un indicador no mejora, compruebe los datos, los recursos y las responsabilidades antes de revisar el objetivo. Registre qué debe cambiar y quién realizará el cambio."
+        ],
+        "quote": "Convertir un compromiso en un plan que pueda comprobarse.",
+        "frameworksLabel": "Ideas clave",
+        "frameworks": [
+          {
+            "label": "Identificar al responsable",
+            "sub": "rendición de cuentas clara"
+          },
+          {
+            "label": "Vincular un presupuesto",
+            "sub": "compromisos dotados de recursos"
+          },
+          {
+            "label": "Comprobar los resultados",
+            "sub": "revisar las pruebas"
+          }
+        ],
+        "takeaways": [
+          "Identificar al responsable · rendición de cuentas clara",
+          "Vincular un presupuesto · compromisos dotados de recursos",
+          "Comprobar los resultados · revisar las pruebas"
+        ],
+        "sourcePages": [
+          11,
+          12
+        ],
+        "imagePage": 11,
+        "frameworksTitle": "Del artículo"
+      },
+      {
+        "num": "06",
+        "section": "Práctica de liderazgo propuesta",
+        "title": "Poner a prueba las conexiones",
+        "inBrief": "Rastrear cómo una decisión energética afecta a otros sistemas.",
+        "intro": [
+          "Elija una decisión prevista sobre infraestructura energética. Compárela con una alternativa creíble. Identifique un efecto sobre la demanda de electricidad, otro sobre el agua o el suelo y otro sobre la calidad del aire o las emisiones. Distinga las pruebas establecidas de los supuestos y registre las disyuntivas que sigan sin resolverse. Pida a los equipos afectados que acuerden un indicador compartido y quién lo mantendrá."
+        ],
+        "vs": {
+          "leftLabel": "Antes de la decisión",
+          "leftSub": "Comparar una alternativa",
+          "rightLabel": "Después de la decisión",
+          "rightSub": "Acordar un indicador"
+        },
+        "contHeading": "Revisar la decisión",
+        "cont": [
+          "Establezca un umbral de alerta temprana. Indique quién puede actuar cuando se alcance y cuándo será necesaria una revisión más amplia. Conserve la alternativa y vuelva a examinarla si cambian las pruebas."
+        ],
+        "quote": "Rastrear cómo una decisión energética afecta a otros sistemas.",
+        "frameworksLabel": "Ideas clave",
+        "frameworks": [
+          {
+            "label": "Identificar los efectos",
+            "sub": "entre sistemas"
+          },
+          {
+            "label": "Compartir las pruebas",
+            "sub": "una señal común"
+          },
+          {
+            "label": "Identificar la autoridad",
+            "sub": "decisiones oportunas"
+          }
+        ],
+        "takeaways": [
+          "Identificar los efectos · entre sistemas",
+          "Compartir las pruebas · una señal común",
+          "Identificar la autoridad · decisiones oportunas"
+        ],
+        "sourcePages": [
+          13,
+          14
+        ],
+        "imagePage": 13,
+        "frameworksTitle": "Del artículo"
+      }
+    ],
+    "lab": {
+      "title": "El relevo de la resiliencia",
+      "subtitle": "Actividad de revisión propuesta. Analice el escenario hipotético y compare después su respuesta con la guía siguiente.",
+      "items": [
+        "Escenario hipotético: una ola de calor aumenta la demanda de electricidad y agua mientras está pendiente una mejora de la red.",
+        "Ordene estos pasos: decidir, verificar, compartir una alerta.",
+        "Identifique una señal que vigilar y un equipo con autoridad para actuar.",
+        "Identifique una medida de protección a corto plazo y un cambio a más largo plazo."
+      ],
+      "guide": "Respuesta orientativa: verificar la señal de demanda, compartir la alerta y decidir después. Comprobar la carga máxima y avisar al equipo de operación de la red. Proteger ahora los servicios críticos y revisar la gestión de la demanda y el almacenamiento para el largo plazo."
+    }
+  },
+  {
+    "id": "october-2026",
+    "month": "October",
+    "year": 2026,
+    "intro": "Cuatro artículos semanales originales y dos ejercicios propuestos de práctica del liderazgo.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Política urbana",
+        "title": "Vivienda y ciudades habitables",
+        "inBrief": "La sostenibilidad de una ciudad comienza por que sus habitantes puedan permitirse vivir en ella.",
+        "intro": [
+          "Una ciudad no puede llamarse sostenible si las personas no pueden permitirse vivir en ella.",
+          "Hoy, cuando el mundo celebra el Día Mundial del Hábitat 2026, quizá debamos ampliar nuestra manera de concebir la vivienda. La vivienda adecuada no es simplemente una cuestión de política social. Es una cuestión económica, ambiental y de infraestructura y, en última instancia, una cuestión de dignidad humana.",
+          "El lugar y la forma en que construimos viviendas determinan los desplazamientos, el consumo de energía, la presión sobre el agua y las infraestructuras, la exposición a los riesgos climáticos, el acceso al empleo y, finalmente, la calidad de vida. Una ciudad mal planificada puede construir miles de viviendas y, aun así, profundizar la desigualdad. Una ciudad bien planificada conecta la vivienda con el transporte, los espacios públicos, los servicios, el empleo, la calidad ambiental y la resiliencia.",
+          "Por eso, la próxima generación de políticas urbanas debe ir más allá de contar unidades de vivienda. Debemos preguntarnos: ¿estamos construyendo comunidades o simplemente edificios?",
+          "La distinción importa. Una vivienda asequible pero desconectada del empleo y de los servicios genera otra forma de coste. Una vivienda que ignora el riesgo climático crea la vulnerabilidad del mañana.",
+          "Un desarrollo urbano que elimina los sistemas naturales puede resolver un problema y crear varios más."
+        ],
+        "vs": {
+          "leftLabel": "Contar viviendas",
+          "leftSub": "Solo unidades de vivienda",
+          "rightLabel": "Construir comunidades",
+          "rightSub": "Viviendas conectadas con empleos y servicios"
+        },
+        "contHeading": "Evaluar el barrio en su conjunto",
+        "cont": [
+          "Y una regeneración que mejora los barrios pero desplaza a las personas que ya viven en ellos no puede describirse verdaderamente como inclusiva. Las ciudades que prosperen en las próximas décadas serán aquellas que traten la vivienda como parte de un sistema urbano integrado, conectando el suelo, la movilidad, la energía, el agua, la naturaleza, las infraestructuras y las oportunidades económicas. En nuestra región, donde las ciudades siguen creciendo y evolucionando con rapidez, existe una oportunidad extraordinaria para demostrar que el desarrollo urbano puede ser ambicioso sin sacrificar la habitabilidad, la responsabilidad ambiental ni la inclusión social.",
+          "Quizá, por tanto, la medida del éxito de una ciudad no deba ser lo impresionante que llegue a ser su perfil urbano. Debería ser lo bien que puedan vivir las personas bajo él."
+        ],
+        "quote": "¿Estamos construyendo comunidades o simplemente edificios?",
+        "frameworksLabel": "Perspectivas",
+        "frameworks": [
+          {
+            "label": "Asequibilidad",
+            "sub": "viviendas y acceso"
+          },
+          {
+            "label": "Conectividad",
+            "sub": "empleos y servicios"
+          },
+          {
+            "label": "Resiliencia",
+            "sub": "clima y naturaleza"
+          }
+        ],
+        "takeaways": [
+          "Empiece por la capacidad de acceder económicamente a una vivienda.",
+          "Conecte las viviendas con los empleos y los servicios.",
+          "Planifique teniendo en cuenta el clima y la inclusión de los residentes."
+        ],
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3,
+        "frameworksTitle": "Una ciudad habitable"
+      },
+      {
+        "num": "02",
+        "section": "Seguridad alimentaria e hídrica",
+        "title": "Seguridad alimentaria y resiliencia",
+        "inBrief": "Los sistemas alimentarios resilientes protegen los recursos que necesitan para nutrir a las generaciones futuras.",
+        "intro": [
+          "El futuro de la seguridad alimentaria no lo determinará la cantidad de alimentos que produzcamos, sino la inteligencia con la que gestionemos los sistemas que la sostienen.",
+          "Durante décadas, la seguridad alimentaria se ha abordado principalmente en términos de producción agrícola, importaciones y reservas estratégicas. Pero el desafío es considerablemente más complejo. Un país puede aumentar la producción nacional de alimentos y, al mismo tiempo, ejercer una presión insostenible sobre sus aguas subterráneas, sus recursos energéticos y sus ecosistemas naturales.",
+          "Del mismo modo, un país puede disponer de escasas tierras agrícolas y, sin embargo, alcanzar una mayor resiliencia alimentaria mediante la innovación, la diversificación, la tecnología y una gestión acertada de los recursos. Esto plantea una pregunta fundamental: ¿buscamos la seguridad alimentaria o simplemente aumentar la producción de alimentos?"
+        ],
+        "vs": {
+          "leftLabel": "Aumentar la producción",
+          "leftSub": "Producción sin evaluar los recursos",
+          "rightLabel": "Asegurar los sistemas alimentarios",
+          "rightSub": "Suministro asequible y resiliente"
+        },
+        "contHeading": "Planificar un sistema alimentario resiliente",
+        "cont": [
+          "La distinción es especialmente importante para las regiones áridas, incluido el golfo Arábigo, donde la disponibilidad de agua, las condiciones climáticas y las limitaciones ambientales exigen un enfoque fundamentalmente diferente. La próxima generación de estrategias de seguridad alimentaria debe integrar cinco dimensiones esenciales. Seguridad hídrica: garantizar que el desarrollo agrícola no comprometa la disponibilidad de agua para las generaciones futuras.",
+          "Innovación tecnológica: aplicar la agricultura de precisión, la inteligencia artificial y las tecnologías avanzadas de producción allí donde aporten beneficios medibles. Resiliencia de las cadenas de suministro: diversificar las fuentes, fortalecer la logística y reducir la exposición a perturbaciones externas. Eficiencia de los recursos: minimizar la pérdida y el desperdicio de alimentos y mejorar la productividad de la energía, el suelo y el agua. Sostenibilidad ambiental: proteger los ecosistemas y los recursos naturales de los que depende, en última instancia, la producción alimentaria a largo plazo. Al acercarnos al Día Mundial de la Alimentación 2026, bajo el lema «Innovar hoy. Nutrir mañana», debemos reconocer que la innovación por sí sola es insuficiente. Debe estar respaldada por políticas integradas, inversión inteligente, coordinación institucional y resultados medibles.",
+          "Para los gobiernos, el desafío no consiste simplemente en producir más alimentos dentro del país. Consiste en establecer un sistema alimentario capaz de garantizar la disponibilidad, la asequibilidad, la calidad nutricional y la resiliencia sin comprometer la sostenibilidad ambiental. Quizá, por tanto, la medida más importante de la seguridad alimentaria no sea cuánto podemos producir hoy.",
+          "Sea la fiabilidad con la que podamos nutrir a las generaciones futuras sin agotar los recursos que heredarán. Ahí es donde la seguridad alimentaria se convierte en una cuestión de resiliencia nacional y de gobernanza responsable."
+        ],
+        "quote": "¿Buscamos la seguridad alimentaria o simplemente aumentar la producción de alimentos?",
+        "frameworksLabel": "Perspectivas",
+        "frameworks": [
+          {
+            "label": "Límites hídricos",
+            "sub": "suministro a largo plazo"
+          },
+          {
+            "label": "Diversificación",
+            "sub": "continuidad del suministro"
+          },
+          {
+            "label": "Eficiencia",
+            "sub": "menos pérdidas y desperdicio"
+          }
+        ],
+        "takeaways": [
+          "Proteja el agua antes de ampliar la producción.",
+          "Diversifique y refuerce las rutas de suministro.",
+          "Mida la innovación por sus resultados."
+        ],
+        "sourcePages": [
+          5,
+          6,
+          7
+        ],
+        "imagePage": 5,
+        "frameworksTitle": "Perspectivas seleccionadas sobre los sistemas alimentarios"
+      },
+      {
+        "num": "03",
+        "section": "Gobernanza económica",
+        "title": "Economía de la biodiversidad",
+        "inBrief": "Las finanzas públicas y la inversión pueden apoyar la conservación o actuar en su contra.",
+        "intro": [
+          "Las decisiones ambientales de mayor trascendencia no siempre se toman en los ministerios de medio ambiente. A veces se toman en los ministerios de finanzas.",
+          "Mientras el mundo se reúne hoy en Ereván para la COP17, la Conferencia de las Naciones Unidas sobre la Biodiversidad, deberíamos reconsiderar un supuesto fundamental sobre la protección ambiental. Durante décadas, la conservación de la biodiversidad se ha abordado principalmente mediante la legislación ambiental, las áreas protegidas, los programas de restauración y la financiación de la conservación. Estas intervenciones siguen siendo esenciales.",
+          "Sin embargo, existe un desafío estructural más profundo. ¿Qué sucede cuando los gobiernos invierten en proteger la naturaleza mientras otras políticas económicas fomentan simultáneamente su degradación? No podemos esperar que las instituciones ambientales reviertan la pérdida de biodiversidad si los incentivos financieros predominantes siguen recompensando actividades que debilitan los ecosistemas."
+        ],
+        "vs": {
+          "leftLabel": "Financiar la conservación",
+          "leftSub": "Los proyectos protegen hábitats seleccionados",
+          "rightLabel": "Alinear las finanzas",
+          "rightSub": "Los incentivos recompensan decisiones compatibles"
+        },
+        "contHeading": "Alinear los incentivos con los resultados",
+        "cont": [
+          "Precisamente por eso, el Marco Mundial de Biodiversidad de Kunming-Montreal incluye el compromiso de reducir los incentivos perjudiciales en al menos 500.000 millones de dólares estadounidenses anuales para 2030. La implicación es importante. La pérdida de biodiversidad no es solo un problema de gestión ambiental. Es también un problema de gobernanza económica.",
+          "Consideremos la relación entre la inversión pública, el desarrollo de infraestructuras, las subvenciones agrícolas, la política industrial, la asignación de agua y la gestión de los recursos naturales. Cada uno de estos ámbitos puede reforzar la sostenibilidad ambiental o debilitarla. La diferencia suele estar en cómo se estructuran los incentivos económicos.",
+          "Esto exige un cambio fundamental en la manera de pensar de las instituciones. La protección ambiental ya no debería considerarse principalmente un gasto. Debería entenderse cada vez más como una inversión en los sistemas naturales que sostienen la productividad económica, la salud pública, la seguridad hídrica, los sistemas alimentarios y la resiliencia nacional.",
+          "Para las regiones áridas, incluido el golfo Arábigo, esta perspectiva resulta especialmente importante. Las reservas de aguas subterráneas, los ecosistemas costeros, la biodiversidad marina y los frágiles hábitats terrestres constituyen activos naturales cuya degradación puede generar importantes consecuencias económicas y sociales a largo plazo. La oportunidad consiste en integrar su valor en las decisiones de inversión, las políticas fiscales, la planificación de infraestructuras y las estrategias de desarrollo nacional.",
+          "El objetivo no debería ser limitar el desarrollo económico. Debería ser garantizar que ese desarrollo no socave de manera sistemática el capital natural del que depende la prosperidad futura. Al comenzar la COP17, quizá la pregunta más importante para quienes diseñan las políticas no sea simplemente cuánta financiación adicional puede movilizarse para la biodiversidad. Es si los sistemas financieros existentes están alineados con los resultados ambientales que los gobiernos se han comprometido a alcanzar. Porque, en última instancia, el compromiso de una nación con la naturaleza no se refleja solo en lo que decide proteger. Se refleja igualmente en lo que fomentan sus políticas económicas."
+        ],
+        "quote": "La diferencia suele estar en cómo se estructuran los incentivos económicos.",
+        "frameworksLabel": "Perspectivas",
+        "frameworks": [
+          {
+            "label": "Identificar",
+            "sub": "incentivos perjudiciales"
+          },
+          {
+            "label": "Rediseñar",
+            "sub": "alinear las finanzas públicas"
+          },
+          {
+            "label": "Integrar",
+            "sub": "capital natural"
+          }
+        ],
+        "takeaways": [
+          "Revise qué recompensa el dinero público.",
+          "Incluya los activos naturales en las decisiones de inversión.",
+          "Alinee las finanzas con los resultados de conservación."
+        ],
+        "sourcePages": [
+          8,
+          9,
+          10
+        ],
+        "imagePage": 8,
+        "frameworksTitle": "Del gasto a los incentivos"
+      },
+      {
+        "num": "04",
+        "section": "Infraestructura y naturaleza",
+        "title": "Infraestructura natural",
+        "inBrief": "Los ecosistemas sanos sustentan la actividad económica y deberían gestionarse como activos nacionales.",
+        "intro": [
+          "No toda la infraestructura esencial se construye. Parte de ella está viva.",
+          "Cuando los gobiernos hablan de la resiliencia de las infraestructuras, la conversación suele girar en torno a carreteras, puentes, redes eléctricas, puertos y sistemas de agua. Sin embargo, algunas de nuestras infraestructuras más valiosas reciben mucha menos atención. Los arrecifes de coral, los manglares, los humedales y las praderas marinas cumplen silenciosamente funciones que respaldan la actividad económica, protegen las costas, sostienen la pesca y fortalecen la resiliencia de las comunidades.",
+          "No son simplemente activos ambientales. Son infraestructura natural. Una nueva evaluación mundial de la UICN, publicada durante la COP17, advierte de que el 96 % de los ecosistemas de arrecifes coralinos de aguas someras evaluados podrían afrontar un riesgo extremadamente alto de colapso para 2075 bajo el escenario de calentamiento modelizado.",
+          "Esto debería preocupar a más actores que las autoridades ambientales."
+        ],
+        "vs": {
+          "leftLabel": "Gestión reactiva",
+          "leftSub": "Actuar cuando el daño es visible",
+          "rightLabel": "Gestión de activos",
+          "rightSub": "Detectar el riesgo antes de la perturbación"
+        },
+        "contHeading": "Gestionar los ecosistemas como activos",
+        "cont": [
+          "Debería preocupar a quienes diseñan las políticas económicas, planifican las infraestructuras, dirigen las instituciones de inversión y elaboran las estrategias de seguridad nacional. Consideremos cómo gestionamos la infraestructura convencional. Inspeccionamos los puentes antes de que se deterioren.",
+          "Supervisamos las redes eléctricas para anticipar fallos. Invertimos en mantenimiento preventivo para evitar interrupciones costosas. Sin embargo, los ecosistemas naturales suelen gestionarse de forma reactiva y reciben atención solo cuando la degradación se vuelve visiblemente grave.",
+          "¿Qué ocurriría si aplicáramos a la infraestructura natural la misma disciplina estratégica que aplicamos a la infraestructura construida? Esto exigiría integrar la salud de los ecosistemas en la gestión de activos nacionales, la planificación de infraestructuras y las decisiones de inversión. Implicaría establecer indicadores medibles de desempeño ecológico, invertir en vigilancia ambiental continua y asignar responsabilidades institucionales claras sobre el estado de los ecosistemas críticos.",
+          "Para las economías costeras, en particular las del golfo Arábigo, este enfoque es especialmente pertinente. Nuestras costas sostienen el desarrollo económico, las actividades marítimas, el turismo, la pesca y las comunidades. Los ecosistemas que protegen y sustentan estas actividades no deberían tratarse como consideraciones secundarias.",
+          "La restauración y la conservación siguen siendo esenciales, pero la prevención debe recibir la misma atención estratégica. Ninguna puede sustituir la necesidad de abordar el cambio climático. En última instancia, la cuestión no es simplemente cuánto estamos dispuestos a invertir en proteger la naturaleza. Es si comprendemos plenamente las consecuencias económicas y sociales de permitir que se deterioren los sistemas naturales.",
+          "La próxima generación de planificación de infraestructuras debe reconocer que proteger la naturaleza no es algo separado de proteger la prosperidad. Porque algunos de los activos más importantes de una nación nunca se construyeron. Evolucionaron a lo largo de miles de años y no pueden sustituirse fácilmente."
+        ],
+        "quote": "Son infraestructura natural.",
+        "frameworksLabel": "Perspectivas",
+        "frameworks": [
+          {
+            "label": "Medir",
+            "sub": "salud ecológica"
+          },
+          {
+            "label": "Vigilar",
+            "sub": "deterioro incipiente"
+          },
+          {
+            "label": "Asignar",
+            "sub": "una persona responsable"
+          }
+        ],
+        "takeaways": [
+          "Trate la salud de los ecosistemas como el estado de un activo.",
+          "Vigile y actúe antes de que la degradación sea grave.",
+          "Asigne a cada activo crítico una responsabilidad claramente definida."
+        ],
+        "sourcePages": [
+          11,
+          12,
+          13
+        ],
+        "imagePage": 11,
+        "frameworksTitle": "Proteger la infraestructura natural"
+      },
+      {
+        "num": "05",
+        "section": "Práctica del liderazgo",
+        "title": "La prueba del acceso",
+        "inBrief": "Ejercicio propuesto basado en los artículos de octubre sobre vivienda y seguridad alimentaria. No es una publicación semanal original.",
+        "intro": [
+          "1. Haga visibles las pruebas que faltan.",
+          "2. Compruebe el acceso del grupo más afectado.",
+          "3. Registre qué le haría cambiar su recomendación."
+        ],
+        "vs": null,
+        "contHeading": "",
+        "cont": [],
+        "quote": "",
+        "frameworksLabel": "",
+        "frameworks": [],
+        "takeaways": [],
+        "frameworksTitle": "",
+        "sourcePages": [
+          14
+        ],
+        "imagePage": 3
+      },
+      {
+        "num": "06",
+        "section": "Práctica del liderazgo",
+        "title": "La revisión de incentivos",
+        "inBrief": "Ejercicio propuesto basado en los artículos de octubre sobre economía de la biodiversidad e infraestructura natural. No es una publicación semanal original.",
+        "intro": [
+          "1. Vincule la financiación a una condición observable.",
+          "2. Identifique al equipo responsable y el momento de revisión.",
+          "3. Mantenga visibles los objetivos económicos y ecológicos."
+        ],
+        "vs": null,
+        "contHeading": "",
+        "cont": [],
+        "quote": "",
+        "frameworksLabel": "",
+        "frameworks": [],
+        "takeaways": [],
+        "frameworksTitle": "",
+        "sourcePages": [
+          14
+        ],
+        "imagePage": 8
+      }
+    ],
+    "lab": {
+      "title": "El cuadro de evaluación de la resiliencia",
+      "subtitle": "Actividad de revisión propuesta. Analice el escenario hipotético y compare después su respuesta con la guía siguiente.",
+      "items": [
+        "Caso hipotético: una ciudad propone construir viviendas y un centro alimentario junto a una barrera natural de protección costera.",
+        "Durante un año, el equipo puede financiar un rediseño preventivo o reparaciones posteriores.",
+        "Defina una prueba para el acceso a la vivienda, otra para el suministro de alimentos y otra para la salud de la barrera natural.",
+        "Elija una opción y defiéndala. Indique una condición para la financiación, quién la supervisará y qué pruebas podrían hacerle cambiar de elección."
+      ],
+      "guide": "Guía de debate: evalúe el acceso al empleo, las rutas alternativas de suministro de alimentos y la salud de la barrera natural. Dé preferencia al rediseño si protege la barrera y mantiene accesibles las viviendas. Establezca una salvaguarda y revise las pruebas."
+    }
+  }
+]

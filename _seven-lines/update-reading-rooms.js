@@ -1,36 +1,15 @@
-/* Inserts the Seven Lines archive section + css link into each locale's
-   reading-room page, in place, at the repository root (parent of this dir). */
-const fs = require('fs');
-const path = require('path');
-const { section } = require('./reading-room-section.js');
-
-const ROOT = process.env.ROOT || path.join(__dirname, '..');
-const locales = ['en', 'ar', 'es', 'fr', 'ru', 'zh'];
-
-for (const loc of locales) {
-  const file = path.join(ROOT, loc, 'reading-room', 'index.html');
-  let html = fs.readFileSync(file, 'utf8');
-
-  if (html.includes('sl-editions')) {
-    console.log(`${loc}: already has section — skipping`);
-    continue;
-  }
-
-  // 1. css link after site.css
-  const cssAnchor = '<link rel="stylesheet" href="/assets/site.css" />';
-  if (!html.includes(cssAnchor)) throw new Error(`${loc}: css anchor missing`);
-  html = html.replace(cssAnchor, cssAnchor + '\n  <link rel="stylesheet" href="/assets/seven-lines.css" />');
-
-  // 2. archive section before the actions block (fallback: before </main>)
-  const sec = '\n' + section(loc) + '\n';
-  const actionsAnchor = '<div class="container"><div class="actions">';
-  if (html.includes(actionsAnchor)) {
-    html = html.replace(actionsAnchor, sec + actionsAnchor);
-  } else {
-    html = html.replace('</main>', sec + '</main>');
-  }
-
-  fs.writeFileSync(file, html);
-  console.log(`${loc}: updated (${html.length} chars)`);
+const fs=require('node:fs'),path=require('node:path');
+const {section,T}=require('./reading-room-section');
+const ROOT=process.env.ROOT||path.join(__dirname,'..');
+for(const loc of Object.keys(T)){
+ const file=path.join(ROOT,loc,'reading-room/index.html');let html=fs.readFileSync(file,'utf8');
+ html=html.replace(/\s*<link rel="stylesheet" href="\/assets\/seven-lines\.css(?:\?[^\"]*)?"\s*\/?\s*>/g,'');
+ html=html.replace('<link rel="stylesheet" href="/assets/site.css" />','<link rel="stylesheet" href="/assets/site.css" />\n  <link rel="stylesheet" href="/assets/seven-lines.css?v=20261123" />');
+ html=html.replace(/\s*<!-- seven-lines:start -->[\s\S]*?<!-- seven-lines:end -->/g,'');
+ // The original Reading Room content is retained; the publication shelf follows its introduction.
+ const anchor='<section class="section container">\n  <div class="section-heading"><h2';
+ const at=html.indexOf(anchor,html.indexOf('<main'));
+ if(at>=0)html=html.slice(0,at)+section(loc)+'\n'+html.slice(at);
+ else html=html.replace('</main>',section(loc)+'\n</main>');
+ fs.writeFileSync(file,html);
 }
-console.log('done');

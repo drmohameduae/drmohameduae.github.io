@@ -1,0 +1,6 @@
+{
+  "name": "seven-lines-publication-checks",
+  "private": true,
+  "scripts": { "build": "node build-magazines.js", "test": "node test-reader.cjs" },
+  "devDependencies": { "jsdom": "26.1.0" }
+}

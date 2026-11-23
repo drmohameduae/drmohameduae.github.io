@@ -1,0 +1,516 @@
+{
+  "august-2026": {
+    "originalPdf": "/assets/seven-lines/pdf/august-2026.pdf",
+    "cover": "/assets/seven-lines/covers/august-2026.webp",
+    "pdfPages": 15,
+    "pdfSha256": "dec47f4843072b1247f9d43f8e086d4ea8fa75b01532f0f6745f43150a53ab1c",
+    "pdfBytes": 10827407,
+    "sourceFilename": "Seven_Lines_August_2026_Reviewed(1).pdf",
+    "photos": [
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 3,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 5,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 7,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 9,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 11,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 13,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      }
+    ]
+  },
+  "july-2026": {
+    "originalPdf": "/assets/seven-lines/pdf/july-2026.pdf",
+    "cover": "/assets/seven-lines/covers/july-2026.webp",
+    "pdfPages": 15,
+    "pdfSha256": "7eeda1f6b7ad7d7bf9fe8bab885151458bdf6694ce69e0f6057528d9754c8689",
+    "pdfBytes": 10546996,
+    "sourceFilename": "Seven_Lines_July_2026_Review(2).pdf",
+    "photos": [
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 3,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 5,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 7,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 9,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 11,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 13,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      }
+    ]
+  },
+  "june-2026": {
+    "originalPdf": "/assets/seven-lines/pdf/june-2026.pdf",
+    "cover": "/assets/seven-lines/covers/june-2026.webp",
+    "pdfPages": 15,
+    "pdfSha256": "dfa24f2ec9eb7c6c746cdee3cc38f30c055f1061a76df7ea62206857821409c8",
+    "pdfBytes": 7824413,
+    "sourceFilename": "Seven_Lines_June_2026_Reviewed(1).pdf",
+    "photos": [
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 3,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 5,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 7,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 9,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 11,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 13,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      }
+    ]
+  },
+  "october-2026": {
+    "originalPdf": "/assets/seven-lines/pdf/october-2026.pdf",
+    "cover": "/assets/seven-lines/covers/october-2026.webp",
+    "pdfPages": 15,
+    "pdfSha256": "854aac70237fbb4da619e65a5753026a60fe761588a52d4d9caf48f42f117510",
+    "pdfBytes": 9094709,
+    "sourceFilename": "Seven_Lines_October_2026_Review(1).pdf",
+    "photos": [
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 3,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 5,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 8,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 11,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      }
+    ]
+  },
+  "september-2026": {
+    "originalPdf": "/assets/seven-lines/pdf/september-2026.pdf",
+    "cover": "/assets/seven-lines/covers/september-2026.webp",
+    "pdfPages": 15,
+    "pdfSha256": "b222e2e355b9e95f1b4d8ae93d1b1c9b2bfa7088579008255b62a6a8d98b8569",
+    "pdfBytes": 10251721,
+    "sourceFilename": "Seven_Lines_September_2026_Review(1).pdf",
+    "photos": [
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 2,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 3,
+        "path": "/assets/seven-lines/photos/fc33c16d9186.webp",
+        "width": 1600,
+        "height": 1121,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 5,
+        "path": "/assets/seven-lines/photos/7f902a07fdee.webp",
+        "width": 1067,
+        "height": 1600,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 7,
+        "path": "/assets/seven-lines/photos/b8bd49d8f333.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 9,
+        "path": "/assets/seven-lines/photos/bc8e016e2e1c.webp",
+        "width": 1600,
+        "height": 1038,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 11,
+        "path": "/assets/seven-lines/photos/82bd4e1b1dcc.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      },
+      {
+        "page": 13,
+        "path": "/assets/seven-lines/photos/f9e2c65585ae.webp",
+        "width": 1600,
+        "height": 1067,
+        "first": "august-2026",
+        "sourcePage": 2
+      }
+    ]
+  }
+}

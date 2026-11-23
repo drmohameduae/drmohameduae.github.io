@@ -215,5 +215,47 @@
     "summary": "The complete directory of published destinations.",
     "route": "/en/sitemap",
     "type": "page"
+  },
+  {
+    "id": "seven-lines-june-2026",
+    "title": "Seven Lines — June 2026",
+    "summary": "Six perspectives on the decisions, cultures and capabilities that strengthen institutions.",
+    "route": "/en/reading-room/seven-lines/june-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-july-2026",
+    "title": "Seven Lines — July 2026",
+    "summary": "Four weekly perspectives and two Leadership Practice guides for clearer decisions and stronger institutions.",
+    "route": "/en/reading-room/seven-lines/july-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-august-2026",
+    "title": "Seven Lines — August 2026",
+    "summary": "Five weekly perspectives and one Leadership Practice guide on sustainability, capability and resilience.",
+    "route": "/en/reading-room/seven-lines/august-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-september-2026",
+    "title": "Seven Lines — September 2026",
+    "summary": "Four original weekly articles and two proposed Leadership Practice exercises.",
+    "route": "/en/reading-room/seven-lines/september-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-october-2026",
+    "title": "Seven Lines — October 2026",
+    "summary": "Four original weekly articles and two proposed Leadership Practice exercises.",
+    "route": "/en/reading-room/seven-lines/october-2026/",
+    "type": "publication"
+  },
+  {
+    "id": "seven-lines-november-2026",
+    "title": "Seven Lines — November 2026",
+    "summary": "Essays by Dr. Mohamed Yousef Almadfaei, collected in a digital edition designed for deliberate reading.",
+    "route": "/en/reading-room/seven-lines/november-2026/",
+    "type": "publication"
   }
 ]

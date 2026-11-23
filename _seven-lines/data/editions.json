@@ -1,1463 +1,1797 @@
 [
- {
-  "id": "june-2026",
-  "month": "June",
-  "year": 2026,
-  "intro": "Six perspectives on the decisions, cultures and capabilities that strengthen institutions.",
-  "articles": [
-   {
-    "num": "01",
-    "section": "Institutional Maturity",
-    "title": "Leadership Under Pressure",
-    "inBrief": "Pressure reveals institutional maturity: strong leaders stay deliberate, and resilient organizations prepare before crises arrive.",
-    "intro": [
-     "One of the clearest indicators of institutional maturity is how decisions are made under pressure. It is easy to appear confident when conditions are stable. The real test of leadership emerges during uncertainty, competing interests, and limited time.",
-     "In these moments, strong leaders do not become reactive. They become deliberate. They focus on facts over noise, long-term impact over short-term optics, and principled judgment over emotional response.",
-     "Pressure has a way of exposing organizational culture. It reveals whether institutions are guided by clarity and discipline, or by confusion and improvisation."
+  {
+    "id": "june-2026",
+    "month": "June",
+    "year": 2026,
+    "intro": "Six perspectives on the decisions, cultures and capabilities that strengthen institutions.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Institutional Maturity",
+        "title": "Leadership Under Pressure",
+        "inBrief": "Pressure reveals institutional maturity: strong leaders stay deliberate, and resilient organizations prepare before crises arrive.",
+        "intro": [
+          "One of the clearest indicators of institutional maturity is how decisions are made under pressure. It is easy to appear confident when conditions are stable. The real test of leadership emerges during uncertainty, competing interests, and limited time.",
+          "In these moments, strong leaders do not become reactive. They become deliberate. They focus on: facts over noise, long-term impact over short-term optics, and principled judgment over emotional response.",
+          "Pressure has a way of exposing organizational culture. It reveals whether institutions are guided by clarity and discipline, or by confusion and improvisation."
+        ],
+        "vs": {
+          "leftLabel": "Stable conditions",
+          "leftSub": "Easy to appear confident",
+          "rightLabel": "Uncertainty · competing interests · limited time",
+          "rightSub": "The real test of leadership"
+        },
+        "contHeading": "Prepare before the crisis",
+        "cont": [
+          "This is why resilient organizations invest heavily in governance, accountability, and leadership development before crises emerge — not after.",
+          "Because when pressure rises, institutions rarely perform above their culture. They perform according to it. Leadership is not only measured by growth during easy periods. It is measured by composure, judgment, and direction when conditions become difficult."
+        ],
+        "quote": "When pressure rises, institutions rarely perform above their culture. They perform according to it.",
+        "frameworksLabel": "Principles",
+        "frameworks": [
+          {
+            "label": "Facts",
+            "sub": "over noise"
+          },
+          {
+            "label": "Long-term impact",
+            "sub": "over short-term optics"
+          },
+          {
+            "label": "Principled judgment",
+            "sub": "over emotional response"
+          }
+        ],
+        "takeaways": [
+          "Decide deliberately, not reactively.",
+          "Pressure exposes culture: clarity or improvisation.",
+          "Invest in governance, accountability and leadership development before crises."
+        ],
+        "frameworksTitle": "Three priorities. One clear direction."
+      },
+      {
+        "num": "02",
+        "section": "Culture & Accountability",
+        "title": "Culture in Every Action",
+        "inBrief": "Culture is shaped every day by what leaders measure, reward and tolerate — not by policies or mission statements.",
+        "intro": [
+          "In leadership, what gets measured gets attention. What gets rewarded gets repeated. What gets tolerated becomes culture.",
+          "Culture is often discussed as an abstract concept, yet it is shaped every day through decisions, behaviors, and consequences. Organizations do not become accountable because accountability is written in a policy. They become accountable when leaders consistently recognize excellence, address underperformance, and uphold standards fairly.",
+          "The same principle applies to innovation, collaboration, integrity, and service excellence."
+        ],
+        "vs": {
+          "leftLabel": "Not culture",
+          "leftSub": "What an organization says it values · Mission statements and presentations",
+          "rightLabel": "Culture",
+          "rightSub": "What an organization repeatedly does · What leaders celebrate, ignore and accept"
+        },
+        "contHeading": "Leadership sends the signals",
+        "cont": [
+          "Employees pay close attention to what leadership celebrates, ignores, and accepts. Over time, these signals become more influential than mission statements or presentations. This is why culture should never be viewed as a communications exercise. It is an operational reality created by leadership actions.",
+          "The strongest institutions understand this well. They build cultures intentionally, reinforce them consistently, and protect them relentlessly. Because culture is not what an organization says it values. Culture is what an organization repeatedly does."
+        ],
+        "quote": "Culture is not what an organization says it values. Culture is what an organization repeatedly does.",
+        "frameworksLabel": "Signals",
+        "frameworks": [
+          {
+            "label": "Measure",
+            "sub": "→ Attention"
+          },
+          {
+            "label": "Reward",
+            "sub": "→ Repetition"
+          },
+          {
+            "label": "Tolerate",
+            "sub": "→ Accepted practice"
+          }
+        ],
+        "takeaways": [
+          "Accountability becomes real through consistent leadership action, not policy text.",
+          "Employees read what leaders celebrate, ignore and accept.",
+          "Build culture intentionally, reinforce it consistently, protect it relentlessly."
+        ],
+        "frameworksTitle": "The signals that become culture"
+      },
+      {
+        "num": "03",
+        "section": "Governance & Continuity",
+        "title": "Systems That Sustain Results",
+        "inBrief": "Individual brilliance can solve a problem once. Strong systems can solve it repeatedly.",
+        "intro": [
+          "Many leaders focus on making the right decisions. Exceptional leaders focus on building systems that consistently produce the right decisions. Individual brilliance can solve a problem once. Strong systems can solve it repeatedly.",
+          "This is why enduring institutions invest in governance, clear responsibilities, transparent reporting, and well-defined decision-making processes. These mechanisms may not attract headlines, but they often determine long-term success.",
+          "When systems are weak, organizations become dependent on a few individuals. Progress slows when key people are absent, and mistakes become more frequent. When systems are strong, performance becomes more predictable, accountability improves, and organizations can scale with confidence."
+        ],
+        "vs": {
+          "leftLabel": "When systems are weak",
+          "leftSub": "Dependence on a few individuals · Progress slows when key people are absent · Mistakes become more frequent",
+          "rightLabel": "When systems are strong",
+          "rightSub": "More predictable performance · Accountability improves · Scale with confidence"
+        },
+        "contHeading": "Design for continuity",
+        "cont": [
+          "The objective of leadership should not be to become indispensable. It should be to create an institution that continues to perform at a high level because the foundations are sound, the processes are effective, and the culture supports excellence.",
+          "Great leaders build results. The best leaders build systems that keep producing results long after they are gone."
+        ],
+        "quote": "Great leaders build results. The best leaders build systems that keep producing results long after they are gone.",
+        "frameworksLabel": "Foundations",
+        "frameworks": [
+          {
+            "label": "Governance",
+            "sub": ""
+          },
+          {
+            "label": "Responsibilities",
+            "sub": ""
+          },
+          {
+            "label": "Reporting",
+            "sub": ""
+          },
+          {
+            "label": "Decision processes",
+            "sub": ""
+          }
+        ],
+        "takeaways": [
+          "Build systems that consistently produce the right decisions.",
+          "Weak systems create dependence on a few individuals.",
+          "Aim to build an institution that keeps performing — not to be indispensable."
+        ],
+        "frameworksTitle": "Four foundations for continuity"
+      },
+      {
+        "num": "04",
+        "section": "Learning & Adaptation",
+        "title": "The Capacity to Learn",
+        "inBrief": "The organizations that thrive in the next decade will not be the largest or the richest, but the ones that learn fastest.",
+        "intro": [
+          "The organizations that thrive in the next decade will not necessarily be the largest, the oldest, or even the most resource-rich. They will be the ones that learn fastest.",
+          "In a world shaped by artificial intelligence, climate challenges, economic shifts, and evolving public expectations, knowledge has a shorter shelf life than ever before. The competitive advantage of the future is not simply expertise. It is the institutional ability to continuously learn, adapt, and improve."
+        ],
+        "vs": {
+          "leftLabel": "No longer",
+          "leftSub": "“How much do we know?”",
+          "rightLabel": "The question now",
+          "rightSub": "“How quickly can we learn what we do not yet know?”"
+        },
+        "contHeading": "Build a culture of learning",
+        "cont": [
+          "This requires more than training programs. It requires a culture where curiosity is encouraged, lessons are captured, innovation is tested, and failure is treated as a source of insight rather than blame.",
+          "Learning organizations do not wait for disruption to force change. They anticipate, experiment, and evolve before circumstances demand it.",
+          "The question for every leader is no longer: “How much do we know?” It is: “How quickly can we learn what we do not yet know?” In an era of constant change, the capacity to learn may become the most valuable strategic asset any institution possesses."
+        ],
+        "quote": "In an era of constant change, the capacity to learn may become the most valuable strategic asset any institution possesses.",
+        "frameworksLabel": "Practices",
+        "frameworks": [
+          {
+            "label": "Ask",
+            "sub": "curiosity encouraged"
+          },
+          {
+            "label": "Capture",
+            "sub": "lessons captured"
+          },
+          {
+            "label": "Test",
+            "sub": "innovation tested"
+          },
+          {
+            "label": "Learn",
+            "sub": "failure as insight"
+          }
+        ],
+        "takeaways": [
+          "Knowledge now has a shorter shelf life than ever before.",
+          "Learning needs a culture, not just training programs.",
+          "Anticipate and experiment before disruption forces change."
+        ],
+        "frameworksTitle": "A continuous learning cycle"
+      },
+      {
+        "num": "05",
+        "section": "Innovation & Execution",
+        "title": "Innovation Is a Capability",
+        "inBrief": "Most organizations have no shortage of ideas. The challenge is building the capacity to turn them into measurable results.",
+        "intro": [
+          "We often speak about innovation as the key to future success. Yet innovation without institutional capacity rarely delivers lasting results.",
+          "The real challenge is not generating new ideas. Most organizations have no shortage of ideas. The challenge is creating an environment where good ideas can be evaluated, tested, implemented, measured, and scaled.",
+          "This requires more than creativity. It requires clear governance, effective execution, skilled people, reliable data, and a culture that supports continuous improvement."
+        ],
+        "vs": {
+          "leftLabel": "Ideas",
+          "leftSub": "Create possibilities",
+          "rightLabel": "Institutional capability",
+          "rightSub": "Creates impact — the true measure of innovation"
+        },
+        "contHeading": "Make impact the measure",
+        "cont": [
+          "Innovation is not an event. It is a capability. The institutions that will lead in the coming decade are not necessarily those with the most ambitious visions, but those that have built the capacity to consistently transform vision into measurable outcomes.",
+          "Ideas create possibilities. Institutional capability creates impact. And ultimately, impact is the true measure of innovation."
+        ],
+        "quote": "Innovation is not an event. It is a capability.",
+        "frameworksLabel": "Enablers",
+        "frameworks": [
+          {
+            "label": "Governance",
+            "sub": ""
+          },
+          {
+            "label": "Execution",
+            "sub": ""
+          },
+          {
+            "label": "People",
+            "sub": ""
+          },
+          {
+            "label": "Data",
+            "sub": ""
+          },
+          {
+            "label": "Improvement",
+            "sub": ""
+          }
+        ],
+        "takeaways": [
+          "Innovation without institutional capacity rarely delivers lasting results.",
+          "Build an environment to evaluate, test, implement, measure and scale ideas.",
+          "Impact is the true measure of innovation."
+        ],
+        "frameworksTitle": "From possibility to lasting impact",
+        "steps": [
+          "Evaluate",
+          "Test",
+          "Implement",
+          "Measure",
+          "Scale"
+        ],
+        "stepsTitle": "From good idea to scaled result"
+      },
+      {
+        "num": "06",
+        "section": "Empowerment & Judgment",
+        "title": "Develop Decision-Makers",
+        "inBrief": "Slow, top-heavy decisions are rarely a people problem. They are often a leadership design problem.",
+        "intro": [
+          "The best leaders don't create followers. They create decision-makers. As organizations grow, complexity increases. Decisions can begin to slow, approvals multiply, and teams become increasingly dependent on senior leadership.",
+          "This is rarely a people problem. It is often a leadership design problem.",
+          "High-performing institutions deliberately build the capability to make good decisions at every level. They establish clear principles, define accountability, provide reliable information, and empower people to act within well-understood boundaries.",
+          "When every decision must travel to the top, agility suffers. When decision-making is distributed with discipline, organizations become faster, more resilient, and better prepared for change."
+        ],
+        "vs": {
+          "leftLabel": "Every decision travels to the top",
+          "leftSub": "Agility suffers · Approvals multiply",
+          "rightLabel": "Decisions distributed with discipline",
+          "rightSub": "Faster and more resilient · Better prepared for change"
+        },
+        "contHeading": "Measure the leaders you develop",
+        "cont": [
+          "Leadership is not measured by how many decisions a leader makes personally. It is measured by how many capable leaders they develop, how much sound judgment they cultivate, and how confidently the organization can perform without constant intervention.",
+          "An institution becomes truly mature when good decisions are embedded in its culture — not concentrated in a single office. That is how leadership becomes a lasting legacy."
+        ],
+        "quote": "The best leaders don't create followers. They create decision-makers.",
+        "frameworksLabel": "Foundations",
+        "frameworks": [
+          {
+            "label": "Principles",
+            "sub": "clear"
+          },
+          {
+            "label": "Accountability",
+            "sub": "defined"
+          },
+          {
+            "label": "Information",
+            "sub": "reliable"
+          },
+          {
+            "label": "Boundaries",
+            "sub": "well-understood"
+          }
+        ],
+        "takeaways": [
+          "Build sound decision-making capability at every level.",
+          "Distribute decisions with discipline to gain speed and resilience.",
+          "Measure leadership by the capable leaders it develops."
+        ],
+        "frameworksTitle": "The architecture of empowerment"
+      }
     ],
-    "vs": {
-     "leftLabel": "Stable Conditions",
-     "leftSub": "Easy to appear confident",
-     "rightLabel": "Uncertainty · Competing Interests · Limited Time",
-     "rightSub": "The real test of leadership"
-    },
-    "contHeading": "Prepare before the crisis",
-    "cont": [
-     "This is why resilient organizations invest heavily in governance, accountability, and leadership development before crises emerge — not after.",
-     "Because when pressure rises, institutions rarely perform above their culture. They perform according to it. Leadership is not only measured by growth during easy periods. It is measured by composure, judgment, and direction when conditions become difficult."
+    "lab": {
+      "title": "The Decision Challenge",
+      "subtitle": "Use only the stated rules. Each challenge has one answer. All planning figures are hypothetical.",
+      "items": [
+        "Track the process: In each round, close half the open cases, then add 3 new cases. Starting with 54 cases, how many remain after 3 rounds?",
+        "Choose within capacity: Each initiative may be chosen once. Choose exactly 2 within 11 team-days. Which pair achieves the highest total priority score? Initiative / Team-days / Priority points: A / 4 / 6; B / 5 / 9; C / 7 / 12.",
+        "Sequence the reviews: Reviews A, B, C and D run from Monday to Thursday, one per day. A precedes C. B is immediately after D. C is not on Thursday. What is the order?",
+        "Separate fact from assumption: Every proposal that passes both the cost and feasibility tests is approved. Proposal X is not approved. Which conclusion must follow? A. It did not pass the cost test. B. It did not pass the feasibility test. C. At least one test was not passed."
+      ],
+      "guide": "Answer key: 1 · 12 cases (54 → 30 → 18 → 12). 2 · A + C: 11 team-days, 18 priority points. 3 · Monday A, Tuesday C, Wednesday D, Thursday B. 4 · C: at least one test was not passed.",
+      "table": {
+        "headers": [
+          "Initiative",
+          "Team-days",
+          "Priority points"
+        ],
+        "rows": [
+          [
+            "A",
+            4,
+            6
+          ],
+          [
+            "B",
+            5,
+            9
+          ],
+          [
+            "C",
+            7,
+            12
+          ]
+        ],
+        "afterItem": 1
+      }
+    }
+  },
+  {
+    "id": "july-2026",
+    "month": "July",
+    "year": 2026,
+    "intro": "Four weekly perspectives and two Leadership Practice guides for clearer decisions and stronger institutions.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Leadership & Attention",
+        "title": "Attention Is Strategy",
+        "inBrief": "Leadership attention is finite. Where it goes shapes the institution's future.",
+        "intro": [
+          "The most valuable resource in any organization is not capital. It is attention. Every leader has the same 24 hours. Every institution has finite leadership attention.",
+          "Yet many organizations unintentionally spend that attention on urgent issues rather than important ones — chasing emails, resolving avoidable problems, and reacting to the crisis of the day. Attention is a strategic resource. Where leaders direct it determines what the organization improves, what it neglects, and ultimately what it becomes.",
+          "The highest-performing institutions are intentional about this. They protect leadership time for the decisions that shape the future: Building capability rather than fixing recurring problems. Strengthening systems rather than relying on heroics. Developing people rather than managing every task. Looking beyond the next quarter to the next decade."
+        ],
+        "vs": {
+          "leftLabel": "Managing Today's Work",
+          "leftSub": "Urgent issues and recurring problems",
+          "rightLabel": "Building Tomorrow's Institution",
+          "rightSub": "Capability, systems and people"
+        },
+        "contHeading": "Protect time for the future",
+        "cont": [
+          "Operational excellence matters, but leaders create the greatest value when they spend more time designing the institution than merely operating it.",
+          "A useful question for every executive is: If someone reviewed my calendar over the past three months, would it reveal that I am managing today’s work — or building tomorrow’s institution? Leadership is reflected not only in the decisions we make, but also in where we choose to place our attention."
+        ],
+        "quote": "Attention is a strategic resource.",
+        "frameworksLabel": "Priorities",
+        "frameworks": [
+          {
+            "label": "Build capability",
+            "sub": "future capacity"
+          },
+          {
+            "label": "Strengthen systems",
+            "sub": "beyond heroics"
+          },
+          {
+            "label": "Develop people",
+            "sub": "beyond task control"
+          },
+          {
+            "label": "Think long term",
+            "sub": "the next decade"
+          }
+        ],
+        "takeaways": [
+          "Treat leadership attention as a finite strategic resource.",
+          "Protect time for capability, systems, people and long-term thinking.",
+          "Review your calendar: does it show the institution you intend to build?"
+        ],
+        "frameworksTitle": "Give attention a strategic direction",
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3
+      },
+      {
+        "num": "02",
+        "section": "Strategic Thinking",
+        "title": "Ask Better Questions",
+        "inBrief": "Better questions reveal assumptions, risks and opportunities, then improve decisions.",
+        "intro": [
+          "The future will not be led by the organizations with the most data. It will be led by those that ask the best questions. We often hear that data is the new currency. Yet data, on its own, has never made a strategic decision.",
+          "The real differentiator is the quality of the questions leaders ask. Good questions challenge assumptions. They uncover risks before they become crises. They reveal opportunities others fail to see. And they encourage cultures where learning matters more than certainty."
+        ],
+        "vs": {
+          "leftLabel": "The Old Question",
+          "leftSub": "Do we have enough information?",
+          "rightLabel": "The Better Question",
+          "rightSub": "Are we asking the questions that truly matter?"
+        },
+        "contHeading": "Judgment makes the difference",
+        "cont": [
+          "As artificial intelligence becomes more capable, access to information will become increasingly equal. What will remain unequal is judgment. The leaders and institutions that will excel are those that combine data with curiosity, technology with wisdom, and analytics with sound governance.",
+          "The question is no longer, “Do we have enough information?” It is, “Are we asking the questions that truly matter?” Because the quality of our questions ultimately shapes the quality of our decisions. And the quality of our decisions shapes the future of our institutions."
+        ],
+        "quote": "Because the quality of our questions ultimately shapes the quality of our decisions.",
+        "frameworksLabel": "Effects",
+        "frameworks": [
+          {
+            "label": "Assumptions",
+            "sub": "challenge them"
+          },
+          {
+            "label": "Risks",
+            "sub": "uncover them early"
+          },
+          {
+            "label": "Opportunities",
+            "sub": "see what is missed"
+          },
+          {
+            "label": "Learning",
+            "sub": "encourage curiosity"
+          }
+        ],
+        "takeaways": [
+          "Use questions to test assumptions and reveal emerging risks.",
+          "Combine data and technology with curiosity, wisdom and governance.",
+          "The quality of questions shapes decisions and institutional futures."
+        ],
+        "frameworksTitle": "What good questions unlock",
+        "sourcePages": [
+          5,
+          6
+        ],
+        "imagePage": 5
+      },
+      {
+        "num": "03",
+        "section": "Decision Quality",
+        "title": "Better Decisions at Speed",
+        "inBrief": "Institutional capability reduces the distance between insight and a sound decision.",
+        "intro": [
+          "In the coming decade, competitive advantage will belong to institutions that can make high-quality decisions faster — not simply those that move faster. Speed alone is not a strategy. Making quick decisions with poor judgment only accelerates the wrong outcome.",
+          "The real challenge for leaders is reducing the time between insight and sound decision-making without compromising governance, accountability, or strategic thinking. This is where institutional capability matters. Organizations that excel are building: Clear decision rights. Trusted data and intelligence. Simple governance frameworks. Empowered leaders at every level. A culture that values evidence over hierarchy."
+        ],
+        "vs": {
+          "leftLabel": "Speed Alone",
+          "leftSub": "Poor judgment accelerates the wrong outcome",
+          "rightLabel": "Decision Quality at Speed",
+          "rightSub": "Technology with disciplined leadership"
+        },
+        "contHeading": "Keep judgment at the centre",
+        "cont": [
+          "Artificial intelligence will make information more accessible than ever. But it will not replace judgment, integrity, or accountability. These remain uniquely human responsibilities.",
+          "The institutions that will define the future are those that combine technology with disciplined leadership—where decisions are not only faster, but consistently wiser. In an age of acceleration, the true competitive advantage is not speed. It is the ability to make better decisions at speed.",
+          "What do you believe is the biggest barrier to better decision-making in organizations today: data, culture, governance, or leadership?"
+        ],
+        "quote": "It is the ability to make better decisions at speed.",
+        "frameworksLabel": "Enablers",
+        "frameworks": [
+          {
+            "label": "Decision rights",
+            "sub": "clear"
+          },
+          {
+            "label": "Data & intelligence",
+            "sub": "trusted"
+          },
+          {
+            "label": "Governance",
+            "sub": "simple frameworks"
+          },
+          {
+            "label": "Leaders",
+            "sub": "empowered"
+          },
+          {
+            "label": "Evidence",
+            "sub": "valued over hierarchy"
+          }
+        ],
+        "takeaways": [
+          "Reduce decision time while protecting governance and accountability.",
+          "Build clear rights, trusted information and empowered leadership.",
+          "Keep judgment, integrity and accountability as human responsibilities."
+        ],
+        "frameworksTitle": "Build the capability to decide well",
+        "sourcePages": [
+          7,
+          8
+        ],
+        "imagePage": 7
+      },
+      {
+        "num": "04",
+        "section": "Technology & Leadership",
+        "title": "Institutional Intelligence",
+        "inBrief": "The lasting differentiator is the ability to turn information into collective judgment and action.",
+        "intro": [
+          "The next competitive advantage will not come from technology alone. It will come from institutional intelligence. Artificial intelligence is transforming how we analyze data, automate processes, and generate insights. Yet as these capabilities become widely available, technology itself will become less of a differentiator.",
+          "What will distinguish leading organizations is their ability to convert information into institutional intelligence. Institutional intelligence is the collective capacity to: Connect data across functions rather than operate in silos. Learn from every decision, success, and failure. Anticipate emerging risks before they become crises. Turn insights into timely, measurable action."
+        ],
+        "vs": {
+          "leftLabel": "Technology",
+          "leftSub": "Accelerates decisions",
+          "rightLabel": "Institutional Intelligence",
+          "rightSub": "Ensures those decisions are the right ones"
+        },
+        "contHeading": "Turn information into capability",
+        "cont": [
+          "This requires more than digital transformation. It demands a transformation in governance, culture, and leadership. The institutions that will lead the next decade will not necessarily be those with the most advanced AI platforms. They will be those that combine technology with sound judgment, trusted data, clear accountability, and a commitment to continuous learning.",
+          "Technology can accelerate decisions. Institutional intelligence ensures those decisions are the right ones. As AI becomes increasingly accessible, perhaps the defining question for leaders is no longer, “How intelligent is our technology?” It is, “How intelligent is our institution?”"
+        ],
+        "quote": "Technology can accelerate decisions. Institutional intelligence ensures those decisions are the right ones.",
+        "frameworksLabel": "Capacities",
+        "frameworks": [
+          {
+            "label": "Connect",
+            "sub": "data across functions"
+          },
+          {
+            "label": "Learn",
+            "sub": "from every outcome"
+          },
+          {
+            "label": "Anticipate",
+            "sub": "emerging risks"
+          },
+          {
+            "label": "Act",
+            "sub": "measurable action"
+          }
+        ],
+        "takeaways": [
+          "Connect information across functions and learn from every outcome.",
+          "Anticipate risks and turn insight into timely, measurable action.",
+          "Ask how intelligent the institution is, as well as its technology."
+        ],
+        "frameworksTitle": "Make intelligence institutional",
+        "sourcePages": [
+          9,
+          10
+        ],
+        "imagePage": 9
+      },
+      {
+        "num": "05",
+        "section": "Leadership Practice",
+        "title": "The Attention Audit",
+        "inBrief": "A practical exercise based on July's leadership article: turn a completed week into a clearer choice about the next one.",
+        "intro": [
+          "Choose one completed working week. Review your calendar alongside your work records, then assign each block of time to one of four categories: essential operations, recurring problem-solving, people development, or institution building.",
+          "Record the minutes actually spent. Label estimates where the duration is uncertain, count each minute only once, and identify any unrecorded time. Use one primary category for each block, even when the activity served several purposes.",
+          "Calculate the institution-building share by dividing the minutes in that category by all recorded working minutes, then multiplying by 100. This is a personal baseline for reflection, not a universal performance target. The four categories are a suggested review tool."
+        ],
+        "vs": {
+          "leftLabel": "Review the Completed Week",
+          "leftSub": "Actual time and recurring problems",
+          "rightLabel": "Design the Next Week",
+          "rightSub": "Protected time and a defined result"
+        },
+        "contHeading": "Make the next week different",
+        "cont": [
+          "Review recurring problems. Select one that a better process, clearer authority or more reliable information could resolve. Name an owner and evidence that repeated intervention is no longer necessary.",
+          "Protect one block next week for an important decision about the institution’s future. Decide what to stop, defer or delegate while maintaining essential services. Define the result this time should produce.",
+          "Repeat the review next week. Compare recorded time, recurring issues and the promised result. Keep changes that build capability; adjust those that do not."
+        ],
+        "quote": "Make one improvement that reduces tomorrow's need for intervention.",
+        "frameworksLabel": "Review Categories",
+        "frameworks": [
+          {
+            "label": "Operations",
+            "sub": "essential delivery"
+          },
+          {
+            "label": "Recurring issues",
+            "sub": "repeated intervention"
+          },
+          {
+            "label": "People",
+            "sub": "development"
+          },
+          {
+            "label": "Institution",
+            "sub": "future capability"
+          }
+        ],
+        "takeaways": [
+          "Use recorded time as a baseline; label estimates and avoid double counting.",
+          "Address one recurring cause with a named owner and visible evidence.",
+          "Protect time for the future, then review the result it produces."
+        ],
+        "frameworksTitle": "Where did the week go?",
+        "sourcePages": [
+          11,
+          12
+        ],
+        "imagePage": 11
+      },
+      {
+        "num": "06",
+        "section": "Leadership Practice",
+        "title": "The Decision Brief",
+        "inBrief": "A practical exercise based on July's articles: make the question, evidence, authority and learning visible before and after a decision.",
+        "intro": [
+          "Choose an important decision. State what must be decided and by when. Use five brief sections: question, evidence, options, authority and review. Separate facts from assumptions and name evidence that could change your view.",
+          "Compare at least two feasible options using the same criteria: strategic fit, ability to deliver and risk. Consider deferral only if realistic, with explicit consequences. Use qualitative judgments when evidence cannot support precise scores.",
+          "Name the authorised decision owner and required consultees. Define what new information or risk would trigger escalation. Adapt these suggested steps to the institution’s existing governance."
+        ],
+        "vs": {
+          "leftLabel": "Before the Decision",
+          "leftSub": "Question, evidence and expected result",
+          "rightLabel": "At the Review",
+          "rightSub": "Actual result, assumptions and lesson"
+        },
+        "contHeading": "Build a learning record",
+        "cont": [
+          "Record the chosen option, its rationale and the main remaining uncertainty. Define one observable progress indicator and a review date. Make the reasoning understandable to another responsible colleague.",
+          "At review, compare actual and expected outcomes. Which assumptions held or failed? What should change next time? Record the lesson in a reusable decision log with appropriate access permissions.",
+          "Use technology to organise questions and evidence while retaining human judgment and accountability. Keep the brief concise and actionable; expand details when the consequences or uncertainty justify it."
+        ],
+        "quote": "A useful decision record preserves both the choice and the reason.",
+        "frameworksLabel": "Brief Sections",
+        "frameworks": [
+          {
+            "label": "Question",
+            "sub": "what and by when"
+          },
+          {
+            "label": "Evidence",
+            "sub": "facts and assumptions"
+          },
+          {
+            "label": "Options",
+            "sub": "feasible choices"
+          },
+          {
+            "label": "Authority",
+            "sub": "owner and consultation"
+          },
+          {
+            "label": "Review",
+            "sub": "result and learning"
+          }
+        ],
+        "takeaways": [
+          "Define the decision and distinguish facts from assumptions.",
+          "Compare feasible options under clear authority and consultation.",
+          "Record the reasoning, review the result and retain the lesson."
+        ],
+        "frameworksTitle": "A clear brief before a clear decision",
+        "sourcePages": [
+          13,
+          14
+        ],
+        "imagePage": 13
+      }
     ],
-    "quote": "When pressure rises, institutions rarely perform above their culture. They perform according to it.",
-    "frameworksLabel": "Principles",
-    "frameworks": [
-     {
-      "label": "Facts",
-      "sub": "over noise"
-     },
-     {
-      "label": "Long-term impact",
-      "sub": "over short-term optics"
-     },
-     {
-      "label": "Principled judgment",
-      "sub": "over emotional response"
-     }
+    "lab": {
+      "title": "The Leadership Crossword",
+      "subtitle": "Use the bilingual clues to complete the grid. Write answers in English. Numbers in brackets show the number of letters.",
+      "items": [
+        "1. Across: Interconnected processes that make performance repeatable. (7).",
+        "2. Down: Confidence in another person’s reliability and integrity. (5).",
+        "3. Down: A structured examination of work to identify improvements. (6).",
+        "4. Across: Shared values and repeated behaviours that shape an organisation. (7).",
+        "5. Across: A coherent set of choices for achieving long-term goals. (8).",
+        "6. Down: Moral principles that guide conduct and decisions. (6).",
+        "7. Across: The quality of being clear and easy to understand. (7).",
+        "8. Across: The fundamental reason an organisation exists. (7)."
+      ],
+      "guide": "Answer key. Across: 1 SYSTEMS · 4 CULTURE · 5 STRATEGY · 7 CLARITY · 8 PURPOSE. Down: 2 TRUST · 3 REVIEW · 6 ETHICS.",
+      "reflection": "Which of these eight ideas needs more attention in your institution?",
+      "crossword": {
+        "grid": [
+          "#.......##",
+          "####.####.",
+          "###.......",
+          "####.####.",
+          "........#.",
+          "#####.###.",
+          "#####.###.",
+          "#.......##",
+          "#####.####",
+          ".......###"
+        ],
+        "numbers": [
+          [
+            0,
+            1,
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            3
+          ],
+          [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            5,
+            0,
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            8,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "solution": [
+          "#SYSTEMS##",
+          "####R####R",
+          "###CULTURE",
+          "####S####V",
+          "STRATEGY#I",
+          "#####T###E",
+          "#####H###W",
+          "#CLARITY##",
+          "#####C####",
+          "PURPOSE###"
+        ]
+      }
+    }
+  },
+  {
+    "id": "august-2026",
+    "month": "August",
+    "year": 2026,
+    "intro": "Five weekly perspectives and one Leadership Practice guide on sustainability, capability and resilience.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Sustainability & Governance",
+        "title": "Sustainability in Decisions",
+        "inBrief": "Sustainability becomes transformative when it shapes everyday decisions, resources and accountability.",
+        "intro": [
+          "Sustainability becomes transformative only when it moves from the margins of strategy to the centre of decision-making. Too often, sustainability is treated as a separate programme, report, or department.",
+          "But the most resilient institutions understand that it must influence how investments are selected, risks are assessed, operations are designed, people are developed, and performance is measured.",
+          "A sustainability strategy cannot succeed if the wider organization continues to make decisions using only short-term financial or operational considerations. Real progress begins when environmental and social impact becomes part of everyday governance."
+        ],
+        "vs": {
+          "leftLabel": "Separate Programme",
+          "leftSub": "An additional responsibility",
+          "rightLabel": "Everyday Governance",
+          "rightSub": "A better way of making decisions"
+        },
+        "contHeading": "Ask better questions",
+        "cont": [
+          "This means asking better questions: Will this decision strengthen long-term resilience? Are we solving a problem—or merely transferring its consequences elsewhere? Can economic value, environmental responsibility, and social benefit be created together? The future will not reward organizations that simply communicate ambitious commitments. It will reward those that embed sustainability into their systems, incentives, budgets, and accountability frameworks. Sustainability is not an additional responsibility. It is a better way of making decisions."
+        ],
+        "quote": "Sustainability is not an additional responsibility. It is a better way of making decisions.",
+        "frameworksLabel": "Questions",
+        "frameworks": [
+          {
+            "label": "Resilience",
+            "sub": "Stronger over time?"
+          },
+          {
+            "label": "Consequences",
+            "sub": "Solved or transferred?"
+          },
+          {
+            "label": "Shared value",
+            "sub": "Economic · environmental · social"
+          }
+        ],
+        "takeaways": [
+          "Bring sustainability into everyday governance.",
+          "Consider long-term resilience and transferred consequences.",
+          "Align systems, incentives, budgets and accountability."
+        ],
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3,
+        "frameworksTitle": "Three questions before a decision"
+      },
+      {
+        "num": "02",
+        "section": "Leadership & Legacy",
+        "title": "Leadership That Lasts",
+        "inBrief": "The deeper test of leadership is whether people, knowledge and systems continue to grow after a leader leaves.",
+        "intro": [
+          "Leadership is often judged by what we start. Perhaps it should be judged equally by what continues after we leave. Titles are temporary. Institutions are not meant to be.",
+          "During our careers, we may lead important initiatives, introduce reforms, build teams, or achieve results that carry our names. But the deeper test of leadership comes later: Did we build something capable of continuing without us?",
+          "Sustainable leadership means creating institutions where knowledge is retained, authority is responsibly distributed, people are developed, and good practices become embedded in systems rather than dependent on personalities."
+        ],
+        "vs": {
+          "leftLabel": "Achievement",
+          "leftSub": "What changed while we were there",
+          "rightLabel": "Legacy",
+          "rightSub": "What keeps growing after we leave"
+        },
+        "contHeading": "A different measure of success",
+        "cont": [
+          "This requires a different definition of success. Success is not being indispensable. It is developing people who can surpass us. It is replacing personal intervention with institutional capability. It is turning experience into organizational memory. And it is leaving behind systems strong enough to evolve when circumstances change.",
+          "Every leadership position eventually ends. The institution's journey continues. Perhaps, then, one of the most meaningful measures of leadership is not simply what changed while we were there, but what remained capable of growing after we were gone. That is the difference between achievement and legacy."
+        ],
+        "quote": "Every leadership position eventually ends. The institution’s journey continues.",
+        "frameworksLabel": "Foundations",
+        "frameworks": [
+          {
+            "label": "Knowledge",
+            "sub": "Retain"
+          },
+          {
+            "label": "Authority",
+            "sub": "Distribute responsibly"
+          },
+          {
+            "label": "People",
+            "sub": "Develop"
+          },
+          {
+            "label": "Practices",
+            "sub": "Embed in systems"
+          }
+        ],
+        "takeaways": [
+          "Develop people who can surpass you.",
+          "Turn experience into institutional memory.",
+          "Build systems that continue to evolve after you leave."
+        ],
+        "sourcePages": [
+          5,
+          6
+        ],
+        "imagePage": 5,
+        "frameworksTitle": "Four foundations for lasting leadership"
+      },
+      {
+        "num": "03",
+        "section": "Strategic Choice",
+        "title": "The Discipline to Stop",
+        "inBrief": "Making space for new priorities requires the discipline to remove activities that no longer create value.",
+        "intro": [
+          "One of the most underrated leadership skills is knowing what to stop. Organizations are usually very good at adding. New initiatives. New committees. New reports. New systems. New priorities.",
+          "What they are often less disciplined about is removing what no longer creates value. Over time, this creates institutional clutter. People become busy without necessarily becoming more productive. Decision-making slows. Priorities compete with one another. And resources remain tied to activities whose original purpose may have disappeared years ago.",
+          "Strategic leadership therefore requires more than deciding what to pursue. It requires the courage to ask: What should we stop doing?",
+          "Which process exists only because “we have always done it this way”? Which report is produced but rarely used?"
+        ],
+        "vs": {
+          "leftLabel": "Institutional Clutter",
+          "leftSub": "Busy without becoming more productive",
+          "rightLabel": "Strategic Space",
+          "rightSub": "Capacity to pursue new priorities"
+        },
+        "contHeading": "Create space for priorities",
+        "cont": [
+          "Which approval adds delay without adding meaningful control? Which initiative consumes resources but no longer supports the institution’s priorities?",
+          "Stopping something can feel uncomfortable because every activity has an owner, a history, and often a constituency. But strategy is ultimately about choice. An organization that cannot stop old priorities will eventually lose the capacity to pursue new ones. Progress is not always about adding more. Sometimes, the most strategic decision a leader can make is to create space. Before adding the next initiative, perhaps every leadership team should identify one thing it is prepared to stop."
+        ],
+        "quote": "Sometimes, the most strategic decision a leader can make is to create space.",
+        "frameworksLabel": "Review Areas",
+        "frameworks": [
+          {
+            "label": "Processes",
+            "sub": "Habit or purpose?"
+          },
+          {
+            "label": "Reports",
+            "sub": "Used or filed?"
+          },
+          {
+            "label": "Approvals",
+            "sub": "Control or delay?"
+          },
+          {
+            "label": "Initiatives",
+            "sub": "Aligned or outdated?"
+          }
+        ],
+        "takeaways": [
+          "Review activities that no longer create value.",
+          "Ask what each process, report and approval contributes.",
+          "Identify one thing to stop before adding the next initiative."
+        ],
+        "sourcePages": [
+          7,
+          8
+        ],
+        "imagePage": 7,
+        "frameworksTitle": "Four places to question old routines"
+      },
+      {
+        "num": "04",
+        "section": "Performance & Capability",
+        "title": "Beyond Today's Results",
+        "inBrief": "A strong institution measures both the results it delivers and the capability it builds for tomorrow.",
+        "intro": [
+          "Most organizations measure performance. Far fewer measure whether they are becoming more capable. Revenue, delivery, compliance, customer satisfaction, project completion and other performance indicators tell us what an institution has achieved. They do not always tell us whether the institution itself is getting stronger.",
+          "An organization can deliver excellent results today while quietly becoming more dependent on a few individuals, accumulating outdated processes, losing institutional knowledge, or postponing investments in future capability.",
+          "That is why leaders should look beyond performance and ask a second question: Are we becoming a better institution while delivering these results?",
+          "Institutional capability can be seen in the quality of decisions, the depth of leadership talent, the reliability of data, the ability to collaborate across boundaries, the speed of learning, and the resilience of systems when circumstances change."
+        ],
+        "vs": {
+          "leftLabel": "Performance",
+          "leftSub": "What did we achieve?",
+          "rightLabel": "Institutional Capability",
+          "rightSub": "What became stronger?"
+        },
+        "contHeading": "Measure what becomes stronger",
+        "cont": [
+          "These are not secondary considerations. They determine whether today's success can be repeated tomorrow.",
+          "The distinction matters particularly in periods of rapid technological, economic and environmental change. An organization optimized only for current performance can become highly efficient at delivering yesterday's priorities. Sustainable excellence requires something more: the continuous renewal of institutional capability. Perhaps every leadership dashboard should therefore contain two dimensions: What did we achieve? and What became stronger because we achieved it? The first measures performance. The second measures whether we are building an institution capable of enduring."
+        ],
+        "quote": "Are we becoming a better institution while delivering these results?",
+        "frameworksLabel": "Hidden Risks",
+        "frameworks": [
+          {
+            "label": "Dependence",
+            "sub": "Too few individuals"
+          },
+          {
+            "label": "Old processes",
+            "sub": "Accumulation"
+          },
+          {
+            "label": "Knowledge loss",
+            "sub": "Institutional memory"
+          },
+          {
+            "label": "Deferred investment",
+            "sub": "Future capability"
+          }
+        ],
+        "takeaways": [
+          "Measure performance and institutional capability together.",
+          "Look for hidden dependencies, knowledge loss and outdated processes.",
+          "Ask what became stronger through each achievement."
+        ],
+        "sourcePages": [
+          9,
+          10
+        ],
+        "imagePage": 9,
+        "frameworksTitle": "Four risks behind strong results"
+      },
+      {
+        "num": "05",
+        "section": "Resilience & Renewal",
+        "title": "Resilience Through Learning",
+        "inBrief": "True resilience turns disruption into intelligence and redesigns the institution before the next shock arrives.",
+        "intro": [
+          "Resilience is not the ability to return to normal. It is the ability to emerge better prepared for what comes next. Too often, resilience is discussed as recovery: restoring operations, rebuilding capacity, and returning to previous levels of performance after disruption.",
+          "But returning to the same system that was vulnerable in the first place is not resilience. It is restoration. True resilience requires learning.",
+          "After every disruption—economic, environmental, technological, or organizational—leaders should ask: What did this expose about our systems? Which assumptions proved wrong? Where were we too dependent on individuals, suppliers, technologies, or outdated processes? And most importantly: What should we redesign before the next disruption arrives? The strongest institutions do not simply absorb shocks. They convert them into intelligence."
+        ],
+        "vs": {
+          "leftLabel": "Restoration",
+          "leftSub": "Return to previous performance",
+          "rightLabel": "Resilience",
+          "rightSub": "Emerge better prepared"
+        },
+        "contHeading": "Turn shocks into intelligence",
+        "cont": [
+          "They strengthen weak points, diversify critical dependencies, update governance, develop new capabilities, and build greater adaptability into the organization itself.",
+          "This distinction matters as the world faces increasingly interconnected challenges—from climate risks and technological disruption to geopolitical and economic uncertainty. The objective should not be to build institutions that never experience disruption. That is unrealistic. The objective is to build institutions that learn faster than the environment changes around them. Resilience is therefore not a defensive capability. It is a strategic one. And sometimes the clearest evidence of resilience is not how quickly an organization returns to where it was—but how intelligently it decides not to."
+        ],
+        "quote": "True resilience requires learning.",
+        "frameworksLabel": "Actions",
+        "frameworks": [
+          {
+            "label": "Strengthen",
+            "sub": "Weak points"
+          },
+          {
+            "label": "Diversify",
+            "sub": "Dependencies"
+          },
+          {
+            "label": "Update",
+            "sub": "Governance"
+          },
+          {
+            "label": "Develop",
+            "sub": "Capabilities"
+          },
+          {
+            "label": "Adapt",
+            "sub": "The institution"
+          }
+        ],
+        "takeaways": [
+          "Learn from every disruption and question failed assumptions.",
+          "Redesign weak points before the next shock arrives.",
+          "Treat resilience as a strategic institutional capability."
+        ],
+        "sourcePages": [
+          11,
+          12
+        ],
+        "imagePage": 11,
+        "frameworksTitle": "Five actions that build resilience"
+      },
+      {
+        "num": "06",
+        "section": "Leadership Practice",
+        "title": "The Capability Review",
+        "inBrief": "A practical exercise drawn from this month's five articles: examine one decision and choose one change to own.",
+        "intro": [
+          "Choose one recent institutional decision and review it through the five questions below. Invite the people who understand its consequences, including those who will implement it. Use a document, an observed practice or an identified gap to support each answer.",
+          "Sustainability: did we consider long-term environmental and social consequences? Continuity: can the work continue if a key person leaves? Focus: what activity could stop so that this priority receives enough attention?",
+          "Capability: what became stronger because of the result? Resilience: what should be redesigned in light of the latest lesson or disruption? This is a proposed review exercise, not a performance score or a claim about your institution."
+        ],
+        "vs": {
+          "leftLabel": "Review Evidence",
+          "leftSub": "Document · practice · gap",
+          "rightLabel": "Make a Commitment",
+          "rightSub": "Action · owner · evidence · date"
+        },
+        "contHeading": "Finish with one owned action",
+        "cont": [
+          "Select one change that addresses the most consequential gap the review revealed. Write the action in a single sentence. Name the person responsible, the evidence that will show whether the change worked, and a date to review that evidence. At the review, record what happened, what you learned and what needs to change next. If the evidence is incomplete, state what is missing. Keep the decision and its lesson together so that the institution retains the knowledge when people or priorities change.",
+          "The output is one action, one named owner, clear evidence and a review date. The value lies in the follow-through."
+        ],
+        "quote": "A useful review ends with a change someone owns.",
+        "frameworksLabel": "Review Questions",
+        "frameworks": [
+          {
+            "label": "Sustainability",
+            "sub": "Consequences?"
+          },
+          {
+            "label": "Continuity",
+            "sub": "Can work continue?"
+          },
+          {
+            "label": "Focus",
+            "sub": "What can stop?"
+          },
+          {
+            "label": "Capability",
+            "sub": "What grew stronger?"
+          },
+          {
+            "label": "Resilience",
+            "sub": "What needs redesign?"
+          }
+        ],
+        "takeaways": [
+          "Support each answer with evidence or a clearly identified gap.",
+          "Choose one action and name its owner.",
+          "Set a review date and retain the lesson with the decision."
+        ],
+        "sourcePages": [
+          13,
+          14
+        ],
+        "imagePage": 13,
+        "frameworksTitle": "Five lenses. One practical review."
+      }
     ],
-    "takeaways": [
-     "Decide deliberately, not reactively.",
-     "Pressure exposes culture: clarity or improvisation.",
-     "Invest in governance, accountability and leadership development before crises."
-    ]
-   },
-   {
-    "num": "02",
-    "section": "Culture & Accountability",
-    "title": "Culture in Every Action",
-    "inBrief": "Culture is shaped every day by what leaders measure, reward and tolerate — not by policies or mission statements.",
-    "intro": [
-     "In leadership, what gets measured gets attention. What gets rewarded gets repeated. What gets tolerated becomes culture.",
-     "Culture is often discussed as an abstract concept, yet it is shaped every day through decisions, behaviors, and consequences. Organizations do not become accountable because accountability is written in a policy. They become accountable when leaders consistently recognize excellence, address underperformance, and uphold standards fairly.",
-     "The same principle applies to innovation, collaboration, integrity, and service excellence."
+    "lab": {
+      "title": "The Decision Challenge",
+      "subtitle": "Use only the stated rules. Each challenge has one answer. All planning figures are hypothetical.",
+      "items": [
+        "Track the process: In each round, close half the open cases, then add 3 new cases. Starting with 54 cases, how many remain after 3 rounds?",
+        "Choose within capacity: Each initiative may be chosen once. Choose exactly 2 within 11 team-days. Which pair achieves the highest total priority score? Initiative / Team-days / Priority points: A / 4 / 6; B / 5 / 9; C / 7 / 12.",
+        "Sequence the reviews: Reviews A, B, C and D run from Monday to Thursday, one per day. A precedes C. B is immediately after D. C is not on Thursday. What is the order?",
+        "Separate fact from assumption: Every proposal that passes both the cost and feasibility tests is approved. Proposal X is not approved. Which conclusion must follow? A. It did not pass the cost test. B. It did not pass the feasibility test. C. At least one test was not passed."
+      ],
+      "guide": "Answer key: 1 · 12 cases (54 → 30 → 18 → 12). 2 · A + C: 11 team-days, 18 priority points. 3 · Monday A, Tuesday C, Wednesday D, Thursday B. 4 · C: at least one test was not passed.",
+      "table": {
+        "headers": [
+          "Initiative",
+          "Team-days",
+          "Priority points"
+        ],
+        "rows": [
+          [
+            "A",
+            4,
+            6
+          ],
+          [
+            "B",
+            5,
+            9
+          ],
+          [
+            "C",
+            7,
+            12
+          ]
+        ],
+        "afterItem": 1
+      }
+    }
+  },
+  {
+    "id": "september-2026",
+    "month": "September",
+    "year": 2026,
+    "intro": "Four original weekly articles and two proposed Leadership Practice exercises.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Sustainability & Delivery",
+        "title": "Sustainability Is Execution",
+        "inBrief": "Turn stated goals into measurable outcomes.",
+        "intro": [
+          "The next era of sustainability will be defined not by ambition, but by implementation discipline. Over the past decade, organizations have become increasingly comfortable setting bold sustainability targets. Net zero. Nature positive. Circular economy. Climate resilience. These ambitions matter. But ambition is only the starting point.",
+          "The harder question is whether institutions have built the governance, data, financing mechanisms, technical capability, and accountability needed to turn those commitments into measurable outcomes. A target without ownership is an aspiration. A strategy without resources is a document.",
+          "And a commitment without measurement is difficult to distinguish from good intention. The next generation of sustainability leadership must therefore focus on execution architecture: Clear accountability for outcomes. Environmental data that decision-makers can trust. Budgets aligned with stated priorities. Performance indicators connected to management decisions. And regular scrutiny of whether interventions are actually producing the intended impact."
+        ],
+        "vs": {
+          "leftLabel": "Announcements",
+          "leftSub": "Sustainability and delivery",
+          "rightLabel": "Delivery Systems",
+          "rightSub": "Set measurable outcomes"
+        },
+        "contHeading": "Put delivery architecture in place",
+        "cont": [
+          "This is particularly important in government, where environmental decisions can influence infrastructure, investment, public health, competitiveness, and quality of life for decades. The conversation must evolve from: “What have we committed to?”",
+          "to: “What institutional machinery have we built to deliver it?” Sustainability will not advance because organizations become better at announcing ambition.",
+          "It will advance when they become better at converting ambition into systems, decisions and measurable results. The future of sustainability is execution."
+        ],
+        "quote": "The future of sustainability is execution.",
+        "frameworksLabel": "Takeaways",
+        "frameworks": [
+          {
+            "label": "Assign ownership",
+            "sub": "accountability"
+          },
+          {
+            "label": "Fund priorities",
+            "sub": "budgets and delivery"
+          },
+          {
+            "label": "Measure impact",
+            "sub": "evidence of results"
+          }
+        ],
+        "takeaways": [
+          "Assign ownership · accountability",
+          "Fund priorities · budgets and delivery",
+          "Measure impact · evidence of results"
+        ],
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3,
+        "frameworksTitle": "From the article"
+      },
+      {
+        "num": "02",
+        "section": "Climate Leadership",
+        "title": "Climate Leadership at 1.5°C",
+        "inBrief": "Higher warming risks make precise decisions more important.",
+        "intro": [
+          "Crossing 1.5°C should not lower our ambition. It should raise the standard of leadership.",
+          "For years, much of the climate conversation has focused on preventing global warming from exceeding 1.5°C. The latest evidence presents leaders with a more difficult reality: temporary overshoot is increasingly likely. That must not become an excuse for resignation. It should fundamentally change the way we think about environmental leadership. Every fraction of a degree still matters. Every year of delay still matters.",
+          "And every decision that strengthens resilience, reduces emissions, protects ecosystems, or accelerates adaptation still matters. The challenge ahead therefore requires us to operate on several fronts simultaneously: Reduce the scale and duration of overshoot.",
+          "Accelerate adaptation to impacts that can no longer be avoided. Protect natural systems that strengthen resilience. Invest in environmental intelligence capable of detecting risks earlier.",
+          "And ensure that climate considerations become part of mainstream economic, infrastructure and institutional decision-making."
+        ],
+        "vs": {
+          "leftLabel": "Resignation",
+          "leftSub": "Growing climate risk",
+          "rightLabel": "Determined Action",
+          "rightSub": "Decide with precision"
+        },
+        "contHeading": "Act on several fronts",
+        "cont": [
+          "Perhaps most importantly, we need to move beyond treating climate action as a collection of environmental projects. It is increasingly becoming a question of national resilience, economic competitiveness, public health, food and water security, infrastructure protection and intergenerational responsibility. The next phase of climate leadership will not be defined by who announced the most ambitious target.",
+          "It will be defined by who built the institutions capable of navigating a more difficult climate reality while continuing to pursue a safer one. Overshoot is not permission to surrender. It is a reason to become more precise, more resilient and considerably more determined."
+        ],
+        "quote": "Overshoot is not permission to surrender.",
+        "frameworksLabel": "Takeaways",
+        "frameworks": [
+          {
+            "label": "Limit overshoot",
+            "sub": "scale and duration"
+          },
+          {
+            "label": "Adapt faster",
+            "sub": "unavoidable impacts"
+          },
+          {
+            "label": "Detect risks",
+            "sub": "early intelligence"
+          }
+        ],
+        "takeaways": [
+          "Limit overshoot · scale and duration",
+          "Adapt faster · unavoidable impacts",
+          "Detect risks · early intelligence"
+        ],
+        "sourcePages": [
+          5,
+          6
+        ],
+        "imagePage": 5,
+        "frameworksTitle": "From the article"
+      },
+      {
+        "num": "03",
+        "section": "Energy & Competitiveness",
+        "title": "Energy for the Next Economy",
+        "inBrief": "Design energy infrastructure around the economy it should serve.",
+        "intro": [
+          "The energy transition is no longer simply an environmental transition. It is becoming the infrastructure of the next economy.",
+          "For years, the energy debate was largely framed around one objective: reducing emissions. That objective remains essential. But the conversation is becoming much bigger.",
+          "Artificial intelligence and advanced computing are increasing electricity demand. Cities require greater resilience. Industries are being reshaped by electrification. Developing economies still need reliable and affordable energy to unlock opportunity. And countries increasingly view energy security as inseparable from economic security. This changes the strategic question. It is no longer simply:",
+          "How do we produce cleaner energy? It is: How do we build an energy system capable of supporting the economy we want ten, twenty and thirty years from now?",
+          "That requires more than renewable generation. It requires intelligent grids, storage, efficiency, resilient infrastructure, better demand management, stronger regional integration and—critically—investment frameworks capable of turning plans into projects."
+        ],
+        "vs": {
+          "leftLabel": "Cleaner Generation",
+          "leftSub": "Energy and competitiveness",
+          "rightLabel": "An Integrated Energy System",
+          "rightSub": "Design for economic needs"
+        },
+        "contHeading": "Design the system, not just the supply",
+        "cont": [
+          "It also requires environmental considerations to be embedded from the beginning. The objective should not be to choose between economic growth and environmental responsibility. The real leadership challenge is to design systems where competitiveness, energy security and sustainability reinforce one another. Countries that understand this early will not merely participate in the energy transition. They will use it to shape new industries, attract investment, strengthen resilience and create the foundations of their future economies. The energy transition is therefore not just about changing where our power comes from.",
+          "It is about deciding what kind of economy that power will enable."
+        ],
+        "quote": "It is about deciding what kind of economy that power will enable.",
+        "frameworksLabel": "Takeaways",
+        "frameworks": [
+          {
+            "label": "Build smart grids",
+            "sub": "connect and store"
+          },
+          {
+            "label": "Manage demand",
+            "sub": "efficiency and resilience"
+          },
+          {
+            "label": "Enable delivery",
+            "sub": "investment frameworks"
+          }
+        ],
+        "takeaways": [
+          "Build smart grids · connect and store",
+          "Manage demand · efficiency and resilience",
+          "Enable delivery · investment frameworks"
+        ],
+        "sourcePages": [
+          7,
+          8
+        ],
+        "imagePage": 7,
+        "frameworksTitle": "From the article"
+      },
+      {
+        "num": "04",
+        "section": "Environmental Governance",
+        "title": "Earth-System Governance",
+        "inBrief": "Interconnected risks call for institutions that can see the whole system.",
+        "intro": [
+          "We cannot solve interconnected environmental problems with disconnected institutions.",
+          "For decades, environmental management has largely been organized by issue. Climate change has its strategy. Water has its strategy. Biodiversity has its strategy. Waste, air quality, land use and chemicals each have their own policies, departments and indicators. Yet nature does not operate in departments.",
+          "Water affects food systems. Land-use decisions affect biodiversity and carbon. Energy choices affect air quality, climate and economic competitiveness. Ecosystem degradation ultimately affects health, resilience and national security. The challenge, therefore, is no longer simply to improve individual environmental programmes. It is to improve the architecture of environmental decision-making itself.",
+          "The next generation of environmental governance should connect three things that are still too often separated: Science, intelligence and decision authority. Scientific evidence must become usable intelligence.",
+          "Intelligence must reach decision-makers early enough to matter. And decision-making must consider cumulative impacts across environmental, economic and social systems—not merely the mandate of one institution."
+        ],
+        "vs": {
+          "leftLabel": "Separate Programmes",
+          "leftSub": "Environmental governance",
+          "rightLabel": "Shared Intelligence",
+          "rightSub": "See the whole system"
+        },
+        "contHeading": "Connect insight to authority",
+        "cont": [
+          "This requires integrated data platforms, shared indicators, stronger horizon scanning, clearer accountability and governance mechanisms capable of seeing the whole system rather than individual components. Technology, including artificial intelligence and real-time environmental monitoring, can dramatically strengthen this capability. But technology is only an enabler.",
+          "The real transformation is institutional. The environmental institutions of the future will not simply regulate pollution or protect individual resources. They will increasingly serve as intelligence systems for national resilience—helping governments anticipate environmental change, understand interconnected risks and make better decisions before problems become crises.",
+          "Perhaps the next evolution of sustainability is therefore not another strategy. It is building institutions capable of seeing the connections that strategies often miss."
+        ],
+        "quote": "We cannot solve interconnected environmental problems with disconnected institutions.",
+        "frameworksLabel": "Takeaways",
+        "frameworks": [
+          {
+            "label": "Science",
+            "sub": "credible evidence"
+          },
+          {
+            "label": "Intelligence",
+            "sub": "timely analysis"
+          },
+          {
+            "label": "Decision authority",
+            "sub": "action across sectors"
+          }
+        ],
+        "takeaways": [
+          "Science · credible evidence",
+          "Intelligence · timely analysis",
+          "Decision authority · action across sectors"
+        ],
+        "sourcePages": [
+          9,
+          10
+        ],
+        "imagePage": 9,
+        "frameworksTitle": "From the article"
+      },
+      {
+        "num": "05",
+        "section": "Proposed Leadership Practice",
+        "title": "From Pledge to Proof",
+        "inBrief": "Turn one commitment into a plan that can be checked.",
+        "intro": [
+          "Choose one stated sustainability commitment. Define what would count as progress.",
+          "Name one accountable owner, one funding decision and one data source. Identify a near-term adaptation step and a separate action to reduce emissions. Set a review date and name the decision your evidence must inform."
+        ],
+        "vs": {
+          "leftLabel": "Before the Decision",
+          "leftSub": "Define measurable progress",
+          "rightLabel": "After the Decision",
+          "rightSub": "Set a review date"
+        },
+        "contHeading": "Review the decision",
+        "cont": [
+          "If a measure is not improving, check the data, resources and responsibility before revising the target. Record what to change and who will make the change."
+        ],
+        "quote": "Turn one commitment into a plan that can be checked.",
+        "frameworksLabel": "Takeaways",
+        "frameworks": [
+          {
+            "label": "Name the owner",
+            "sub": "clear accountability"
+          },
+          {
+            "label": "Link a budget",
+            "sub": "resourced commitments"
+          },
+          {
+            "label": "Check results",
+            "sub": "review evidence"
+          }
+        ],
+        "takeaways": [
+          "Name the owner · clear accountability",
+          "Link a budget · resourced commitments",
+          "Check results · review evidence"
+        ],
+        "sourcePages": [
+          11,
+          12
+        ],
+        "imagePage": 11,
+        "frameworksTitle": "From the article"
+      },
+      {
+        "num": "06",
+        "section": "Proposed Leadership Practice",
+        "title": "Test the Connections",
+        "inBrief": "Trace how one energy decision affects other systems.",
+        "intro": [
+          "Choose a planned energy infrastructure decision. Compare it with a credible alternative. Map one effect each on electricity demand, water or land, and air quality or emissions. Distinguish established evidence from assumptions; record unresolved trade-offs. Ask the affected teams to agree on one shared indicator and who maintains it."
+        ],
+        "vs": {
+          "leftLabel": "Before the Decision",
+          "leftSub": "Compare an alternative",
+          "rightLabel": "After the Decision",
+          "rightSub": "Agree on one indicator"
+        },
+        "contHeading": "Review the decision",
+        "cont": [
+          "Set an early warning threshold. State who can act when it is reached and when a wider review is needed. Retain the alternative and revisit it if evidence changes."
+        ],
+        "quote": "Trace how one energy decision affects other systems.",
+        "frameworksLabel": "Takeaways",
+        "frameworks": [
+          {
+            "label": "Map effects",
+            "sub": "across systems"
+          },
+          {
+            "label": "Share evidence",
+            "sub": "one common signal"
+          },
+          {
+            "label": "Name authority",
+            "sub": "decisions in time"
+          }
+        ],
+        "takeaways": [
+          "Map effects · across systems",
+          "Share evidence · one common signal",
+          "Name authority · decisions in time"
+        ],
+        "sourcePages": [
+          13,
+          14
+        ],
+        "imagePage": 13,
+        "frameworksTitle": "From the article"
+      }
     ],
-    "vs": {
-     "leftLabel": "Not Culture",
-     "leftSub": "What an organization says it values · Mission statements and presentations",
-     "rightLabel": "Culture",
-     "rightSub": "What an organization repeatedly does · What leaders celebrate, ignore and accept"
-    },
-    "contHeading": "Leadership sends the signals",
-    "cont": [
-     "Employees pay close attention to what leadership celebrates, ignores, and accepts. Over time, these signals become more influential than mission statements or presentations. This is why culture should never be viewed as a communications exercise. It is an operational reality created by leadership actions.",
-     "The strongest institutions understand this well. They build cultures intentionally, reinforce them consistently, and protect them relentlessly."
+    "lab": {
+      "title": "The Resilience Relay",
+      "subtitle": "Proposed review activity. Work through the hypothetical scenario, then compare your response with the guide below.",
+      "items": [
+        "Hypothetical scenario: A hot spell raises power and water demand as a grid upgrade is pending.",
+        "Put these steps in order: decide, verify, share an alert.",
+        "Name one signal to watch and one team with authority to act.",
+        "Name one short-term protection and one longer-term change."
+      ],
+      "guide": "Suggested key: verify the demand signal, share the alert, then decide. Check the peak load; notify grid operations. Protect critical services now; review demand management and storage for the longer term."
+    }
+  },
+  {
+    "id": "october-2026",
+    "month": "October",
+    "year": 2026,
+    "intro": "Four original weekly articles and two proposed Leadership Practice exercises.",
+    "articles": [
+      {
+        "num": "01",
+        "section": "Urban Policy",
+        "title": "Housing and Liveable Cities",
+        "inBrief": "A city's sustainability begins with whether its residents can afford to live there.",
+        "intro": [
+          "A city cannot call itself sustainable if people cannot afford to live in it.",
+          "Today, as the world marks World Habitat Day 2026, we should perhaps broaden the way we think about housing. Adequate housing is not simply a social policy issue. It is an economic issue, an environmental issue, an infrastructure issue and ultimately a question of human dignity.",
+          "Where and how we build homes determines commuting patterns, energy consumption, pressure on water and infrastructure, exposure to climate risks, access to employment and, ultimately, quality of life. A poorly planned city can build thousands of homes and still deepen inequality. A well-planned city connects housing with transport, public space, services, employment, environmental quality and resilience.",
+          "This is why the next generation of urban policy must move beyond counting housing units. We should ask: Are we building communities—or simply buildings?",
+          "The distinction matters. Housing that is affordable but disconnected from employment and services creates another form of cost. Housing that ignores climate risk creates tomorrow’s vulnerability.",
+          "Urban development that eliminates natural systems may solve one problem while creating several others."
+        ],
+        "vs": {
+          "leftLabel": "Counting Homes",
+          "leftSub": "Housing units alone",
+          "rightLabel": "Building Communities",
+          "rightSub": "Homes linked to jobs and services"
+        },
+        "contHeading": "Assess the whole neighbourhood",
+        "cont": [
+          "And regeneration that improves neighbourhoods but displaces the people who already live there cannot truly be described as inclusive. The cities that succeed in the decades ahead will be those that treat housing as part of an integrated urban system—connecting land, mobility, energy, water, nature, infrastructure and economic opportunity. For our region, where cities continue to grow and evolve rapidly, there is an extraordinary opportunity to demonstrate that urban development can be ambitious without sacrificing liveability, environmental responsibility or social inclusion.",
+          "Perhaps the measure of a successful city should therefore not be how impressive its skyline becomes. It should be how well people are able to live beneath it."
+        ],
+        "quote": "Are we building communities—or simply buildings?",
+        "frameworksLabel": "Lenses",
+        "frameworks": [
+          {
+            "label": "Affordability",
+            "sub": "homes and access"
+          },
+          {
+            "label": "Connectivity",
+            "sub": "jobs and services"
+          },
+          {
+            "label": "Resilience",
+            "sub": "climate and nature"
+          }
+        ],
+        "takeaways": [
+          "Start with the ability to afford a home.",
+          "Connect homes with jobs and services.",
+          "Plan for climate and resident inclusion."
+        ],
+        "sourcePages": [
+          3,
+          4
+        ],
+        "imagePage": 3,
+        "frameworksTitle": "A liveable city"
+      },
+      {
+        "num": "02",
+        "section": "Food and Water Security",
+        "title": "Food Security and Resilience",
+        "inBrief": "Resilient food systems protect the resources they need to nourish future generations.",
+        "intro": [
+          "The future of food security will not be determined by how much food we produce, but by how intelligently we manage the systems that sustain it.",
+          "For decades, food security has often been discussed primarily in terms of agricultural production, imports and strategic reserves. But the challenge is considerably more complex. A country may increase domestic food production while simultaneously placing unsustainable pressure on its groundwater, energy resources and natural ecosystems.",
+          "Equally, a country may have limited agricultural land yet achieve greater food resilience through innovation, diversification, technology and sound resource management. This raises a fundamental question: Are we pursuing food security—or merely increasing food production?"
+        ],
+        "vs": {
+          "leftLabel": "Increasing Production",
+          "leftSub": "Output without a resource test",
+          "rightLabel": "Securing Food Systems",
+          "rightSub": "Affordable and resilient supply"
+        },
+        "contHeading": "Plan for a resilient food system",
+        "cont": [
+          "The distinction is particularly important for arid regions, including the Arabian Gulf, where water availability, climatic conditions and environmental constraints demand a fundamentally different approach. The next generation of food security strategies must integrate five critical dimensions: Water security: Ensuring that agricultural development does not compromise the availability of water for future generations.",
+          "Technological innovation: Applying precision agriculture, artificial intelligence and advanced production technologies where they deliver measurable benefits. Supply-chain resilience: Diversifying sources, strengthening logistics and reducing exposure to external disruptions. Resource efficiency: Minimizing food loss and waste while improving energy, land and water productivity. Environmental sustainability: Protecting the ecosystems and natural resources upon which long-term food production ultimately depends. As we approach World Food Day 2026, under the theme “Innovate today. Nourish tomorrow,” we should recognize that innovation alone is insufficient. Innovation must be supported by integrated policies, intelligent investment, institutional coordination and measurable outcomes.",
+          "For governments, the challenge is not simply to produce more food domestically. It is to establish a food system capable of ensuring availability, affordability, nutritional quality and resilience without compromising environmental sustainability. Perhaps the most important measure of food security is therefore not how much we can produce today.",
+          "It is how reliably we can nourish future generations without exhausting the resources they will inherit. That is where food security becomes a matter of national resilience and responsible governance."
+        ],
+        "quote": "Are we pursuing food security—or merely increasing food production?",
+        "frameworksLabel": "Lenses",
+        "frameworks": [
+          {
+            "label": "Water limits",
+            "sub": "long-term supply"
+          },
+          {
+            "label": "Diversification",
+            "sub": "continuity of supply"
+          },
+          {
+            "label": "Efficiency",
+            "sub": "less loss and waste"
+          }
+        ],
+        "takeaways": [
+          "Protect water before scaling output.",
+          "Diversify and strengthen supply routes.",
+          "Measure innovation by its outcomes."
+        ],
+        "sourcePages": [
+          5,
+          6,
+          7
+        ],
+        "imagePage": 5,
+        "frameworksTitle": "Selected food-system lenses"
+      },
+      {
+        "num": "03",
+        "section": "Economic Governance",
+        "title": "Biodiversity Economics",
+        "inBrief": "Public finance and investment can support conservation or work against it.",
+        "intro": [
+          "The most consequential environmental decisions are not always made by environment ministries. Sometimes, they are made by finance ministries.",
+          "As the world gathers in Yerevan today for COP17, the United Nations Biodiversity Conference, we should reconsider a fundamental assumption about environmental protection. For decades, biodiversity conservation has largely been approached through environmental legislation, protected areas, restoration programmes and conservation funding. These interventions remain essential.",
+          "However, there is a deeper structural challenge. What happens when governments invest in protecting nature while other economic policies simultaneously encourage its degradation? We cannot expect environmental institutions to reverse biodiversity loss if prevailing financial incentives continue to reward activities that undermine ecosystems."
+        ],
+        "vs": {
+          "leftLabel": "Funding Conservation",
+          "leftSub": "Projects protect selected habitats",
+          "rightLabel": "Aligning Finance",
+          "rightSub": "Incentives reward compatible choices"
+        },
+        "contHeading": "Align incentives with outcomes",
+        "cont": [
+          "This is precisely why the Kunming–Montreal Global Biodiversity Framework includes a commitment to reduce harmful incentives by at least US$500 billion annually by 2030. The implication is significant. Biodiversity loss is not merely an environmental management problem. It is also an economic governance problem.",
+          "Consider the relationship between public investment, infrastructure development, agricultural subsidies, industrial policy, water allocation and natural resource management. Each can either reinforce environmental sustainability or undermine it. The difference often lies in how economic incentives are structured.",
+          "This requires a fundamental shift in institutional thinking. Environmental protection should no longer be regarded primarily as expenditure. It should increasingly be understood as an investment in the natural systems that sustain economic productivity, public health, water security, food systems and national resilience.",
+          "For arid regions, including the Arabian Gulf, this perspective is particularly important. Groundwater reserves, coastal ecosystems, marine biodiversity and fragile terrestrial habitats represent natural assets whose degradation can generate substantial long-term economic and social consequences. The opportunity lies in integrating their value into investment decisions, fiscal policies, infrastructure planning and national development strategies.",
+          "The objective should not be to constrain economic development. It should be to ensure that economic development does not systematically undermine the natural capital upon which future prosperity depends. As COP17 begins, perhaps the most important question for policymakers is not simply how much additional financing can be mobilized for biodiversity. It is whether existing financial systems are aligned with the environmental outcomes governments have committed to achieving. Because ultimately, a nation's commitment to nature is reflected not only in what it chooses to protect. It is equally reflected in what its economic policies encourage."
+        ],
+        "quote": "The difference often lies in how economic incentives are structured.",
+        "frameworksLabel": "Lenses",
+        "frameworks": [
+          {
+            "label": "Identify",
+            "sub": "harmful incentives"
+          },
+          {
+            "label": "Redesign",
+            "sub": "align public finance"
+          },
+          {
+            "label": "Integrate",
+            "sub": "natural capital"
+          }
+        ],
+        "takeaways": [
+          "Review what public money rewards.",
+          "Include natural assets in investment decisions.",
+          "Align finance with conservation outcomes."
+        ],
+        "sourcePages": [
+          8,
+          9,
+          10
+        ],
+        "imagePage": 8,
+        "frameworksTitle": "From spending to incentives"
+      },
+      {
+        "num": "04",
+        "section": "Infrastructure and Nature",
+        "title": "Natural Infrastructure",
+        "inBrief": "Healthy ecosystems underpin economic activity and should be managed as national assets.",
+        "intro": [
+          "Not all essential infrastructure is built. Some of it is alive.",
+          "When governments discuss infrastructure resilience, the conversation typically revolves around roads, bridges, power networks, ports and water systems. Yet some of our most valuable infrastructure receives considerably less attention. Coral reefs, mangroves, wetlands and seagrass meadows quietly perform functions that support economic activity, protect coastlines, sustain fisheries and strengthen community resilience.",
+          "They are not merely environmental assets. They are natural infrastructure. A new global assessment by the IUCN, released during COP17, warns that 96% of assessed shallow-water coral reef ecosystems could face an extremely high risk of collapse by 2075 under its modelled warming scenario.",
+          "This should concern more than environmental authorities."
+        ],
+        "vs": {
+          "leftLabel": "Reactive Management",
+          "leftSub": "Act when damage is visible",
+          "rightLabel": "Asset Management",
+          "rightSub": "Detect risk before disruption"
+        },
+        "contHeading": "Manage ecosystems as assets",
+        "cont": [
+          "It should concern economic policymakers, infrastructure planners, investment institutions and national security strategists. Consider how we manage conventional infrastructure. We inspect bridges before they deteriorate.",
+          "We monitor electricity networks to anticipate failures. We invest in preventive maintenance to avoid expensive disruptions. Yet natural ecosystems are often managed reactively, receiving attention only when degradation becomes visibly severe.",
+          "What if we applied the same strategic discipline to natural infrastructure that we apply to engineered infrastructure? This would require integrating ecosystem health into national asset management, infrastructure planning and investment decisions. It would mean establishing measurable ecological performance indicators, investing in continuous environmental monitoring and assigning clear institutional accountability for the condition of critical ecosystems.",
+          "For coastal economies, particularly across the Arabian Gulf, this approach is especially relevant. Our coastlines support economic development, maritime activities, tourism, fisheries and communities. The ecosystems protecting and sustaining these activities should not be treated as secondary considerations.",
+          "Restoration and conservation remain essential, but prevention must receive equal strategic attention. Neither can replace the need to address climate change. Ultimately, the question is not simply how much we are willing to invest in protecting nature. It is whether we fully understand the economic and societal consequences of allowing natural systems to deteriorate.",
+          "The next generation of infrastructure planning must recognise that protecting nature is not separate from protecting prosperity. Because some of the most important assets a nation possesses were never constructed. They evolved over thousands of years— and cannot easily be replaced."
+        ],
+        "quote": "They are natural infrastructure.",
+        "frameworksLabel": "Lenses",
+        "frameworks": [
+          {
+            "label": "Measure",
+            "sub": "ecological health"
+          },
+          {
+            "label": "Monitor",
+            "sub": "early deterioration"
+          },
+          {
+            "label": "Assign",
+            "sub": "a responsible owner"
+          }
+        ],
+        "takeaways": [
+          "Treat ecosystem health as an asset condition.",
+          "Monitor and act before severe degradation.",
+          "Give each critical asset a clear owner."
+        ],
+        "sourcePages": [
+          11,
+          12,
+          13
+        ],
+        "imagePage": 11,
+        "frameworksTitle": "Protect natural infrastructure"
+      },
+      {
+        "num": "05",
+        "section": "Leadership Practice",
+        "title": "The Access Test",
+        "inBrief": "Proposed exercise based on October’s housing and food security articles. Not an original weekly post.",
+        "intro": [
+          "1. Make missing evidence visible.",
+          "2. Check access for the most affected group.",
+          "3. Record what would change your recommendation."
+        ],
+        "vs": null,
+        "contHeading": "",
+        "cont": [],
+        "quote": "",
+        "frameworksLabel": "",
+        "frameworks": [],
+        "takeaways": [],
+        "frameworksTitle": "",
+        "sourcePages": [
+          14
+        ],
+        "imagePage": 3
+      },
+      {
+        "num": "06",
+        "section": "Leadership Practice",
+        "title": "The Incentive Check",
+        "inBrief": "Proposed exercise based on October’s biodiversity economics and natural infrastructure articles. Not an original weekly post.",
+        "intro": [
+          "1. Tie funding to an observable condition.",
+          "2. Name the responsible team and review point.",
+          "3. Keep economic and ecological aims visible."
+        ],
+        "vs": null,
+        "contHeading": "",
+        "cont": [],
+        "quote": "",
+        "frameworksLabel": "",
+        "frameworks": [],
+        "takeaways": [],
+        "frameworksTitle": "",
+        "sourcePages": [
+          14
+        ],
+        "imagePage": 8
+      }
     ],
-    "quote": "Culture is not what an organization says it values. Culture is what an organization repeatedly does.",
-    "frameworksLabel": "Signals",
-    "frameworks": [
-     {
-      "label": "Measure",
-      "sub": "Attention"
-     },
-     {
-      "label": "Reward",
-      "sub": "Repetition"
-     },
-     {
-      "label": "Tolerate",
-      "sub": "Accepted practice"
-     }
-    ],
-    "takeaways": [
-     "Accountability becomes real through consistent leadership action, not policy text.",
-     "Employees read what leaders celebrate and accept.",
-     "Build culture intentionally, reinforce it consistently, protect it relentlessly."
-    ]
-   },
-   {
-    "num": "03",
-    "section": "Governance & Continuity",
-    "title": "Systems That Sustain Results",
-    "inBrief": "Individual brilliance can solve a problem once. Strong systems can solve it repeatedly.",
-    "intro": [
-     "Many leaders focus on making the right decisions. Exceptional leaders focus on building systems that consistently produce the right decisions. Individual brilliance can solve a problem once. Strong systems can solve it repeatedly.",
-     "This is why enduring institutions invest in governance, clear responsibilities, transparent reporting, and well-defined decision-making processes. These mechanisms may not attract headlines, but they often determine long-term success."
-    ],
-    "vs": {
-     "leftLabel": "When Systems Are Weak",
-     "leftSub": "Dependence on a few individuals · Progress slows when key people are absent · Mistakes become more frequent",
-     "rightLabel": "When Systems Are Strong",
-     "rightSub": "More predictable performance · Accountability improves · Scale with confidence"
-    },
-    "contHeading": "Design for continuity",
-    "cont": [
-     "When systems are weak, organizations become dependent on a few individuals. When systems are strong, performance becomes more predictable, accountability improves, and organizations can scale with confidence.",
-     "The objective of leadership should not be to become indispensable. It should be to create an institution that continues to perform at a high level because the foundations are sound, the processes are effective, and the culture supports excellence."
-    ],
-    "quote": "Great leaders build results. The best leaders build systems that keep producing results long after they are gone.",
-    "frameworksLabel": "Foundations",
-    "frameworks": [
-     {
-      "label": "Governance",
-      "sub": ""
-     },
-     {
-      "label": "Responsibilities",
-      "sub": ""
-     },
-     {
-      "label": "Reporting",
-      "sub": ""
-     },
-     {
-      "label": "Decision processes",
-      "sub": ""
-     }
-    ],
-    "takeaways": [
-     "Build systems that consistently produce the right decisions.",
-     "Weak systems create dependence on a few individuals.",
-     "Aim to build an institution that keeps performing — not to be indispensable."
-    ]
-   },
-   {
-    "num": "04",
-    "section": "Learning & Adaptation",
-    "title": "The Capacity to Learn",
-    "inBrief": "The organizations that thrive in the next decade will not be the largest or the richest, but the ones that learn fastest.",
-    "intro": [
-     "The organizations that thrive in the next decade will not necessarily be the largest, the oldest, or even the most resource-rich. They will be the ones that learn fastest.",
-     "In a world shaped by artificial intelligence, climate challenges, economic shifts, and evolving public expectations, knowledge has a shorter shelf life than ever before. The competitive advantage of the future is not simply expertise. It is the institutional ability to continuously learn, adapt, and improve."
-    ],
-    "vs": {
-     "leftLabel": "No Longer",
-     "leftSub": "“How much do we know?”",
-     "rightLabel": "The Question Now",
-     "rightSub": "“How quickly can we learn what we do not yet know?”"
-    },
-    "contHeading": "Build a culture of learning",
-    "cont": [
-     "This requires more than training programs. It requires a culture where curiosity is encouraged, lessons are captured, innovation is tested, and failure is treated as a source of insight rather than blame.",
-     "Learning organizations do not wait for disruption to force change. They anticipate, experiment, and evolve before circumstances demand it."
-    ],
-    "quote": "In an era of constant change, the capacity to learn may become the most valuable strategic asset any institution possesses.",
-    "frameworksLabel": "Practices",
-    "frameworks": [
-     {
-      "label": "Ask",
-      "sub": "curiosity encouraged"
-     },
-     {
-      "label": "Capture",
-      "sub": "lessons captured"
-     },
-     {
-      "label": "Test",
-      "sub": "innovation tested"
-     },
-     {
-      "label": "Learn",
-      "sub": "failure as insight"
-     }
-    ],
-    "takeaways": [
-     "Knowledge now has a shorter shelf life than ever before.",
-     "Learning needs a culture, not just training programs.",
-     "Anticipate and experiment before disruption forces change."
-    ]
-   },
-   {
-    "num": "05",
-    "section": "Innovation & Execution",
-    "title": "Innovation Is a Capability",
-    "inBrief": "Most organizations have no shortage of ideas. The challenge is building the capacity to turn them into measurable results.",
-    "intro": [
-     "We often speak about innovation as the key to future success. Yet innovation without institutional capacity rarely delivers lasting results.",
-     "The real challenge is not generating new ideas. Most organizations have no shortage of ideas. The challenge is creating an environment where good ideas can be evaluated, tested, implemented, measured, and scaled.",
-     "This requires more than creativity. It requires clear governance, effective execution, skilled people, reliable data, and a culture that supports continuous improvement."
-    ],
-    "vs": {
-     "leftLabel": "Ideas",
-     "leftSub": "Create possibilities",
-     "rightLabel": "Institutional Capability",
-     "rightSub": "Creates impact — the true measure of innovation"
-    },
-    "contHeading": "Make impact the measure",
-    "cont": [
-     "Innovation is not an event. It is a capability. The institutions that will lead in the coming decade are not necessarily those with the most ambitious visions, but those that have built the capacity to consistently transform vision into measurable outcomes.",
-     "Ideas create possibilities. Institutional capability creates impact. And ultimately, impact is the true measure of innovation."
-    ],
-    "quote": "Innovation is not an event. It is a capability.",
-    "frameworksLabel": "Enablers",
-    "frameworks": [
-     {
-      "label": "Governance",
-      "sub": ""
-     },
-     {
-      "label": "Execution",
-      "sub": ""
-     },
-     {
-      "label": "People",
-      "sub": ""
-     },
-     {
-      "label": "Data",
-      "sub": ""
-     },
-     {
-      "label": "Improvement",
-      "sub": ""
-     }
-    ],
-    "takeaways": [
-     "Innovation without institutional capacity rarely delivers lasting results.",
-     "Build an environment to evaluate, test, implement, measure and scale ideas.",
-     "Impact is the true measure of innovation."
-    ]
-   },
-   {
-    "num": "06",
-    "section": "Empowerment & Judgment",
-    "title": "Develop Decision-Makers",
-    "inBrief": "Slow, top-heavy decisions are rarely a people problem. They are often a leadership design problem.",
-    "intro": [
-     "The best leaders don't create followers. They create decision-makers. As organizations grow, complexity increases. Decisions can begin to slow, approvals multiply, and teams become increasingly dependent on senior leadership.",
-     "This is rarely a people problem. It is often a leadership design problem.",
-     "High-performing institutions deliberately build the capability to make good decisions at every level. They establish clear principles, define accountability, provide reliable information, and empower people to act within well-understood boundaries."
-    ],
-    "vs": {
-     "leftLabel": "Every Decision Travels to the Top",
-     "leftSub": "Agility suffers · Approvals multiply",
-     "rightLabel": "Decisions Distributed with Discipline",
-     "rightSub": "Faster and more resilient · Better prepared for change"
-    },
-    "contHeading": "Measure the leaders you develop",
-    "cont": [
-     "When every decision must travel to the top, agility suffers. When decision-making is distributed with discipline, organizations become faster, more resilient, and better prepared for change.",
-     "Leadership is not measured by how many decisions a leader makes personally. It is measured by how many capable leaders they develop, how much sound judgment they cultivate, and how confidently the organization can perform without constant intervention.",
-     "An institution becomes truly mature when good decisions are embedded in its culture — not concentrated in a single office. That is how leadership becomes a lasting legacy."
-    ],
-    "quote": "The best leaders don't create followers. They create decision-makers.",
-    "frameworksLabel": "Foundations",
-    "frameworks": [
-     {
-      "label": "Principles",
-      "sub": "clear"
-     },
-     {
-      "label": "Accountability",
-      "sub": "defined"
-     },
-     {
-      "label": "Information",
-      "sub": "reliable"
-     },
-     {
-      "label": "Boundaries",
-      "sub": "well-understood"
-     }
-    ],
-    "takeaways": [
-     "Distribute decision-making with discipline, not by default.",
-     "Develop people who can make sound decisions within clear boundaries.",
-     "Measure leaders by the judgment they cultivate, not the decisions they keep."
-    ]
-   }
-  ],
-  "lab": {
-   "title": "The Decision Challenge",
-   "subtitle": "Use only the stated rules. Each challenge has one answer. All planning figures are hypothetical.",
-   "items": [
-    "Track the process: In each round, close half the open cases, then add 3 new cases. Starting with 54 cases, how many remain after 3 rounds?",
-    "Choose within capacity: Each initiative may be chosen once. Choose exactly 2 within 11 team-days. Which pair achieves the highest total priority score?",
-    "Sequence the reviews: Reviews A, B, C and D run from Monday to Thursday, one per day. A precedes C. B is immediately after D. C is not on Thursday. What is the order?",
-    "Separate fact from assumption: Every proposal that passes both the cost and feasibility tests is approved. Proposal X is not approved. Which conclusion must follow?"
-   ],
-   "guide": "Answer key: 1 → 12 · 2 → A + C (18 points) · 3 → A → C → D → B · 4 → C: at least one test was not passed."
+    "lab": {
+      "title": "The Resilience Scorecard",
+      "subtitle": "Proposed review activity. Work through the hypothetical scenario, then compare your response with the guide below.",
+      "items": [
+        "Hypothetical case: A city proposes homes and a food hub beside a natural coastal buffer.",
+        "For one year, the team can fund either a preventive redesign or downstream repairs.",
+        "Name one test each for home access, food supply and the buffer’s health.",
+        "Pick and defend a choice. Name a funding condition, who monitors it and what evidence could reverse your choice."
+      ],
+      "guide": "Discussion guide: Test access to jobs, backup food routes and the buffer’s health. Prefer redesign if it protects the buffer and keeps homes accessible. Set a safeguard and review the evidence."
+    }
   }
- },
- {
-  "id": "july-2026",
-  "month": "July",
-  "year": 2026,
-  "intro": "Four weekly perspectives and two Leadership Practice guides for clearer decisions and stronger institutions.",
-  "articles": [
-   {
-    "num": "01",
-    "section": "Leadership & Attention",
-    "title": "Attention Is Strategy",
-    "inBrief": "Leadership attention is finite. Where it goes shapes the institution's future.",
-    "intro": [
-     "The most valuable resource in any organization is not capital. It is attention. Every leader has the same 24 hours. Every institution has finite leadership attention.",
-     "Yet many organizations unintentionally spend that attention on urgent issues rather than important ones — chasing emails, resolving avoidable problems, and reacting to the crisis of the day. Attention is a strategic resource. Where leaders direct it determines what the organization improves, what it neglects, and ultimately what it becomes.",
-     "The highest-performing institutions are intentional about this. They protect leadership time for the decisions that shape the future."
-    ],
-    "vs": {
-     "leftLabel": "Managing Today's Work",
-     "leftSub": "Urgent issues and recurring problems",
-     "rightLabel": "Building Tomorrow's Institution",
-     "rightSub": "Capability, systems and people"
-    },
-    "contHeading": "Protect time for the future",
-    "cont": [
-     "Operational excellence matters, but leaders create the greatest value when they spend more time designing the institution than merely operating it.",
-     "A useful question for every executive is: If someone reviewed my calendar over the past three months, would it reveal that I am managing today’s work — or building tomorrow’s institution? Leadership is reflected not only in the decisions we make, but also in where we choose to place our attention."
-    ],
-    "quote": "Attention is a strategic resource.",
-    "frameworksLabel": "Priorities",
-    "frameworks": [
-     {
-      "label": "Build capability",
-      "sub": "future capacity"
-     },
-     {
-      "label": "Strengthen systems",
-      "sub": "beyond heroics"
-     },
-     {
-      "label": "Develop people",
-      "sub": "beyond task control"
-     },
-     {
-      "label": "Think long term",
-      "sub": "the next decade"
-     }
-    ],
-    "takeaways": [
-     "Treat leadership attention as a finite strategic resource.",
-     "Protect time for capability, systems, people and long-term thinking.",
-     "Review your calendar: does it show the institution you intend to build?"
-    ]
-   },
-   {
-    "num": "02",
-    "section": "Strategic Thinking",
-    "title": "Ask Better Questions",
-    "inBrief": "Better questions reveal assumptions, risks and opportunities, then improve decisions.",
-    "intro": [
-     "The future will not be led by the organizations with the most data. It will be led by those that ask the best questions. We often hear that data is the new currency. Yet data, on its own, has never made a strategic decision.",
-     "The real differentiator is the quality of the questions leaders ask. Good questions challenge assumptions. They uncover risks before they become crises. They reveal opportunities others fail to see. And they encourage cultures where learning matters more than certainty."
-    ],
-    "vs": {
-     "leftLabel": "The Old Question",
-     "leftSub": "Do we have enough information?",
-     "rightLabel": "The Better Question",
-     "rightSub": "Are we asking the questions that truly matter?"
-    },
-    "contHeading": "Judgment makes the difference",
-    "cont": [
-     "As artificial intelligence becomes more capable, access to information will become increasingly equal. What will remain unequal is judgment. The leaders and institutions that will excel are those that combine data with curiosity, technology with wisdom, and analytics with sound governance.",
-     "The question is no longer, “Do we have enough information?” It is, “Are we asking the questions that truly matter?” Because the quality of our questions ultimately shapes the quality of our decisions. And the quality of our decisions shapes the future of our institutions."
-    ],
-    "quote": "The quality of our questions ultimately shapes the quality of our decisions.",
-    "frameworksLabel": "Effects",
-    "frameworks": [
-     {
-      "label": "Assumptions",
-      "sub": "challenge them"
-     },
-     {
-      "label": "Risks",
-      "sub": "uncover them early"
-     },
-     {
-      "label": "Opportunities",
-      "sub": "see what is missed"
-     },
-     {
-      "label": "Learning",
-      "sub": "encourage curiosity"
-     }
-    ],
-    "takeaways": [
-     "Use questions to test assumptions and reveal emerging risks.",
-     "Combine data and technology with curiosity, wisdom and governance.",
-     "The quality of questions shapes decisions and institutional futures."
-    ]
-   },
-   {
-    "num": "03",
-    "section": "Decision Quality",
-    "title": "Better Decisions at Speed",
-    "inBrief": "Institutional capability reduces the distance between insight and a sound decision.",
-    "intro": [
-     "In the coming decade, competitive advantage will belong to institutions that can make high-quality decisions faster — not simply those that move faster. Speed alone is not a strategy. Making quick decisions with poor judgment only accelerates the wrong outcome.",
-     "The real challenge for leaders is reducing the time between insight and sound decision-making without compromising governance, accountability, or strategic thinking. This is where institutional capability matters.",
-     "Organizations that excel are building clear decision rights, trusted data and intelligence, simple governance frameworks, empowered leaders at every level, and a culture that values evidence over hierarchy."
-    ],
-    "vs": {
-     "leftLabel": "Speed Alone",
-     "leftSub": "Poor judgment accelerates the wrong outcome",
-     "rightLabel": "Decision Quality at Speed",
-     "rightSub": "Technology with disciplined leadership"
-    },
-    "contHeading": "Keep judgment at the centre",
-    "cont": [
-     "Artificial intelligence will make information more accessible than ever. But it will not replace judgment, integrity, or accountability. These remain uniquely human responsibilities.",
-     "The institutions that will define the future are those that combine technology with disciplined leadership — where decisions are not only faster, but consistently wiser. In an age of acceleration, the true competitive advantage is not speed."
-    ],
-    "quote": "In an age of acceleration, the true competitive advantage is not speed. It is the ability to make better decisions at speed.",
-    "frameworksLabel": "Enablers",
-    "frameworks": [
-     {
-      "label": "Decision rights",
-      "sub": "clear"
-     },
-     {
-      "label": "Data & intelligence",
-      "sub": "trusted"
-     },
-     {
-      "label": "Governance",
-      "sub": "simple frameworks"
-     },
-     {
-      "label": "Leaders",
-      "sub": "empowered"
-     },
-     {
-      "label": "Evidence",
-      "sub": "valued over hierarchy"
-     }
-    ],
-    "takeaways": [
-     "Reduce decision time while protecting governance and accountability.",
-     "Build clear rights, trusted information and empowered leadership.",
-     "Keep judgment, integrity and accountability as human responsibilities."
-    ]
-   },
-   {
-    "num": "04",
-    "section": "Technology & Leadership",
-    "title": "Institutional Intelligence",
-    "inBrief": "The lasting differentiator is the ability to turn information into collective judgment and action.",
-    "intro": [
-     "The next competitive advantage will not come from technology alone. It will come from institutional intelligence. Artificial intelligence is transforming how we analyze data, automate processes, and generate insights. Yet as these capabilities become widely available, technology itself will become less of a differentiator.",
-     "What will distinguish leading organizations is their ability to convert information into institutional intelligence — the collective capacity to connect data across functions rather than operate in silos, learn from every decision, anticipate emerging risks before they become crises, and turn insights into timely, measurable action."
-    ],
-    "vs": {
-     "leftLabel": "Technology",
-     "leftSub": "Accelerates decisions",
-     "rightLabel": "Institutional Intelligence",
-     "rightSub": "Ensures those decisions are the right ones"
-    },
-    "contHeading": "Turn information into capability",
-    "cont": [
-     "This requires more than digital transformation. It demands a transformation in governance, culture, and leadership. The institutions that will lead the next decade will not necessarily be those with the most advanced AI platforms. They will be those that combine technology with sound judgment, trusted data, clear accountability, and a commitment to continuous learning.",
-     "As AI becomes increasingly accessible, perhaps the defining question for leaders is no longer, “How intelligent is our technology?” It is, “How intelligent is our institution?”"
-    ],
-    "quote": "Technology can accelerate decisions. Institutional intelligence ensures those decisions are the right ones.",
-    "frameworksLabel": "Capacities",
-    "frameworks": [
-     {
-      "label": "Connect",
-      "sub": "data across functions"
-     },
-     {
-      "label": "Learn",
-      "sub": "from every outcome"
-     },
-     {
-      "label": "Anticipate",
-      "sub": "emerging risks"
-     },
-     {
-      "label": "Act",
-      "sub": "measurable action"
-     }
-    ],
-    "takeaways": [
-     "Connect information across functions and learn from every outcome.",
-     "Anticipate risks and turn insight into timely, measurable action.",
-     "Ask how intelligent the institution is — not just its technology."
-    ]
-   },
-   {
-    "num": "05",
-    "section": "Leadership Practice",
-    "title": "The Attention Audit",
-    "inBrief": "A practical exercise based on July's leadership article: turn a completed week into a clearer choice about the next one.",
-    "intro": [
-     "Choose one completed working week. Review your calendar alongside your work records, then assign each block of time to one of four categories: essential operations, recurring problem-solving, people development, or institution building.",
-     "Record the minutes actually spent. Label estimates where the duration is uncertain, count each minute only once, and identify any unrecorded time.",
-     "Calculate the institution-building share by dividing the minutes in that category by all recorded working minutes, then multiplying by 100. This is a personal baseline for reflection, not a universal performance target."
-    ],
-    "vs": {
-     "leftLabel": "Review the Completed Week",
-     "leftSub": "Actual time and recurring problems",
-     "rightLabel": "Design the Next Week",
-     "rightSub": "Protected time and a defined result"
-    },
-    "contHeading": "Make the next week different",
-    "cont": [
-     "Review recurring problems. Select one that a better process, clearer authority or more reliable information could resolve. Name an owner and evidence that repeated intervention is no longer necessary.",
-     "Protect one block next week for an important decision about the institution’s future. Decide what to stop, defer or delegate while maintaining essential services. Define the result this time should produce.",
-     "Repeat the review next week. Compare recorded time, recurring issues and the promised result. Keep changes that build capability; adjust those that do not."
-    ],
-    "quote": "Make one improvement that reduces tomorrow's need for intervention.",
-    "frameworksLabel": "Review Categories",
-    "frameworks": [
-     {
-      "label": "Operations",
-      "sub": "essential delivery"
-     },
-     {
-      "label": "Recurring issues",
-      "sub": "repeated intervention"
-     },
-     {
-      "label": "People",
-      "sub": "development"
-     },
-     {
-      "label": "Institution",
-      "sub": "future capability"
-     }
-    ],
-    "takeaways": [
-     "Use recorded time as a baseline; label estimates and avoid double counting.",
-     "Address one recurring cause with a named owner and visible evidence.",
-     "Protect time for the future, then review the result it produces."
-    ]
-   },
-   {
-    "num": "06",
-    "section": "Leadership Practice",
-    "title": "The Decision Brief",
-    "inBrief": "A practical exercise based on July's articles: make the question, evidence, authority and learning visible before and after a decision.",
-    "intro": [
-     "Choose an important decision. State what must be decided and by when. Use five brief sections: question, evidence, options, authority and review. Separate facts from assumptions and name evidence that could change your view.",
-     "Compare at least two feasible options using the same criteria: strategic fit, ability to deliver and risk. Consider deferral only if realistic, with explicit consequences.",
-     "Name the authorised decision owner and required consultees. Define what new information or risk would trigger escalation. Adapt these suggested steps to the institution’s existing governance."
-    ],
-    "vs": {
-     "leftLabel": "Before the Decision",
-     "leftSub": "Question, evidence and expected result",
-     "rightLabel": "At the Review",
-     "rightSub": "Actual result, assumptions and lesson"
-    },
-    "contHeading": "Build a learning record",
-    "cont": [
-     "Record the chosen option, its rationale and the main remaining uncertainty. Define one observable progress indicator and a review date. Make the reasoning understandable to another responsible colleague.",
-     "At review, compare actual and expected outcomes. Which assumptions held or failed? What should change next time? Record the lesson in a reusable decision log with appropriate access permissions.",
-     "Use technology to organise questions and evidence while retaining human judgment and accountability."
-    ],
-    "quote": "A useful decision record preserves both the choice and the reason.",
-    "frameworksLabel": "Brief Sections",
-    "frameworks": [
-     {
-      "label": "Question",
-      "sub": "what must be decided"
-     },
-     {
-      "label": "Evidence",
-      "sub": "facts vs assumptions"
-     },
-     {
-      "label": "Options",
-      "sub": "compared on equal criteria"
-     },
-     {
-      "label": "Authority",
-      "sub": "owner and escalation"
-     },
-     {
-      "label": "Review",
-      "sub": "result and lesson"
-     }
-    ],
-    "takeaways": [
-     "State the question, evidence and expected result before deciding.",
-     "Record the chosen option, its rationale and the main remaining uncertainty.",
-     "Preserve both the choice and the reason in a reusable decision log."
-    ]
-   }
-  ],
-  "lab": {
-   "title": "The Leadership Lab",
-   "subtitle": "Proposed review activity. Work through the hypothetical scenario, then compare your response with the discussion guide.",
-   "items": [
-    "A hot spell raises power and water demand as a grid upgrade is delayed. Put these steps in order: decide, verify, share.",
-    "Name one signal to watch and one team with authority.",
-    "Name one short-term protection and one longer-term change."
-   ],
-   "guide": "Suggested key: verify the demand signal, share the alert, then decide. Check the peak load; notify grid operations. Protect critical services now; review demand management and storage for the long term."
-  }
- },
- {
-  "id": "august-2026",
-  "month": "August",
-  "year": 2026,
-  "intro": "Five weekly perspectives and one Leadership Practice guide on sustainability, capability and resilience.",
-  "articles": [
-   {
-    "num": "01",
-    "section": "Sustainability & Governance",
-    "title": "Sustainability in Decisions",
-    "inBrief": "Sustainability becomes transformative when it shapes everyday decisions, resources and accountability.",
-    "intro": [
-     "Sustainability becomes transformative only when it moves from the margins of strategy to the centre of decision-making. Too often, sustainability is treated as a separate programme, report, or department.",
-     "But the most resilient institutions understand that it must influence how investments are selected, risks are assessed, operations are designed, people are developed, and performance is measured.",
-     "A sustainability strategy cannot succeed if the wider organization continues to make decisions using only short-term financial or operational considerations. Real progress begins when environmental and social impact becomes part of everyday governance."
-    ],
-    "vs": {
-     "leftLabel": "Separate Programme",
-     "leftSub": "An additional responsibility",
-     "rightLabel": "Everyday Governance",
-     "rightSub": "A better way of making decisions"
-    },
-    "contHeading": "Ask better questions",
-    "cont": [
-     "This means asking better questions: Will this decision strengthen long-term resilience? Are we solving a problem — or merely transferring its consequences elsewhere? Can economic value, environmental responsibility, and social benefit be created together?",
-     "The future will not reward organizations that simply communicate ambitious commitments. It will reward those that embed sustainability into their systems, incentives, budgets, and accountability frameworks."
-    ],
-    "quote": "Sustainability is not an additional responsibility. It is a better way of making decisions.",
-    "frameworksLabel": "Questions",
-    "frameworks": [
-     {
-      "label": "Resilience",
-      "sub": "Stronger over time?"
-     },
-     {
-      "label": "Consequences",
-      "sub": "Solved or transferred?"
-     },
-     {
-      "label": "Shared value",
-      "sub": "Economic · environmental · social"
-     }
-    ],
-    "takeaways": [
-     "Bring sustainability into everyday governance.",
-     "Consider long-term resilience and transferred consequences.",
-     "Align systems, incentives, budgets and accountability."
-    ]
-   },
-   {
-    "num": "02",
-    "section": "Leadership & Legacy",
-    "title": "Leadership That Lasts",
-    "inBrief": "The deeper test of leadership is whether people, knowledge and systems continue to grow after a leader leaves.",
-    "intro": [
-     "Leadership is often judged by what we start. Perhaps it should be judged equally by what continues after we leave. Titles are temporary. Institutions are not meant to be.",
-     "During our careers, we may lead important initiatives, introduce reforms, build teams, or achieve results that carry our names. But the deeper test of leadership comes later: Did we build something capable of continuing without us?",
-     "Sustainable leadership means creating institutions where knowledge is retained, authority is responsibly distributed, people are developed, and good practices become embedded in systems rather than dependent on personalities."
-    ],
-    "vs": {
-     "leftLabel": "Achievement",
-     "leftSub": "What changed while we were there",
-     "rightLabel": "Legacy",
-     "rightSub": "What keeps growing after we leave"
-    },
-    "contHeading": "A different measure of success",
-    "cont": [
-     "This requires a different definition of success. Success is not being indispensable. It is developing people who can surpass us. It is replacing personal intervention with institutional capability. It is turning experience into organizational memory. And it is leaving behind systems strong enough to evolve when circumstances change.",
-     "Every leadership position eventually ends. The institution’s journey continues. Perhaps, then, one of the most meaningful measures of leadership is not simply what changed while we were there, but what remained capable of growing after we were gone."
-    ],
-    "quote": "Every leadership position eventually ends. The institution’s journey continues.",
-    "frameworksLabel": "Foundations",
-    "frameworks": [
-     {
-      "label": "Knowledge",
-      "sub": "Retain"
-     },
-     {
-      "label": "Authority",
-      "sub": "Distribute responsibly"
-     },
-     {
-      "label": "People",
-      "sub": "Develop"
-     },
-     {
-      "label": "Practices",
-      "sub": "Embed in systems"
-     }
-    ],
-    "takeaways": [
-     "Develop people who can surpass you.",
-     "Turn experience into institutional memory.",
-     "Build systems that continue to evolve after you leave."
-    ]
-   },
-   {
-    "num": "03",
-    "section": "Strategic Choice",
-    "title": "The Discipline to Stop",
-    "inBrief": "Making space for new priorities requires the discipline to remove activities that no longer create value.",
-    "intro": [
-     "One of the most underrated leadership skills is knowing what to stop. Organizations are usually very good at adding. New initiatives. New committees. New reports. New systems. New priorities.",
-     "What they are often less disciplined about is removing what no longer creates value. Over time, this creates institutional clutter. People become busy without necessarily becoming more productive. Decision-making slows. Priorities compete with one another. And resources remain tied to activities whose original purpose may have disappeared years ago.",
-     "Strategic leadership therefore requires more than deciding what to pursue. It requires the courage to ask: What should we stop doing?"
-    ],
-    "vs": {
-     "leftLabel": "Institutional Clutter",
-     "leftSub": "Busy without becoming more productive",
-     "rightLabel": "Strategic Space",
-     "rightSub": "Capacity to pursue new priorities"
-    },
-    "contHeading": "Create space for priorities",
-    "cont": [
-     "Which approval adds delay without adding meaningful control? Which initiative consumes resources but no longer supports the institution’s priorities?",
-     "Stopping something can feel uncomfortable because every activity has an owner, a history, and often a constituency. But strategy is ultimately about choice. An organization that cannot stop old priorities will eventually lose the capacity to pursue new ones.",
-     "Progress is not always about adding more. Sometimes, the most strategic decision a leader can make is to create space. Before adding the next initiative, perhaps every leadership team should identify one thing it is prepared to stop."
-    ],
-    "quote": "Sometimes, the most strategic decision a leader can make is to create space.",
-    "frameworksLabel": "Review Areas",
-    "frameworks": [
-     {
-      "label": "Processes",
-      "sub": "Habit or purpose?"
-     },
-     {
-      "label": "Reports",
-      "sub": "Used or filed?"
-     },
-     {
-      "label": "Approvals",
-      "sub": "Control or delay?"
-     },
-     {
-      "label": "Initiatives",
-      "sub": "Aligned or outdated?"
-     }
-    ],
-    "takeaways": [
-     "Review activities that no longer create value.",
-     "Ask what each process, report and approval contributes.",
-     "Identify one thing to stop before adding the next initiative."
-    ]
-   },
-   {
-    "num": "04",
-    "section": "Performance & Capability",
-    "title": "Beyond Today's Results",
-    "inBrief": "A strong institution measures both the results it delivers and the capability it builds for tomorrow.",
-    "intro": [
-     "Most organizations measure performance. Far fewer measure whether they are becoming more capable. Revenue, delivery, compliance, customer satisfaction, project completion and other performance indicators tell us what an institution has achieved. They do not always tell us whether the institution itself is getting stronger.",
-     "An organization can deliver excellent results today while quietly becoming more dependent on a few individuals, accumulating outdated processes, losing institutional knowledge, or postponing investments in future capability.",
-     "That is why leaders should look beyond performance and ask a second question: Are we becoming a better institution while delivering these results?"
-    ],
-    "vs": {
-     "leftLabel": "Performance",
-     "leftSub": "What did we achieve?",
-     "rightLabel": "Institutional Capability",
-     "rightSub": "What became stronger?"
-    },
-    "contHeading": "Measure what becomes stronger",
-    "cont": [
-     "Institutional capability can be seen in the quality of decisions, the depth of leadership talent, the reliability of data, the ability to collaborate across boundaries, the speed of learning, and the resilience of systems when circumstances change.",
-     "The distinction matters particularly in periods of rapid technological, economic and environmental change. An organization optimized only for current performance can become highly efficient at delivering yesterday’s priorities. Sustainable excellence requires something more: the continuous renewal of institutional capability.",
-     "Perhaps every leadership dashboard should therefore contain two dimensions: What did we achieve? and What became stronger because we achieved it?"
-    ],
-    "quote": "Are we becoming a better institution while delivering these results?",
-    "frameworksLabel": "Hidden Risks",
-    "frameworks": [
-     {
-      "label": "Dependence",
-      "sub": "Too few individuals"
-     },
-     {
-      "label": "Accumulation",
-      "sub": "Old processes"
-     },
-     {
-      "label": "Knowledge loss",
-      "sub": "Institutional memory"
-     },
-     {
-      "label": "Deferred investment",
-      "sub": "Future capability"
-     }
-    ],
-    "takeaways": [
-     "Measure performance and institutional capability together.",
-     "Look for hidden dependencies, knowledge loss and outdated processes.",
-     "Ask what became stronger through each achievement."
-    ]
-   },
-   {
-    "num": "05",
-    "section": "Resilience & Renewal",
-    "title": "Resilience Through Learning",
-    "inBrief": "True resilience turns disruption into intelligence and redesigns the institution before the next shock arrives.",
-    "intro": [
-     "Resilience is not the ability to return to normal. It is the ability to emerge better prepared for what comes next. Too often, resilience is discussed as recovery: restoring operations, rebuilding capacity, and returning to previous levels of performance after disruption.",
-     "But returning to the same system that was vulnerable in the first place is not resilience. It is restoration. True resilience requires learning.",
-     "After every disruption — economic, environmental, technological, or organizational — leaders should ask: What did this expose about our systems? Which assumptions proved wrong? And most importantly: What should we redesign before the next disruption arrives?"
-    ],
-    "vs": {
-     "leftLabel": "Restoration",
-     "leftSub": "Return to previous performance",
-     "rightLabel": "Resilience",
-     "rightSub": "Emerge better prepared"
-    },
-    "contHeading": "Turn shocks into intelligence",
-    "cont": [
-     "The strongest institutions do not simply absorb shocks. They convert them into intelligence. They strengthen weak points, diversify critical dependencies, update governance, develop new capabilities, and build greater adaptability into the organization itself.",
-     "This distinction matters as the world faces increasingly interconnected challenges. The objective should not be to build institutions that never experience disruption. That is unrealistic. The objective is to build institutions that learn faster than the environment changes around them.",
-     "Resilience is therefore not a defensive capability. It is a strategic one. And sometimes the clearest evidence of resilience is not how quickly an organization returns to where it was — but how intelligently it decides not to."
-    ],
-    "quote": "True resilience requires learning.",
-    "frameworksLabel": "Actions",
-    "frameworks": [
-     {
-      "label": "Strengthen",
-      "sub": "Weak points"
-     },
-     {
-      "label": "Diversify",
-      "sub": "Dependencies"
-     },
-     {
-      "label": "Update",
-      "sub": "Governance"
-     },
-     {
-      "label": "Develop",
-      "sub": "Capabilities"
-     },
-     {
-      "label": "Adapt",
-      "sub": "The institution"
-     }
-    ],
-    "takeaways": [
-     "Learn from every disruption and question failed assumptions.",
-     "Redesign weak points before the next shock arrives.",
-     "Treat resilience as a strategic institutional capability."
-    ]
-   },
-   {
-    "num": "06",
-    "section": "Leadership Practice",
-    "title": "The Capability Review",
-    "inBrief": "A practical exercise drawn from this month's five articles: examine one decision and choose one change to own.",
-    "intro": [
-     "Choose one recent institutional decision and review it through the five questions below. Invite the people who understand its consequences, including those who will implement it. Use a document, an observed practice or an identified gap to support each answer.",
-     "Sustainability: did we consider long-term environmental and social consequences? Continuity: can the work continue if a key person leaves? Focus: what activity could stop so that this priority receives enough attention?",
-     "Capability: what became stronger because of the result? Resilience: what should be redesigned in light of the latest lesson or disruption?"
-    ],
-    "vs": {
-     "leftLabel": "Review Evidence",
-     "leftSub": "Document · practice · gap",
-     "rightLabel": "Make a Commitment",
-     "rightSub": "Action · owner · evidence · date"
-    },
-    "contHeading": "Finish with one owned action",
-    "cont": [
-     "Select one change that addresses the most consequential gap the review revealed. Write the action in a single sentence. Name the person responsible, the evidence that will show whether the change worked, and a date to review that evidence.",
-     "At the review, record what happened, what you learned and what needs to change next. Keep the decision and its lesson together so that the institution retains the knowledge when people or priorities change."
-    ],
-    "quote": "A useful review ends with a change someone owns.",
-    "frameworksLabel": "Review Questions",
-    "frameworks": [
-     {
-      "label": "Sustainability",
-      "sub": "Long-term consequences?"
-     },
-     {
-      "label": "Continuity",
-      "sub": "Can work continue?"
-     },
-     {
-      "label": "Focus",
-      "sub": "What can stop?"
-     },
-     {
-      "label": "Capability",
-      "sub": "What grew stronger?"
-     },
-     {
-      "label": "Resilience",
-      "sub": "What needs redesign?"
-     }
-    ],
-    "takeaways": [
-     "Support each answer with evidence or a clearly identified gap.",
-     "Choose one action and name its owner.",
-     "Set a review date and retain the lesson with the decision."
-    ]
-   }
-  ],
-  "lab": {
-   "title": "The Decision Challenge",
-   "subtitle": "Use only the stated rules. Each challenge has one answer. All planning figures are hypothetical.",
-   "items": [
-    "Track the process: In each round, close half the open cases, then add 3 new cases. Starting with 54 cases, how many remain after 3 rounds?",
-    "Choose within capacity: Each initiative may be chosen once. Choose exactly 2 within 11 team-days. Which pair achieves the highest total priority score?",
-    "Sequence the reviews: Reviews A, B, C and D run from Monday to Thursday, one per day. A precedes C. B is immediately after D. C is not on Thursday. What is the order?",
-    "Separate fact from assumption: Every proposal that passes both the cost and feasibility tests is approved. Proposal X is not approved. Which conclusion must follow?"
-   ],
-   "guide": "Answer key: 1 → 12 · 2 → A + C (18 points) · 3 → A → C → D → B · 4 → C: at least one test was not passed."
-  }
- },
- {
-  "id": "september-2026",
-  "month": "September",
-  "year": 2026,
-  "intro": "Four original weekly articles and two proposed Leadership Practice guides on delivery, climate, energy and governance.",
-  "articles": [
-   {
-    "num": "01",
-    "section": "Sustainability Delivery",
-    "title": "Sustainability in Delivery",
-    "inBrief": "Turn stated goals into measurable outcomes through clear ownership, trusted data and aligned budgets.",
-    "intro": [
-     "The next era of sustainability will be defined not by ambition, but by implementation. Over the past decade, organizations have become increasingly comfortable setting bold sustainability targets. Net zero. Nature positive. Circular economy. Climate resilience. These ambitions matter. But ambition is only the starting point.",
-     "The harder question is whether institutions have built the governance, data, financing mechanisms, technical capability, and accountability needed to turn those commitments into measurable outcomes. A target without ownership is an aspiration. A strategy without resources is a document. And a commitment without measurement is difficult to distinguish from good intention.",
-     "The next generation of sustainability leadership must therefore focus on execution architecture: clear accountability for outcomes, environmental data that decision-makers can trust, budgets aligned with stated priorities, performance indicators connected to management decisions, and regular scrutiny of whether interventions are actually producing the intended impact."
-    ],
-    "vs": {
-     "leftLabel": "Announcements",
-     "leftSub": "Sustainability and delivery",
-     "rightLabel": "Delivery Systems",
-     "rightSub": "Set measurable outcomes"
-    },
-    "contHeading": "Put delivery architecture in place",
-    "cont": [
-     "This is particularly important in government, where environmental decisions can influence infrastructure, investment, public health, competitiveness, and quality of life for decades. The conversation must evolve from: \"What have we committed to?\" to: \"What institutional machinery have we built to deliver it?\"",
-     "Sustainability will not advance because organizations become better at announcing ambition. It will advance when they become better at converting ambition into systems, decisions and measurable results."
-    ],
-    "quote": "The future of sustainability is delivery.",
-    "frameworksLabel": "From the start",
-    "frameworks": [
-     {
-      "label": "Assign ownership",
-      "sub": "clear accountability"
-     },
-     {
-      "label": "Fund priorities",
-      "sub": "budgets deliver"
-     },
-     {
-      "label": "Measure impact",
-      "sub": "evidence results"
-     }
-    ],
-    "takeaways": [
-     "Assign ownership and clear accountability.",
-     "Fund priorities — budgets deliver.",
-     "Measure impact — evidence results."
-    ]
-   },
-   {
-    "num": "02",
-    "section": "Climate Leadership",
-    "title": "Climate Leadership",
-    "inBrief": "Higher warming risks make precise decisions more important, not less.",
-    "intro": [
-     "Crossing 1.5°C should not lower our ambition. It should raise the standard of leadership. For years, much of the climate conversation has focused on preventing global warming from exceeding 1.5°C. The latest evidence presents leaders with a more difficult reality: temporary overshoot is increasingly likely. That must not become an excuse for resignation.",
-     "It should fundamentally change the way we think about environmental leadership. Every fraction of a degree still matters. Every year of delay still matters. And every decision that strengthens resilience, reduces emissions, protects ecosystems, or accelerates adaptation still matters.",
-     "The challenge ahead therefore requires us to operate on several fronts simultaneously: reduce the scale and duration of overshoot, accelerate adaptation to impacts that can no longer be avoided, protect natural systems that strengthen resilience, invest in environmental intelligence capable of detecting risks earlier, and ensure that climate considerations become part of mainstream economic, infrastructure and institutional decision-making."
-    ],
-    "vs": {
-     "leftLabel": "Resignation",
-     "leftSub": "Growing climate risk",
-     "rightLabel": "Determined Action",
-     "rightSub": "Decide with precision"
-    },
-    "contHeading": "Act on several fronts",
-    "cont": [
-     "Perhaps most importantly, we need to move beyond treating climate action as a collection of environmental projects. It is increasingly becoming a question of national resilience, economic competitiveness, public health, food and water security, infrastructure protection and intergenerational responsibility.",
-     "The next phase of climate leadership will not be defined by who announced the most ambitious target. It will be defined by who built the institutions capable of navigating a more difficult climate reality while continuing to pursue a safer one.",
-     "Overshoot is not permission to surrender. It is a reason to become more precise, more resilient, and more determined."
-    ],
-    "quote": "Overshoot is not permission to surrender.",
-    "frameworksLabel": "Priorities",
-    "frameworks": [
-     {
-      "label": "Limit overshoot",
-      "sub": "scale and duration"
-     },
-     {
-      "label": "Adapt faster",
-      "sub": "unavoidable impacts"
-     },
-     {
-      "label": "Detect risks",
-      "sub": "early intelligence"
-     }
-    ],
-    "takeaways": [
-     "Limit overshoot — scale and duration.",
-     "Adapt faster — unavoidable impacts.",
-     "Detect risks — early intelligence."
-    ]
-   },
-   {
-    "num": "03",
-    "section": "Energy & Competitiveness",
-    "title": "Energy for the Economy",
-    "inBrief": "Design energy infrastructure around the economy it should serve.",
-    "intro": [
-     "The energy transition is no longer simply an environmental transition. It is becoming the infrastructure of the next economy. For years, the energy debate was largely framed around one objective: reducing emissions. That objective remains essential. But the conversation is becoming much bigger.",
-     "Artificial intelligence and advanced computing are increasing electricity demand. Cities require greater resilience. Industries are being reshaped by electrification. Developing economies still need reliable and affordable energy to unlock opportunity. And countries increasingly view energy security as inseparable from economic security.",
-     "This changes the strategic question. It is no longer simply: How do we produce cleaner energy? It is: How do we build an energy system capable of supporting the economy we want ten, twenty and thirty years from now?"
-    ],
-    "vs": {
-     "leftLabel": "Cleaner Generation",
-     "leftSub": "Energy and competitiveness",
-     "rightLabel": "An Integrated Energy System",
-     "rightSub": "Design for economic needs"
-    },
-    "contHeading": "Design the system, not just supply",
-    "cont": [
-     "That requires more than renewable generation. It requires intelligent grids, storage, efficiency, resilient infrastructure, better demand management, stronger regional integration and — critically — investment frameworks capable of turning plans into projects.",
-     "It also requires environmental considerations to be embedded from the beginning. The objective should not be to choose between economic growth and environmental responsibility. The real leadership challenge is to design systems where competitiveness, energy security and sustainability reinforce one another.",
-     "Countries that understand this early will not merely participate in the energy transition. They will use it to shape new industries, attract investment, strengthen resilience and create the foundations of their future economies."
-    ],
-    "quote": "It is about deciding what kind of economy that power will serve.",
-    "frameworksLabel": "From the start",
-    "frameworks": [
-     {
-      "label": "Build smart grids",
-      "sub": "connect · store"
-     },
-     {
-      "label": "Manage demand",
-      "sub": "efficiency and resilience"
-     },
-     {
-      "label": "Enable delivery",
-      "sub": "investment frameworks"
-     }
-    ],
-    "takeaways": [
-     "Build smart grids — connect and store.",
-     "Manage demand — efficiency and resilience.",
-     "Enable delivery — investment frameworks."
-    ]
-   },
-   {
-    "num": "04",
-    "section": "Environmental Governance",
-    "title": "Earth-System Governance",
-    "inBrief": "Interconnected risks call for institutions that can see the whole system.",
-    "intro": [
-     "We cannot solve interconnected environmental problems with disconnected institutions. For decades, environmental management has largely been organized by issue. Climate change has its strategy. Water has its strategy. Biodiversity has its strategy. Yet nature does not operate in departments.",
-     "Water affects food systems. Land-use decisions affect biodiversity and carbon. Energy choices affect air quality, climate and economic competitiveness. Ecosystem degradation ultimately affects health, resilience and national security. The challenge, therefore, is no longer simply to improve individual environmental programmes. It is to improve the architecture of environmental decision-making itself.",
-     "The next generation of environmental governance should connect three things that are still too often separated: science, intelligence and decision authority. Scientific evidence must become usable intelligence. Intelligence must reach decision-makers early enough to matter."
-    ],
-    "vs": {
-     "leftLabel": "Separate Programmes",
-     "leftSub": "Environmental governance",
-     "rightLabel": "Shared Intelligence",
-     "rightSub": "See the whole system"
-    },
-    "contHeading": "Connect insight to authority",
-    "cont": [
-     "This requires integrated data platforms, shared indicators, stronger horizon scanning, clearer accountability and governance mechanisms capable of seeing the whole system rather than individual components. Technology, including artificial intelligence and real-time environmental monitoring, can dramatically strengthen this capability.",
-     "But technology is only an enabler. The real transformation is institutional. The environmental institutions of the future will not simply regulate pollution or protect individual resources. They will increasingly serve as intelligence systems for national resilience — helping governments anticipate environmental change, understand interconnected risks and make better decisions before problems become crises.",
-     "Perhaps the next evolution of sustainability is therefore not another strategy. It is building institutions capable of seeing the connections that strategies too often miss."
-    ],
-    "quote": "We cannot solve interconnected problems with disconnected institutions.",
-    "frameworksLabel": "From the start",
-    "frameworks": [
-     {
-      "label": "Science",
-      "sub": "credible evidence"
-     },
-     {
-      "label": "Intelligence",
-      "sub": "timely analysis"
-     },
-     {
-      "label": "Decision authority",
-      "sub": "action across sectors"
-     }
-    ],
-    "takeaways": [
-     "Connect science, intelligence and decision authority.",
-     "Build institutions that see the whole system.",
-     "Serve as intelligence systems for national resilience."
-    ]
-   },
-   {
-    "num": "05",
-    "section": "Proposed Leadership Practice",
-    "title": "From Pledge to Proof",
-    "inBrief": "Turn one commitment into a plan that can be verified.",
-    "intro": [
-     "Choose one stated sustainability commitment. Define what would count as measurable progress. Name one accountable owner, one funding decision and one data source. Identify a near-term adaptation step and a separate action to reduce emissions. Set a review date and name the decision your evidence must inform."
-    ],
-    "vs": {
-     "leftLabel": "Before the Decision",
-     "leftSub": "Define measurable progress",
-     "rightLabel": "After the Decision",
-     "rightSub": "Set a review date"
-    },
-    "contHeading": "Review the decision",
-    "cont": [
-     "If a measure is not improving, check the data, resources and responsibility before revising the target. Record what to change and who will make the change."
-    ],
-    "quote": "Turn one commitment into a plan that can be verified.",
-    "frameworksLabel": "From the start",
-    "frameworks": [
-     {
-      "label": "Name owner",
-      "sub": "clear accountability"
-     },
-     {
-      "label": "Link budget",
-      "sub": "resourced commitments"
-     },
-     {
-      "label": "Check results",
-      "sub": "review evidence"
-     }
-    ],
-    "takeaways": [
-     "Name the owner — clear accountability.",
-     "Link a budget — resourced commitments.",
-     "Check results — review evidence."
-    ]
-   },
-   {
-    "num": "06",
-    "section": "Proposed Leadership Practice",
-    "title": "Test the Connections",
-    "inBrief": "Trace how one energy decision affects other systems.",
-    "intro": [
-     "Choose a planned energy infrastructure decision. Compare it with a credible alternative. Map one effect each on electricity demand, water or land, and air quality or emissions. Distinguish established evidence from assumptions; record unresolved trade-offs. Ask the affected teams to agree on one shared indicator and who maintains it."
-    ],
-    "vs": {
-     "leftLabel": "Before the Decision",
-     "leftSub": "Compare an alternative",
-     "rightLabel": "After the Decision",
-     "rightSub": "Agree on one indicator"
-    },
-    "contHeading": "Review the decision",
-    "cont": [
-     "Set an early warning threshold. State who can act when it is reached and when a wider review is needed. Retain the alternative and revisit it if evidence changes."
-    ],
-    "quote": "Trace how one energy decision affects other systems.",
-    "frameworksLabel": "From the start",
-    "frameworks": [
-     {
-      "label": "Map effects",
-      "sub": "across systems"
-     },
-     {
-      "label": "Share evidence",
-      "sub": "one common signal"
-     },
-     {
-      "label": "Name authority",
-      "sub": "decisions in time"
-     }
-    ],
-    "takeaways": [
-     "Map effects — across systems.",
-     "Share evidence — one common signal.",
-     "Name authority — decisions in time."
-    ]
-   }
-  ],
-  "lab": {
-   "title": "The Resilience Relay",
-   "subtitle": "Proposed review activity. Work through the hypothetical scenario, then compare your response with the discussion guide.",
-   "items": [
-    "Hypothetical scenario: A hot spell raises power and water demand as a grid upgrade is delayed.",
-    "Put these steps in order: decide, verify, share.",
-    "Name one signal to watch and one team with authority.",
-    "Name one short-term protection and one longer-term change."
-   ],
-   "guide": "Suggested key: verify the demand signal, share the alert, then decide. Check the peak load; notify grid operations. Protect critical services now; review demand management and storage for the long term."
-  }
- },
- {
-  "id": "october-2026",
-  "month": "October",
-  "year": 2026,
-  "intro": "Four original weekly articles and two proposed Leadership Practice guides on cities, food, finance and nature.",
-  "articles": [
-   {
-    "num": "01",
-    "section": "Urban Policy",
-    "title": "Housing and Liveable Cities",
-    "inBrief": "A city's sustainability begins with whether its residents can afford to live in it.",
-    "intro": [
-     "A city cannot call itself sustainable if people cannot afford to live in it. Today, as the world marks World Habitat Day 2026, we should perhaps broaden the way we think about housing. Adequate housing is not simply a social policy issue. It is an economic issue, an environmental issue, an infrastructure issue and ultimately a question of human dignity.",
-     "Where and how we build homes determines commuting patterns, energy consumption, pressure on water and infrastructure, exposure to climate risks, access to employment and, ultimately, quality of life. A poorly planned city can build thousands of homes and still deepen inequality. A well-planned city connects housing with transport, public space, services, employment, environmental quality and resilience.",
-     "This is why the next generation of urban policy must move beyond counting housing units. We should ask: Are we building communities — or simply buildings?"
-    ],
-    "vs": {
-     "leftLabel": "Counting Homes",
-     "leftSub": "Housing units alone",
-     "rightLabel": "Building Communities",
-     "rightSub": "Homes linked to jobs and services"
-    },
-    "contHeading": "Assess the neighbourhood",
-    "cont": [
-     "Housing that is affordable but disconnected from employment and services creates another form of cost. Housing that ignores climate risk creates tomorrow’s vulnerability. Urban development that eliminates natural systems may solve one problem while creating several others.",
-     "And regeneration that improves neighbourhoods but displaces the people who already live there cannot truly be described as inclusive. The cities that succeed in the decades ahead will be those that treat housing as part of an integrated urban system — connecting land, mobility, energy, water, nature, infrastructure and economic opportunity.",
-     "For our region, where cities continue to grow and evolve rapidly, there is an extraordinary opportunity to demonstrate that urban development can be ambitious without sacrificing liveability, environmental responsibility or social inclusion. Perhaps the measure of a successful city should therefore not be how impressive its skyline becomes. It should be how well people are able to live under it."
-    ],
-    "quote": "Are we building communities — or simply buildings?",
-    "frameworksLabel": "Lenses",
-    "frameworks": [
-     {
-      "label": "Affordability",
-      "sub": "homes and access"
-     },
-     {
-      "label": "Connectivity",
-      "sub": "jobs and services"
-     },
-     {
-      "label": "Resilience",
-      "sub": "climate and nature"
-     }
-    ],
-    "takeaways": [
-     "Start with the ability to afford housing.",
-     "Connect homes with jobs and services.",
-     "Plan for climate and resident inclusion."
-    ]
-   },
-   {
-    "num": "02",
-    "section": "Food and Water Security",
-    "title": "Food Security Resilience",
-    "inBrief": "Resilient food systems protect the resources they need to nourish future generations.",
-    "intro": [
-     "The future of food security will not be determined by how much food we produce, but by how intelligently we manage the systems that sustain it. For decades, food security has often been discussed primarily in terms of agricultural production, imports and strategic reserves. But the challenge is considerably more complex.",
-     "A country may increase domestic food production while simultaneously placing unsustainable pressure on its groundwater, energy resources and natural ecosystems. Equally, a country may have limited agricultural land yet achieve greater food resilience through innovation, diversification, technology and sound resource management.",
-     "This raises a fundamental question: Are we pursuing food security — or merely production?"
-    ],
-    "vs": {
-     "leftLabel": "Increasing Production",
-     "leftSub": "Output without a resource test",
-     "rightLabel": "Securing Food Systems",
-     "rightSub": "Affordable and resilient supply"
-    },
-    "contHeading": "Plan for a resilient food system",
-    "cont": [
-     "The distinction is particularly important for arid regions, including the Arabian Gulf, where water availability, climatic conditions and environmental constraints demand a fundamentally different approach. The next generation of food security strategies must integrate five critical dimensions: water security, technological innovation, supply-chain resilience, resource efficiency and environmental sustainability.",
-     "As we approach World Food Day 2026, under the theme \"Innovate today. Nourish tomorrow,\" we should recognize that innovation alone is insufficient. Innovation must be supported by integrated policies, intelligent investment, institutional coordination and measurable outcomes.",
-     "Perhaps the most important measure of food security is therefore not how much we can produce today. It is how reliably we can nourish future generations without exhausting the resources they will inherit."
-    ],
-    "quote": "Are we pursuing food security — or merely increasing food production?",
-    "frameworksLabel": "Selected food-system lenses",
-    "frameworks": [
-     {
-      "label": "Water limits",
-      "sub": "long-term supply"
-     },
-     {
-      "label": "Diversification",
-      "sub": "continuity of supply"
-     },
-     {
-      "label": "Efficiency",
-      "sub": "less loss and waste"
-     }
-    ],
-    "takeaways": [
-     "Protect water before scaling output.",
-     "Diversify and strengthen routes.",
-     "Measure innovation."
-    ]
-   },
-   {
-    "num": "03",
-    "section": "Economic Governance",
-    "title": "Biodiversity Economics",
-    "inBrief": "Public finance and investment can support conservation or work against it.",
-    "intro": [
-     "The most consequential environmental decisions are not always made by environment ministries. Sometimes, they are made by finance ministries. As the world gathers in Yerevan today for COP17, the United Nations Biodiversity Conference, we should reconsider a fundamental assumption about environmental protection.",
-     "For decades, biodiversity conservation has largely been approached through environmental legislation, protected areas, restoration programmes and conservation funding. These interventions remain essential. However, there is a deeper structural challenge. What happens when governments invest in protecting nature while other economic policies simultaneously encourage its degradation?",
-     "We cannot expect environmental institutions to reverse biodiversity loss if prevailing financial incentives continue to reward activities that undermine ecosystems."
-    ],
-    "vs": {
-     "leftLabel": "Funding Conservation",
-     "leftSub": "Projects protect selected habitats",
-     "rightLabel": "Aligning Finance",
-     "rightSub": "Incentives reward compatible choices"
-    },
-    "contHeading": "Align incentives with outcomes",
-    "cont": [
-     "This is precisely why the Kunming–Montreal Global Biodiversity Framework includes a commitment to reduce harmful incentives by at least US$500 billion annually by 2030. The implication is significant. Biodiversity loss is not merely an environmental management problem. It is also an economic governance problem.",
-     "Consider the relationship between public investment, infrastructure development, agricultural subsidies, industrial policy, water allocation and natural resource management. Each can either reinforce environmental sustainability or undermine it. The difference often lies in how economic incentives are structured.",
-     "This requires a fundamental shift in institutional thinking. Environmental protection should no longer be regarded primarily as expenditure. It should increasingly be understood as an investment in the natural systems that sustain economic productivity, public health, water security, food systems and national resilience. For arid regions, including the Arabian Gulf, this perspective is particularly important."
-    ],
-    "quote": "The difference often lies in how economic incentives are structured.",
-    "frameworksLabel": "Lenses",
-    "frameworks": [
-     {
-      "label": "Identify",
-      "sub": "harmful incentives"
-     },
-     {
-      "label": "Redesign",
-      "sub": "align public finance"
-     },
-     {
-      "label": "Integrate",
-      "sub": "natural capital"
-     }
-    ],
-    "takeaways": [
-     "Review what public finance rewards.",
-     "Include natural assets in investment decisions.",
-     "Align finance with conservation outcomes."
-    ]
-   },
-   {
-    "num": "04",
-    "section": "Infrastructure and Nature",
-    "title": "Natural Infrastructure",
-    "inBrief": "Healthy ecosystems underpin economic activity and should be managed as national assets.",
-    "intro": [
-     "Not all essential infrastructure is built. Some of it is alive. When governments discuss infrastructure resilience, the conversation typically revolves around roads, bridges, power networks, ports and water systems. Yet some of our most valuable infrastructure receives considerably less attention.",
-     "Coral reefs, mangroves, wetlands and seagrass meadows quietly perform functions that support economic activity, protect coastlines, sustain fisheries and strengthen community resilience. They are not merely environmental assets. They are natural infrastructure.",
-     "A new global assessment by the IUCN, released during COP17, warns that 96% of assessed shallow-water coral reef ecosystems could face an extremely high risk of collapse by 2075 under its modelled warming scenario."
-    ],
-    "vs": {
-     "leftLabel": "Reactive Management",
-     "leftSub": "Act when damage is visible",
-     "rightLabel": "Asset Management",
-     "rightSub": "Detect risk before disruption"
-    },
-    "contHeading": "Manage ecosystems as assets",
-    "cont": [
-     "This should concern economic policymakers, infrastructure planners, investment institutions and national security strategists. Consider how we manage conventional infrastructure. We inspect bridges before they deteriorate. We monitor electricity networks to anticipate failures. We invest in preventive maintenance to avoid expensive disruptions.",
-     "Yet natural ecosystems are often managed reactively, receiving attention only when degradation becomes visibly severe. What if we applied the same strategic discipline to natural infrastructure that we apply to engineered infrastructure? This would require integrating ecosystem health into national asset management, infrastructure planning and investment decisions.",
-     "Restoration and conservation remain essential, but prevention must receive equal strategic attention. Ultimately, the question is not simply how much we are willing to invest in protecting nature. It is whether we fully understand the economic and societal consequences of allowing natural systems to deteriorate. The next generation of infrastructure planning must recognise that protecting nature is not separate from protecting prosperity. Because some of the most important assets a nation possesses were never constructed."
-    ],
-    "quote": "Some of the most important assets a nation possesses were never constructed. They evolved over thousands of years — and they are natural infrastructure.",
-    "frameworksLabel": "Lenses",
-    "frameworks": [
-     {
-      "label": "Measure",
-      "sub": "ecological health"
-     },
-     {
-      "label": "Monitor",
-      "sub": "early deterioration"
-     },
-     {
-      "label": "Assign",
-      "sub": "a responsible owner"
-     }
-    ],
-    "takeaways": [
-     "Treat ecosystem health as an asset condition.",
-     "Monitor and act before severe degradation.",
-     "Give each critical asset a clear owner."
-    ]
-   },
-   {
-    "num": "05",
-    "section": "Leadership Practice",
-    "title": "The Access Test",
-    "inBrief": "Proposed exercise based on October's housing and food security articles.",
-    "intro": [
-     "Make missing evidence visible. Check access for the most affected. Record what would change your recommendation."
-    ],
-    "vs": {
-     "leftLabel": "Before the Decision",
-     "leftSub": "Identify the evidence gap",
-     "rightLabel": "After the Decision",
-     "rightSub": "Check access for the most affected"
-    },
-    "contHeading": "Record what would change your recommendation",
-    "cont": [
-     "Document what evidence is missing, who is most affected by the decision, and what new information would change your recommendation."
-    ],
-    "quote": "Make missing evidence visible.",
-    "frameworksLabel": "Steps",
-    "frameworks": [
-     {
-      "label": "Make",
-      "sub": "missing evidence visible"
-     },
-     {
-      "label": "Check",
-      "sub": "access for the most affected"
-     },
-     {
-      "label": "Record",
-      "sub": "what would change your recommendation"
-     }
-    ],
-    "takeaways": [
-     "Identify the evidence gap.",
-     "Check access for the most affected.",
-     "Record what would change your recommendation."
-    ]
-   },
-   {
-    "num": "06",
-    "section": "Leadership Practice",
-    "title": "The Incentive Check",
-    "inBrief": "Proposed exercise based on October's biodiversity economics and natural infrastructure articles.",
-    "intro": [
-     "Tie funding to an observable condition. Name the responsible team and review date. Keep economic and ecological aims aligned."
-    ],
-    "vs": {
-     "leftLabel": "Before the Decision",
-     "leftSub": "Tie funding to an observable condition",
-     "rightLabel": "After the Decision",
-     "rightSub": "Name the responsible team and review date"
-    },
-    "contHeading": "Keep economic and ecological aims aligned",
-    "cont": [
-     "Review what public finance rewards. Include natural assets in investment decisions. Align finance with conservation outcomes."
-    ],
-    "quote": "Tie funding to an observable condition.",
-    "frameworksLabel": "Steps",
-    "frameworks": [
-     {
-      "label": "Tie",
-      "sub": "funding to an observable condition"
-     },
-     {
-      "label": "Name",
-      "sub": "the responsible team and review date"
-     },
-     {
-      "label": "Keep",
-      "sub": "economic and ecological aims aligned"
-     }
-    ],
-    "takeaways": [
-     "Tie funding to an observable condition.",
-     "Name the responsible team and review date.",
-     "Keep economic and ecological aims aligned."
-    ]
-   }
-  ],
-  "lab": {
-   "title": "The Resilience Scorecard",
-   "subtitle": "Proposed review activity. Work through the hypothetical case, then compare your response with the discussion guide.",
-   "items": [
-    "Hypothetical case: A city proposes homes and a food hub beside a natural coastal buffer.",
-    "For one year, the team can fund either a preventive redesign or downstream remediation.",
-    "Name one test each for home access, food supply and the buffer’s health.",
-    "Pick and defend a choice. Name a funding condition, who monitors it and what evidence could reverse your choice."
-   ],
-   "guide": "Discussion guide: Test access to jobs, backup food routes and the buffer’s health. Prefer redesign if it protects the buffer and keeps homes accessible. Set a safeguard and review date."
-  }
- }
 ]

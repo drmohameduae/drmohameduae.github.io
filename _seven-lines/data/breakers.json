@@ -1,124 +1,326 @@
 {
- "breakers": [
-  {
-   "id": "ibn-khaldun-injustice",
-   "arabic": "الظلمُ مؤسِّسُ العمرانِ خراب",
-   "english": "Injustice is the ruin of civilisation.",
-   "attribution": "Ibn Khaldun",
-   "attributionArabic": "ابن خلدون",
-   "era": "1332–1406",
-   "variant": "ornament"
+  "schemaVersion": 1,
+  "locales": [
+    "en",
+    "ar",
+    "fr",
+    "es",
+    "ru",
+    "zh"
+  ],
+  "editorialNotes": {
+    "en": "Translations are prepared for this edition unless a source-language wording is identified. Religious quotations are cited to their textual source; literary translations are not presented as canonical scripture.",
+    "ar": "أُعدّت الترجمات لهذه الطبعة ما لم يُذكر أنها نصٌّ بلغة المصدر. تُوثَّق الاقتباسات الدينية بمراجعها، ولا تُقدَّم الترجمات الأدبية بوصفها نصوصاً دينية معتمدة.",
+    "fr": "Les traductions sont préparées pour cette édition, sauf lorsqu’un texte dans la langue source est indiqué. Les citations religieuses renvoient à leur source ; les traductions littéraires ne constituent pas des textes canoniques.",
+    "es": "Las traducciones se han preparado para esta edición, salvo que se indique un texto en su lengua de origen. Las citas religiosas remiten a su fuente; las traducciones literarias no se presentan como textos canónicos.",
+    "ru": "Переводы подготовлены для этого издания, кроме отмеченных текстов на языке источника. Религиозные цитаты снабжены ссылками; литературные переводы не выдаются за канонические тексты.",
+    "zh": "除注明为来源语言原文者外，译文均为本刊编译。宗教引语注明文献出处；文学译文不作为权威经文译本。"
   },
-  {
-   "id": "ali-knowledge-wealth",
-   "arabic": "العلمُ خيرٌ من المال، العلمُ يحرسُك وأنتَ تحرسُ المال",
-   "english": "Knowledge is better than wealth: knowledge guards you, while you must guard your wealth.",
-   "attribution": "Imam Ali ibn Abi Talib",
-   "attributionArabic": "الإمام علي بن أبي طالب",
-   "era": "601–661",
-   "variant": "ledger"
-  },
-  {
-   "id": "zayed-knowledge",
-   "arabic": "ما بنى أوطانَنا إلا العلم",
-   "english": "Nothing has built our nation but knowledge.",
-   "attribution": "Sheikh Zayed bin Sultan Al Nahyan",
-   "attributionArabic": "الشيخ زايد بن سلطان آل نهيان",
-   "era": "1918–2004",
-   "variant": "split",
-   "image": "/images/dunes_sky.jpg",
-   "caption": "The dunes of the Emirates at first light",
-   "captionArabic": "كثبان الإمارات عند أول النهار"
-  },
-  {
-   "id": "mutanabbi-resolve",
-   "arabic": "على قَدْرِ أهلِ العزمِ تأتي العزائم",
-   "english": "Great deeds come to the measure of great resolve.",
-   "attribution": "Al-Mutanabbi",
-   "attributionArabic": "المتنبي",
-   "era": "915–965",
-   "variant": "ornament"
-  },
-  {
-   "id": "umar-account",
-   "arabic": "حاسِبوا أنفسَكم قبل أن تُحاسَبوا",
-   "english": "Take account of yourselves before you are called to account.",
-   "attribution": "Umar ibn al-Khattab",
-   "attributionArabic": "عمر بن الخطاب",
-   "era": "586–644",
-   "variant": "ledger"
-  },
-  {
-   "id": "ibn-khaldun-time",
-   "arabic": "الجغرافيا عالمٌ، والتاريخ زمان، والإنسان بينهما",
-   "english": "Geography is space, history is time, and man stands between them.",
-   "attribution": "Ibn Khaldun",
-   "attributionArabic": "ابن خلدون",
-   "era": "1332–1406",
-   "variant": "split",
-   "image": "/images/desert_road_palms.jpg",
-   "caption": "The road through the palms — geography as destiny",
-   "captionArabic": "الطريق عبر النخيل — الجغرافيا مصير"
-  },
-  {
-   "id": "proverb-youth",
-   "arabic": "العلمُ في الصِّغَرِ كالنقشِ على الحجر",
-   "english": "Learning in youth is like engraving upon stone.",
-   "attribution": "Arab proverb",
-   "attributionArabic": "حكمة عربية",
-   "era": "",
-   "variant": "ornament"
-  },
-  {
-   "id": "proverb-friend",
-   "arabic": "الصديقُ وقتَ الضيق",
-   "english": "A friend is proven in times of hardship.",
-   "attribution": "Arab proverb",
-   "attributionArabic": "حكمة عربية",
-   "era": "",
-   "variant": "ledger"
-  },
-  {
-   "id": "gibran-shame",
-   "arabic": "وإذا لم تستحِ فاصنع ما شئت",
-   "english": "If you feel no shame, then do as you wish.",
-   "attribution": "Khalil Gibran",
-   "attributionArabic": "جبران خليل جبران",
-   "era": "1883–1931",
-   "variant": "split",
-   "image": "/images/city_skyline.jpg",
-   "caption": "The skyline rises — character rises first",
-   "captionArabic": "الأفق يعلو — والأخلاق أولاً"
-  },
-  {
-   "id": "mutanabbi-ambition",
-   "arabic": "أعزُّ مكانٍ في الدنى سرجُ سابحٍ وخيرُ جليسٍ في الزمانِ كتابُ",
-   "english": "The noblest place on earth is a rider’s saddle, and the finest companion of our days is a book.",
-   "attribution": "Al-Mutanabbi",
-   "attributionArabic": "المتنبي",
-   "era": "915–965",
-   "variant": "ornament"
-  },
-  {
-   "id": "sheikh-rashid-work",
-   "arabic": "ما أعطى الإنسانُ شيئاً أفضلَ من عملِ يدِه",
-   "english": "A person has given nothing better than the work of their own hands.",
-   "attribution": "Sheikh Rashid bin Saeed Al Maktoum",
-   "attributionArabic": "الشيخ راشد بن سعيد آل مكتوم",
-   "era": "1912–1990",
-   "variant": "split",
-   "image": "/images/hero_palms_road.jpg",
-   "caption": "The road built by hands, lined with life",
-   "captionArabic": "طريق بُني بالأيدي وازدُرع بالحياة"
-  },
-  {
-   "id": "ibn-sina-medicine",
-   "arabic": "الطبُّ إزالةُ المرضِ بالأدوية",
-   "english": "Medicine is the removal of illness by remedies — and the removal of ignorance is knowledge.",
-   "attribution": "Ibn Sina (Avicenna)",
-   "attributionArabic": "ابن سينا",
-   "era": "980–1037",
-   "variant": "ledger"
-  }
- ]
+  "quotes": [
+    {
+      "id": "prophet-muhammad-self-control",
+      "theme": "self-control",
+      "variant": "ornament",
+      "text": {
+        "en": "The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger.",
+        "ar": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ.",
+        "fr": "Le fort n’est pas celui qui terrasse les autres par sa force, mais celui qui se maîtrise lorsqu’il est en colère.",
+        "es": "Fuerte no es quien vence a otros por su fuerza, sino quien se domina cuando está enojado.",
+        "ru": "Силен не тот, кто побеждает других силой, а тот, кто владеет собой в гневе.",
+        "zh": "强者并非凭力气战胜他人的人，而是在愤怒时能够克制自己的人。"
+      },
+      "attribution": {
+        "en": "Prophet Muhammad ﷺ",
+        "ar": "النبي محمد ﷺ",
+        "fr": "Le prophète Muhammad ﷺ",
+        "es": "El profeta Muhammad ﷺ",
+        "ru": "Пророк Мухаммад ﷺ",
+        "zh": "先知穆罕默德 ﷺ"
+      },
+      "source": {
+        "title": "Sahih al-Bukhari 6114",
+        "url": "https://sunnah.com/bukhari:6114",
+        "locator": "Book 78, Hadith 141; narrated by Abu Huraira",
+        "sourceLanguage": "ar",
+        "verbatimLocales": [
+          "ar",
+          "en"
+        ],
+        "translationLocales": [
+          "fr",
+          "es",
+          "ru",
+          "zh"
+        ],
+        "verification": "Arabic matn and published English translation checked directly.",
+        "webRefs": [
+          "turn379190845view1"
+        ],
+        "englishWordCount": 25,
+        "displayLabel": {
+          "en": "Sahih al-Bukhari 6114 · Book 78, Hadith 141",
+          "ar": "صحيح البخاري ٦١١٤ · كتاب الأدب، الحديث ١٤١",
+          "fr": "Sahih al-Bukhari 6114 · Livre 78, hadith 141",
+          "es": "Sahih al-Bujari 6114 · Libro 78, hadiz 141",
+          "ru": "Сахих аль-Бухари, 6114 · Книга 78, хадис 141",
+          "zh": "《布哈里圣训实录》6114 · 第78卷，第141则"
+        }
+      },
+      "designNote": "Typography or abstract ornament only; no depiction of the Prophet."
+    },
+    {
+      "id": "prophet-jesus-peacemakers",
+      "theme": "peace",
+      "variant": "ornament",
+      "text": {
+        "en": "Blessed are the peacemakers, for they will be called children of God.",
+        "ar": "طوبى لصانعي السلام، فإنهم سيُدعون أبناء الله.",
+        "fr": "Heureux ceux qui œuvrent pour la paix, car ils seront appelés enfants de Dieu.",
+        "es": "Bienaventurados quienes trabajan por la paz, porque serán llamados hijos de Dios.",
+        "ru": "Блаженны миротворцы, ибо они будут названы детьми Божьими.",
+        "zh": "缔造和平的人有福了，因为他们将被称为上帝的儿女。"
+      },
+      "attribution": {
+        "en": "Prophet Jesus, Son of Mary, Peace Be Upon Him",
+        "ar": "النبي عيسى بن مريم عليه السلام",
+        "fr": "Le prophète Jésus, fils de Marie, que la paix soit sur lui",
+        "es": "El profeta Jesús, hijo de María, la paz sea con él",
+        "ru": "Пророк Иисус, сын Марии, мир ему",
+        "zh": "先知耶稣，玛利亚之子，愿他平安"
+      },
+      "source": {
+        "title": "Gospel of Matthew 5:9",
+        "url": "https://bible.usccb.org/bible/matthew/5",
+        "locator": "Matthew 5:9; New American Bible, Revised Edition, as published by USCCB",
+        "sourceLanguage": "grc",
+        "verbatimLocales": [
+          "en"
+        ],
+        "translationLocales": [
+          "ar",
+          "fr",
+          "es",
+          "ru",
+          "zh"
+        ],
+        "verification": "English verse checked directly. Other languages are editorial translations of the cited verse, not quotations from named Bible translations.",
+        "webRefs": [
+          "turn379190845view3"
+        ],
+        "englishWordCount": 12,
+        "displayLabel": {
+          "en": "Gospel of Matthew 5:9",
+          "ar": "إنجيل متى ٥:٩",
+          "fr": "Évangile selon Matthieu 5,9",
+          "es": "Evangelio según Mateo 5:9",
+          "ru": "Евангелие от Матфея 5:9",
+          "zh": "《马太福音》5:9"
+        }
+      },
+      "designNote": "Typography or abstract light only; no depiction of the Prophet. Use the user's exact English and Arabic attributions."
+    },
+    {
+      "id": "churchill-responsibility",
+      "theme": "responsibility",
+      "variant": "ledger",
+      "text": {
+        "en": "The price of greatness is responsibility.",
+        "ar": "ثمن العظمة هو المسؤولية.",
+        "fr": "Le prix de la grandeur, c’est la responsabilité.",
+        "es": "El precio de la grandeza es la responsabilidad.",
+        "ru": "Цена величия — ответственность.",
+        "zh": "伟大的代价是责任。"
+      },
+      "attribution": {
+        "en": "Winston Churchill",
+        "ar": "ونستون تشرشل",
+        "fr": "Winston Churchill",
+        "es": "Winston Churchill",
+        "ru": "Уинстон Черчилль",
+        "zh": "温斯顿·丘吉尔"
+      },
+      "source": {
+        "title": "Harvard address, 6 September 1943",
+        "url": "https://winstonchurchill.org/resources/speeches/1941-1945-war-leader/the-gift-of-a-common-tongue/",
+        "locator": "The Gift of a Common Tongue; International Churchill Society transcript",
+        "sourceLanguage": "en",
+        "verbatimLocales": [
+          "en"
+        ],
+        "translationLocales": [
+          "ar",
+          "fr",
+          "es",
+          "ru",
+          "zh"
+        ],
+        "verification": "Quote and speech date checked directly in the archival transcript.",
+        "webRefs": [
+          "turn810617716view1"
+        ],
+        "englishWordCount": 6,
+        "displayLabel": {
+          "en": "Harvard address · 6 September 1943",
+          "ar": "خطاب جامعة هارفارد · ٦ سبتمبر ١٩٤٣",
+          "fr": "Discours à Harvard · 6 septembre 1943",
+          "es": "Discurso en Harvard · 6 de septiembre de 1943",
+          "ru": "Речь в Гарварде · 6 сентября 1943 года",
+          "zh": "哈佛大学演讲 · 1943年9月6日"
+        }
+      }
+    },
+    {
+      "id": "kennedy-public-service",
+      "theme": "service",
+      "variant": "split",
+      "text": {
+        "en": "Ask not what your country can do for you—ask what you can do for your country.",
+        "ar": "لا تسأل عمّا يمكن أن يقدّمه وطنك لك، بل اسأل عمّا يمكنك أن تقدّمه لوطنك.",
+        "fr": "Ne demandez pas ce que votre pays peut faire pour vous ; demandez ce que vous pouvez faire pour votre pays.",
+        "es": "No preguntes qué puede hacer tu país por ti; pregunta qué puedes hacer tú por tu país.",
+        "ru": "Не спрашивайте, что ваша страна может сделать для вас; спросите, что вы можете сделать для своей страны.",
+        "zh": "不要问你的国家能为你做什么，要问你能为你的国家做什么。"
+      },
+      "attribution": {
+        "en": "John F. Kennedy",
+        "ar": "جون إف. كينيدي",
+        "fr": "John F. Kennedy",
+        "es": "John F. Kennedy",
+        "ru": "Джон Ф. Кеннеди",
+        "zh": "约翰·F·肯尼迪"
+      },
+      "source": {
+        "title": "Inaugural address, 20 January 1961",
+        "url": "https://www.archives.gov/milestone-documents/president-john-f-kennedys-inaugural-address",
+        "locator": "U.S. National Archives transcript; closing appeal to American citizens",
+        "sourceLanguage": "en",
+        "verbatimLocales": [
+          "en"
+        ],
+        "translationLocales": [
+          "ar",
+          "fr",
+          "es",
+          "ru",
+          "zh"
+        ],
+        "verification": "Contiguous excerpt checked directly; initial capital and dash typography normalised.",
+        "webRefs": [
+          "turn315791726view1",
+          "turn802194950view1"
+        ],
+        "englishWordCount": 16,
+        "displayLabel": {
+          "en": "Inaugural address · 20 January 1961",
+          "ar": "خطاب التنصيب · ٢٠ يناير ١٩٦١",
+          "fr": "Discours d’investiture · 20 janvier 1961",
+          "es": "Discurso de investidura · 20 de enero de 1961",
+          "ru": "Инаугурационная речь · 20 января 1961 года",
+          "zh": "就职演说 · 1961年1月20日"
+        }
+      }
+    },
+    {
+      "id": "sadat-building-peace",
+      "theme": "peace",
+      "variant": "split",
+      "text": {
+        "en": "I come to you today on solid ground, to shape a new life, to establish peace.",
+        "ar": "ولقد جئت إليكم اليوم على قدمين ثابتتين، لكي نبني حياة جديدة، ولكي نقيم السلام.",
+        "fr": "Je viens à vous aujourd’hui d’un pas assuré, pour façonner une vie nouvelle, pour établir la paix.",
+        "es": "Hoy vengo ante ustedes con paso firme, para forjar una nueva vida, para establecer la paz.",
+        "ru": "Сегодня я прихожу к вам с твёрдой уверенностью, чтобы создать новую жизнь, чтобы установить мир.",
+        "zh": "今天，我坚定地来到你们面前，为了开创新的生活，为了建立和平。"
+      },
+      "attribution": {
+        "en": "Anwar Sadat",
+        "ar": "أنور السادات",
+        "fr": "Anouar el-Sadate",
+        "es": "Anwar el-Sadat",
+        "ru": "Анвар Садат",
+        "zh": "安瓦尔·萨达特"
+      },
+      "source": {
+        "title": "Address to the Knesset, 20 November 1977",
+        "url": "https://m.knesset.gov.il/EN/activity/Documents/SpeechPdf/sadat.pdf",
+        "arabicUrl": "https://m.knesset.gov.il/ar/about/documents/sadat_speech_arb.pdf",
+        "locator": "English official transcript, p. 1; Arabic original as indexed from the Knesset archive",
+        "sourceLanguage": "ar",
+        "verbatimLocales": [
+          "ar",
+          "en"
+        ],
+        "translationLocales": [
+          "fr",
+          "es",
+          "ru",
+          "zh"
+        ],
+        "verification": "English verified in the official PDF. Arabic wording verified in the indexed official Arabic PDF; the Arabic PDF direct fetch was unavailable.",
+        "webRefs": [
+          "turn315791726view0",
+          "turn802194950search8"
+        ],
+        "englishWordCount": 16,
+        "displayLabel": {
+          "en": "Address to the Knesset · 20 November 1977",
+          "ar": "خطاب الكنيست · ٢٠ نوفمبر ١٩٧٧",
+          "fr": "Discours à la Knesset · 20 novembre 1977",
+          "es": "Discurso ante la Knéset · 20 de noviembre de 1977",
+          "ru": "Выступление в Кнессете · 20 ноября 1977 года",
+          "zh": "以色列议会演讲 · 1977年11月20日"
+        }
+      }
+    },
+    {
+      "id": "gandhi-lightening-burdens",
+      "theme": "compassion",
+      "variant": "ledger",
+      "text": {
+        "en": "No man is worthless who lightens anyone's burden even the least bit.",
+        "ar": "ليس عديمَ القيمة مَن يخفّف عن أيّ إنسان عبئه، ولو بأقلّ قدر.",
+        "fr": "Nul n’est sans valeur s’il allège, ne serait-ce qu’un peu, le fardeau de quelqu’un.",
+        "es": "Nadie carece de valor si alivia, aunque sea un poco, la carga de otra persona.",
+        "ru": "Нельзя считать никчёмным того, кто хотя бы немного облегчает чьё-то бремя.",
+        "zh": "只要能为他人减轻哪怕一点负担，一个人就并非毫无价值。"
+      },
+      "attribution": {
+        "en": "Mahatma Gandhi",
+        "ar": "المهاتما غاندي",
+        "fr": "Mahatma Gandhi",
+        "es": "Mahatma Gandhi",
+        "ru": "Махатма Ганди",
+        "zh": "圣雄甘地"
+      },
+      "source": {
+        "title": "Collected Works of Mahatma Gandhi, vol. 79, p. 428",
+        "url": "https://www.gandhiheritageportal.org/gandhi-quotes?page=7&quotesearch=",
+        "locator": "30 January 1945; Gandhi Heritage Portal, Sabarmati Ashram Preservation and Memorial Trust",
+        "sourceLanguage": "en",
+        "verbatimLocales": [
+          "en"
+        ],
+        "translationLocales": [
+          "ar",
+          "fr",
+          "es",
+          "ru",
+          "zh"
+        ],
+        "verification": "Published English wording and CWMG date, volume and page checked directly.",
+        "webRefs": [
+          "turn379190845view2"
+        ],
+        "englishWordCount": 12,
+        "displayLabel": {
+          "en": "Collected Works · Volume 79, page 428 · 30 January 1945",
+          "ar": "الأعمال الكاملة · المجلد ٧٩، الصفحة ٤٢٨ · ٣٠ يناير ١٩٤٥",
+          "fr": "Œuvres complètes · Volume 79, page 428 · 30 janvier 1945",
+          "es": "Obras completas · Volumen 79, página 428 · 30 de enero de 1945",
+          "ru": "Собрание сочинений · Том 79, с. 428 · 30 января 1945 года",
+          "zh": "《甘地全集》· 第79卷，第428页 · 1945年1月30日"
+        }
+      }
+    }
+  ]
 }
